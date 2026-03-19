@@ -1,4 +1,4 @@
-baseURL = 'https://nickyfoto.github.io/book/'
+baseURL = 'https://macworks.dev/'
 title = 'My Book'
 theme = 'hugo-book'
 
