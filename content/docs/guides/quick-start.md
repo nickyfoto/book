@@ -33,7 +33,7 @@ my-tool dev
 Test your route:
 
 ```bash
-curl https://localhost:3000
+curl http://localhost:3000
 # {"message":"Hello, world!"}
 ```
 
