@@ -43,7 +43,7 @@ Start the development server:
 my-tool dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) — you should see the welcome screen.
+Open [https://localhost:3000](https://localhost:3000) — you should see the welcome screen.
 
 ## Next Steps
 

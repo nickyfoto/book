@@ -15,7 +15,7 @@ cd your-repo-name
 hugo server
 ```
 
-Open [http://localhost:1313](http://localhost:1313) in your browser. The site reloads automatically on file changes.
+Open [https://localhost:1313](https://localhost:1313) in your browser. The site reloads automatically on file changes.
 
 ### If you already cloned without `--recurse-submodules`
 
