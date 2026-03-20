@@ -1,6 +1,6 @@
 ---
-title: Guides
-weight: 3
+title: Engineering Blogs
+weight: 1
 ---
 
 # Guides

@@ -48,4 +48,3 @@ Open [http://localhost:3000](http://localhost:3000) — you should see the welco
 ## Next Steps
 
 - Read [Core Concepts]({{< relref "/docs/apple" >}}) to understand how things fit together
-- Follow the [Quick Start Guide]({{< relref "/docs/guides/quick-start" >}}) for a hands-on walkthrough
