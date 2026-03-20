@@ -45,6 +45,34 @@ weight: 10
 ---
 ```
 
+## Creating a New Post
+
+Posts live in `content/posts/` and appear in the **Blog** link in the site footer nav.
+
+Create a new file:
+
+```bash
+hugo new content posts/my-post-title.md
+```
+
+Or create the file manually. Every post needs this front matter:
+
+```markdown
+---
+title: "My Post Title"
+date: 2026-03-19
+description: "A short summary shown in listings."
+tags: ["tag1", "tag2"]
+categories: ["General"]
+---
+
+Your content here.
+```
+
+- `date` controls sort order — newest first
+- `tags` and `categories` are optional but help with discovery
+- Omit `draft: true` (or set it to `false`) for the post to be published
+
 ## Deployment
 
 Pushing to `main` triggers the GitHub Actions workflow which builds and deploys to GitHub Pages automatically.
