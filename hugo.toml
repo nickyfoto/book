@@ -11,11 +11,6 @@ enableGitInfo = false
 languageName = 'English'
 weight = 1
 
-[languages.zh]
-languageName = '中文'
-contentDir = 'content.zh'
-weight = 2
-
 [markup]
 [markup.goldmark.renderer]
 unsafe = true

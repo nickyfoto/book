@@ -1,9 +1,9 @@
 ---
-title: 2026-03-16
+title: Engineer Reads
 weight: 2
 ---
 
-# Engineering Reads — 2026-03-16
+# Engineer Reads — 2026-03-16
 
 ## The Big Idea
 
