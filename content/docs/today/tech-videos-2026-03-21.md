@@ -1,5 +1,5 @@
 ---
-title: Youtube Tech Channels
+title: Tech@Youtube
 weight: 2
 ---
 

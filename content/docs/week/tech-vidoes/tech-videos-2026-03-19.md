@@ -1,5 +1,5 @@
 ---
-title: Tech Videos Highlights 2026-03-19
+title: 03-19
 weight: 2
 ---
 
