@@ -1,5 +1,5 @@
 ---
-title: AI@X
-weight: 4
+title: Tech@Youtube
+weight: 3
 bookCollapseSection: true
 ---

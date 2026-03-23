@@ -1,5 +1,5 @@
 ---
-title: AI@X
-weight: 4
+title: Engineer Blogs
+weight: 1
 bookCollapseSection: true
 ---
