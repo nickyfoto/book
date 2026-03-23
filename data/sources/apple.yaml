@@ -1,0 +1,22 @@
+- name: Apple World Today
+  url: https://appleworld.today/feed/
+- name: iDownloadBlog.com
+  url: https://www.idownloadblog.com/feed/
+- name: iLounge | All Things iPod, iPhone, iPad and Beyond
+  url: https://www.ilounge.com/feed
+- name: MacRumors
+  url: http://feeds.macrumors.com/MacRumors-Front
+- name: MacSparky
+  url: https://www.macsparky.com/feed/
+- name: MacStories
+  url: https://www.macstories.net/feed/
+- name: Macworld Mac Gems
+  url: https://www.macworld.com/feed
+- name: News and Updates - Apple Developer
+  url: https://developer.apple.com/news/rss/news.rss
+- name: OS X Daily
+  url: http://feeds.feedburner.com/osxdaily
+- name: Other World Computing Blog
+  url: http://feeds.feedburner.com/owc
+- name: "TidBITS: Apple News for the Rest of Us"
+  url: https://tidbits.com/feed/

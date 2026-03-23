@@ -1,0 +1,14 @@
+{{ $category := .Get 0 }}
+{{ $sources := index site.Data.sources $category }}
+{{ if $sources }}
+<details>
+<summary>Sources</summary>
+<div class="markdown-inner">
+<ul>
+{{ range $sources }}
+<li><a href="{{ .url }}">{{ .name }}</a></li>
+{{ end }}
+</ul>
+</div>
+</details>
+{{ end }}

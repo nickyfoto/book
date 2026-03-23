@@ -1,0 +1,66 @@
+- name: AI Engineer
+  url: https://www.youtube.com/playlist?list=UULKPca3kwwd-B59HNr-_lvA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: All-In Podcast
+  url: https://www.youtube.com/playlist?list=UUESLZhusAkFfsNsApnjF_Cg&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Andrej Karpathy
+  url: https://www.youtube.com/playlist?list=UUXUPKJO5MZQN11PqgIvyuvQ&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Anthropic
+  url: https://www.youtube.com/playlist?list=UUrDwWp7EBBv4NwvScIpBDOA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Apple
+  url: https://www.youtube.com/playlist?list=UUE_M8A5yxnLfW0KghEeajjw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Apple Developer
+  url: https://www.youtube.com/playlist?list=UUwrVwiJllwhJUKXKmjLcckQ&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: AWS Events
+  url: https://www.youtube.com/playlist?list=UUdoadna9HFHsxXWhafhNvKw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: ByteByteGo
+  url: https://www.youtube.com/playlist?list=UUZgt6AzoyjslHTC9dz0UoTw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Computerphile
+  url: https://www.youtube.com/playlist?list=UU9-y-6csu5WGm29I7JiwpnA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Cursor
+  url: https://www.youtube.com/playlist?list=UU6YYHJzM6PhZ2Yey9BQiUaw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Dwarkesh Patel
+  url: https://www.youtube.com/playlist?list=UUXl4i9dYBrFOabk0xGmbkRA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: EO
+  url: https://www.youtube.com/playlist?list=UUlWTCPVi-AU9TeCN6FkGARg&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Fireship
+  url: https://www.youtube.com/playlist?list=UUsBjURrPoezykLs9EqgamOA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: GitHub
+  url: https://www.youtube.com/playlist?list=UU7c3Kb6jYCRj4JOHHZTxKsQ&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Google Cloud Tech
+  url: https://www.youtube.com/playlist?list=UUJS9pqu9BzkAMNTmzNMNhvg&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Google DeepMind
+  url: https://www.youtube.com/playlist?list=UUP7jMXSY2xbc3KCAE0MHQ-A&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Google for Developers
+  url: https://www.youtube.com/playlist?list=UU_x5XG1OV2P6uZZ5FSM9Ttw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Hung-yi Lee
+  url: https://www.youtube.com/playlist?list=UU2ggjtuuWvxrHHHiaDH1dlQ&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Lenny's Podcast
+  url: https://www.youtube.com/playlist?list=UU6t1O76G0jYXOAoYCm153dA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Lex Clips
+  url: https://www.youtube.com/playlist?list=UUJIfeSCssxSC_Dhc5s7woww&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Lex Fridman
+  url: https://www.youtube.com/playlist?list=UUSHZKyawb77ixDdsGog4iWA&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Life at Google
+  url: https://www.youtube.com/playlist?list=UUWIzrKzN4KY6BPU8hsk880Q&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Marques Brownlee
+  url: https://www.youtube.com/playlist?list=UUBJycsmduvYEL83R_U4JriQ&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Microsoft
+  url: https://www.youtube.com/playlist?list=UUFtEEv80fQVKkD4h1PF-Xqw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: "No Priors: AI, Machine Learning, Tech, & Startups"
+  url: https://www.youtube.com/playlist?list=UUSI7h9hydQ40K5MJHnCrQvw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Numberphile
+  url: https://www.youtube.com/playlist?list=UUoxcjq-8xIDTYp3uz647V5A&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: NVIDIA
+  url: https://www.youtube.com/playlist?list=UUHuiy8bXnmK5nisYHUd1J5g&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: OpenAI
+  url: https://www.youtube.com/playlist?list=UUXZCJLdBC09xxGZ6gcdrc6A&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Perplexity
+  url: https://www.youtube.com/playlist?list=UUYqxnCFtaC4-iC_bwt2bRLg&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Quanta Magazine
+  url: https://www.youtube.com/playlist?list=UUTpmmkp1E4nmZqWPS-dl5bg&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Slack
+  url: https://www.youtube.com/playlist?list=UUY3YECgeBcLCzIrFLP4gblw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: The Pragmatic Engineer
+  url: https://www.youtube.com/playlist?list=UUPbwhExawYrn9xxI21TFfyw&bq_guid_format=yt%3Avideo%3AVIDEO_ID
+- name: Visual Studio Code
+  url: https://www.youtube.com/playlist?list=UUs5Y5_7XK8HLDX0SLNwkd3w&bq_guid_format=yt%3Avideo%3AVIDEO_ID

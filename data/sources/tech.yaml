@@ -1,0 +1,62 @@
+- name: Airbnb Engineering
+  url: https://medium.com/feed/airbnb-engineering
+- name: Amazon AWS AI Blog
+  url: https://aws.amazon.com/blogs/machine-learning/feed/
+- name: AWS Architecture Blog
+  url: https://aws.amazon.com/cn/blogs/architecture/feed/
+- name: AWS Open Source Blog
+  url: https://aws.amazon.com/blogs/opensource/feed/
+- name: BrettTerpstra.com
+  url: https://brett.trpstra.net/brettterpstra
+- name: ByteByteGo
+  url: https://blog.bytebytego.com/feed
+- name: CloudFlare
+  url: https://blog.cloudflare.com/rss/
+- name: Dropbox Tech Blog
+  url: https://dropbox.tech/feed
+- name: Facebook Code
+  url: https://engineering.fb.com/feed/
+- name: GitHub Engineering
+  url: https://github.blog/engineering.atom
+- name: Google AI Blog
+  url: https://blog.google/innovation-and-ai/technology/ai/rss/
+- name: Google DeepMind
+  url: https://deepmind.google/blog/rss.xml
+- name: Google Open Source Blog
+  url: http://feeds.feedburner.com/GoogleOpenSourceBlog
+- name: HashiCorp Blog
+  url: https://www.hashicorp.com/blog/feed.xml
+- name: InfoQ
+  url: https://feed.infoq.com/?token=XQ47eEiAJqUtN8043NhEqJ6kZB8XallO
+- name: Spotify Engineering
+  url: https://engineering.atspotify.com/feed/
+- name: Microsoft Research
+  url: https://www.microsoft.com/en-us/research/feed/
+- name: Mozilla Hacks
+  url: https://hacks.mozilla.org/feed/
+- name: Netflix Tech Blog
+  url: https://netflixtechblog.com/feed
+- name: NVIDIA Blog
+  url: http://feeds.feedburner.com/nvidiablog
+- name: O'Reilly Radar
+  url: http://feeds.feedburner.com/oreilly/radar/atom
+- name: OpenAI Blog
+  url: https://openai.com/news/rss.xml
+- name: SoundCloud Backstage Blog
+  url: https://developers.soundcloud.com/blog/blog.rss
+- name: Stripe Blog
+  url: https://stripe.com/blog/feed.rss
+- name: "The Batch | DeepLearning.AI | AI News & Insights"
+  url: https://rsshub.bestblogs.dev/deeplearning/the-batch
+- name: The Dropbox Blog
+  url: https://blog.dropbox.com/feed
+- name: The GitHub Blog
+  url: https://github.blog/feed/
+- name: The Netflix Tech Blog
+  url: https://medium.com/feed/netflix-techblog
+- name: The Official Microsoft Blog
+  url: https://blogs.microsoft.com/feed/
+- name: Vercel Blog
+  url: https://vercel.com/atom
+- name: Yelp Engineering and Product Blog
+  url: https://engineeringblog.yelp.com/feed.xml
