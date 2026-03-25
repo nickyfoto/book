@@ -1,7 +1,6 @@
 ---
-title: Youtube Tech Channels
-weight: 3
-url: /docs/tech-videos-2026-03-23/
+title: 2026-03-23
+weight: 1
 ---
 
 {{< sources "tech-videos" >}}
