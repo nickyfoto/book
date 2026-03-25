@@ -1,0 +1,33 @@
+---
+title: Bloomberg
+weight: 11
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-03-24
+
+## Lead Story
+Global markets and energy supply chains are facing extreme volatility as the US engages in a diplomatic push to end the war with Iran, even as Washington simultaneously deploys 2,000 more troops to the Middle East. The conflict has already triggered severe energy disruptions globally; Chevron is warning of an impending fuel crisis in California as state diesel prices top an unprecedented $7 a gallon, Australia is grappling with fuel shortages across hundreds of service stations, and Qatar's damaged LNG facilities have forced Airgas to curtail US helium shipments. While equities and gold have held onto gains amid hopes for a negotiated settlement, major Gulf states like Saudi Arabia and the UAE are reportedly losing patience and weighing military options if Tehran targets critical regional power and water infrastructure.
+
+## Markets & Economics
+* **[Bond Market Nears ‘Inflection Point’ After War-Related Selloff](https://www.bloomberg.com/news/articles/2026-03-24/bond-market-nears-inflection-point-after-war-related-selloff)**: Bond traders are reaching a critical inflection point, unwinding US futures positions following a steep war-related selloff, while mainland China surprisingly emerges as a debt-funding safe haven for foreign borrowers seeking markets insulated from the Middle East conflict.
+* **[Fed’s Barr Says Rates May Need to Hold Steady for ‘Some Time’](https://www.bloomberg.com/news/articles/2026-03-24/fed-s-barr-says-rates-may-need-to-hold-steady-for-some-time)**: Federal Reserve Governor Michael Barr warned that interest rates may need to remain steady for "some time" to combat persistent inflation that remains notably above the central bank's 2% goal, leaving markets vacillating wildly over the repricing of future rate cuts.
+* **[Private Credit Storm Lashes Father-Son Duo at Helm of Cliffwater](https://www.bloomberg.com/news/videos/2026-03-24/private-credit-storm-lashes-cliffwater-father-son-duo-video)**: The $1.5 trillion private credit market is facing a critical stress test as redemptions surge, putting particular pressure on Cliffwater's massive $33 billion Corporate Lending Fund as antsy investors dash for cash and risk triggering a vicious circle of markdowns.
+* **[Soaring Stocks Boosted Canada’s Crown-Jewel Pensions Amid PE Rut](https://www.bloomberg.com/news/articles/2026-03-24/soaring-stocks-boosted-canada-s-crown-jewel-pensions-amid-pe-rut)**: Canada's major pension funds, which have historically relied on illiquid private bets for yield, are currently seeing their superior returns driven heavily by surging public equity markets.
+
+## Business & Industries
+* **[Victory Capital Withdraws Bid for Janus Henderson](https://www.bloomberg.com/news/videos/2026-03-24/victory-capital-withdraws-bid-for-janus-henderson-video)**: Victory Capital Holdings has abruptly withdrawn its nearly $9 billion proposal to acquire Janus Henderson Group.
+* **[BYD’s ‘God’s Eye’ Flaws Expose Risk of Rush Into High-Tech Cars](https://www.bloomberg.com/news/articles/2026-03-24/byd-s-god-s-eye-flaws-expose-risk-of-rush-into-high-tech-cars)**: BYD Co.'s flagship 1.1 million-yuan Yangwang U8 SUV is facing intense consumer scrutiny after flaws in its highly touted "God's Eye" semi-autonomous driving system exposed the risks of China's rapid rush to market with high-tech vehicles.
+* **[BHP Sees Potash Heading Toward Deficit as Demand Outpaces Supply](https://www.bloomberg.com/news/articles/2026-03-24/bhp-sees-potash-heading-toward-deficit-as-demand-outpaces-supply)**: BHP Group, the world's largest miner, is forecasting a global potash market deficit over the next decade as agricultural demand outpaces a supply chain increasingly strained by geopolitical risks.
+* **[Bain-Owned Tanabe Pharma Targets Global Deals To Fuel Growth](https://www.bloomberg.com/news/articles/2026-03-24/bain-owned-tanabe-pharma-targets-global-deals-to-fuel-growth)**: Bain Capital-owned Tanabe Pharma Corp. is actively hunting for international licensing deals to import medicines into Japan, aiming to capitalize on unmet patient demand and easing domestic regulations.
+
+## Policy & World
+* **[What Trump Wants in Cuba](https://www.bloomberg.com/news/articles/2026-03-24/what-trump-taking-cuba-could-mean-big-take-podcast)**: The Trump administration is sparking geopolitical concerns over rhetoric regarding "taking" Cuba, as the island nation suffers from severe blackouts exacerbated by a US squeeze on oil.
+* **[Lula Readies $3 Billion Plan for Companies Hit by Tariffs, War](https://www.bloomberg.com/news/articles/2026-03-24/lula-readies-3-billion-plan-for-companies-hit-by-tariffs-war)**: Brazilian President Luiz Inacio Lula da Silva is preparing a $3 billion financing program to support domestic companies struggling with the dual economic shocks of US tariffs and the ongoing Middle East conflict.
+* **[Meloni Demands Minister Exit in Growing Post-Referendum Turmoil](https://www.bloomberg.com/news/articles/2026-03-24/italian-justice-official-resigns-after-meloni-s-referendum-loss)**: Italian Premier Giorgia Meloni demanded the resignation of Tourism Minister Daniela Santanche following a key referendum defeat, signaling growing turmoil within her government, while elsewhere in Europe, Danish Prime Minister Mette Frederiksen faces an unpredictably tight race for a third term.
+* **[Prominent Researcher Exits NASA, Citing US Attacks on Science](https://www.bloomberg.com/news/articles/2026-03-24/prominent-researcher-exits-nasa-citing-us-attacks-on-science)**: Climate expert Kate Marvel has exited NASA, pointing to structural "upheavals" and attacks on science under the Trump administration as the primary driver for her departure.
+
+## Opinion & Analysis
+* **[The US Is Recession-Free But Feels Miserable](https://www.bloomberg.com/opinion/newsletters/2026-03-24/the-us-economy-is-recession-free-but-feels-miserable)**: Bloomberg Opinion highlights the stark disconnect between macroeconomic data and consumer sentiment, arguing that despite avoiding a technical recession, the US economy feels miserable to many due to a rough job market and rearing inflation.
+* **[Rep. Auchincloss Slams War With Iran as 'Strategic Failure’](https://www.bloomberg.com/news/videos/2026-03-24/-strategic-failure-rep-auchincloss-slams-war-with-iran-video)**: Offering a stark counter-narrative to claims by former Commerce Secretary Wilbur Ross that the war puts US adversaries "on notice," Democratic Rep. Jake Auchincloss argues the conflict is a "strategic failure" headed for a quagmire, warning that US air dominance has been fully offset by Iran's sea denial advantages.

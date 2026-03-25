@@ -1,0 +1,8 @@
+- name: 12s / @12s
+  url: https://twitter.macworks.dev/12s/rss
+- name: r/seahawks
+  url: https://www.reddit.com/r/seahawks/.rss
+- name: Seattle Seahawks (Facebook)
+  url: https://www.facebook.com/84249551721
+- name: Seattle Seahawks / @Seahawks
+  url: https://twitter.macworks.dev/Seahawks/rss

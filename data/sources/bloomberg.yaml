@@ -1,0 +1,26 @@
+- name: Bloomberg.com
+  url: https://feeds.bloomberg.com/business/news.rss
+- name: Bloomberg Businessweek
+  url: https://feeds.bloomberg.com/businessweek/news.rss
+- name: Bloomberg CityLab
+  url: https://feeds.bloomberg.com/citylab/news.rss
+- name: Bloomberg Crypto
+  url: https://feeds.bloomberg.com/crypto/news.rss
+- name: Bloomberg Economics
+  url: https://feeds.bloomberg.com/economics/news.rss
+- name: Bloomberg Equality
+  url: https://feeds.bloomberg.com/equality/news.rss
+- name: Bloomberg Green
+  url: https://feeds.bloomberg.com/green/news.rss
+- name: Bloomberg Industries
+  url: https://feeds.bloomberg.com/industries/news.rss
+- name: Bloomberg Markets
+  url: https://feeds.bloomberg.com/markets/news.rss
+- name: Bloomberg Opinion
+  url: https://feeds.bloomberg.com/bview/news.rss
+- name: Bloomberg Politics
+  url: https://feeds.bloomberg.com/politics/news.rss
+- name: Bloomberg Pursuits
+  url: https://feeds.bloomberg.com/pursuits/news.rss
+- name: Bloomberg Wealth
+  url: https://feeds.bloomberg.com/wealth/news.rss

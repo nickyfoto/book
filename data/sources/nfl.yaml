@@ -1,0 +1,10 @@
+- name: NFL
+  url: https://www.youtube.com/@NFL
+- name: NFL Films
+  url: https://www.youtube.com/@NFLFilms
+- name: NFL on ESPN
+  url: https://www.youtube.com/@NFLonESPN
+- name: NFL on FOX
+  url: https://www.youtube.com/@NFLonFOX
+- name: NFL on NBC
+  url: https://www.youtube.com/@NFLonNBC
