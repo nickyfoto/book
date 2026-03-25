@@ -1,6 +1,7 @@
 ---
 title: 2026-03-16
 weight: 3
+url: /docs/engineer-blogs-2026-03-16/
 ---
 
 # Engineer Reads — 2026-03-16

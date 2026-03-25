@@ -1,6 +1,7 @@
 ---
 title: 2026-03-19
 weight: 4
+url: /docs/tech-videos-2026-03-19/
 ---
 
 # Tech Videos — 2026-03-19

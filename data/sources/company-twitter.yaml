@@ -1,0 +1,36 @@
+- name: AI at Meta / @AIatMeta
+  url: https://twitter.macworks.dev/AIatMeta/rss
+- name: Amazon Web Services / @awscloud
+  url: https://twitter.macworks.dev/awscloud/rss
+- name: Anthropic / @AnthropicAI
+  url: https://twitter.macworks.dev/AnthropicAI/rss
+- name: Cursor / @cursor_ai
+  url: https://twitter.macworks.dev/cursor_ai/rss
+- name: Google / @Google
+  url: https://twitter.macworks.dev/Google/rss
+- name: Google Cloud Tech / @GoogleCloudTech
+  url: https://twitter.macworks.dev/GoogleCloudTech/rss
+- name: Google DeepMind / @GoogleDeepMind
+  url: https://twitter.macworks.dev/GoogleDeepMind/rss
+- name: Grok / @grok
+  url: https://twitter.macworks.dev/grok/rss
+- name: Hugging Face / @huggingface
+  url: https://twitter.macworks.dev/huggingface/rss
+- name: Microsoft / @Microsoft
+  url: https://twitter.macworks.dev/microsoft/rss
+- name: OpenAI / @OpenAI
+  url: https://twitter.macworks.dev/OpenAI/rss
+- name: "OpenClaw\U0001F99E / @openclaw"
+  url: https://twitter.macworks.dev/openclaw/rss
+- name: Sequoia Capital / @sequoia
+  url: https://twitter.macworks.dev/sequoia/rss
+- name: Tesla / @Tesla
+  url: https://twitter.macworks.dev/tesla/rss
+- name: Twitter / @a16z
+  url: https://twitter.macworks.dev/a16z/rss
+- name: Waymo / @Waymo
+  url: https://twitter.macworks.dev/waymo/rss
+- name: xAI / @xai
+  url: https://twitter.macworks.dev/xai/rss
+- name: Y Combinator / @ycombinator
+  url: https://twitter.macworks.dev/ycombinator/rss
