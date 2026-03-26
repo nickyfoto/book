@@ -1,6 +1,6 @@
 ---
-title: Company@X
-weight: 8
+title: 2026-03-24
+weight: 1
 ---
 
 {{< sources "company-twitter" >}}
