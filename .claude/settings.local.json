@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo version:*)",
+      "Bash(hugo new:*)",
+      "Bash(git init:*)",
+      "Bash(git submodule:*)",
+      "Bash(hugo --minify)",
+      "Bash(gh auth:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)",
+      "Bash(git push:*)",
+      "Bash(git rm:*)",
+      "WebSearch",
+      "Bash(curl -s https://api.github.com/repos/peaceiris/actions-hugo/releases/latest)",
+      "WebFetch(domain:github.com)",
+      "Bash(rm -rf public resources)",
+      "Bash(hugo)"
+    ]
+  }
+}
