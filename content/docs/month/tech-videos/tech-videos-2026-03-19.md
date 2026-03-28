@@ -1,5 +1,5 @@
 ---
-title: 2026-03-19
+title: Youtube Tech Channels
 weight: 8
 url: /docs/tech-videos-2026-03-19/
 ---
