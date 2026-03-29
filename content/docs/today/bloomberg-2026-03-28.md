@@ -1,0 +1,34 @@
+---
+title: Bloomberg
+weight: 11
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-03-28
+
+## Lead Story
+The month-long US-Iran war is severely escalating as Iran-backed Houthi militants officially entered the fray, launching ballistic missiles at Israel and threatening to further destabilize global energy markets. The geopolitical fallout is crippling the region's infrastructure, prompting the International Maritime Organization to negotiate evacuation corridors for 20,000 stranded seafarers near the Strait of Hormuz, while Emirates Global Aluminium reported significant drone and missile damage to its Al Taweelah smelter in Abu Dhabi.
+
+## Markets & Economics
+* **[Why Private Credit Is Facing a Sudden Investor Exodus](https://www.bloomberg.com/news/articles/2026-03-28/why-investors-are-rushing-to-exit-the-private-credit-market-now)**: The $1.8 trillion private credit market is reeling from unprecedented redemption requests driven by the war in Iran, rising defaults, and tech sector weakness. In response, giants like Apollo Global Management, BlackRock, and Ares Management are exercising their rights to block investors from pulling all their money out.
+* **[US Job Market Likely Thawed Out This Month After February Chill](https://www.bloomberg.com/news/articles/2026-03-28/us-job-market-probably-thawed-out-this-month-after-february-chill)**: Following one of the sharpest pullbacks in payrolls since the pandemic, US employment rebounded in March. The bounce back extends a string of volatile economic readings.
+* **[Pakistan Gets Initial IMF Approval for $1.2 Billion of Loans](https://www.bloomberg.com/news/articles/2026-03-28/pakistan-gets-initial-imf-approval-for-1-2-billion-of-loans)**: The International Monetary Fund granted initial approval to unlock critical bailout funds for Pakistan. The $1.2 billion injection from a broader $7 billion program arrives as the Middle East conflict threatens to derail the nation's fragile recovery.
+* **[Dip-Buyers Arrive to Pull Gold Back From Brink of a Bear Market](https://www.bloomberg.com/news/articles/2026-03-28/dip-buyers-arrive-to-pull-gold-back-from-brink-of-a-bear-market)**: Opportunistic purchasers are stepping into the gold market following its steepest selloff in years. The renewed demand is helping to preserve bullion's record-breaking three-year bull run.
+
+## Business & Industries
+* **[Raiffeisen Buys BBVA’s Romanian Garanti Unit for €591 Million](https://www.bloomberg.com/news/articles/2026-03-28/raiffeisen-buys-bbva-s-romanian-garanti-unit-for-591-million)**: Shifting focus away from the difficulties plaguing its Russian operations, Raiffeisen Bank International AG agreed to acquire BBVA's Romanian unit for €591 million ($680 million). The deal will significantly bolster its footprint in Central and Eastern Europe. 
+* **[Inside ‘Project Eagle,’ JPMorgan’s High-Wire Act to Fund EA Deal](https://www.bloomberg.com/news/articles/2026-03-28/how-jpmorgan-pulled-off-ea-s-15-billion-debt-sale-amid-war)**: JPMorgan Chase successfully executed "Project Eagle," navigating intense market volatility to launch a massive debt sale for Electronic Arts. The final piece of the financing was timed perfectly with a social media post from Donald Trump.
+* **[SpaceX, Anthropic Eye IPOs](https://www.bloomberg.com/news/videos/2026-03-28/spacex-anthropic-eye-ipos-video)**: Space-exploration leader SpaceX and AI heavyweight Anthropic are weighing initial public offerings. The potential listings could signal a major revival for mega-cap tech debuts.
+* **[Nexstar-Tegna Merger Paused by Court Over DirecTV Suit](https://www.bloomberg.com/news/articles/2026-03-28/nexstar-tegna-merger-paused-by-court-over-directv-suit)**: A federal judge ordered Nexstar Media Group to pause its integration with rival Tegna Inc. The halt comes amid mounting antitrust challenges brought by DirecTV and several state attorneys general.
+
+## Policy & World
+* **[Lines Persist at Some Airports After Trump Signs TSA Pay Memo](https://www.bloomberg.com/news/articles/2026-03-28/lines-persist-at-some-airports-after-trump-signs-tsa-pay-memo)**: Severe security line delays—requiring travelers to arrive four hours early—persist at US airports as Congress remains gridlocked over Department of Homeland Security funding. The bottlenecks continue even after President Trump authorized TSA workers to be paid using 2025 tax and spending funds.
+* **[Germany to Review Bringing Back Reserve Coal Plants Online](https://www.bloomberg.com/news/articles/2026-03-27/germany-to-review-bringing-back-reserve-coal-plants-to-market)**: In direct response to the massive oil price shock triggered by the Middle East war, Germany is evaluating the reactivation of standby coal-fired power plants. Concurrently, Australia is introducing new powers to underwrite private sector fuel purchases to shore up its national supply.
+* **[India Plans 100 Airports, 200 Helipads to Boost Connectivity](https://www.bloomberg.com/news/articles/2026-03-28/india-plans-100-airports-200-helipads-to-boost-connectivity)**: Undeterred by warnings that the Iran war will widen the country's fiscal deficit, the Indian government is embarking on an aggressive infrastructure buildout. The plan will see 100 new airports and 200 helipads constructed in smaller cities to drive regional trade and tourism.
+* **[Mongolian PM Quits to End ‘Political Deadlock’ in Parliament](https://www.bloomberg.com/news/articles/2026-03-28/mongolian-pm-quits-to-end-political-deadlock-in-parliament)**: Mongolia’s prime minister abruptly stepped down on Friday. The resignation is an attempt to resolve a paralyzing political stalemate that has gripped the nation's parliament.
+
+## Opinion & Analysis
+* **[Buffett’s Zurich Acolyte Says Odds of Beating Market Keep Fading](https://www.bloomberg.com/news/articles/2026-03-28/buffett-s-zurich-acolyte-says-odds-of-beating-market-keep-fading)**: Hedge fund manager Guy Spier recently shuttered his fund, arguing that the traditional value-investing methodology championed by Warren Buffett and Charlie Munger no longer works in modern markets. 
+* **[HDFC Chair’s Departure Leaves India Inc. in the Lurch](https://www.bloomberg.com/opinion/newsletters/2026-03-28/hdfc-chair-s-departure-leaves-india-inc-in-the-lurch)**: A sudden, unexplained exit by an HDFC bank chairman is doing more than just spooking investors—it is heightening broad market fears and exposing deep vulnerabilities in Indian corporate governance.
+* **[Prisons Are Emptier. Will Psychiatric Hospitals Fill Up?](https://www.bloomberg.com/opinion/articles/2026-03-28/prisons-are-emptier-will-psychiatric-hospitals-fill-up)**: With the US prison and jail population dropping a staggering 20% since 2008, a crucial question is emerging about the unintended downstream effects on the country's psychiatric and public health infrastructure.
