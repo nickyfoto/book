@@ -1,6 +1,6 @@
 ---
 title: 2026-03-21
-weight: 6
+weight: 7
 url: /docs/tech-videos-2026-03-21/
 ---
 
