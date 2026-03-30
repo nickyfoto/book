@@ -1,6 +1,8 @@
 ---
 title: Bloomberg
 weight: 11
+tags: ["Finance", "Business", "Markets", "Bloomberg"]
+categories: ["News"]
 ---
 
 {{< sources "bloomberg" >}}

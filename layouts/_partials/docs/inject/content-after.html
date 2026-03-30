@@ -1,0 +1,11 @@
+<hr style="margin-top: 2rem; border: none; border-top: 1px solid rgba(0,0,0,0.1);">
+{{ range $taxonomy, $_ := .Site.Taxonomies }}
+  {{ with $terms := $.GetTerms $taxonomy }}
+  <div class="text-small" style="margin-top: 0.5rem;">
+    {{ $taxonomy | title }}:
+    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+    {{- end }}
+  </div>
+  {{ end }}
+{{ end }}

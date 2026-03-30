@@ -1,6 +1,8 @@
 ---
 title: Youtube Tech Channels
 weight: 3
+tags: ["YouTube", "Video", "Tech Reviews", "Tutorials"]
+categories: ["Tech", "YouTube"]
 ---
 
 {{< sources "tech-videos" >}}

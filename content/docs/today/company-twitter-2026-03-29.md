@@ -1,6 +1,8 @@
 ---
 title: Company@X
 weight: 8
+tags: ["X", "Twitter", "Tech Companies", "Corporate"]
+categories: ["Social Media"]
 ---
 
 {{< sources "company-twitter" >}}

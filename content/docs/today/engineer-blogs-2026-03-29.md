@@ -1,6 +1,8 @@
 ---
 title: Engineer Reads
 weight: 1
+tags: ["Engineering", "Software", "System Design", "Architecture"]
+categories: ["Blogs", "Tech"]
 ---
 
 # Engineering Reads — 2026-03-29
