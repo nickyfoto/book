@@ -5,6 +5,14 @@ tags: ["AI", "Technology", "Apple", "Engineering", "Software", "Bloomberg", "Sea
 categories: ["Tech", "News", "AI", "Sports", "Blogs", "YouTube", "Social Media"]
 ---
 
+<style>
+.book-btn + .book-btn { margin-left: 0.5rem; }
+.book-card .markdown-inner p:first-of-type {
+  min-height: 4.5em;
+  line-height: 1.5;
+}
+</style>
+
 <div class="book-hero">
 
 # Daily Digest {anchor=false}
