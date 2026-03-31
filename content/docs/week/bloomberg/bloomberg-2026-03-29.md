@@ -1,8 +1,6 @@
 ---
-title: Bloomberg
-weight: 11
-tags: ["Finance", "Business", "Markets", "Bloomberg"]
-categories: ["News"]
+title: 2026-03-29
+weight: 1
 ---
 
 {{< sources "bloomberg" >}}

@@ -1,8 +1,6 @@
 ---
-title: Company@X
-weight: 8
-tags: ["X", "Twitter", "Tech Companies", "Corporate"]
-categories: ["Social Media"]
+title: 2026-03-29
+weight: 1
 ---
 
 {{< sources "company-twitter" >}}

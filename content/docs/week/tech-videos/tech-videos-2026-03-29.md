@@ -1,8 +1,6 @@
 ---
-title: Youtube Tech Channels
-weight: 3
-tags: ["YouTube", "Video", "Tech Reviews", "Tutorials"]
-categories: ["Tech", "YouTube"]
+title: 2026-03-29
+weight: 1
 ---
 
 {{< sources "tech-videos" >}}
