@@ -1,4 +1,3 @@
-{{ if not (eq .Layout "landing") }}
 <hr style="margin-top: 2rem; border: none; border-top: 1px solid rgba(0,0,0,0.1);">
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
@@ -9,5 +8,4 @@
     {{- end }}
   </div>
   {{ end }}
-{{ end }}
 {{ end }}
