@@ -1,6 +1,6 @@
 ---
-title: Hacker News
-weight: 15
+title: 2026-03-30
+weight: 1
 ---
 
 # Hacker News — 2026-03-30
