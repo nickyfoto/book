@@ -1,6 +1,6 @@
 ---
 title: 2026-03-31
-weight: 2
+weight: 3
 ---
 
 # Chinese Tech Daily — 2026-03-31
