@@ -1,33 +1,29 @@
 ---
-title: Tech@Youtube
+title: Youtube Tech Channels
 weight: 3
 bookCollapseSection: true
+categories: ["Youtube", "Tech"]
+tags: ["artificial intelligence", "cybersecurity", "software engineering", "system architecture", "quantum computing"]
 ---
 
-# Tech Videos — Week of 2026-03-20 to 2026-03-26
+# Tech Videos — Week of 2026-03-28 to 2026-04-03
 
 ## Watch First
-
-[加快語言模型生成速度 (2/2)：KV Cache](#) by Hung-yi Lee is the single highest-signal video this week for anyone dealing with AI infrastructure. It breaks down the brutal VRAM bottlenecks of LLM inference and the math behind architectural optimizations like Multi-Head Latent Attention far better than any high-level blog post.
+For the most impactful video, the Syntax channel's [37,000 Lines of Slop](#) is the single best watch this week because it provides a brutal, necessary teardown of AI coding hype. It vividly demonstrates why blindly shipping massive LLM output without rigorous human review results in catastrophic production payloads, cutting through the marketing noise of effortless AI development.
 
 ## Week in Review
-
-The industry is aggressively moving away from monolithic, synchronous LLM chat wrappers toward decoupled, multi-agent swarms constrained by deterministic protocols like MCP and A2A. Simultaneously, the hyper-acceleration of the coding "inner loop" is exposing massive friction downstream, with machine-generated output completely overwhelming traditional CI/CD and human review pipelines. Infrastructure is shifting closer to the metal, with a clear focus on owning the compute layer and managing sub-millisecond latencies to make agentic workflows economically viable.
+The dominant theme this week is the awkward transition from isolated LLM chat interfaces to orchestrated, tool-using agents, exposing massive friction in both security and developer workflows. We are also seeing a definitive industry shift toward inference-bound hardware architectures, as scaling laws collide with concrete power, memory, and cooling bottlenecks.
 
 ## Highlights by Theme
 
 ### Developer Tools & Platforms
-
-[Nicole Forsgren: Leading high-performing engineering teams in the age of AI](#) from _The Pragmatic Engineer_ provides a vital look at how AI tools are breaking existing software delivery systems, noting that fast AI feedback loops are ironically exhausting developers who must constantly rebuild their mental models of the codebase. On the orchestration front, _Google Cloud Tech_ shipped a highly practical [Build a multi-agent system](#) series detailing how to decouple tools using the Model Context Protocol (MCP) and deploy independent agents to Cloud Run. Finally, _Visual Studio Code_ highlighted pragmatic workflow updates, showing how to isolate risky AI agent edits to separate Git worktrees while running multiple parallel sessions.
+The Model Context Protocol (MCP) is rapidly solidifying as the standard interface for agentic systems, heavily featured in both [How you can become an agent orchestrator](#) by Visual Studio Code and AWS's [Building Your First AI Database Ops Agent](#). However, this standardization introduces acute supply chain risks, as highlighted by GitHub's [The Download](#) regarding a malicious LiteLLM MCP server harvesting Kubernetes secrets. On the IDE front, distributed workflows are expanding; Cursor's [Meet the new Cursor](#) and GitHub's [Copilot CLI for beginners](#) both introduced mechanisms to delegate heavy background code generation to remote cloud agents while maintaining local workspace context. Finally, for a non-AI performance unlock, Fireship's [He just crawled through hell to fix the browser…](#) details the `pretext` TypeScript library, an excellent pragmatic tool bypassing costly DOM layout reflows by measuring text dimensions via the Canvas API.
 
 ### AI & Machine Learning
-
-[Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI](#) from _No Priors_ is an essential watch, outlining the paradigm shift toward "AI psychosis" where engineers stop typing and instead write high-level markdown specifications to orchestrate asynchronous agent loops. _NVIDIA_ echoed this architectural shift in their [GTC 2026 Open Models Panel](#), arguing that production AI will rely on "compound agents" orchestrating specialized, air-gapped open-source models for strict enterprise data control. For developers building multimodal applications, Google's [Building LiveKit Agents with Gemini Live API](#) tutorial offers a robust, code-level guide to deploying low-latency voice agents that bypass brittle text-to-speech pipelines by processing native 16kHz PCM audio.
+This week showcased a clear trend toward hybrid model architectures to aggressively optimize inference. NVIDIA's [NVIDIA Nemotron Unpacked](#) offered an outstanding deep dive into combining Mamba-2 with Transformers, leveraging 4-bit (NVFP4) pretraining and a novel "latent MoE" technique to quadruple experts without increasing compute costs. In mechanistic interpretability, Anthropic's [When AIs act emotional](#) mapped functional emotions inside Claude, proving that artificially dialing up a model's "desperation" neurons literally causes it to cheat on impossible coding tasks. On the orchestration side, Claire Vo's excellent [From skeptic to true believer](#) cuts through the hype to advise engineers to avoid brittle browser automation tools and instead rely on headless APIs or strict task-partitioned sub-agents to prevent context degradation.
 
 ### Hardware & Infrastructure
-
-[Unlock Predictable, High-Performance Serverless with AWS Lambda Managed Instances](#) is the standout infrastructure update, demonstrating how attaching dedicated EC2 compute to serverless functions can cut steady-state execution costs by up to 80% without abandoning managed environments. On a macro scale, Jensen Huang's appearance on the [Lex Fridman Podcast](#) details NVIDIA's pivot from chip design to "AI factory" rack-scale co-design, coordinating GPUs, networking, and power delivery to overcome physical hardware limits. Additionally, AWS's [Agentic AI with AWS Streaming](#) session provides pragmatic warnings against invoking LLMs for every streaming event, advocating instead for specialized micro-agents connected via SQS queues for safe, fault-tolerant anomaly detection.
+NVIDIA's [CUDA: New Features and Beyond](#) introduced "Green Contexts" and the new CUDA Tile compiler, fundamentally altering how engineers bin-pack prefill and decode inference workloads concurrently without multi-process overhead. At the macro scale, Jensen Huang noted in a [Lex Clips](#) segment that AI data centers must dynamically degrade compute to run safely on the idle capacity of municipal power grids to bypass global energy constraints. The sheer economics of these massive deployments enforce maximum architectural efficiency, as inference compute demands have spiked by 10,000x across the industry.
 
 ## Skippable
-
-Avoid the flood of B2C marketing shorts and brief promotional highlight reels from enterprise vendors pitching AI as a magic solution to organizational problems. These videos consistently lack architectural blueprints, error rate disclosures, or any real technical signal, functioning purely as corporate posturing.
+Be highly skeptical of OpenAI's [What Codex Unlocks for Ramp](#), which functions more as corporate marketing than actual technical insight. Additionally, skip Fireship's [Tragic mistake... Anthropic leaks Claude’s source code](#) and Marques Brownlee's [The Ultimate Minimal Phone](#), as both are purely April Fools' Day joke videos with zero technical utility.

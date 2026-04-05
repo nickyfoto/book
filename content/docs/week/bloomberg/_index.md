@@ -2,36 +2,32 @@
 title: Bloomberg
 weight: 11
 bookCollapseSection: true
+categories: ["News"]
+tags: ["iran war", "macroeconomics", "energy markets", "us politics", "corporate news"]
 ---
 
-# Bloomberg — Week of 2026-03-24 to 2026-03-26
+# Bloomberg — Week of 2026-03-28 to 2026-04-03
 
 ## Story of the Week
-
-The escalating conflict with Iran and the near-closure of the Strait of Hormuz have triggered a massive global energy shock, disrupting up to 10 million barrels of oil a day. After Tehran rejected a 15-point US peace plan and moved to toll the crucial waterway, President Trump extended a strike deadline while the OECD warned the crisis could push global inflation to 4.2%. The geopolitical standoff is driving severe supply chain disruptions globally, ranging from an impending fuel crisis in California to jet fuel hoarding across Asia.
+The US-Iran conflict saw extreme volatility, whipsawing global markets as brief diplomatic hopes were crushed by a sharp escalation that included Iran downing a US F-15E and effectively shuttering the Strait of Hormuz. The prolonged hostilities and threats against civilian infrastructure pushed physical oil prices past $140 a barrel, threatening global growth and triggering severe stagflation warnings from central banks worldwide.
 
 ## Markets & Economics
-
-- **[Central Banks Pivot to Inflation Risks](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): The OECD warned that the Middle East conflict could drive global inflation to 4.2%, prompting Fed and ECB officials to signal that interest rates may hold steady or even rise as price pressures decisively outweigh employment concerns.
-- **[Private Credit Squeezed by Redemptions](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): The $1.8 trillion private credit market is facing a severe liquidity test, with over $4.6 billion in investor capital trapped behind withdrawal limits as major funds from Ares and Cliffwater post steep losses.
-- **[Mortgage Rates Hit Five-Month High](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): US home-financing costs jumped to 6.43%, their highest level since October, dealing a fresh blow to both purchasing and refinancing demand.
-- **[China Emerges as Debt Safe Haven](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): Mainland China is surprisingly acting as a debt-funding safe haven for foreign borrowers seeking shelter from Middle East volatility, contrasting sharply with emerging markets like Indonesia that are suffering oil-driven capital outflows.
+*   **[US Jobs Defy Slowdown Fears]** · [Bloomberg](https://www.bloomberg.com): The US labor market remained remarkably resilient, with March nonfarm payrolls jumping by 178,000 and unemployment dipping to 4.3%. The surprisingly strong data forced traders to scale back Fed rate-cut bets, even as US services activity contracted for the first time since 2023.
+*   **[India's Aggressive Rupee Defense]** · [Bloomberg](https://www.bloomberg.com): The Reserve Bank of India enacted its most aggressive interventions in over a decade, ultimately banning banks from offering popular offshore rupee trading instruments. The clampdown aimed to squeeze a $149 billion-a-day market and halt the currency's slide toward 100 per dollar, triggering broader market dislocation.
+*   **[Private Credit Exodus]** · [Bloomberg](https://www.bloomberg.com): The $1.8 trillion private credit market exhibited severe stress fractures, with giants like Apollo, BlackRock, and Blue Owl Capital blocking or limiting redemptions. Investors rushed for the exits amid geopolitical anxiety and tech sector weakness, though industry executives dismissed the turmoil as mere growing pains.
+*   **[European Stagflation Deepens]** · [Bloomberg](https://www.bloomberg.com): The energy shock decimated European growth prospects, prompting Germany to slash its economic forecast by more than half while Euro-zone inflation spiked to a four-year high. The crisis has compounded fiscal misery across the continent, with Italy officially breaching the EU deficit ceiling.
 
 ## Business & Industries
-
-- **[M&A Boom Spans Healthcare and Energy](https://www.bloomberg.com/news/articles/2026-03-25/brookfield-la-caisse-agree-a-c-9-billion-takeover-of-boralex)** · [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-25/brookfield-la-caisse-agree-a-c-9-billion-takeover-of-boralex): Brookfield and Caisse agreed to a C$9 billion buyout of renewable firm Boralex, while Merck is acquiring Terns Pharmaceuticals for $6.7 billion to bolster its cancer pipeline. Elsewhere, US insurers Equitable and Corebridge are plotting a $22 billion all-stock merger.
-- **[DHS Shutdown Boosts Rental Cars](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): A 40-day partial government shutdown of the Department of Homeland Security is severely disrupting TSA staffing and air travel, sending shares of Hertz and Avis soaring as desperate travelers pivot to rental cars and trains.
-- **[SpaceX Eyes Blockbuster IPO](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): Elon Musk’s SpaceX is reportedly weighing a massive $75 billion fundraising target, setting the stage for what could be the largest initial public offering in history.
-- **[BYD's Autonomous Tech Scrutinized](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): Flaws in the highly touted "God's Eye" semi-autonomous driving system of BYD's flagship Yangwang U8 SUV are exposing the risks of China's rushed high-tech vehicle rollouts.
+*   **SpaceX's Mega-IPO**: Elon Musk's space venture confidentially filed for what could be the largest initial public offering in history, targeting a valuation exceeding $2 trillion. Wall Street syndicate banks are gearing up for a kick-off meeting, with E*Trade reportedly negotiating to lead the retail portion of the massive debut.
+*   **Unilever-McCormick Mega-Deal**: Unilever's agreement to merge its food arm with spice maker McCormick & Co. in a $44.8 billion cash-and-stock transaction triggered a historic stock wipeout for the consumer giant. The massive market value loss signals deep investor concerns that Unilever is losing its status as a defensive bellwether.
+*   **Apollo's Deal Spree**: Capitalizing on market dislocation, Apollo Global Management deployed heavy capital, nearing a $10 billion buyout of Atlantic Aviation from KKR while simultaneously striking a $14.2 billion deal to acquire half of Intel's Irish manufacturing facility.
+*   **Tesla's Delivery Miss**: Tesla posted one of its worst sales quarters in years, delivering just 358,023 vehicles worldwide in the first quarter. The significant shortfall underscores severe headwinds in a rapidly cooling global electric-vehicle market.
 
 ## Policy & World
-
-- **[Trump and Xi Set May Summit](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): President Trump will travel to Beijing on May 14-15 to meet Chinese leader Xi Jinping, concluding a delay that had sparked fresh uncertainties between the two economic superpowers.
-- **[Trump Appoints AI Tech Council](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): The White House tapped prominent industry titans, including Meta's Mark Zuckerberg, Marc Andreessen, and Nvidia's Jensen Huang, for a new presidential technology council focused on artificial intelligence policy.
-- **[Britain Targets Russian Shadow Fleet](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): The UK will begin boarding and intercepting Russian "shadow fleet" vessels in its territorial waters to ramp up pressure on Moscow's sanctioned crude exports.
-- **[Senate Targets Prediction Market Bets](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): A bipartisan Senate bill was introduced to force lawmakers to disclose prediction market bets, aiming to prevent public officials from profiting off insider information.
+*   **Artemis II Launch**: NASA successfully launched four astronauts into a stable orbit for a 10-day lunar flyby, kicking off the historic Artemis II mission. The landmark journey marks the first crewed moon mission in over 50 years and serves as a dress rehearsal for a future lunar base.
+*   **Trump's Supreme Court Push**: President Trump became the first sitting US president in recorded history to attend a Supreme Court oral argument. He was present to defend his controversial executive bid to dismantle automatic birthright citizenship, a move that threatens over a century of legal precedent.
+*   **Global Munitions Shortage**: As the US burns through its inventories in the Middle East, a severe munitions deficit is actively delaying Tomahawk deliveries to Japan, forcing Washington to ration Patriot missiles. In response, the Trump administration requested a massive 2027 defense budget increase to fund 85 new F-35 jets by slashing domestic and NASA science budgets.
 
 ## Opinion & Analysis
-
-- **[Gold Fails Safe-Haven Test](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): Analysts note that gold's 15% tumble during the Iran conflict undermines its safe-haven assumptions, though the metal continues to function as a liquid "piggy bank" for investors locking in long-term profits following a massive 50% yearly rally.
-- **[The Chokehold Era of Warfare](https://www.bloomberg.com)** · [Bloomberg](https://www.bloomberg.com): The escalating Middle East conflict underscores how modern conflicts increasingly rely on crippling economic chokeholds, exposing a dangerously unprepared global financial system.
+*   **The "Missile Age" Has Arrived**: Bloomberg Opinion argued that the Persian Gulf conflict proves missile proliferation has fundamentally altered global warfare, weaponizing maritime chokepoints and demonstrating that future conflicts will be much harder to contain.
+*   **Ecoterrorism from the Oval Office**: An analysis highlighted the irony that President Trump's war in Iran is destroying more long-term fossil-fuel demand and energy infrastructure than the most radical ecoterrorists could have ever dreamed.
