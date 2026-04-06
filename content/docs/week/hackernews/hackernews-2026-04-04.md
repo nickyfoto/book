@@ -1,6 +1,6 @@
 ---
-title: Hacker News
-weight: 15
+title: 2026-04-04
+weight: 1
 categories: ["News", "Tech"]
 tags: ["cybersecurity", "artificial intelligence", "open source", "software development"]
 ---

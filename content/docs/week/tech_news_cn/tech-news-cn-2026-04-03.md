@@ -1,6 +1,6 @@
 ---
 title: 2026-04-03
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "vibe coding", "electric vehicles", "developer tools"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: Simon Willison
-weight: 16
+title: 2026-04-04
+weight: 1
 categories: ["Blogs", "AI", "Tech"]
 tags: ["github", "github-actions", "commits", "platform activity"]
 ---

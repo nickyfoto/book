@@ -1,6 +1,6 @@
 ---
 title: 2026-04-02
-weight: 2
+weight: 3
 ---
 
 # Simon Willison — 2026-04-02
