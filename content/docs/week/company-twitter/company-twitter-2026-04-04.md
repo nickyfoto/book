@@ -1,6 +1,6 @@
 ---
 title: 2026-04-04
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source", "machine learning", "cloud computing", "venture capital"]
 ---

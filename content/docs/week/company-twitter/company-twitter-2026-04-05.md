@@ -1,6 +1,6 @@
 ---
-title: Company@X
-weight: 8
+title: 2026-04-05
+weight: 1
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source", "cloud computing", "robotics"]
 ---

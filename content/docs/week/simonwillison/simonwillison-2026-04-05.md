@@ -1,6 +1,6 @@
 ---
-title: Simon Willison
-weight: 16
+title: 2026-04-05
+weight: 1
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-assisted-programming", "sqlite", "security", "agentic-engineering", "llms"]
 ---

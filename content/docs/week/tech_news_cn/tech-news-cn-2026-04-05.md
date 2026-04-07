@@ -1,6 +1,6 @@
 ---
-title: 中文科技资讯
-weight: 20
+title: 2026-04-05
+weight: 1
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "developer tools", "consumer tech", "digital privacy"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-03
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source ai", "ai agents", "generative ai", "autonomous vehicles"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: Hacker News
-weight: 15
+title: 2026-04-05
+weight: 1
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "linux", "cloud computing", "cybersecurity"]
 ---
