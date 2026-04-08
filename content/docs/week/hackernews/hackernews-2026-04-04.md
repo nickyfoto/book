@@ -1,6 +1,6 @@
 ---
 title: 2026-04-04
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["cybersecurity", "artificial intelligence", "open source", "software development"]
 ---

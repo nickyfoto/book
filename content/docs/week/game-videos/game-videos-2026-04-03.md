@@ -1,6 +1,6 @@
 ---
 title: 2026-04-03
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "minecraft memes", "minecraft survival", "speedrunning"]
 ---
