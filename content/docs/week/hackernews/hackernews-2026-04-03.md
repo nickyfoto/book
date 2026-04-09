@@ -1,6 +1,6 @@
 ---
 title: 2026-04-03
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["open source", "software engineering", "tech culture", "artificial intelligence"]
 ---
