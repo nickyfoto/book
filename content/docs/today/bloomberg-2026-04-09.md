@@ -1,0 +1,33 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["middle east conflict", "oil markets", "inflation", "mergers and acquisitions"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-04-09
+
+## Lead Story
+A fragile two-week ceasefire between the US and Iran is facing severe tests as the Strait of Hormuz remains blocked and Israeli forces escalate strikes in Lebanon. Oil prices rebounded amid the maritime gridlock, defying hopes of swift relief, as Vice President JD Vance prepares to lead a US delegation to Islamabad for high-stakes direct talks with Tehran. President Donald Trump expressed optimism about the negotiations but vowed to keep US troops in the Persian Gulf and warned Iran against demanding tolls or cryptocurrency payments for ships transiting the vital waterway.
+
+## Markets & Economics
+* **[US Consumer Spending Muted as Inflation Persists](https://www.bloomberg.com/news/videos/2026-04-09/us-consumer-spending-muted-as-inflation-persists)**: US consumer spending barely rose in February, while the core personal consumption expenditures price index increased 0.4% from January and 3% from the prior year. Recurring jobless claims also fell to a nearly two-year low, adding to evidence of a stabilized labor market despite looming energy shocks.
+* **[RBNZ to ‘Act Decisively’ If Core Prices Pick Up, Breman Says](https://www.bloomberg.com/news/articles/2026-04-09/rbnz-to-act-decisively-if-core-inflation-picks-up-breman-says)**: Central banks globally are bracing for the inflationary fallout of the Middle East conflict, with Reserve Bank of New Zealand Governor Anna Breman vowing to raise interest rates if fuel costs accelerate core inflation. Concurrently, central banks in Poland, Thailand, and Peru opted to hold their benchmark rates steady while they gauge the long-term economic impact of the war.
+* **[Wall Street Poised for Record $18 Billion Equities Trading Haul](https://www.bloomberg.com/news/articles/2026-04-09/jpmorgan-goldman-morgan-stanley-poised-for-record-equities-trading-hauls)**: The biggest US banks are expected to unveil a record $18 billion stock-trading haul for the first quarter. Extreme market volatility fueled by the US-Iran conflict and artificial intelligence disruption drove heavy, lucrative trading activity from investors.
+
+## Business & Industries
+* **[DOJ Opens Probe Into NFL’s Sports TV Deals](https://www.bloomberg.com/news/articles/2026-04-09/doj-opens-probe-into-nfl-s-sports-tv-deals)**: The US Justice Department launched an antitrust investigation into the National Football League's lucrative broadcasting deals with media companies. Regulators are scrutinizing whether the league is using anticompetitive tactics to drive up viewing costs for consumers across a labyrinth of streaming and cable platforms.
+* **[Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar](https://www.bloomberg.com/news/articles/2026-04-09/iran-war-erodes-exxon-chevron-profits-even-as-oil-prices-soar)**: Despite soaring energy prices, oil majors like Chevron Corp. and Exxon Mobil Corp. have seen profits eroded by the complexities of the Middle East conflict. Chevron reported that its first-quarter production fell by as much as 6% due to regional supply disruptions, shipping blockades, and hedging losses .
+* **[Modelo Owner Constellation Gives Softer-Than-Expected Outlook](https://www.bloomberg.com/news/videos/2026-04-09/constellation-gives-softer-than-expected-outlook-video)**: Constellation Brands projected slower-than-expected growth for its beer business, expecting organic sales volumes to land between a 1% decline and a 1% increase. The muted guidance for popular brands like Modelo and Corona suggests that a broader decline in global alcohol consumption has yet to bottom out.
+* **[Rezolve to Make Hostile Bid for Commerce.com as Talks Fail](https://www.bloomberg.com/news/articles/2026-04-08/rezolve-ai-launches-hostile-bid-for-commerce-com-as-talks-fail)**: Rezolve AI Plc is taking a hostile takeover proposal directly to Commerce.com Inc. shareholders after negotiations with the target's board and management faltered.
+
+## Policy & World
+* **[Israel Says Agrees to Direct Talks With Lebanon](https://www.bloomberg.com/news/videos/2026-04-09/israel-says-agrees-to-direct-talks-with-lebanon-video)**: Following immense regional pressure and its largest assault on Lebanon since the invasion began, Israeli Prime Minister Benjamin Netanyahu agreed to open direct negotiations with Beirut. The talks will center on disarming the Iran-backed militant group Hezbollah and establishing peaceful bilateral relations.
+* **[Xi to Meet Taiwan’s Opposition Chief for First Time in a Decade](https://www.bloomberg.com/news/articles/2026-04-09/xi-to-meet-taiwan-s-opposition-chief-for-first-time-in-a-decade)**: Chinese President Xi Jinping will hold talks with the leader of Taiwan’s largest opposition party, marking their first meeting in nearly ten years. The diplomatic move comes as Beijing seeks to expand its influence despite frozen relations with Taiwan's ruling government.
+* **[Philippines Says China Fired Flares in Airspace ‘Bullying’](https://www.bloomberg.com/news/articles/2026-04-09/philippines-says-china-fired-flares-in-airspace-bullying)**: The Philippines accused Chinese forces of firing flares directly at a coast guard aircraft over the contested Spratly Islands. Manila formally condemned the airspace incident in the South China Sea as a "clear and deliberate act of bullying".
+
+## Opinion & Analysis
+* **[M&A Mania Can Seriously Harm Your Share Price](https://www.bloomberg.com/opinion/articles/2026-04-09/m-a-mania-can-seriously-harm-your-share-price)**: Bloomberg Opinion cautions corporate executives gripped by a fear of missing out on the current wave of mergers and acquisitions. The column argues that reactionary dealmaking meant to chase industry trends can inflict serious, lasting damage on a company's share price .
+* **[Iran and Ukraine Make Oil Shocks Look Too Easy](https://www.bloomberg.com/opinion/articles/2026-04-09/iran-cheap-attacks-are-upending-old-assumptions-about-oil-supply)**: Highlighting the severe vulnerability of the global energy grid, this analysis points out that the world continues to be blindsided by disruptions to vital commodities . The piece notes the irony of relying heavily on some of the most politically volatile regions on Earth for the oil that powers modern life .
