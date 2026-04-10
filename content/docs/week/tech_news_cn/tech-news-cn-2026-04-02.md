@@ -1,6 +1,6 @@
 ---
 title: 2026-04-02
-weight: 6
+weight: 7
 ---
 
 # Chinese Tech Daily — 2026-04-02

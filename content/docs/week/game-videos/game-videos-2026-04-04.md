@@ -1,6 +1,6 @@
 ---
 title: 2026-04-04
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["free games", "steam", "epic games", "pc gaming", "gaming deals"]
 ---
