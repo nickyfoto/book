@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "oil markets", "inflation", "private credit", "mergers and acquisitions"]
 ---

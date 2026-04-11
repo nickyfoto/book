@@ -1,6 +1,6 @@
 ---
 title: 2026-04-03
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["security", "generative-ai", "ai-security-research", "open-source", "social-engineering"]
 ---

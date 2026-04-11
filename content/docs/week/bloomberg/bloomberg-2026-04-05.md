@@ -1,6 +1,6 @@
 ---
 title: 2026-04-05
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["geopolitics", "energy", "global markets", "banking", "us policy"]
 ---

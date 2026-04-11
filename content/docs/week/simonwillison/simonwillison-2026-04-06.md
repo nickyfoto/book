@@ -1,6 +1,6 @@
 ---
 title: 2026-04-06
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["local llms", "datasette", "cli tools", "ios"]
 ---

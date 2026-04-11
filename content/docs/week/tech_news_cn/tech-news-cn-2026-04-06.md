@@ -1,6 +1,6 @@
 ---
 title: 2026-04-06
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["ai agents", "software architecture", "autonomous driving", "android apps"]
 ---
