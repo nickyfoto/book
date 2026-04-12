@@ -1,6 +1,6 @@
 ---
 title: 2026-04-04
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["ai coding", "developer tools", "tech ipos", "history"]
 ---

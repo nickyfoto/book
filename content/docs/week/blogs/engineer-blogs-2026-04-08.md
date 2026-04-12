@@ -1,6 +1,6 @@
 ---
 title: 2026-04-08
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "tech culture", "personal growth"]
 ---

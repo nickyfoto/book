@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["steam", "pc gaming", "game sales", "free games"]
 ---

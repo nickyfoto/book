@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["distributed systems", "mechanical sympathy", "debugging", "cmake", "artificial intelligence"]
 ---

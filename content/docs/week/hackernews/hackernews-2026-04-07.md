@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["go", "c", "machine learning", "c++"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-09
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["software engineering", "artificial intelligence", "software architecture", "code generation"]
 ---
