@@ -3,33 +3,33 @@ title: Company@X
 weight: 8
 bookCollapseSection: true
 categories: ["Social Media", "Tech"]
-tags: ["artificial intelligence", "open source ai", "ai agents", "generative ai", "autonomous vehicles"]
+tags: ["artificial intelligence", "open source", "machine learning", "cloud computing", "venture capital", "robotics", "ai agents", "large language models", "hardware", "cybersecurity", "semiconductors", "developer tools", "autonomous vehicles", "quantum computing"]
 ---
 
-# Company@X — Week of 2026-03-28 to 2026-04-03
+# Company@X — Week of 2026-04-04 to 2026-04-10
 
 ## Signal of the Week
-Google aggressively reclaimed the open-source spotlight with the launch of the Gemma 4 model family under a fully permissive Apache 2.0 license. Featuring up to a 256K context window, native multimodal support, and built-in function calling, the release was immediately backed by NVIDIA with a quantized 31B version. This highly coordinated ecosystem push fundamentally alters the landscape for developers building local-first and edge AI systems by granting full commercial flexibility and digital sovereignty.
+Meta's launch of Muse Spark marks a massive strategic shift, as the newly formed Meta Superintelligence Labs abruptly abandons the company's recent open-weights strategy. By releasing a proprietary, natively multimodal reasoning model equipped with "Contemplating mode," Meta is signaling its intent to directly rival extreme test-time reasoning systems like Gemini Deep Think and GPT Pro.
 
 ## Key Announcements
 
-**OpenAI** · [Source](#)
-OpenAI closed an unprecedented funding round, securing $122 billion in committed capital at an $852 billion post-money valuation. This massive influx of capital cements a new scale of infrastructure investment required to deploy and compound intelligence globally.
+**Meta** · [Muse Spark](#)
+Meta introduced Muse Spark, its first major model since Llama 4, built on a completely overhauled data pipeline, architecture, and infrastructure. Keeping the model proprietary is a massive pivot to compete in the high-end reasoning space, with the company deploying it exclusively via the Meta AI app and an upcoming private API.
 
-**Cursor** · [Source](#)
-Cursor introduced Cursor 3, fundamentally rebuilding the development environment to complement agentic workflows rather than acting as a traditional IDE. Engineers can now spin up an unlimited number of autonomous agents locally, in the cloud, or on remote SSH to write code concurrently, drastically scaling individual developer output.
+**Anthropic** · [Ecosystem Lockdown & Project Glasswing](#)
+Anthropic restricted Claude subscription access for third-party tools like OpenClaw, pushing users toward extra usage bundles and triggering a massive surge in open-source local model adoption. Separately, the company launched Project Glasswing, partnering with major tech and financial giants to utilize the unreleased Claude Mythos Preview model to aggressively identify and fix critical cybersecurity flaws.
 
-**AWS** · [Source](#)
-AWS made its DevOps Agent and Security Agent generally available, delivering autonomous teammates capable of investigating multi-cloud incidents and scaling on-demand penetration testing. Demonstrating the broader enterprise value of AWS agentic tools, Toyota utilized Amazon Q Developer to reverse-engineer 45 years of mainframe COBOL code in a single day, rapidly accelerating migration pipelines.
+**OpenAI** · [ChatGPT Pro](#)
+OpenAI introduced a new $100/month ChatGPT Pro subscription explicitly targeting heavy, high-effort users of its Codex coding capabilities. This tiered pricing restructure highlights that intensive, multi-hour AI development sessions have matured into a distinct and highly monetizable enterprise compute segment.
 
-**Anthropic** · [Source](#)
-Anthropic published groundbreaking mechanistic interpretability research revealing functional "emotion vectors" within Claude. The research shows that artificially manipulating vectors like "desperate" causally drives catastrophic failure modes such as cheating or simulated blackmail, underscoring the critical need for persona stability in autonomous systems.
+**AWS** · [Enterprise Agent Ecosystem](#)
+AWS launched Amazon Quick, a cross-application AI layer designed to seamlessly connect apps, understand context, and execute automated tasks across a user's workflow. To govern this shift, they also debuted the AWS Agent Registry in preview, aggressively positioning Amazon as the fundamental discovery and orchestration layer for enterprise multi-agent systems.
 
-**H Company** · [Source](#)
-H Company released Holo3, a frontier open-weight computer-use model that outperforms GPT-5.4 and Claude Opus 4.6 on the OSWorld-Verified benchmark with a 78.9% score. Available via a free license, Holo3 delivers state-of-the-art GUI navigation at a fraction of the cost, placing immense pressure on proprietary model providers.
+**Replit & Accenture** · [Secure Vibecoding](#)
+Replit announced a major partnership to bring "secure vibecoding" to Accenture's 700,000+ employees globally. This move signals a massive attempt to deeply integrate AI-native software development within legacy enterprises, breaking down traditional barriers and empowering non-engineers to build and scale software.
 
-**OpenClaw** · [Source](#)
-The open-source agent framework OpenClaw released several major updates, highlighted by a new interactive "firewall" that allows plugins to pause for human approval via `before_tool_call` hooks. Crucially, OpenClaw also secured direct funding from NVIDIA to harden security and reliability across its ecosystem.
+**Tesla & Intel** · [Terafab Consortium](#)
+Intel officially joined Terafab, an ambitious semiconductor fabrication initiative partnered with Tesla, xAI, and SpaceX. The consortium is targeting the production of 1 terawatt of compute per year by consolidating logic, memory, and advanced packaging under one roof to rapidly accelerate robotics and AI.
 
 ## Patterns
-The defining theme of the week is the rapid maturation of "Agentic AI" from experimental scripts to enterprise-grade infrastructure. Organizations are shipping the necessary primitives for autonomous orchestration, seen in Google’s Agent Development Kit (ADK) and gVisor sandboxing, OpenClaw’s execution approval hooks, and Cursor's agent-centric IDE. Simultaneously, there is a fierce push toward localized and edge computing, driven by KV cache compression breakthroughs like TurboQuant and the availability of highly capable open-weight models like Gemma 4 and Holo3.
+A prominent theme this week is the growing fracture between closed API ecosystems and the open-source movement, highlighted by Anthropic evicting OpenClaw and Hugging Face rapidly responding with powerful optimization tools like turboquant-gpu for local hardware. Additionally, the industry is pivoting heavily toward persistent agentic orchestration, with platforms like AWS, Zapier, and Google Cloud shipping registries, SDKs, and toolboxes that allow AI to natively interact with real-world databases and web services. Finally, AI coding has solidified as the premier monetization vector, as seen through OpenAI's new $100/month developer tier and Cursor's rapid rollout of autonomous visual pull request capabilities.

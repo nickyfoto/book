@@ -3,29 +3,32 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["security", "generative-ai", "ai-security-research", "open-source", "social-engineering"]
+tags: ["github", "github-actions", "commits", "platform activity", "ai-assisted-programming", "sqlite", "security", "agentic-engineering", "llms", "local llms", "datasette", "cli tools", "ios", "anthropic", "svg", "docker", "code-interpreter", "meta", "python", "asgi", "cors", "chatgpt", "openai", "kakapo"]
 ---
 
-# Simon Willison — Week of 2026-03-30 to 2026-04-03
+# Simon Willison — Week of 2026-04-04 to 2026-04-10
 
 ## Highlight of the Week
-This week highlighted a monumental shift in the open-source security landscape, marking the sudden end of "AI slop" security reports and the arrival of a tsunami of high-quality, AI-generated vulnerability discoveries. High-profile maintainers of the Linux kernel, cURL, and HAPROXY are reporting an overwhelming influx of legitimate bugs found by AI agents, fundamentally altering the economics of exploit development and forcing open-source projects to rapidly adapt to a massive increase in valid bug reports.
+Anthropic's decision to delay the general release of their highly capable Claude Mythos model under "Project Glasswing" marks a significant turning point in the AI industry. The move underscores a massive shift in frontier model capabilities, as models evolve from generating text to autonomously chaining multiple minor vulnerabilities into sophisticated exploits, requiring a new level of security safeguards before release.
 
 ## Key Posts
-**[Supply Chain Attack on Axios Pulls Malicious Dependency from npm](#)**
-Simon analyzed the recent compromise of the Axios HTTP client, sharing a critical, actionable heuristic for spotting malicious packages: investigating npm publishes that lack an accompanying GitHub release. He later detailed the post-mortem, revealing that attackers used sophisticated, highly targeted social engineering—impersonating a company founder and tricking a maintainer into installing a Remote Access Trojan during a fake MS Teams update.
+**[Anthropic’s Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](#)**
+Anthropic has restricted the release of their Claude Mythos model to trusted partners to allow defenders to patch foundational internet systems. Simon used git blame to verify a 27-year-old OpenBSD bug discovered by the model, concluding that providing $100M in credits to defenders and delaying general release is a necessary trade-off to handle these advanced capabilities.
 
-**[Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](#)**
-Exploring the boundaries of ethically trained public-domain models, Simon reviewed a 340m-parameter model trained entirely on 28,000 out-of-copyright Victorian texts from the British Library. While Chinchilla scaling laws indicate the model is starved for data and functions more like a Markov chain, Simon used Claude Code to successfully build a fully working `llm-mrchatterbox` Python CLI plugin entirely from scratch to run it locally.
+**[Meta’s new model is Muse Spark, and meta.ai chat has some interesting tools](#)**
+Simon aggressively probed Meta's new hosted Muse Spark model via its chat harness, successfully extracting the system definitions for 16 built-in tools. By utilizing its Python Code Interpreter and `visual_grounding` tool, he ran hands-on experiments to extract nested bounding boxes and exact object counts, demonstrating a powerful sandbox-driven approach to generative AI and image analysis.
 
-**[Highlights from my conversation about agentic engineering on Lenny’s Podcast](#)**
-Simon shared comprehensive notes from his podcast appearance, outlining how highly competent models like GPT 5.1 and Claude Opus 4.5 pushed developers past a critical "November inflection point". He discussed the emergence of "dark factories" where humans neither type nor read code, and noted that with prototyping becoming incredibly cheap, the primary bottleneck in software engineering has shifted directly to usability testing and validation.
+**[Eight years of wanting, three months of building with AI](#)**
+Highlighting a deep-dive by Lalit Maganti on building the `syntaqlite` SQLite parser, Simon explores the realities of "agentic engineering". The project reveals that while AI is incredible at plowing through tedious low-level implementation details like grammar rules, it still struggles significantly with high-level architectural design and subjective decision-making.
 
-**[Vulnerability Research Is Cooked](#)**
-Summarizing the dramatic changes in security, Simon noted that frontier models are uniquely suited for exploit development because they never tire of constraint-solving for exploitability and possess massive context windows for scanning entire source trees. He is tracking this trend closely enough to create a dedicated `ai-security-research` tag, observing that AI agents simply pointing at code and searching for zero-days will drastically alter the security ecosystem.
+**[Google AI Edge Gallery](#)**
+Google released a highly effective, official iOS app for natively running local Gemma 4 models on-device. As the first official iPhone app from a local model vendor, it stands out by running fast and including features like vision, up to 30 seconds of audio transcription, and a demonstration of tool calling against HTML widgets.
+
+**[ChatGPT voice mode is a weaker model](#)**
+Prompted by insights from Andrej Karpathy, Simon reflects on the counterintuitive reality that OpenAI's Advanced Voice Mode runs on an older model with an April 2024 knowledge cutoff. This highlights a widening gap between consumer-facing interfaces and top-tier B2B coding models, which hold more value and benefit significantly from verifiable reinforcement learning.
 
 ## Project Updates
-It was an intensive week of open-source yak shaving and architectural refactoring across Simon's ecosystem, heavily focused on making `datasette-llm` the centralized hub for model configuration across plugins like `datasette-extract` and `datasette-enrichments-llm`. Simon also executed a rapid development loop to bridge sync/async architectural friction, using Claude to build `llm-all-models-async` to wrap his Mr. Chatterbox model, which cascaded into core hook updates in `llm 0.30` and multiple testing utility releases. Finally, the release of DeepMind's Gemma 4 models triggered rapid local evaluation and a swift bump to `llm-gemini 0.30` to support the new Google AI Studio API endpoints.
+Simon utilized Claude Code to rapidly scaffold and release several small, sharp tools this week, notably iterating `scan-for-secrets` up to version 0.3 to prevent API key leaks, and shipping `datasette-ports` to manage his local Datasette environments. He is also actively overhauling his foundational `llm` CLI tool to support server-side tool execution from major vendors. On the maintenance front, he shipped `asgi-gzip 0.3` to fix a Server-Sent Events compression bug caused by a silently failing GitHub Action that missed an upstream Starlette patch. 
 
 ## Themes
-The dominant threads this week were the rapidly evolving open-source security landscape—both the threat of targeted social engineering supply-chain attacks and the influx of AI zero-day discoveries—and the practical realities of agentic engineering. Simon's hands-on work with Claude Code to write the Mr. Chatterbox plugin, alongside his architectural standardization of Datasette, perfectly demonstrated the tight, optimistic feedback loop between experimenting with new AI capabilities and continuously updating the tooling stack to support them.
+A major recurring thread this week is the rapid graduation of frontier and open-weights LLMs into agents capable of multi-step, autonomous execution—seen in GLM-5.1 debugging its own complex CSS animations and Claude Mythos discovering severe software vulnerabilities. Simon balanced this exploration of high-end capabilities with his pragmatic approach to building and debugging developer tooling, frequently highlighting both the acceleration AI brings to writing code and the invisible risks of automated workflows.

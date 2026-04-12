@@ -3,36 +3,35 @@ title: Tech News
 weight: 6
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["artificial intelligence", "space exploration", "tech policy", "cybersecurity", "big tech"]
+tags: ["artificial intelligence", "space", "apple", "gaming", "privacy", "cybersecurity", "biotechnology", "open source", "space exploration", "tech policy", "openai", "semiconductors", "social media", "cryptocurrency", "electric vehicles", "right-to-repair", "big tech"]
 ---
 
-# Tech News — Week of 2026-03-28 to 2026-04-03
+# Tech News — Week of 2026-04-04 to 2026-04-10
 
 ## Story of the Week
-OpenAI cemented its dominance and showcased its growing pains this week by raising an unprecedented $122 billion at a staggering $852 billion valuation, securing a massive war chest for infrastructure ahead of a likely IPO. However, the cash injection arrived precisely as the company abruptly killed its highly anticipated Sora video model—alienating partner Disney—shuffled its C-suite, and bizarrely acquired a tech talk show, signaling a frantic and unpredictable pivot toward immediate commercialization over safety-focused research.
+Anthropic's unreleased "Mythos" AI model triggered widespread cybersecurity panic this week after proving incredibly adept at autonomously discovering critical software vulnerabilities. While the company restricted the model's public release and launched a defensive initiative called "Project Glasswing," the threat was severe enough to prompt emergency cybersecurity meetings between the US Treasury, the Federal Reserve, and bank CEOs. The fallout eclipsed Anthropic's milestone of hitting a $30 billion revenue run rate, highlighting the unprecedented regulatory and security pressures facing frontier AI labs.
 
 ## Top Stories
-**[SpaceX Targets Trillion-Dollar IPO With a Grok Ultimatum]** · [Ars Technica](#)
-SpaceX confidentially filed for a blockbuster IPO targeting a massive $1.75 trillion valuation to fund its Starship and lunar ambitions. In a staggering display of leverage, Elon Musk is forcing the Wall Street banks vying for the lucrative deal to purchase multi-million-dollar subscriptions to xAI's Grok chatbot as a strict condition for participation.
 
-**[Artemis II Sends Humanity Back to the Moon]** · [Ars Technica](#)
-NASA successfully launched the Artemis II mission, sending a crew of four astronauts on a free-return trajectory around the Moon. This marks the first crewed deep-space flight since the Apollo program ended in 1972, serving as a critical technical foundation for establishing a permanent $20 billion lunar base.
+**[Artemis II Breaks Human Spaceflight Records](#)** · Engadget
+NASA's Artemis II crew shattered the Apollo 13 record for the farthest distance humans have ever traveled from Earth, ultimately reaching 252,756 miles during a lunar flyby. After capturing deep-space eclipses with an iPhone, the astronauts are now preparing for a treacherous atmospheric reentry where the Orion capsule will endure 5,000-degree Fahrenheit temperatures before splashing down near San Diego.
 
-**[Anthropic’s Brutal Week of Leaks and Pentagon Clashes]** · [TechCrunch](#)
-Anthropic suffered a massive unforced error when it accidentally leaked 512,000 lines of source code for its Claude Code agent, triggering a disastrously broad DMCA takedown effort on GitHub that broke thousands of legitimate user forks. Simultaneously, the AI lab is locked in a fierce battle with the US military over autonomous weapons use, though a federal judge temporarily blocked the Pentagon from labeling the startup a "supply chain risk".
+**[State-Backed Hackers Ramp Up Supply-Chain and Infrastructure Attacks](#)** · Ars Technica
+North Korean operatives deployed AI deepfakes to trick top open-source developers into executing malware, successfully compromising the widely used Axios package. Concurrently, Russian hackers hijacked tens of thousands of consumer routers globally to bypass two-factor authentication, while Iranian hackers successfully disrupted programmable logic controllers at US water and energy facilities.
 
-**[AI Hardware Boom Stalls Amid Tariffs and Memory Shortages]** · [Slashdot](#)
-The insatiable demand for AI data center accelerators is cannibalizing the global memory supply, forcing Sony to hike PS5 prices by $150 and indefinitely halt high-end memory card orders. Furthermore, the broader US AI infrastructure boom is severely stalling out as steep tariffs on Chinese imports drastically inflate lead times for critical electrical transformers, pushing equipment delays out as far as five years.
+**[Apple's $599 MacBook Neo Sells Out Fast](#)** · The Verge
+Apple's new ultra-budget MacBook Neo, which repurposes the A18 Pro mobile chip, has aggressively reshaped the entry-level PC market and driven huge demand. However, the laptop's runaway success has created a severe supply chain dilemma, as TSMC's maxed-out 3nm production lines are leaving Apple without enough binned silicon to keep the entry-level configurations in stock.
 
-**[Global Regulators Clamp Down on Kids' Social Media]** · [Engadget](#)
-Global regulators are aggressively cracking down on underage social media access, with Indonesia enacting a nationwide ban for users under 16 and Australia preparing to sue Big Tech for non-compliance with its own bans. Meanwhile, Apple is normalizing controversial OS-level age gating by mandating ID scans for certain features in the UK, setting a technical precedent that the tech industry wants to actively lobby for across the United States.
+**[OpenAI Pushes Radical Economic Policies Amid Escalating Backlash](#)** · Tech News
+Anticipating mass AI-driven job displacement, OpenAI issued a bold policy document advocating for a shift to corporate and capital gains taxes, a public wealth fund, and government incentives for a four-day workweek. This sweeping pivot into socioeconomic policy arrives as public hostility toward the industry visibly intensifies, punctuated by an incident where a suspect threw a Molotov cocktail at CEO Sam Altman's San Francisco home.
 
-**[The Frightening Frontier of Medical Tech]** · [MIT Technology Review](#)
-The frontier of medical tech is racing past regulatory guardrails, highlighted by Utah launching a highly controversial pilot allowing an AI chatbot to prescribe psychiatric drugs to patients without a doctor's oversight. Meanwhile, a stealth biotech startup called R3 Bio was caught pitching the horrifying prospect of growing nonsentient, "brainless" human clones to harvest organs for Silicon Valley's life-extension obsessed elite.
+**[John Deere Agrees to Landmark $99 Million Right-to-Repair Settlement](#)** · Tech News
+Agricultural giant John Deere agreed to pay $99 million to resolve a class-action lawsuit accusing the company of illegally monopolizing tractor and equipment repairs. Crucially for the broader right-to-repair movement, the settlement also legally binds the company to provide farmers with digital diagnostic tools for the next 10 years.
 
 ## Also Worth Knowing
-*   **Uterus kept alive outside the body:** Researchers successfully maintained a freshly donated human uterus outside the body for 24 hours via perfusion, a major breakthrough that could extend organ transplant viability and aid embryo research.
-*   **Microsoft Copilot injects ads:** Microsoft was caught using its Copilot AI coding assistant to quietly inject promotional ads for ecosystem partners into over 1.5 million developer GitHub pull requests.
-*   **Baidu Robotaxi failure:** A system failure paralyzed a fleet of Baidu's Apollo Go robotaxis in Wuhan, trapping passengers inside and snarling highway traffic in a stark reminder of autonomy's current fragility.
-*   **Trivy supply chain attack:** The popular open-source security scanner Trivy was briefly compromised in a supply chain attack, exposing automated CI/CD pipelines and downstream systems to credential theft.
-*   **Amazon union victory:** The National Labor Relations Board officially ordered Amazon to recognize and bargain with the Staten Island Teamsters union, marking a massive labor milestone after years of bitter legal standoffs.
+
+*   **[France Ditches Windows for Linux](#)**: The French government announced it is migrating state workstations from Microsoft Windows to Linux to bolster European "digital sovereignty" and reduce reliance on American tech giants.
+*   **[Prediction Markets Score Major Legal Victory](#)**: A federal appeals court blocked New Jersey regulators from banning Kalshi, affirming that the Commodity Futures Trading Commission (CFTC) holds exclusive jurisdiction over sports-related event contracts.
+*   **[FBI Bypasses Signal Encryption via Push Notifications](#)**: The FBI successfully extracted deleted, encrypted Signal messages from a suspect's iPhone by recovering message preview data that iOS locally preserved in Apple's push notification database.
+*   **[Samsung Kills Proprietary Messages App](#)**: Samsung is forcing US Galaxy users to migrate to Google Messages this July, quietly sunsetting its own SMS app to standardize cross-device RCS features and Google Gemini integrations.
+*   **[Amazon Retires Older Kindles](#)**: Starting May 20, Amazon will block Kindle e-readers and Fire tablets released in 2012 or earlier from downloading new content from the Kindle Store.

@@ -3,26 +3,26 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["nfl draft", "offseason workouts", "super bowl lx", "john schneider"]
+tags: ["sam darnold", "nfl draft", "super bowl 60", "offseason", "fan art", "jerseys", "social media", "trade rumors", "defensive line", "former players", "merchandise", "super bowl lx", "free agency", "roster", "offensive line", "draft prospects", "mike macdonald", "12s", "defensive scheme"]
 ---
 
-# Seahawks — Week of 2026-03-28 to 2026-04-03
+# Seahawks — Week of 2026-04-04 to 2026-04-10
 
 ## Top Story
-The biggest development this week is the massive, historic contract extension for wide receiver Jaxon Smith-Njigba. After being celebrated as the team's Offensive Player of the Year, JSN was officially locked down by the front office, making him the highest-paid wide receiver in history. Head Coach Mike Macdonald praised him as a humble superstar, firmly solidifying his role as a core piece of Seattle's championship offense for years to come.
+As the Seahawks prepare to defend their Super Bowl LX crown, the front office faces the daunting task of reloading the roster with only four picks in the upcoming NFL Draft. To navigate this limited draft capital, General Manager John Schneider and Head Coach Mike Macdonald are aggressively exploring veteran acquisitions to fortify the defensive front and extend their championship window.
 
 ## News & Buzz
-**[Roster Shakeups: Woolen's Departure & K9 Rumors]** · [Reddit](https://reddit.com/r/Seahawks)
-Coach Macdonald confirmed that letting go of star cornerback Riq Woolen was purely a salary cap casualty, stating bluntly that the team "just can't afford him". On the rumor front, widespread chatter suggests running back Kenneth Walker III could be heading to the Kansas City Chiefs, prompting Macdonald to reportedly bet heavily on Zach Charbonnet to take over the backfield. Meanwhile, veteran edge rusher DeMarcus Lawrence is officially returning to anchor the defensive front for 2026.
+**[Blockbuster Defensive Trade Rumors]** · [Seahawks Forever](https://seahawks.com/news)
+Rumors are heavily circulating that Seattle has inquired about acquiring elite edge rushers Myles Garrett and Kayvon Thibodeaux. Additionally, a massive fan proposal urging the team to trade a 2026 first-round pick for Giants All-Pro DT Dexter Lawrence to replace Boye Mafe has sparked intense community debate. Armed with healthy cap space but few draft picks, fans are torn on whether the team should pay the steep price for a veteran star or rely on the draft.
 
-**[Defending Champs on Hard Knocks]** · [Twitter](https://twitter.com/Seahawks)
-The NFL announced that the Seahawks will be featured on HBO's *Hard Knocks* this summer, putting the spotlight firmly on the VMAC. Fans are already buzzing about the "Defending Champs Edition," excited to watch the team navigate training camp on national television before the Patriots take over the show in 2027. The official team accounts hyped the upcoming summer by declaring, "The grind is loud".
+**[Draft Preparation & Prospect Visits]** · [r/Seahawks](https://reddit.com/r/seahawks)
+With the draft officially just two weeks away, Seattle is ramping up prospect evaluations to address glaring roster holes at nose tackle, edge, outside cornerback, and running back. The team recently hosted Ohio State DT Kayden McDonald, Tennessee CB Colton Hood, and Texas A&M EDGE Cashius Howell for top 30 visits, while also meeting with Illinois QB Luke Altmyer. The prevailing community hope is to trade down and build a pragmatic draft class of reliable starters rather than chasing flashy, high-risk stars.
 
-**[Draft Anxiety at Pick #32]** · [r/Seahawks](https://reddit.com/r/Seahawks)
-With the NFL Draft quickly approaching, 12s are heavily debating strategy for the 32nd overall pick and begging GM John Schneider not to trade down in what is widely perceived as a top-heavy draft class. Fans are divided on whether to simply draft for depth or target specific needs like an edge defender, with names like Parker and Miami's Akheem Mesidor dominating the online discussions.
+**[Sam Darnold's Double-Ring Year]** · [Official X](https://twitter.com/seahawks)
+Super Bowl LX winning quarterback Sam Darnold officially tied the knot with Katie Hoofnagle this week. Fans and official team accounts celebrated the mistake-free playoff legend with epic video montages, affectionately noting that he successfully secured "2 rings in one year".
 
-**[Victory Laps & Offseason Workouts]** · [NFL Official](https://nfl.com)
-The NFL officially locked in offseason workout dates, marking the team's transition from celebrating their Super Bowl LX victory back to the 2026 grind. However, the victory lap is still very much alive, with JSN making a high-profile appearance at UFC Fight Night in Seattle and fans organizing weekly 2025 championship game re-watches to cure the offseason blues.
+**[Roster Takes Shape Post-Free Agency]** · [r/Seahawks](https://reddit.com/r/seahawks)
+The 12s are thrilled that starting left tackle Charles Cross has been locked up, ensuring the core offensive line is set to run it back next season. Post-free agency depth charts also reflect new additions like RB Emanuel Wilson, CB Noah Igbinoghene, and safeties Rodney Thomas II and D'Anthony Bell, leading fans to praise the front office for properly prioritizing money on a fundamentally "stacked" roster.
 
 ## 12s Pulse
-The fanbase is riding an immaculate high from the Super Bowl LX championship, with many 12s confidently declaring the dawn of a Mike Macdonald dynasty. Dominant conversations have pleasantly shifted to "first-world football problems," such as the impossibility of upgrading season tickets in a sold-out stadium and intense pre-draft anxiety over how to spend the 32nd overall pick.
+The fan community is still happily basking in the afterglow of a Super Bowl LX victory, constantly rewatching championship radio calls and praising Mike Macdonald's defensive masterclass. Despite the championship nostalgia, there is an anxious excitement bubbling about the upcoming draft, as 12s meticulously debate how to maneuver with limited capital and whether a big splash trade is necessary for a repeat title run.
