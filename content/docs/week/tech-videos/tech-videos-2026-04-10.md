@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "large language models", "ai agents", "developer tools", "hardware"]
 ---

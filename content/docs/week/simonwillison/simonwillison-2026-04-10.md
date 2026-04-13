@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["chatgpt", "openai", "llms", "kakapo"]
 ---

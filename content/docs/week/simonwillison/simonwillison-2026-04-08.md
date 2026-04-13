@@ -1,6 +1,6 @@
 ---
 title: 2026-04-08
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["docker", "sqlite", "llms", "code-interpreter", "meta"]
 ---

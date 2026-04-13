@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["cooking", "recipes", "pineapple ribs", "cooking techniques"]
 ---

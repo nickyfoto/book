@@ -1,6 +1,6 @@
 ---
 title: 2026-04-05
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software engineering", "startups", "space exploration", "biology"]
 ---
