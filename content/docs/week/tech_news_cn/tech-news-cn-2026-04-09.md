@@ -1,6 +1,6 @@
 ---
 title: 2026-04-09
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "electric vehicles", "cybersecurity"]
 ---

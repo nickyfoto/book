@@ -1,6 +1,6 @@
 ---
 title: 2026-04-06
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "large language models", "hardware", "open source"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "security", "anthropic", "svg"]
 ---

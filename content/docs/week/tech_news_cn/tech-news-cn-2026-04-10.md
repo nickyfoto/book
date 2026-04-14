@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer tech", "cybersecurity", "autonomous agents"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-05
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["cooking techniques", "food science", "eggs", "recipes", "asian cuisine"]
 ---

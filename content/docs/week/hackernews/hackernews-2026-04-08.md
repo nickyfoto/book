@@ -1,6 +1,6 @@
 ---
 title: 2026-04-08
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "open source", "software engineering", "hardware hacking"]
 ---

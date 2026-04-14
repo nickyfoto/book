@@ -1,6 +1,6 @@
 ---
 title: 2026-04-09
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "github", "datasette", "asgi", "cors"]
 ---
