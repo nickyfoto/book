@@ -1,6 +1,6 @@
 ---
 title: 2026-04-07
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "open source", "ai agents", "semiconductors"]
 ---

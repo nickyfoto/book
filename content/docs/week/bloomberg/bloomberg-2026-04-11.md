@@ -1,6 +1,6 @@
 ---
 title: 2026-04-11
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["us-iran war", "oil markets", "artificial intelligence", "global economy", "space exploration"]
 ---

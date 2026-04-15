@@ -1,6 +1,6 @@
 ---
 title: 2026-04-12
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "energy markets", "us-iran conflict", "global elections", "global markets"]
 ---
