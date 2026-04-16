@@ -1,6 +1,6 @@
 ---
 title: 2026-04-08
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["us-iran ceasefire", "global markets", "monetary policy", "corporate deals", "geopolitics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-12
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "robotics", "gpus", "developer tools"]
 ---

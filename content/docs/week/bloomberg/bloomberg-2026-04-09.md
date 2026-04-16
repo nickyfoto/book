@@ -1,6 +1,6 @@
 ---
 title: 2026-04-09
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["middle east conflict", "oil markets", "inflation", "mergers and acquisitions"]
 ---
