@@ -1,6 +1,6 @@
 ---
 title: 2026-04-11
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "reinforcement learning", "open source", "hardware", "history"]
 ---

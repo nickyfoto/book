@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["inflation", "iran war", "artificial intelligence", "geopolitics"]
 ---

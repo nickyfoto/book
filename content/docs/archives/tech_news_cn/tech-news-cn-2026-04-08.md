@@ -1,0 +1,31 @@
+---
+title: 2026-04-08
+weight: 8
+categories: ["News", "Tech"]
+tags: ["artificial intelligence", "software engineering", "consumer tech", "electric vehicles", "cybersecurity"]
+---
+
+# Chinese Tech Daily — 2026-04-08
+
+## Top Story
+Anthropic is dominating the news cycle today with a massive, dual-sided narrative. The company just unveiled its [Claude Mythos Preview](https://www.ifanr.com/1661287), a model demonstrating such terrifyingly advanced cybersecurity zero-day capabilities that Anthropic refuses to release it publicly, instead restricting it to 12 tech giants for defensive infrastructure patching. Riding this wave of enterprise trust, [Anthropic's ARR has surged past $30 billion](https://www.ifanr.com/1661310), officially overtaking OpenAI. However, the developer community is pushing back hard: Anthropic's [Claude Code tool is facing intense backlash](https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax) from engineering leads over an "epic negative optimization" in reasoning depth, sparking a heated debate about AI token allocation transparency.
+
+## Engineering & Dev
+Chinese AI models are making serious strides in coding performance. Zhipu AI has open-sourced [GLM-5.1](https://www.ifanr.com/1661343), a 744B parameter model trained entirely on Huawei Ascend chips that has managed to outscore Claude Opus 4.6 on SWE-bench Pro while remaining cost-effective. On the developer tooling front, privacy concerns are flaring up as [GitHub announced it will use Copilot interaction data](https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q) from Free, Pro, and Pro+ users to train its AI models starting April 24, with the setting toggled on by default.
+
+In the JavaScript ecosystem, [Nuxt Test Utils v4](https://www.infoq.cn/article/lzR34rSWkua5awOg8LFJ) has officially shipped with Vitest v4 integration, bringing a major overhaul to its mocking mechanisms and tightening test environment initializations by moving logic into the `beforeAll` hook. For software architects navigating strict compliance, an insightful InfoQ breakdown explores [Event-Driven Architecture in the banking sector](https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J), detailing how to solve sequence and duplication constraints using Outbox/Inbox patterns. Looking ahead to QCon Beijing, Toco AI's CEO will present on the shift from ["Vibe Coding" to "Architecture Coding"](https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM), arguing that Model-Driven Development is the only structural solution to push AI-generated code adoption past the 10% enterprise ceiling.
+
+## Products & Digital
+A deep dive on sspai exposes the [illusion of the "unified" Type-C port](https://sspai.com/post/108325). Despite sharing the exact same physical shape, consumer devices are still plagued by missing 5.1K pull-down resistors and a mess of proprietary fast-charging protocols, making your cables far less universal than advertised. Also on sspai, the site has leaned into physical goods by officially launching its first-party [MacinTosh ultrathin screen protector](https://sspai.com/post/108285), boasting a 0.13mm thickness and AR anti-reflective coating. In the generative AI space, [DeepSeek's web interface is quietly grey-testing an "Expert Mode"](https://www.ifanr.com/1661286), routing users to a much more capable reasoning model while temporarily pausing file upload capabilities. 
+
+For tech nostalgia enthusiasts, a fascinating retrospective looks back at [Japan's "Galapagos era" of feature phones](https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones), exploring how highly isolated, operator-led ecosystems like i-mode and MOAP created unparalleled hardware marvels that were functionally useless outside of Japan. Meanwhile, China's luxury EV market is heating up: Nio has unveiled the [ES9 flagship SUV](https://www.ifanr.com/1661245) to compete directly with Aito and Li Auto, while Avatr has launched the [refreshed Avatr 12 and the futuristic 06T wagon](https://www.ifanr.com/1661450) equipped with Huawei's Qiankun ADS 4.0.
+
+## News & Commentary
+Global tech and geopolitical tensions remain deeply intertwined, with the New York Times Chinese edition reporting a last-minute [14-day US-Iran ceasefire](https://cn.nytimes.com/world/20260408/us-iran-cease-fire/) averting massive infrastructure destruction, though the [economic ripples on tech supply chains and fuel](https://cn.nytimes.com/opinion/20260408/gas-prices-iran-war-travel-food-fed/) continue to spread. Back in China, ten government departments jointly issued the new [AI Ethics Review Measures](https://www.ifanr.com/1661288), requiring mandatory expert reviews for high-risk developments including human-machine fusion and highly autonomous decision-making algorithms. Lastly, a cultural reflection piece examines [Shanghai's architectural legacy](https://cn.nytimes.com/china/20260408/shanghai-dispatch-architecture/), exploring how the city is attempting to reconcile its cosmopolitan, imperialist past with the official narrative as historical preservation efforts battle both ideology and a slowing economy.
+
+## Also Noted
+*   [Apple is shifting over 40% of its MacBook production to Vietnam](https://www.ifanr.com/1661288), utilizing Foxconn and Quanta facilities for the new MacBook Neo.
+*   Hollywood actress Milla Jovovich has [open-sourced MemPalace](https://www.ifanr.com/1661288), a highly efficient, entirely local AI memory system scoring top marks in LongMemEval.
+*   A New Yorker exposé claims OpenAI CEO Sam Altman exhibits [sociopathic traits](https://www.ifanr.com/1661288), revealing that internal AI safety commitments were drastically underfunded.
+*   Digua Robotics secured [150 million USD in B2 funding](https://www.infoq.cn/article/vqsCNCHUBPoiwxeydL0b), driving its embodied AI ecosystem built alongside Horizon Robotics.
+*   A critical security advisory has been issued detailing the [Fuma CRM PriceList.ashx SQL injection vulnerability](https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html).

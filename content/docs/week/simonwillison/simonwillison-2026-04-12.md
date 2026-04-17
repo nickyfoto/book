@@ -1,6 +1,6 @@
 ---
 title: 2026-04-12
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["mlx", "gemma", "speech-to-text", "uv"]
 ---

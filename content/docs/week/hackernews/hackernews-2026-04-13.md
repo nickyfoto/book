@@ -1,6 +1,6 @@
 ---
 title: 2026-04-13
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["cybersecurity", "artificial intelligence", "software engineering", "rust", "apple"]
 ---
