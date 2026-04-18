@@ -1,6 +1,6 @@
 ---
 title: 2026-04-12
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "machine learning", "startup culture", "history"]
 ---

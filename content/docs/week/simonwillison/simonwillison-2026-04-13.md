@@ -1,6 +1,6 @@
 ---
 title: 2026-04-13
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "rust", "webassembly", "ai-assisted-programming"]
 ---
