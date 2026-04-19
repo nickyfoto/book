@@ -1,6 +1,6 @@
 ---
 title: 2026-04-15
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "autonomous vehicles", "robotics", "developer tools"]
 ---
