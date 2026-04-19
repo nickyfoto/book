@@ -3,26 +3,26 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["sam darnold", "nfl draft", "super bowl 60", "offseason", "fan art", "jerseys", "social media", "trade rumors", "defensive line", "former players", "merchandise", "super bowl lx", "free agency", "roster", "offensive line", "draft prospects", "mike macdonald", "12s", "defensive scheme"]
+tags: ["jaxon smith-njigba", "nfl draft", "roster moves", "nfl records", "super bowl", "jason meyers", "merchandise", "free agency", "jalen milroe", "beastquake", "offensive line", "running backs", "mike macdonald", "trade rumors", "fan community", "mock drafts", "seahawks", "john schneider", "prospects"]
 ---
 
-# Seahawks — Week of 2026-04-04 to 2026-04-10
+# Seahawks — Week of 2026-04-11 to 2026-04-17
 
 ## Top Story
-As the Seahawks prepare to defend their Super Bowl LX crown, the front office faces the daunting task of reloading the roster with only four picks in the upcoming NFL Draft. To navigate this limited draft capital, General Manager John Schneider and Head Coach Mike Macdonald are aggressively exploring veteran acquisitions to fortify the defensive front and extend their championship window.
+The biggest development this week is the team's public coronation of Jaxon Smith-Njigba as the undisputed WR1 following significant offseason departures. This elevation was surprisingly accompanied by the bizarre but brilliant revelation that the Seahawks completely cured JSN's recurring hamstring issues by using advanced foot-scanning technology to downsize his cleats from a size 12 to a 10.5.
 
 ## News & Buzz
-**[Blockbuster Defensive Trade Rumors]** · [Seahawks Forever](https://seahawks.com/news)
-Rumors are heavily circulating that Seattle has inquired about acquiring elite edge rushers Myles Garrett and Kayvon Thibodeaux. Additionally, a massive fan proposal urging the team to trade a 2026 first-round pick for Giants All-Pro DT Dexter Lawrence to replace Boye Mafe has sparked intense community debate. Armed with healthy cap space but few draft picks, fans are torn on whether the team should pay the steep price for a veteran star or rely on the draft.
+**[Drafting at No. 32 & Prospect Visits]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
+Seattle currently holds the final pick of the first round, and the 12s are fiercely debating whether John Schneider will target mock draft favorites like Notre Dame's Jadarian Price, package picks for Ty Simpson, or trade back for more draft capital. Confirmed Top 30 pre-draft visits, like Iowa interior offensive lineman Beau Stephens, signal the front office's continued focus on fortifying the trenches. 
 
-**[Draft Preparation & Prospect Visits]** · [r/Seahawks](https://reddit.com/r/seahawks)
-With the draft officially just two weeks away, Seattle is ramping up prospect evaluations to address glaring roster holes at nose tackle, edge, outside cornerback, and running back. The team recently hosted Ohio State DT Kayden McDonald, Tennessee CB Colton Hood, and Texas A&M EDGE Cashius Howell for top 30 visits, while also meeting with Illinois QB Luke Altmyer. The prevailing community hope is to trade down and build a pragmatic draft class of reliable starters rather than chasing flashy, high-risk stars.
+**[Offseason Roster Turnover & Free Agent Visits]** · [Twitter/X](https://twitter.com/Seahawks)
+The reality of the NFL salary cap is hitting the defending champions hard, leading to the confirmed departures of stars like Tariq Woolen, Tyler Lockett, Kenneth Walker III, and Boye Mafe. Looking to replenish the defense, the team officially hosted durable 31-year-old veteran edge rusher Dante Fowler for a free-agent visit, while the fan community is actively campaigning to sign Kyle Van Noy to an affordable one-year deal.
 
-**[Sam Darnold's Double-Ring Year]** · [Official X](https://twitter.com/seahawks)
-Super Bowl LX winning quarterback Sam Darnold officially tied the knot with Katie Hoofnagle this week. Fans and official team accounts celebrated the mistake-free playoff legend with epic video montages, affectionately noting that he successfully secured "2 rings in one year".
+**[Super Bowl Afterglow]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
+Despite the heavy talent drain, fans remain intensely focused on celebrating the recent championship and are feeling nothing but gratitude for departing playoff heroes like offensive coordinator Klint Kubiak. A vocal segment of the fan base is also using the offseason downtime to argue that kicker Jason Meyers was robbed of Super Bowl MVP honors after his 17-point, record-breaking performance proved to be the definitive difference on the scoreboard.
 
-**[Roster Takes Shape Post-Free Agency]** · [r/Seahawks](https://reddit.com/r/seahawks)
-The 12s are thrilled that starting left tackle Charles Cross has been locked up, ensuring the core offensive line is set to run it back next season. Post-free agency depth charts also reflect new additions like RB Emanuel Wilson, CB Noah Igbinoghene, and safeties Rodney Thomas II and D'Anthony Bell, leading fans to praise the front office for properly prioritizing money on a fundamentally "stacked" roster.
+**[Community Buzz & Coach Macdonald]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
+Beyond the gridiron, the 12s are keeping busy by hunting for local indigenous artist-designed team flags and debating the controversial new release of NFL x Crocs Seahawks clogs. Head Coach Mike Macdonald is also making off-field waves, inspiring a young Asian fan's school project, sharing lighthearted Masters golf anecdotes, and drawing optimistic, early comparisons to Bill Belichick.
 
 ## 12s Pulse
-The fan community is still happily basking in the afterglow of a Super Bowl LX victory, constantly rewatching championship radio calls and praising Mike Macdonald's defensive masterclass. Despite the championship nostalgia, there is an anxious excitement bubbling about the upcoming draft, as 12s meticulously debate how to maneuver with limited capital and whether a big splash trade is necessary for a repeat title run.
+The overall mood among the 12s is a uniquely relaxed blend of immense championship catharsis and intense NFL Draft speculation. While there is an undercurrent of anxiety about replacing departing cornerstone players, fans are deeply thankful for the recent Super Bowl ring, confident in the remaining young core, and almost entirely consumed by debating trade-down scenarios from pick No. 32.

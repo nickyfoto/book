@@ -3,29 +3,27 @@ title: CNBC
 weight: 21
 bookCollapseSection: true
 categories: ["News"]
-tags: ["u.s.-iran conflict", "oil prices", "warren buffett", "apple", "artificial intelligence", "us-iran conflict", "oil markets", "stock market", "geopolitics", "interest rates", "corporate earnings", "real estate", "earnings", "federal reserve", "oil and gas", "inflation", "retail", "defense tech"]
+tags: ["geopolitics", "inflation", "energy", "artificial intelligence", "markets", "crude oil", "box office", "dividend stocks", "stock market", "corporate earnings", "oil prices", "earnings", "iran war", "federal reserve"]
 ---
 
-# CNBC — Week of 2026-04-04 to 2026-04-10
+# CNBC — Week of 2026-04-11 to 2026-04-17
 
 ## Story of the Week
-Global markets were dominated by the escalating U.S.-Iran conflict that choked the Strait of Hormuz, culminating in a fragile, Pakistan-brokered two-week ceasefire that temporarily triggered a massive 1,325-point relief rally in the Dow. However, the truce immediately showed deep cracks as Iran reportedly planned cryptocurrency tolls for ships, and physical spot prices for dated Brent crude hit a record $144 a barrel, highlighting the severe and ongoing disruption to the global energy supply chain.
+The collapse of U.S.-Iran peace talks in Pakistan triggered a massive U.S. naval blockade of the Strait of Hormuz, initially sending crude oil rocketing past $100 a barrel and sparking fears of a catastrophic global energy shock. However, equities staged a massive, counterintuitive rally to all-time highs as traders aggressively priced in a diplomatic resolution—a bet that began paying off by week's end when Israel and Lebanon agreed to a 10-day ceasefire and oil plunged back below $84. 
 
 ## Markets & Economics
-*   **[Consumer sentiment plunges to record low at 47.6]** · [CNBC](https://www.cnbc.com): Driven by a staggering 21.2% surge in gasoline prices, March headline inflation hit 3.3%, cementing fears of sticky inflation and cratering consumer confidence.
-*   **['Unnatural' disconnect between futures and physical oil market]** · [CNBC](https://www.cnbc.com): While WTI futures crashed 16% to $94.41 on ceasefire news, the physical spot price for dated Brent crude spiked above $144 due to acute, real-world supply scarcity at the Strait of Hormuz.
-*   **[March FOMC minutes confirm cut expectations]** · [CNBC](https://www.cnbc.com): The brief drop in oil futures shifted market expectations back toward Federal Reserve rate cuts, with implied odds jumping from 14% to 43% as policymakers maintain they will cut if inflation cooperates.
-*   **[U.S. fourth-quarter GDP revised down]** · [CNBC](https://www.cnbc.com): The U.S. economy is flashing stagflationary signals as Q4 GDP growth was revised sharply lower to a sluggish 0.5% annualized rate, while both CPI and PCE data point to persistently high price pressures.
-*   **[Robust March jobs report easily beats consensus]** · [CNBC](https://www.cnbc.com): Despite the geopolitical overhang, the U.S. economy added 178,000 jobs in March—easily beating the 59,000 estimate—and pushed the unemployment rate down to 4.3%.
+* **[S&P 500 Crosses 7,100 Amid Historic Tech Rally]** · [CNBC](#): Defying geopolitical gravity, the S&P 500 erased its war-induced losses to close at record highs, crossing 7,100 while the Nasdaq Composite notched a 13-session win streak—its longest uninterrupted rally since 1992.
+* **[Oil Plunges 12% as Middle East Tensions Thaw]** · [CNBC](#): West Texas Intermediate crude spiked above $103 on the U.S. blockade but plummeted nearly 12% to $83.85 after a temporary Israel-Lebanon ceasefire and Iran's declaration that the Strait of Hormuz was open to shipping.
+* **[Fed Grapples with Stagflation Risks]** · [CNBC](#): A hot March CPI print of 3.3% and war-driven supply shocks prompted Fed officials to warn that rate cuts could be delayed, with New York Fed President Williams explicitly citing stagflationary pressures and Governor Waller highlighting a stagnant labor market.
+* **[March Wholesale Prices Cool Unexpectedly]** · [CNBC](#): Providing a glimmer of disinflationary hope despite the energy shock, the Producer Price Index rose just 0.5% in March, easily beating the 1.1% consensus estimate and keeping prospects alive for eventual monetary easing.
 
 ## Business & Earnings
-*   **[CoreWeave CEO Intrator on company's debt load: 'Scaling is expensive']** · [CNBC](https://www.cnbc.com): The AI infrastructure arms race intensified as Meta committed $21 billion to cloud provider CoreWeave, which is simultaneously striking massive deals to power Anthropic's Claude models.
-*   **[SpaceX briefed bankers on plans for a record-breaking $75 billion IPO]** · [CNBC](https://www.cnbc.com): Following OpenAI's $852 billion private valuation, SpaceX confidentially filed for a record public offering that is expected to heavily prioritize retail investor allocation.
-*   **[United Airlines CEO Scott Kirby: I think fares will continue to go up in line with oil prices]** · [CNBC](https://www.cnbc.com): Surging jet fuel costs from the Middle East conflict are hammering the travel sector, forcing carriers like Delta to reduce capacity and American Airlines to hike basic economy bag fees to $55.
-*   **[Pershing Square offered a staggering $64.4 billion cash-and-stock takeover of Universal Music Group]** · [CNBC](https://www.cnbc.com): Activist investor Bill Ackman initiated a massive M&A play for Universal Music Group, sending UMG shares up 11%.
-*   **[Levi Strauss posts top- and bottom-line beat]** · [CNBC](https://www.cnbc.com): The apparel maker saw its shares surge 9% after raising guidance, noting that direct-to-consumer sales made up more than half of its total revenue for the first time in company history.
+* **Wall Street Banks Post Massive Trading Hauls**: JPMorgan Chase, Citigroup, Goldman Sachs, Bank of America, and Morgan Stanley delivered strong first-quarter beats, driven by surging equities trading and lucrative investment banking fees.
+* **Netflix Sinks on Weak Q2 Guidance**: The streaming giant's shares tumbled roughly 10% following a soft second-quarter earnings forecast and the announcement that co-founder Reed Hastings will step down from the board in June.
+* **Luxury Sector Battered by Middle East Conflict**: European luxury giants LVMH, Kering, and Hermes saw shares slide as the ongoing war dampened global consumer demand and led to disappointing Q1 sales growth.
+* **Tech Megadeals and AI Infrastructure Accelerate**: Amazon announced an $11.57 billion acquisition of Globalstar to challenge SpaceX's Starlink, Meta signed a multi-gigawatt AI chip deal with Broadcom, and AI chipmaker Cerebras filed for a high-profile IPO.
 
 ## Investing & Commentary
-*   **[Warren Buffett on Apple: I sold too soon]** · [CNBC](https://www.cnbc.com): The Oracle of Omaha admitted he pared down Berkshire Hathaway's massive Apple stake prematurely, but noted that despite his firm's $350 billion cash pile, recent market dips offer "nothing to make you excited".
-*   **[The market is too comfortable with uncertainty, says Jim Cramer]** · [CNBC](https://www.cnbc.com): Cramer warned investors have grown "incredibly overconfident" after the ceasefire rally, cautioning that sharp underperformance in discount retailers and credit issuers like Capital One signals severe U.S. consumer fatigue.
-*   **[The return of the hardware trade]** · [CNBC](https://www.cnbc.com): Jim Cramer declared that the "buy hardware, sell software" trade has returned with a vengeance, as AI infrastructure names crush enterprise software giants like Salesforce and Adobe.
+* **Private Credit Giants Dismiss Systemic Fears**: Addressing widespread ETF liquidity anxieties, Apollo CEO Marc Rowan and Blackstone's Joan Solotar aggressively defended the private credit market, dismissing systemic default risks as overblown and comparing the situation to "a piece of burnt toast" rather than a house on fire.
+* **Navigating the Tricky Market Rotation**: Jim Cramer cautioned against blindly chasing recent software stock rallies or speculative AI pivots, advising investors to trim overheated winners as the market enters a healthy digestion phase.
+* **Defensive Energy Plays Gain Favor**: With the Strait of Hormuz remaining a highly volatile chokepoint, Wall Street analysts highlighted high-yield domestic producers like Chord Energy and U.S. infrastructure plays like ONEOK for defensive portfolio stability.

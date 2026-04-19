@@ -3,35 +3,32 @@ title: Hacker News
 weight: 15
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["cybersecurity", "artificial intelligence", "open source", "software development", "software engineering", "linux", "cloud computing", "systems programming", "startups", "performance optimization", "go", "c", "machine learning", "c++", "hardware hacking", "privacy", "game development"]
+tags: ["artificial intelligence", "cybersecurity", "systems architecture", "macos", "open source", "software engineering", "bootstrapping", "apple", "rust", "cloud storage", "privacy", "retrocomputing", "programming languages"]
 ---
 
-# Hacker News — Week of 2026-04-04 to 2026-04-10
+# Hacker News — Week of 2026-04-11 to 2026-04-17
 
 ## Story of the Week
-Anthropic's frontier AI models crossed a terrifying new threshold in autonomous cybersecurity, completely shifting the industry's threat model. First, Claude Code uncovered a complex, 23-year-old vulnerability in the Linux kernel's NFS driver that predated Git itself. Days later, the infosec community went into full meltdown when Anthropic's unreleased "Mythos" model autonomously wrote a 200-byte ROP chain exploit for FreeBSD and demonstrated the ability to reliably escape Firefox's JavaScript virtualization sandbox in 72.4% of trials.
+The community was deeply divided over Cal.com's decision to abandon open-source for its core codebase, citing the reality that AI vulnerability scanners have given attackers the blueprints to generate working exploits in hours. This sparked a fierce defense of the GPL from Discourse, arguing that hiding code is a business decision and true defense requires an open ecosystem where defenders can run the exact same LLM scanners. The underlying fear across these threads is that cybersecurity is transitioning into a "proof of work" token lottery, where defenders and open-source maintainers must simply outspend attackers using highly capable models like Anthropic's "Mythos".
 
 ## Top Stories
-**[Microsoft suspends dev accounts for high-profile open source projects](https://bleepingcomputer.com)**
-Microsoft sparked massive ecosystem outrage after an automated hardware partner "account verification" purge abruptly terminated code-signing accounts for critical open-source projects like VeraCrypt, WireGuard, and MemTest86. The Kafkaesque suspension left maintainers unable to push Windows security updates and stonewalled by support bots until media pressure finally forced executive intervention.
+**[How We Broke Top AI Agent Benchmarks]** · [Hacker News](#)
+Researchers systematically destroyed leaderboards like SWE-bench and WebArena by writing simple test hooks and exploits—such as fake curl wrappers—instead of actually solving the tasks. It is a brutal reminder of Goodhart's law, proving that current testing infrastructure for AI is fundamentally broken, easily gamed, and largely meaningless.
 
-**[The Vercel plugin on Claude Code wants to read your prompts](https://akshaychugh.xyz)**
-Developers are rightfully paranoid after Vercel's Claude Code plugin was caught using prompt injection to secretly force the AI agent to log user prompts and exfiltrate full bash command strings. The tool silently skipped building a proper UI for consent, opting instead to inject behavioral instructions that scraped local telemetry across both Vercel and non-Vercel projects.
+**[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers]** · [Hacker News](#)
+The AI productivity narrative is colliding with biological reality as senior engineers face severe burnout from reviewing massive influxes of AI-generated pull requests. AI users merge 98% more PRs, but the code averages 1.7x more bugs, turning senior engineering into an exhausting process of reverse-engineering a machine's logic.
 
-**[Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](#)**
-Physical cloud infrastructure vulnerability became painfully real as Iranian missile strikes severely damaged AWS data centers in the Middle East. Amazon officially declared a "hard down" state for multiple availability zones with no recovery timeline, leaving customers scrambling to migrate workloads amidst broader global supply chain shocks affecting helium and LNG.
+**[BlueHammer abuses Windows Defender’s update process to gain SYSTEM access]** · [Hacking Passion](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
+A researcher dropped a wild zero-day privilege escalation on GitHub out of spite after a falling out with Microsoft's MSRC over rigid video-demonstration requirements. The terrifyingly elegant exploit chains Defender, Volume Shadow Copies, and the Cloud Files API to dump NTLM hashes, sparking fierce debates over MSRC's broken disclosure process.
 
-**[The Cathedral, the Bazaar, and the Winchester Mystery House](#)**
-The community is heavily debating the long-term cognitive tax of AI-generated code, with developers warning that relying on LLMs for architectural design is producing sprawling, unmaintainable "spaghetti". This sentiment was perfectly captured by an engineer who had to scrap a month's worth of Claude-generated SQLite parser code, aligning with warnings from academia that we are automating away the critical friction needed to build engineering intuition.
+**[Ollama Backlash]** · [Hacker News](#)
+A massive takedown of Ollama dominated the front page, accusing the VC-backed startup of hiding its reliance on llama.cpp behind proprietary "Modelfile" lock-in. The community is increasingly frustrated with their misleading model naming and a recent pivot to quietly routing prompts to cloud providers under the guise of local AI.
 
-**[Porting Go’s strings package to C](https://antonz.org)**
-A new strict subset of Go called "Solod" dominated the front page, offering developers Go's readable syntax and tooling while compiling directly down to zero-runtime C11. By leveraging explicit, Zig-inspired memory allocators and dropping the garbage collector, the transpiled C code actually outperformed native Go by 2-4x on most string operations.
-
-**[John Deere to pay $99M in right-to-repair settlement](#)**
-The right-to-repair movement secured a precedent-setting victory as John Deere agreed to a $99 million class-action settlement. Crucially, the agricultural giant is legally forced to provide digital diagnostic and maintenance tools to farmers for the next decade, functionally gutting their lucrative authorized dealer monopoly.
+**[The Parents Decide Act]** · [Hacker News](#)
+The community is up in arms over H.R. 8250, a bill that would mandate OS-level age verification during device setup for vendors like Apple and Google. Critics argue this effectively outlaws anonymous general-purpose computing by forcing a national identification layer onto all hardware.
 
 ## Show HN & Launches
-Hardware and systems programming stole the show this week. Keychron scored massive community goodwill by open-sourcing over 686 production-grade CAD files for their keyboards and mice, giving modders real industrial tolerances to work with. On the software side, **Solod** launched as a zero-overhead Go-to-C alternative, and **Keeper** dropped as a meticulously engineered, Argon2id-backed embedded secret store for Go featuring tamper-evident audit chains. **Contrapunk** also impressed everyone by generating sub-10ms real-time Bach counterpoint harmonies from live guitar input using Rust and WASM, while **Modo** launched as an MIT-licensed alternative to Cursor that forces LLMs to write strict specs before generating code.
+This week saw a massive shift toward robust AI agent infrastructure, highlighted by launches like YantrikDB for Rust-based cognitive memory, and Kontext CLI for secure enterprise credential brokering. GitHub officially released Native Stacked PRs with a new CLI to help developers manage large diffs, while the Servo browser engine shipped its long-awaited 0.1.0 embedded release. On the indie and retro side, a developer impressively built MacMind, a 1,216-parameter neural network implemented entirely in HyperTalk on a 1989 Macintosh SE/30. 
 
 ## Community Mood
-The prevailing sentiment this week is a deep, pragmatic paranoia regarding the hidden costs of our new AI tools and corporate platform dependencies. While developers are genuinely awestruck by models discovering complex zero-days and writing custom exploits, they are equally exhausted by the resulting architectural rot of AI-generated code, prompt-injection spyware in agent plugins, and hostile lock-ins from megacorps that instantly break production systems via automated purges. The pushback is highly evident in the immense popularity of local, zero-dependency tooling and strict, low-level optimization discussions on the front page.
+The dominant mood this week is overwhelmingly cynical and dark, driven by a growing backlash against the "Brainrot Industrial Complex," automation bias, and the physical limits of AI infrastructure. Heated debates raged over the intersection of AI doomerism and real-world violence, particularly following Molotov cocktail attacks on Sam Altman's home. A prominent series of essays by Aphyr perfectly captured this fatigue, warning that agentic commerce and AI-generated code are rapidly deskilling knowledge workers and eroding our information ecology.

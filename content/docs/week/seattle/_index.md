@@ -3,30 +3,29 @@ title: Seattle Local
 weight: 12
 bookCollapseSection: true
 categories: ["News", "Lifestyle"]
-tags: ["public safety", "state politics", "public transit", "community events", "housing", "transit", "crime", "weather", "wildlife", "local politics", "artificial intelligence", "city politics", "homelessness", "traffic", "community", "environment", "taxes", "travel", "sports"]
+tags: ["public health", "crime", "local business", "transit", "public safety", "affordable housing", "disaster relief", "weather", "traffic", "extreme weather", "city politics", "parks", "homelessness", "public transit", "severe weather", "sea-tac airport", "transportation", "artificial intelligence", "local sports"]
 ---
 
-# Seattle Local — Week of 2026-04-04 to 2026-04-10
+# Seattle Local — Week of 2026-04-11 to 2026-04-17
 
 ## Top Story
-Seattle Mayor Katie Wilson has unveiled aggressive plans to expand housing and shelter capacity across the city during her first 100 days in office. Her initiatives include accelerating zoning changes to build denser housing near public transit, alongside a request for $5 million to help stand up to 1,000 new shelter and emergency units by June. This rapid expansion is largely driven by preparations for an expected influx of 750,000 visitors ahead of the 2026 FIFA World Cup.
+Seattle is finalizing its massive public safety and logistics plan for the 2026 FIFA World Cup, an event expected to draw 750,000 visitors to the city. As part of the preparations, Mayor Katie Wilson announced that the city will not use CCTV cameras to proactively monitor crowds due to privacy concerns, activating them only if there is a specific, credible threat. To accommodate the influx of fans, local transit agencies and Washington State Ferries are already staffing up and preparing standby vessels.
 
 ## Local News
+**[Sound Transit Faces Pushback Over Everett Extension Delays]** · [KIRO 7](#) / [KOMO News](#)
+Facing escalating construction costs and a $34.5 billion budget deficit, Sound Transit is weighing plans to delay the 16-mile Everett light rail extension. The potential timeline shift, which could push completion from 2036 to between 2037 and 2041, has drawn sharp criticism from frustrated Snohomish County residents and Everett Mayor Cassie Franklin.
 
-**[Legal Challenges Mount Against Washington's 'Millionaires Tax'](#)** · [KOMO News](#)
-Opponents of Washington's newly passed high-earners income tax, led by the Citizen Action Defense Fund, have officially filed a lawsuit in Klickitat County. The plaintiffs argue the tax violates the state constitution, setting the stage for a major legal battle that will shape the future of Washington's tax policy.
+**[FEMA Approves Federal Disaster Aid for Winter Storms]** · [KOMO News](#)
+The Trump administration and FEMA have officially approved disaster assistance for Washington residents impacted by catastrophic late-2025 flooding and atmospheric rivers. The relief package provides funding for nearly 4,000 damaged homes, temporary housing grants, low-cost loans, and an extended IRS tax deadline for affected taxpayers.
 
-**[Gas Prices Near All-Time Highs Amid Global Conflict](#)** · [KOMO News](#) / [KIRO 7](#)
-The statewide average for regular gas has surged to $5.38 per gallon, with King County drivers paying a state-high of $5.68 due to the ongoing conflict in Iran. This intense financial pressure at the pump is driving many Washington residents to seek out cheaper fuel at local tribal gas stations, which operate under unique fuel tax agreements.
+**[Gas Works Park Climbing Structures Ordered Removed]** · [KIRO 7](#)
+Following a history of injuries and a recent fatal fall, the Department of Construction & Inspections has issued a hazard protection order requiring the removal of all ladders, catwalks, and stairways at the Gas Works Park towers by May 15. The city sidestepped a local landmarks preservation board to execute the order, citing severe safety concerns on the cracking structures.
 
-**[Surge in Gun Violence Rocks Belltown, Kent, and South Seattle](#)** · [KIRO 7](#) / [KOMO News](#)
-A string of violent incidents left multiple people dead or critically injured across the region this week, including an early morning shooting and robbery at a Belltown apartment and two fatal shootings in Kent's East Hill neighborhood. These events highlight a recent spike in violent crime that has prompted renewed police investigations and city-led sweeps of nearby drug-fueled encampments.
+**[Health Officials Warn of Widespread Measles Exposure]** · [KQES Chinese Public Radio](#)
+Public health officials have issued a risk alert regarding a potential measles exposure linked to an infant who was recently diagnosed after international travel. The baby may have exposed individuals at a hospital, a supermarket, a restaurant, and on public transit across Bellevue and northeast Seattle.
 
-**[SR 99 First Avenue South Bridge Plagued by Malfunctions](#)** · [KIRO 7](#) / [The Seattle Times](#)
-Commuters faced significant morning delays this week after the First Avenue South drawbridge became stuck open on multiple occasions due to ongoing electrical and structural issues. WSDOT maintenance crews are actively troubleshooting the disruptions and scrambling to complete major repairs on the bridge ahead of the upcoming FIFA World Cup.
-
-**[State Declares Drought Emergency as Gray Whale Deaths Surge](#)** · [KIRO 7](#)
-Washington officials have issued a statewide drought emergency following an exceptionally warm winter that cut the region's snowpack in half. Simultaneously, researchers are warning of a potential Arctic food crisis as seven gray whales have washed up dead in Washington waters this year, including a recent juvenile found in the Willapa River.
+**[China Issues Diplomatic Warning for Sea-Tac Airport]** · [The Seattle Times](#)
+China's consular affairs office issued a warning urging its citizens to exercise caution when entering the United States through Seattle-Tacoma International Airport. The diplomatic alert follows reports that 20 Chinese scholars holding valid visas faced "unreasonable questioning" and were subsequently denied entry by U.S. Customs and Border Protection.
 
 ## Community & Lifestyle
-Seattle residents enjoyed unseasonably warm 70-degree weather this week, perfectly timed for checking out the UW cherry blossoms and the debut of a bronze Ichiro Suzuki statue outside T-Mobile Park. In transit news, city leaders are celebrating an impressive surge in ridership driven by the new Crosslake Connection light rail connecting into Redmond, offering commuters a smoother ride as they navigate regional road closures. Meanwhile, the original FIFA World Cup trophy has arrived in Seattle, kicking off a global tour ahead of the city's June match at Lumen Field.
+The 2026 cruise season has officially kicked off, with the Port of Seattle anticipating a record year as tourists flock to the newly renovated Waterfront Park. After a week of "weather whiplash" that brought everything from late-season mountain snow to thunderstorms, residents can expect a beautiful sunny weekend with temperatures warming into the low 70s. It's a perfect opportunity to head north for the Skagit Valley Tulip Festival's peak bloom, or stay up Friday night for a chance to catch the northern lights.
