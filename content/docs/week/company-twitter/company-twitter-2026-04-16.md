@@ -1,6 +1,6 @@
 ---
 title: 2026-04-16
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "ai infrastructure", "open source ai", "robotics"]
 ---

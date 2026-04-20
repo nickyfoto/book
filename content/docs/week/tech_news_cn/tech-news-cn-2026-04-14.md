@@ -1,6 +1,6 @@
 ---
 title: 2026-04-14
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "open source", "cybersecurity", "consumer tech", "electric vehicles"]
 ---

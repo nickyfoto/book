@@ -1,6 +1,6 @@
 ---
 title: 2026-04-17
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["free games", "easter eggs", "horror games", "pc gaming"]
 ---
