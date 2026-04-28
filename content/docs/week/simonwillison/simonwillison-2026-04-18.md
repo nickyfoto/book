@@ -1,6 +1,6 @@
 ---
 title: 2026-04-18
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["prompt-engineering [1, 2]", "system-prompts [2, 3]", "claude [2, 3]", "coding-agents [1]", "generative-ai [1-3]"]
 ---

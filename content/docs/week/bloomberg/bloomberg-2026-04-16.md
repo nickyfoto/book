@@ -1,6 +1,6 @@
 ---
 title: 2026-04-16
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["middle east conflict", "global economy", "corporate earnings", "us politics"]
 ---

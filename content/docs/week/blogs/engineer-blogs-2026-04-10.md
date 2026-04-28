@@ -1,6 +1,6 @@
 ---
 title: 2026-04-10
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["software engineering", "artificial intelligence", "webassembly", "ethics", "internet culture"]
 ---

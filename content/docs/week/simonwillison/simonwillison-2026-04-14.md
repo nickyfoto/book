@@ -1,6 +1,6 @@
 ---
 title: 2026-04-14
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["cybersecurity", "ai", "datasette", "open-source"]
 ---
