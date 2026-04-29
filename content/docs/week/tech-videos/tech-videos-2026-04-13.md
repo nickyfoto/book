@@ -1,6 +1,6 @@
 ---
 title: 2026-04-13
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "high performance computing", "hardware", "cloud computing"]
 ---

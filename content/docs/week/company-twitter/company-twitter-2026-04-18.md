@@ -1,6 +1,6 @@
 ---
 title: 2026-04-18
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "startups", "india", "venture capital"]
 ---

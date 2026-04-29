@@ -1,6 +1,6 @@
 ---
 title: 2026-04-19
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["iran war", "strait of hormuz", "global markets", "energy", "geopolitics"]
 ---
