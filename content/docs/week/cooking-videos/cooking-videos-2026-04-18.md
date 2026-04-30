@@ -1,6 +1,6 @@
 ---
 title: 2026-04-18
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["cooking videos", "recipes", "culinary techniques", "food science", "meat preparation"]
 ---

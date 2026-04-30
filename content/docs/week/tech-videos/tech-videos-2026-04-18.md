@@ -1,6 +1,6 @@
 ---
 title: 2026-04-18
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software engineering", "cloud computing", "hardware", "ai agents"]
 ---
