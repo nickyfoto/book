@@ -1,6 +1,6 @@
 ---
 title: 2026-04-15
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "hardware", "web development", "product management"]
 ---
