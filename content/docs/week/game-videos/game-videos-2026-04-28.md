@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "minecraft news", "tnt", "shorts"]
 ---

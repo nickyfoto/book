@@ -1,6 +1,6 @@
 ---
 title: 2026-04-17
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "datasette", "pycon", "artificial intelligence"]
 ---

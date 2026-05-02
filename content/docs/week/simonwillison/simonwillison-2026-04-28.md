@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai [1-3]", "python [2]", "llms [1, 3]", "vibe-coding [2]", "prompt-engineering [3]"]
 ---
