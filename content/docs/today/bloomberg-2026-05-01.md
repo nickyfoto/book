@@ -1,0 +1,33 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["iran blockade", "oil prices", "central banks", "apple", "tariffs"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-05-01
+
+## Lead Story
+US President Donald Trump is maintaining a strict naval blockade on Iran, driving a massive energy shock across the global economy as the Strait of Hormuz remains completely shut. The ongoing military standoff has propelled Brent crude past $126 a barrel, prompting Big Oil CEOs to warn of a supply "cliff's edge" and forcing central banks worldwide to pivot back toward near-term rate hikes to combat resurging inflation. This twin dynamic of soaring fuel costs and geopolitical gridlock is increasingly clashing with the opposing deflationary and growth forces of the global AI boom, creating brutal crosscurrents for investors.
+
+## Markets & Economics
+* **[Japan Likely Spent About $34.5 Billion on Yen Intervention](https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen)**: The Japanese government deployed an estimated $34.5 billion in its first currency market intervention since 2024 to aggressively prop up the yen. However, analysts warn the rally is at risk of evaporating quickly as higher energy prices create severe headwinds for the import-reliant economy.
+* **[Fed’s Kashkari and Hammack Say War Has Changed Rate Outlook](https://www.bloomberg.com/news/articles/2026-05-01/fed-s-kashkari-and-hammack-say-war-has-changed-rate-outlook)**: Division is brewing at the Federal Reserve, with regional presidents Neel Kashkari and Beth Hammack issuing rare separate statements to explain their dissents over this week’s policy. Both argued that the inflationary pressures of the Middle East conflict make it entirely inappropriate for the central bank to signal that an interest-rate cut is still the likely next move.
+* **[Nagel Favors ECB June Hike Unless Outlook Improves Markedly](https://www.bloomberg.com/news/articles/2026-05-01/nagel-favors-ecb-june-rate-hike-unless-outlook-improves-markedly)**: European Central Bank officials are turning hawkish in the wake of the energy shock, with Bundesbank President Joachim Nagel and outgoing Governing Council member Madis Muller warning that borrowing costs will likely need to be increased in June if the Iran crisis persists. 
+
+## Business & Industries
+* **[Apple Sales Forecast Tops Estimates Even as Mac Shortages Linger](https://www.bloomberg.com/news/newsletters/2026-05-01/apple-sales-forecast-tops-estimates-even-as-mac-shortages-linger)**: Apple Inc. capped off a blockbuster week of mega-cap earnings by delivering a surprisingly robust revenue forecast. The tech giant's growth engine is powering ahead despite ongoing MacBook supply constraints.
+* **[Chevron Blows Away Estimates on War-Driven Surge in Oil Prices](https://www.bloomberg.com/news/articles/2026-05-01/chevron-blows-away-estimates-on-war-driven-surge-in-oil-prices)**: Both Chevron Corp. and Exxon Mobil Corp. demolished first-quarter profit expectations as the geopolitical premium on crude lifted the sector. Higher global oil and natural gas prices comfortably outweighed the companies' production outages and supply losses stemming from the Middle East conflict.
+* **[Spirit Airlines Prepares to Shut Down as Talks Fail](https://www.bloomberg.com/news/articles/2026-05-01/spirit-airlines-prepares-to-shut-down-as-talks-fail-wsj-says)**: Shares of Spirit Aviation Holdings plunged as much as 74% following reports that the carrier is laying the groundwork to cease operations overnight. The distressed airline is running dangerously low on cash after bailout negotiations with the US government fizzled out. 
+* **[AI Chipmaker Cerebras Is Said to Target Up to $4 Billion in IPO](https://www.bloomberg.com/news/articles/2026-05-01/ai-chipmaker-cerebras-is-said-to-target-up-to-4-billion-in-ipo)**: Capitalizing on explosive data center demand, artificial intelligence chipmaker Cerebras Systems Inc. is seeking to raise as much as $4 billion in an upcoming initial public offering. 
+
+## Policy & World
+* **[Trump Says US to Raise Tariff Rate on EU Cars, Trucks to 25%](https://www.bloomberg.com/news/articles/2026-05-01/trump-says-us-to-raise-tariff-rate-on-eu-cars-trucks-to-25)**: Escalating a separate trade dispute, President Trump announced he will increase tariffs on European Union automobiles to 25%. Trump claims the bloc has failed to fully comply with negotiated trade agreements, drawing swift condemnation from the EU Parliament.
+* **[Pentagon Orders Withdrawal of About 5,000 Troops From Germany](https://www.bloomberg.com/news/articles/2026-05-01/us-plans-to-pull-about-5-000-troops-from-germany-cbs-reports-monfe33s)**: Following through on prior threats, the US has ordered the drawdown of roughly 5,000 military personnel from Germany. The pullback reflects boiling frustrations with NATO allies and deep personal tensions between Washington and Berlin over the White House's strategy in Iran.
+* **[Venezuela Oil Exports Hit 1 Million Barrels a Day in Post-Maduro Era](https://www.bloomberg.com/news/articles/2026-05-01/venezuela-oil-exports-hit-1-million-b-d-in-post-maduro-era)**: Less than six months after the ouster of Nicolas Maduro, Venezuela's crude exports have surged past 1 million barrels a day. The rapid normalization of ties has prompted global trading houses like Mercuria to ink new mining deals, while American Airlines has officially resumed commercial flights to Caracas.
+
+## Opinion & Analysis
+* **[How Taiwan Became the World’s Most Perilous Geopolitical Chokepoint](https://www.bloomberg.com/news/articles/2026-05-01/will-china-and-taiwan-go-to-war-can-the-us-prevent-a-conflict)**: The ongoing closure of the Strait of Hormuz has proven how quickly theoretical chokepoints can paralyze the global economy. Eyck Freymann writes that policymakers should be losing sleep over the ultimate hypothetical flashpoint: a conflict over Taiwan that would sever the world's most critical technological supply chain.
+* **[Apple Is Winning the AI Spending Game by Not Playing It](https://www.bloomberg.com/opinion/articles/2026-05-01/apple-earnings-iphone-maker-is-winning-the-ai-spending-game-by-not-playing-it)**: While its Silicon Valley rivals burn billions on massive infrastructure buildouts, Apple is emerging as the ultimate "pick-and-shovel" seller of the AI gold rush. The iPhone maker's strategy of sitting out the heaviest capital expenditures is proving to be a highly lucrative, risk-averse play.
