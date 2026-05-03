@@ -1,6 +1,6 @@
 ---
 title: 2026-04-17
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "emergent behavior", "drumming", "engineering craft"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-29
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["federal reserve", "oil markets", "artificial intelligence", "private equity", "us supreme court"]
 ---
