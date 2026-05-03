@@ -3,29 +3,32 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["sqlite", "sql", "tools", "webassembly", "mlx", "gemma", "speech-to-text", "uv", "llms", "rust", "ai-assisted-programming", "cybersecurity", "ai", "datasette", "open-source", "gemini", "zig", "apple", "ai-ethics", "claude", "local-llms", "vibe-coding", "python", "pycon", "artificial intelligence"]
+tags: ["prompt-engineering [1, 2]", "system-prompts [2, 3]", "claude [2, 3]", "coding-agents [1]", "generative-ai [1-3]", "apis", "ai", "saas", "salesforce", "speech-to-text", "microsoft", "openai", "translation", "mlx", "ai [1-3]", "python [2]", "llms [1, 3]", "vibe-coding [2]", "prompt-engineering [3]", "python", "llm", "generative-ai", "projects", "ai-assisted-programming", "open-source", "zig", "llms", "coding-agents", "inaturalist", "claude-code", "tools"]
 ---
 
-# Simon Willison — Week of 2026-04-11 to 2026-04-17
+# Simon Willison — Week of 2026-04-18 to 2026-05-01
 
 ## Highlight of the Week
-This week's most striking revelation came from Simon's infamous "pelican riding a bicycle" SVG generation benchmark, where a 21GB quantized local model (Qwen3.6-35B-A3B) unexpectedly outperformed Anthropic's brand-new Claude Opus 4.7 flagship. Running locally on a MacBook Pro via LM Studio, Qwen generated a better bicycle frame and even won a secret unicycle backup test, leading Simon to conclude that his joke benchmark's long-standing correlation with general model utility has finally broken down.
+The alpha release of `llm 0.32a0` marks a foundational architectural pivot for Simon's ecosystem of CLI tools. By moving away from a simple text-in/text-out abstraction to one that natively models complex message sequences and typed streams, the library is now future-proofed to handle the realities of modern frontier models. This opens the door for seamless integration of server-side tool calls, multi-modal inputs, and reasoning tokens.
 
 ## Key Posts
-**[SQLite 3.53.0 and Query Result Formatter Demo]** · [Source](#)
-Simon highlighted the release of SQLite 3.53.0, which brings highly anticipated native `ALTER TABLE` constraint improvements for adding and removing `NOT NULL` and `CHECK` constraints. To experiment with the new Query Results Formatter library, he used Claude Code on his phone to compile the C library into WebAssembly, immediately dropping a working UI playground for developers to test the rendering options directly in the browser.
+**[Changes in the system prompt between Claude Opus 4.6 and 4.7]** · [Source](url)
+Simon analyzed the hidden diffs in Anthropic's Claude Opus 4.7 system prompt, uncovering fascinating tweaks to its safety wrappers and instructions designed to make the model less verbose. He also identified a new native knowledge cutoff of January 2026 and extracted 23 hidden UI tools by directly prompting the model about its own capabilities.
 
-**[Cybersecurity Looks Like Proof of Work Now]** · [Source](#)
-Reacting to the UK AI Safety Institute's model evaluations, Simon explored the paradigm shift of treating vulnerability discovery as an economic "proof of work" equation where spending more tokens yields better system hardening. He argued that this dynamic actually increases the long-term value of open-source software, as the immense token costs required for AI security reviews can be distributed among all of a project's users.
+**[Headless everything for personal AI]** · [Source](url)
+A compelling look into the "Second Wave of the API-first Economy," driven by AI agents that require programmable access rather than awkward GUI interfaces. Simon examines the implications for per-seat SaaS pricing as industry giants like Salesforce pivot to "headless" models to accommodate non-human agents operating via APIs.
 
-**[Gemini 3.1 Flash TTS]** · [Source](#)
-When Google released the audio-only Gemini 3.1 Flash TTS API, Simon noted its highly unusual prompting guide. True to his rapid-prototyping ethos, he immediately used Gemini 3.1 Pro to "vibe code" a custom UI to stress-test the model by prompting for charismatic Newcastle and Exeter regional accents.
+**[Introducing talkie: a 13B vintage language model from 1930]** · [Source](url)
+This post explores a fascinating "vegan model" trained entirely on 260 billion tokens of pre-1931 public domain text. It raises excellent questions about data purity and the difficulty of preventing anachronistic contamination when fine-tuning historically constrained models using modern AI tools like Claude Sonnet and Opus.
 
-**[Join us at PyCon US 2026 in Long Beach]** · [Source](#)
-Highlighting the deep integration of AI into the core Python community, Simon shared the newly added AI and Security tracks for PyCon US 2026. He used Claude Code to scrape and format the schedule, pointing out highly relevant upcoming sessions on local LLM quantization, browser-based inference, and async agent patterns.
+**[The Zig project’s rationale for their firm anti-AI contribution policy]** · [Source](url)
+An insightful breakdown of the cultural clash between AI-generated code and open-source sustainability. Simon highlights Loris Cro's "contributor poker" concept, arguing that maintainer review time spent on LLM-assisted code fails to cultivate the human trust and mentorship necessary for a project's long-term survival. 
+
+**[iNaturalist Sightings]** · [Source](url)
+A brilliant showcase of Simon's rapid-prototyping architecture, built entirely on his phone while camping using Claude Code for web. He chained together a Python CLI, Git scraping, and an AI-generated static frontend to create a highly functional, CORS-friendly personal utility that clusters his wildlife observations.
 
 ## Project Updates
-The Datasette ecosystem saw a major architectural shift with the `1.0a27` alpha release, which replaces legacy Django-style CSRF form tokens with modern `Sec-Fetch-Site` browser headers. This core update cascaded into necessary patches for his local tooling, including `datasette-export-database 0.3a1`, and was quickly followed by `1.0a28` to fix accidental breakages and prevent file descriptor exhaustion using a new `datasette.close()` method. Additionally, Simon released `llm-anthropic 0.25` to support the new `claude-opus-4.7` model, adding new boolean options and maximizing default token limits.
+Simon's major release this week was the `llm 0.32a0` alpha, which refactors the library to process inputs as a sequence of conversational messages and outputs as a stream of typed message parts. Developers can utilize new `llm.user()` and `llm.assistant()` builder functions to cleanly feed in conversation history, while CLI users gain a `-R/--no-reasoning` flag to suppress thinking tokens. He quickly followed up with `llm 0.32a1` to patch a bug that was preventing tool-calling conversations from correctly reinflating from the SQLite storage layer.
 
 ## Themes
-A dominant theme this week is the frictionless acceleration of "vibe-coding" small, sharp tools using AI sidekicks like Claude Code and Claude Artifacts. Simon demonstrated using these tools to rapidly compile WebAssembly from C, prototype Rust CLIs, write Datasette bug fixes, and generate YAML preview interfaces. Another clear thread is the ongoing convergence of high-powered local and cloud AI, as he fluidly shifted between testing models like Gemma 4 and Qwen3.6 natively on Apple Silicon to leveraging cutting-edge APIs from Anthropic and Google.
+The overarching theme of the week is the friction and transformation brought by "agentic engineering". Simon continuously explored how AI agents are changing the mechanics of software—ranging from headless APIs and automated `Claude Code` deployment loops to the cultural pushback from open-source communities navigating the "digital smell" of AI-assisted code. Additionally, audio and speech processing was a strong recurring interest, highlighted by local VibeVoice diarization experiments on Apple Silicon and observations of Google Meet's alpha real-time translations.

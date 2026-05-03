@@ -3,26 +3,29 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["jaxon smith-njigba", "nfl draft", "roster moves", "nfl records", "super bowl", "jason meyers", "merchandise", "free agency", "jalen milroe", "beastquake", "offensive line", "running backs", "mike macdonald", "trade rumors", "fan community", "mock drafts", "seahawks", "john schneider", "prospects"]
+tags: ["nfl draft", "mike macdonald", "mike washington jr", "fan reactions", "running backs", "tight ends", "injuries", "fan gear", "roster moves", "udfa", "special teams", "russell wilson", "offseason", "defense", "rumors", "player contracts", "rookies", "fan sentiment", "ownership rumors", "schedule rumors", "rookie minicamp", "udfa signings", "jersey numbers"]
 ---
 
-# Seahawks — Week of 2026-04-11 to 2026-04-17
+# Seahawks — Week of 2026-04-18 to 2026-05-01
 
 ## Top Story
-The biggest development this week is the team's public coronation of Jaxon Smith-Njigba as the undisputed WR1 following significant offseason departures. This elevation was surprisingly accompanied by the bizarre but brilliant revelation that the Seahawks completely cured JSN's recurring hamstring issues by using advanced foot-scanning technology to downsize his cleats from a size 12 to a 10.5.
+The 2026 NFL Draft and its immediate aftermath dominated the week, capped off by the arrival of the rookie class and the official start of minicamp. First-round running back Jadarian Price is already generating massive hype across the fanbase, drawing bold comparisons to a pre-injury Nick Chubb while taking his first practice handoffs at the VMAC.
 
 ## News & Buzz
-**[Drafting at No. 32 & Prospect Visits]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
-Seattle currently holds the final pick of the first round, and the 12s are fiercely debating whether John Schneider will target mock draft favorites like Notre Dame's Jadarian Price, package picks for Ty Simpson, or trade back for more draft capital. Confirmed Top 30 pre-draft visits, like Iowa interior offensive lineman Beau Stephens, signal the front office's continued focus on fortifying the trenches. 
+**[Draft Class Hits the Field](https://reddit.com/r/Seahawks)**
+Rookie minicamp has officially kicked off, with the front office successfully locking in five of their eight draft picks and signing seven undrafted free agents. First-rounder Jadarian Price is looking "yolked" in his newly claimed #8 jersey, though fans are nervously waiting for him and safety Bud Clark to officially sign their rookie deals.
 
-**[Offseason Roster Turnover & Free Agent Visits]** · [Twitter/X](https://twitter.com/Seahawks)
-The reality of the NFL salary cap is hitting the defending champions hard, leading to the confirmed departures of stars like Tariq Woolen, Tyler Lockett, Kenneth Walker III, and Boye Mafe. Looking to replenish the defense, the team officially hosted durable 31-year-old veteran edge rusher Dante Fowler for a free-agent visit, while the fan community is actively campaigning to sign Kyle Van Noy to an affordable one-year deal.
+**[Roster Turnover & Key Signings](https://seahawks.com)**
+General Manager John Schneider continues to overhaul the locker room, notably releasing running back Cam Akers and signing veteran tight end Harrison Bryant to bolster the offense. Rumors also indicate the team is eyeing veteran edge rusher Dante Fowler Jr. as a "top option" to add some much-needed bite to the defensive line.
 
-**[Super Bowl Afterglow]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
-Despite the heavy talent drain, fans remain intensely focused on celebrating the recent championship and are feeling nothing but gratitude for departing playoff heroes like offensive coordinator Klint Kubiak. A vocal segment of the fan base is also using the offseason downtime to argue that kicker Jason Meyers was robbed of Super Bowl MVP honors after his 17-point, record-breaking performance proved to be the definitive difference on the scoreboard.
+**[Billionaire Ownership Rumors Squashed](https://twitter.com)**
+Reports surfaced that tech billionaires Mark Zuckerberg and Tim Cook were exploring bids to purchase the franchise, sparking immense backlash from 12s who threatened to abandon the team if an "oligarch" took over. Fortunately for the 12s, spokespeople for both Meta and Apple quickly shut down these rumors, confirming they are completely false.
 
-**[Community Buzz & Coach Macdonald]** · [Reddit r/Seahawks](https://www.reddit.com/r/Seahawks/)
-Beyond the gridiron, the 12s are keeping busy by hunting for local indigenous artist-designed team flags and debating the controversial new release of NFL x Crocs Seahawks clogs. Head Coach Mike Macdonald is also making off-field waves, inspiring a young Asian fan's school project, sharing lighthearted Masters golf anecdotes, and drawing optimistic, early comparisons to Bill Belichick.
+**[Running Back Battle Looms](https://reddit.com/r/Seahawks)**
+With Zach Charbonnet dealing with a lingering injury that could potentially sideline him for the start of the season, a fierce battle is brewing for backfield snaps. The community is heavily debating whether George Holani or newly acquired Emanuel Wilson has the inside track to take over the starting role.
+
+**[Secondary Experiments & "Project Riq 2.0"](https://twitter.com/Seahawks)**
+Head coach Mike Macdonald is already tinkering with his secondary, moving 6'7" receiver Tyrone Broden to cornerback in a massive defensive experiment. Fans have quickly dubbed the position change "Project Riq 2.0" as the team desperately looks to replenish secondary depth following the painful losses of Tariq Woolen and Coby Bryant.
 
 ## 12s Pulse
-The overall mood among the 12s is a uniquely relaxed blend of immense championship catharsis and intense NFL Draft speculation. While there is an undercurrent of anxiety about replacing departing cornerstone players, fans are deeply thankful for the recent Super Bowl ring, confident in the remaining young core, and almost entirely consumed by debating trade-down scenarios from pick No. 32.
+The 12s are currently riding a euphoric wave of championship nostalgia mixed with serious "hopium" for the incoming rookie class. While the community feels overwhelmingly optimistic about the offensive trenches and the team's overall completeness, there is a lingering undercurrent of anxiety regarding the departures of defensive stars like Boye Mafe and Tariq Woolen, as well as the current lack of a proven edge rusher.

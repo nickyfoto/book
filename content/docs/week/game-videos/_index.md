@@ -3,26 +3,26 @@ title: Gaming Videos
 weight: 18
 bookCollapseSection: true
 categories: ["Youtube", "Tech"]
-tags: ["steam", "pc gaming", "game sales", "free games", "steam sales", "game recommendations", "minecraft", "gaming memes", "survival", "shorts", "memes", "gaming", "sales", "roguelike", "gta online", "game updates", "easter eggs", "horror games"]
+tags: ["gta online", "minecraft", "game updates", "free games", "easter eggs", "horror games", "pc gaming", "jeb", "elytra", "gaming challenge", "steam", "game sales", "gaming news", "minecraft news", "tnt", "shorts", "gaming", "diy", "sales"]
 ---
 
-# The Patient Gamers' Feast & GTA's Trippy 420 Event — Week of 2026-04-07 to 2026-04-17
+# The Patient Gamer's Victory & IRL Invisible Cars — Week of 2026-04-16 to 2026-05-01
 
 ## Week in Review
-This week was an absolute goldmine for budget-conscious PC players, with a continuous stream of massive Steam historical low discounts and epic free game giveaways headlining the conversation. Meanwhile, Rockstar Games brought the high-stakes, psychedelic holiday spirit to Los Santos, while the *Minecraft* community kept our daily feeds populated with quick, relatable bite-sized survival memes.
+This week heavily catered to the "patient gamer" with massive deal roundups and freebie alerts dominating the news cycle, proving that waiting for deep discounts pays off. Alongside the barrage of PC gaming bargains, we saw a fantastic mix of quirky *Minecraft* developer challenges and highly creative IRL maker projects from bilingual creators. 
 
 ## Top Stories
-**The Golden Age for Patient Gamers**
-Over the past week, multiple deal-hunting digests—such as [等等党大勝利！曾經爆火的超級神作，時隔1年開啟新史低背刺！Steam史低遊戲推薦 4.9-4.20](#) and [等等党大勝利！肉鴿神作時隔半年新史低骨折背刺！眾佳作集體打骨折！Steam史低遊戲推薦 4.15-4.27](#)—highlighted incredible new historical low prices on Steam. From an explosive mega-hit game hitting a bottom-barrel price to a top-tier roguelike masterpiece slashing its cost, "patient gamers" (等等黨) were treated to heavy discounts and rapid-fire purchasing guides. 
+**Patient Gamers Score Massive PC Deals**
+Across multiple updates this week, deal hunters were treated to a flood of new historical lows and limited-time freebies across Steam, Epic Games Store, and Amazon. From claiming heavy hitters like *Total War: Three Kingdoms*, *Tiny Tina's Wonderlands*, and *Diablo 4* on Chinese servers in [【免費白嫖1628】喜加二十三！](#) to the May Day specials featured in [等等党大勝利！G胖：五一快樂！](#), holding off on day-one purchases has proven incredibly lucrative. If you want to pad your backlog without draining your wallet, these rapid-fire roundups—which thoughtfully include skip-to-summary timestamps—are absolute must-watches.
 
-**A Massive Giveaway Extravaganza**
-Freebies dominated the latter half of the week, culminating in an epic alert via [【免費白嫖1628】喜加二十三！大膽！百元神作突然白給！眾佳作限時領取！Steam 和 Epic等全平臺收集 4.17](#) that directed gamers to 23 limited-time free titles across Steam, Epic Games Store, and Amazon. Heavy hitters like *Total War: Three Kingdoms*, *Tiny Tina's Wonderlands*, *Thunder Tier One*, and a free trial period for *Diablo 4* on Chinese servers were up for grabs, making it an essential week to pad the backlog without spending a dime.
+**Minecraft's Quirky Challenges & Explosive Shorts**
+The *Minecraft* community delivered an entertaining mix of bizarre gameplay twists and rapid-fire updates. The absolute standout is [JEB’S BIGGEST CHALLENGE EVER | Spawn Point Stories](#), a hilarious 5-minute watch where lead designer Jeb hunts for an elytra while enduring an absurd restriction of constant crouching. Combine that with the punchy, 34-second [BOOMING NEWS IN MINECRAFT!](#) covering TNT mechanics and a quick showcase on base security, and it's been a great week for bite-sized blocky content.
 
-**GTA Online Gets Trippy for 420**
-Rockstar Games celebrated the holiday in full force by rolling out the [LD Organics Presents: The 420 Event in GTA Online](#) trailer, bringing a brand-new Stoner Survival mode packed with visual hallucinations and increasingly unhinged enemies. The update injected Los Santos with massive 4X rewards on Hunting Pack (Get Lamar), double payouts on Short Trips, weed farm discounts, and the highly anticipated return of the psychedelic Peyote Plants.
+**Creative Deep Dives & IRL Builds**
+For gamers seeking longer-form, out-of-the-box content, creators stepped up with impressive projects. 小宁子 XNZ brought gaming culture into the real world with her wildly creative 10-minute DIY video, [我们做了一台隐形车](#), where she literally built a camouflage vehicle for her Taobao shop. Meanwhile, the excellent 25-minute analysis [毛骨悚然！再盘点 10 大最逆天的恐怖彩蛋【第九期】](#) is essential viewing if you love developer secrets, showcasing terrifying out-of-bounds Easter eggs in major titles like *Kingdom Come: Deliverance 2*, *Dying Light: The Beast*, and *Ghostwire: Tokyo*.
 
-**Unearthing Gaming's Creepiest Easter Eggs**
-For those who love hunting secrets, a wonderfully curated 25-minute deep dive titled [毛骨悚然！再盘点 10 大最逆天的恐怖彩蛋【第九期】（天国拯救2、消逝的光芒困兽、战火兄弟连、幽灵线东京等等）](#) explored the most terrifying hidden developer Easter eggs. The ninth episode of this compilation spanned major releases like *Kingdom Come: Deliverance 2*, *Dying Light: The Beast*, and *Ghostwire: Tokyo*, offering a spooky, out-of-bounds detour from the week's usual sales and updates.
+**GTA Online's High-Stakes Psychedelic Update**
+Rockstar Games celebrated the 4/20 holiday in full force with the [LD Organics Presents: The 420 Event in GTA Online](#) trailer. The update is entirely worth checking out for the trippy new Stoner Survival mode packed with visual hallucinations, alongside massive 4X rewards at the new Hunting Pack location.
 
 ## Patterns
-A distinct pattern this week was the daily influx of lightning-fast, bite-sized *Minecraft* shorts—such as [WHAT TYPE OF DOG OWNER ARE YOU?](#), [MY MORNING ROUTINE STARTS WITH...](#), [NOPE.](#), and [IF 2 + 2 is 4... THEN?](#)—delivering brief, punchy survival memes to break up larger news drops. Additionally, creators covering Steam sales are increasingly catering to busy viewers by providing official "TL;DW" (省流) rapid-fire summary timestamps in their deal breakdowns, acknowledging that deal hunters want their recommendations to be as fast as the purchases themselves.
+A dominant, developing thread this week is the rise of the "等等党" (patient gamers) narrative, with multiple creators highlighting how base price hikes are actively offset by aggressive, new historical-low discounts. Furthermore, video formatting is polarizing into two distinct extremes: hyper-fast 20-to-30-second shorts that deliver instant gratification, contrasted sharply against elaborate 10-to-25-minute deep dives and IRL maker projects.

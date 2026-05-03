@@ -3,29 +3,32 @@ title: Seattle Local
 weight: 12
 bookCollapseSection: true
 categories: ["News", "Lifestyle"]
-tags: ["public health", "crime", "local business", "transit", "public safety", "affordable housing", "disaster relief", "weather", "traffic", "extreme weather", "city politics", "parks", "homelessness", "public transit", "severe weather", "sea-tac airport", "transportation", "artificial intelligence", "local sports"]
+tags: ["sea-tac airport", "transportation", "artificial intelligence", "weather", "local sports", "crime", "politics", "community", "city politics", "public safety", "traffic", "local government", "lawsuits", "utilities", "protests", "education", "sports", "gas prices", "public health"]
 ---
 
-# Seattle Local — Week of 2026-04-11 to 2026-04-17
+# Seattle Local — Week of 2026-04-17 to 2026-05-01
 
 ## Top Story
-Seattle is finalizing its massive public safety and logistics plan for the 2026 FIFA World Cup, an event expected to draw 750,000 visitors to the city. As part of the preparations, Mayor Katie Wilson announced that the city will not use CCTV cameras to proactively monitor crowds due to privacy concerns, activating them only if there is a specific, credible threat. To accommodate the influx of fans, local transit agencies and Washington State Ferries are already staffing up and preparing standby vessels.
+A massive fight at Tacoma's Foss High School escalated into a stabbing that sent six people, including five students and a security guard, to the hospital with injuries. Authorities have taken a 16-year-old student into custody following the altercation, which reportedly stemmed from a dispute over a vape pen, prompting a campus lockdown and subsequent school closure on Friday as the investigation continues.
 
 ## Local News
-**[Sound Transit Faces Pushback Over Everett Extension Delays]** · [KIRO 7](#) / [KOMO News](#)
-Facing escalating construction costs and a $34.5 billion budget deficit, Sound Transit is weighing plans to delay the 16-mile Everett light rail extension. The potential timeline shift, which could push completion from 2036 to between 2037 and 2041, has drawn sharp criticism from frustrated Snohomish County residents and Everett Mayor Cassie Franklin.
+**[Washington Gas Prices Reach Record Highs](#)** · [KIRO 7](#)
+Washington state is experiencing a severe spike at the pump, with the Seattle metro area average reaching a record-high of $5.80 per gallon this week. The surge, driven by global crude oil prices, the Russian invasion of Ukraine, and heavy state taxes, has surpassed the previous record set in June 2022 and is rapidly accelerating local electric vehicle adoption.
 
-**[FEMA Approves Federal Disaster Aid for Winter Storms]** · [KOMO News](#)
-The Trump administration and FEMA have officially approved disaster assistance for Washington residents impacted by catastrophic late-2025 flooding and atmospheric rivers. The relief package provides funding for nearly 4,000 damaged homes, temporary housing grants, low-cost loans, and an extended IRS tax deadline for affected taxpayers.
+**[Washington State Sues GEO Group Over Northwest ICE Processing Center](#)** · [FOX 13](#)
+Governor Bob Ferguson and Attorney General Nick Brown have filed a lawsuit against the GEO Group to force health inspections at the Northwest ICE Processing Center in Tacoma. The state requested a preliminary injunction after private facility operators denied state health inspectors entry nine times, ignoring a federal lawsuit that permits access despite thousands of complaints from detainees.
 
-**[Gas Works Park Climbing Structures Ordered Removed]** · [KIRO 7](#)
-Following a history of injuries and a recent fatal fall, the Department of Construction & Inspections has issued a hazard protection order requiring the removal of all ladders, catwalks, and stairways at the Gas Works Park towers by May 15. The city sidestepped a local landmarks preservation board to execute the order, citing severe safety concerns on the cracking structures.
+**[Seattle Public Schools to Implement Districtwide Cellphone Ban](#)** · [FOX 13](#)
+Seattle Public Schools will enforce a new districtwide cellphone ban starting May 4 to restrict personal device access during instructional time. The policy requires K-8 students to keep devices "Off And Away for the Day" and implements a "No Cell Bell to Bell" procedure for high schools, which Superintendent Ben Shuldiner confirmed does not require board approval.
 
-**[Health Officials Warn of Widespread Measles Exposure]** · [KQES Chinese Public Radio](#)
-Public health officials have issued a risk alert regarding a potential measles exposure linked to an infant who was recently diagnosed after international travel. The baby may have exposed individuals at a hospital, a supermarket, a restaurant, and on public transit across Bellevue and northeast Seattle.
+**[Pierce County Fire Marshal Closes 45 Massage Businesses](#)** · [KOMO News](#)
+The Pierce County Fire Prevention Bureau executed enforcement actions to temporarily shut down 45 massage parlors, spas, and wellness clinics across the county in a single day due to critical life safety hazards. Officials noted that no criminal investigations are currently underway, and businesses can reopen once the fire and safety code violations are corrected and verified.
 
-**[China Issues Diplomatic Warning for Sea-Tac Airport]** · [The Seattle Times](#)
-China's consular affairs office issued a warning urging its citizens to exercise caution when entering the United States through Seattle-Tacoma International Airport. The diplomatic alert follows reports that 20 Chinese scholars holding valid visas faced "unreasonable questioning" and were subsequently denied entry by U.S. Customs and Border Protection.
+**[King County Council Moves to Dissolve Homelessness Agency](#)** · [FOX 13](#)
+The King County Council is taking official steps to dissolve its homelessness agency and establish a new independent watchdog following reports of unaccounted funds and internal fraud. Concurrently, the Council is evaluating the creation of an independent Inspector General's office to better track taxpayer dollars after an audit revealed a county program manager allegedly funneled over $800,000 to family members.
+
+**[Mayor Katie Wilson Announces Major Investments as Gunfire Interrupts Event](#)** · [The Seattle Times](#)
+Seattle Mayor Katie Wilson proposed a comprehensive six-year plan funded by the FEPP levy to provide free meals for all Seattle Public Schools students and expand free preschool hours. The announcement week was briefly overshadowed when gunfire struck the Yesler Community Center during an event the Mayor was attending with children; no injuries were reported and suspects fled in a dark sedan.
 
 ## Community & Lifestyle
-The 2026 cruise season has officially kicked off, with the Port of Seattle anticipating a record year as tourists flock to the newly renovated Waterfront Park. After a week of "weather whiplash" that brought everything from late-season mountain snow to thunderstorms, residents can expect a beautiful sunny weekend with temperatures warming into the low 70s. It's a perfect opportunity to head north for the Skagit Valley Tulip Festival's peak bloom, or stay up Friday night for a chance to catch the northern lights.
+Western Washington is rapidly transitioning into its dry season, with temperatures expected to reach near 80 degrees this weekend as stargazers continue buzzing about a spectacular Wednesday morning meteor. On the transit front, Seattle ranked first nationally for bicycle commuting with 3.3 million miles logged last year, while Sound Transit is preparing to introduce paid parking permits at three busy light rail garages. Finally, Alaska Airlines officially launched its first nonstop flight from Seattle to Rome, further establishing Sea-Tac as a global gateway just in time for Emerald Downs' opening day and the extended Skagit Valley tulip season.
