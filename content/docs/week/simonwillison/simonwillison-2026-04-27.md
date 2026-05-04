@@ -1,6 +1,6 @@
 ---
 title: 2026-04-27
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["speech-to-text", "microsoft", "openai", "translation", "mlx"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-30
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "developer tools", "open source ai", "ai safety"]
 ---

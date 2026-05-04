@@ -1,6 +1,6 @@
 ---
 title: 2026-04-18
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["computer science", "linux", "infrastructure", "software engineering", "privacy"]
 ---

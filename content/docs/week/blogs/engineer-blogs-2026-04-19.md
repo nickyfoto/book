@@ -1,6 +1,6 @@
 ---
 title: 2026-04-19
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["operating systems", "free software", "systems programming", "labor organizing", "generative ai"]
 ---
