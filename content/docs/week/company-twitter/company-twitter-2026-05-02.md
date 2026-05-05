@@ -1,6 +1,6 @@
 ---
 title: 2026-05-02
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "developer tools", "physical ai", "autonomous driving", "enterprise ai"]
 ---

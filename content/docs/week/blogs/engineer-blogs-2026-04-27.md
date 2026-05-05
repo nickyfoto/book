@@ -1,6 +1,6 @@
 ---
 title: 2026-04-27
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["hypergrowth", "engineering management", "organizational design", "artificial intelligence"]
 ---

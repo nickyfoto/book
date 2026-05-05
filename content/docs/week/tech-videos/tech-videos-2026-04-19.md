@@ -1,6 +1,6 @@
 ---
 title: 2026-04-19
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "model context protocol", "developer tools", "product management"]
 ---

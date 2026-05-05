@@ -1,6 +1,6 @@
 ---
 title: 2026-04-30
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["artificial intelligence", "big tech", "oil prices", "interest rates", "geopolitics"]
 ---
