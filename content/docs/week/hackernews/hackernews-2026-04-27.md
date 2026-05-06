@@ -1,6 +1,6 @@
 ---
 title: 2026-04-27
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["apple", "artificial intelligence", "cybersecurity", "software engineering", "open source"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["llm", "prompt engineering", "software development", "ai coding assistants"]
 ---

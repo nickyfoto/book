@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "machine learning", "software engineering", "ai regulation"]
 ---

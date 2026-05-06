@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer tech", "electric vehicles"]
 ---

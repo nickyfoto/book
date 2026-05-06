@@ -1,0 +1,34 @@
+---
+title: 2026-05-04
+weight: 1
+categories: ["News"]
+tags: ["geopolitics", "markets", "monetary policy", "mergers and acquisitions", "energy"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-05-04
+
+## Lead Story
+The fragile ceasefire between the US and Iran is severely fraying as the two nations exchanged fire and Iran launched missile strikes against the UAE,. In response to the standstill in the vital Strait of Hormuz, US President Donald Trump announced "Project Freedom," a military effort that began guiding trapped neutral ships—including US-flagged vessels—through the waterway on Monday,,,. The escalating conflict and mounting shipping risks have rattled global markets, driving up oil prices and leaving energy executives and shipowners deeply concerned about supply chain disruptions,,.
+
+## Markets & Economics
+*   **[ECB Rate Hike in June Is ‘All but Inevitable,’ Kazimir Says](https://www.bloomberg.com/news/articles/2026-05-04/ecb-rate-hike-in-june-is-all-but-inevitable-kazimir-says)**: European Central Bank officials, including Peter Kazimir and Joachim Nagel, made it clear that borrowing costs will need to rise at their next meeting unless there is significant improvement in consumer prices,. The hawkish tone comes as the ECB's quarterly survey projects euro-zone inflation to jump to 2.7% this year before returning to the 2% target.
+*   **[China’s Rare Defiance of US Sanctions Sparks Showdown Over Banks](https://www.bloomberg.com/news/articles/2026-05-04/china-s-rare-defiance-of-us-sanctions-sparks-showdown-over-banks-moqorgpw)**: In an unprecedented act of defiance, Beijing has ordered its companies to ignore American sanctions on a major oil refiner linked to the Iranian oil trade,,. The directive threatens to trap China's vast banking sector in the crosshairs of a major economic confrontation between the US and China ahead of an upcoming leaders' summit,.
+*   **[European Stocks Fall as Carmakers Drop on Trump Tariff Threat](https://www.bloomberg.com/news/articles/2026-05-04/european-stocks-fall-as-carmakers-drop-on-trump-tariff-threat)**: European automakers led early trading lower after President Trump threatened to hike tariffs on EU-made cars and trucks to 25%,. Eurogroup President Kyriakos Pierrakakis emphasized a desire for dialogue but warned that Europe has all retaliatory options on the table if the US follows through with the duties,.
+
+## Business & Industries
+*   **[GameStop’s ‘Highly Confident’ $20 Billion TD Letter Echoes Drexel](https://www.bloomberg.com/news/articles/2026-05-04/gamestop-s-highly-confident-20-billion-td-letter-echoes-drexel)**: GameStop Corp. has launched an audacious $56 billion takeover bid for e-commerce giant eBay Inc., relying on 1980s-era corporate raider tactics to prove it has the financing,. Following the announcement, famed investor Michael Burry sold his entire position in the gaming retailer.
+*   **[Amex GBT Said to Near Sale to General Catalyst-, Alpha Wave-Backed Long Lake](https://www.bloomberg.com/news/articles/2026-05-04/amex-gbt-said-to-near-sale-to-general-catalyst-alpha-wave-backed-long-lake)**: A startup backed by General Catalyst Partners, Long Lake, has agreed to acquire Global Business Travel Group Inc.—the travel platform spun out of American Express Co.—in a massive $6.3 billion take-private deal,,.
+*   **[Cerebras Leads Crop of IPOs Rushing to Tap Market Before SpaceX](https://www.bloomberg.com/news/articles/2026-05-04/cerebras-leads-crop-of-ipos-rushing-to-tap-market-before-spacex)**: Artificial intelligence chipmaker Cerebras Systems is seeking to raise up to $3.5 billion in its US IPO to battle sector rivals like Nvidia,. It leads a flurry of massive tech and infrastructure offerings, including Blackstone Digital Infrastructure Trust seeking $1.75 billion, racing to list ahead of a potentially record-breaking SpaceX debut,.
+*   **[FedEx, UPS Shares Tumble on Amazon’s ‘Watershed’ Logistics Move](https://www.bloomberg.com/news/articles/2026-05-04/fedex-ups-shares-tumble-on-amazon-s-watershed-logistics-move)**: US transportation stocks took a major hit Monday after Amazon.com Inc. revealed expanded logistics offerings. The move instantly transforms the e-commerce titan into a direct, major competitor for parcel carriers, air freight companies, and third-party brokers.
+
+## Policy & World
+*   **[Modi Proves Unstoppable as Key Opponents Ousted in State Polls](https://www.bloomberg.com/news/articles/2026-05-04/modi-proves-unstoppable-as-key-opponents-ousted-in-state-polls)**: Prime Minister Narendra Modi's Bharatiya Janata Party (BJP) secured a milestone, first-ever election victory in the eastern Indian state of West Bengal,. The win expands the BJP's support base and provides a significant boost to Modi's popularity amid heightened domestic economic challenges,.
+*   **[Supreme Court Pauses Ruling That Restricts Abortion Pill by Mail](https://www.bloomberg.com/news/articles/2026-05-04/supreme-court-pauses-ruling-that-restricts-abortion-pill-by-mail)**: The US Supreme Court temporarily restored patient access to a widely used abortion pill by mail,. The order pauses a lower court decision that would have mandated in-person visits to a healthcare provider to obtain the medication,.
+*   **[Alberta Referendum Nears as Separatists Claim 301,000 Signatures](https://www.bloomberg.com/news/articles/2026-05-04/alberta-separatist-vote-moves-closer-as-301-000-sign-petition)**: Alberta, Canada’s primary oil-producing province, has moved a step closer to a referendum on independence. Separatist leaders report they have gathered over 300,000 signatures, which they claim is enough to legally force a vote on seceding from the rest of the country,.
+
+## Opinion & Analysis
+*   **[GameStop Doesn’t Have Enough Stock](https://www.bloomberg.com/opinion/newsletters/2026-05-04/gamestop-doesn-t-have-enough-stock)**: Matt Levine dissects the absurdity of GameStop's $56 billion play for eBay, analyzing the firm's authorized shares, unusual pay package adjustments, and the broader shift of meme stocks operating like play-money casinos,.
+*   **[‘Made in Europe’ Won’t Make Europe Competitive](https://www.bloomberg.com/opinion/articles/2026-05-04/-made-in-europe-protectionism-hurts-consumers-and-innovation)**: Bloomberg Opinion argues that protectionism will only hurt European consumers and innovation, as the bloc's companies struggle to fund immense decarbonization investments while battling surging energy prices, Chinese overproduction, and looming US tariffs.
+*   **[Beware the Bubble — in the Bond Market](https://www.bloomberg.com/opinion/articles/2026-05-04/overpriced-bonds-are-a-bigger-threat-than-overpriced-stocks)**: While investors continuously fret over an equity bubble, the far more dangerous threat could be lurking in overpriced bonds, which pose a significant, under-discussed risk to broader market stability.

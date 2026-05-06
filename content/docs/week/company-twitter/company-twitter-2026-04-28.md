@@ -1,6 +1,6 @@
 ---
 title: 2026-04-28
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "cloud computing", "open source", "autonomous vehicles"]
 ---
