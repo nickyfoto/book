@@ -1,6 +1,6 @@
 ---
 title: 2026-05-01
-weight: 4
+weight: 5
 categories: ["Blogs", "AI", "Tech"]
 tags: ["inaturalist", "claude-code", "generative-ai", "tools"]
 ---

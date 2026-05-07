@@ -1,6 +1,6 @@
 ---
 title: 2026-04-30
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-assisted-programming", "open-source", "zig", "llms", "coding-agents"]
 ---
