@@ -1,0 +1,35 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["geopolitics", "artificial intelligence", "mergers and acquisitions", "monetary policy", "oil markets"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-05-06
+
+## Lead Story
+The prospect of a diplomatic breakthrough between the US and Iran ignited a global stock rally and sent crude oil tumbling, as President Donald Trump announced a pause on US-led efforts to guide commercial ships through the Strait of Hormuz. Washington and Tehran are reportedly closing in on a one-page memorandum of understanding to end the nearly ten-week war, prompting traders to rapidly reprice geopolitical risk across asset classes. The optimism propelled US equities to fresh record highs and provided immediate relief to energy markets, even as US domestic gasoline prices topped $4.50 a gallon for the first time since July 2022.
+
+## Markets & Economics
+* **[Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club](https://www.bloomberg.com/news/articles/2026-05-06/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club)**: Samsung Electronics Co. reached a $1 trillion market valuation, driven by explosive demand for artificial intelligence memory chips. The milestone makes it only the second Asian firm to cross the threshold, as its stock more than quadrupled over the past year.
+* **[Emerging Stocks Hit Record High, Currencies Gain on Iran Signals](https://www.bloomberg.com/news/articles/2026-05-06/emerging-stocks-hit-record-high-currencies-gain-on-iran-signals)**: Emerging-market stocks surged to a record high, accompanied by a sharp jump in local currencies, as investors piled into risk assets on the back of US-Iran peace signals. The rally was further bolstered by the ongoing AI trade sweeping across global equities.
+* **[Fed’s Musalem Says Risks Are Shifting More Toward Inflation](https://www.bloomberg.com/news/articles/2026-05-06/fed-s-musalem-says-risks-are-shifting-more-toward-inflation)**: Federal Reserve Bank of St. Louis President Alberto Musalem stated that economic risks are increasingly tilting toward inflation rather than employment. The hawkish tone reflects persistent uncertainty over the future path of monetary policy despite recent market exuberance.
+* **[Euro-Zone Wage Growth to Quicken in Second Half of This Year](https://www.bloomberg.com/news/articles/2026-05-06/euro-zone-wage-growth-to-quicken-in-second-half-of-this-year)**: The European Central Bank projects that euro-area pay growth will accelerate in the second half of the year. The data point is critical as policymakers gauge whether the spillover from high energy costs will necessitate further interest rate increases.
+
+## Business & Industries
+* **[GameStop’s Cohen Says He’s Selling on eBay to Help Fund Takeover](https://www.bloomberg.com/news/articles/2026-05-06/gamestop-s-cohen-says-he-s-selling-on-ebay-to-help-fund-takeover)**: GameStop Corp. CEO Ryan Cohen is actively raising funds to finance an audacious $56 billion takeover of e-commerce giant eBay Inc.. The proposed bid underscores a resurgence of aggressive M&A animal spirits across corporate America.
+* **[Disney Films, Parks Lift Profit in Debut Quarter For New CEO](https://www.bloomberg.com/news/articles/2026-05-06/disney-s-films-parks-lift-profit-in-debut-quarter-for-new-ceo)**: Walt Disney Co. delivered stronger-than-expected first-quarter profit in the debut quarter for its new chief executive. The beat was driven by improved streaming profitability, strong box office performances from new films, and increased guest spending at resorts and cruises.
+* **[Sun Pharma Explores Funding Mix for $12 Billion Organon Deal](https://www.bloomberg.com/news/articles/2026-05-06/sun-pharma-explores-funding-mix-for-12-billion-organon-deal)**: Global lenders are weighing financing options for Sun Pharmaceutical Industries Ltd.’s proposed $12 billion acquisition of New York-listed Organon & Co.. The massive deal would significantly expand the Indian drugmaker's global healthcare footprint.
+* **[Wall Street Readies Data Center IPOs as AI-Linked Debuts Surge](https://www.bloomberg.com/news/articles/2026-05-06/wall-street-readies-data-center-ipos-as-ai-linked-debuts-surge)**: Investment banks are preparing to raise billions of dollars by taking data center companies public. The rush to list comes as investors show an insatiable appetite for businesses tied to massive capital expenditures in artificial intelligence.
+
+## Policy & World
+* **[US to Adopt 25% Car Levy ‘Soon’ Unless EU Clears Trade Deal](https://www.bloomberg.com/news/articles/2026-05-06/us-to-hit-eu-with-25-car-levy-soon-unless-trade-deal-approved)**: US Ambassador to the EU Andrew Puzder warned Washington will impose 25% tariffs on European cars and trucks "relatively soon" if the bloc fails to quickly ratify a delayed trade deal. The threat escalates transatlantic trade tensions, with US officials cautioning that recent EU tweaks risk watering down the agreement.
+* **[Iran’s Top Diplomat Meets Wang Yi in First China Trip Since War](https://www.bloomberg.com/news/articles/2026-05-06/iran-s-top-diplomat-meets-wang-yi-in-first-china-trip-since-war)**: Iranian Foreign Minister Abbas Araghchi met with China’s top diplomat in Beijing to solidify the strategic partnership between the two nations. The high-stakes diplomatic visit comes just days before Donald Trump is scheduled to arrive in the Chinese capital for talks.
+* **[DOJ Says UCLA Medical School Selected Students Based on Race](https://www.bloomberg.com/news/articles/2026-05-06/doj-says-ucla-medical-school-selected-students-based-on-race)**: The US Justice Department announced it has uncovered evidence that the University of California at Los Angeles’ medical school intentionally and illegally selected applicants based on their race.
+
+## Opinion & Analysis
+* **[The AI Boom’s Chipmaker Moment Ignores History](https://www.bloomberg.com/opinion/articles/2026-05-06/the-ai-boom-s-chipmaker-moment-ignores-history-as-micron-surges)**: As semiconductors wildly outperform the broader market, Bloomberg Opinion warns that the high-stakes investor scramble to pick AI winners ignores historical precedent regarding cyclical hardware booms.
+* **[Zombies Are Running the International System](https://www.bloomberg.com/opinion/articles/2026-05-06/the-un-wto-nato-icc-and-npt-have-become-zombies)**: This analysis asserts that a worrisome parallel exists between the 2020s and the 1930s, arguing that major multilateral institutions like the UN and NATO have devolved into the "walking dead".
+* **[Momentum Is Trampling Quality in Market Records](https://www.bloomberg.com/opinion/newsletters/2026-05-06/stocks-rally-momentum-is-trampling-quality-in-market-records)**: While fundamentals may be stretched, this piece argues that it is increasingly dangerous for investors to stand in the way of a tech-led momentum rally that continues to trample traditional quality metrics.
