@@ -1,6 +1,6 @@
 ---
 title: 2026-05-03
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["anthropic", "claude", "sycophancy", "ai ethics"]
 ---

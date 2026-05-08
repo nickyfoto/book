@@ -1,0 +1,33 @@
+---
+title: 2026-04-29
+weight: 8
+categories: ["News"]
+tags: ["federal reserve", "oil markets", "artificial intelligence", "private equity", "us supreme court"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-04-29
+
+## Lead Story
+The Federal Reserve held its benchmark interest rate steady at 3.5% to 3.75%, but the decision revealed a deepening internal division with an unprecedented four-way dissent from policymakers who opposed an easing bias. Adding to the institutional drama, Chair Jerome Powell announced he will remain at the central bank as a governor after his term ends next month, drawing sharp criticism as his designated successor, Kevin Warsh, cleared a key Senate committee vote.
+
+## Markets & Economics
+* **[Oil Charges Toward $120 With No End in Sight to US-Iran War](https://www.bloomberg.com/news/articles/2026-04-29/brent-oil-hits-highest-since-june-2022-on-us-iran-stalemate)**: Brent crude surged to its highest level since mid-2022 as President Donald Trump signaled he will not lift the naval blockade of Iranian ports until Tehran strikes a new nuclear deal. The prolonged effective closure of the Strait of Hormuz is heightening market panic over a rapidly shrinking global supply cushion and pushing inflation expectations higher.
+* **[US Core Capital Goods Orders Surge by Most Since 2020](https://www.bloomberg.com/news/articles/2026-04-29/us-core-capital-goods-orders-surged-in-march-by-most-since-2020)**: US orders for business equipment jumped 3.3% in March, marking the largest advance in nearly six years. The data extends a yearlong stretch of solid capital investment fueled largely by corporate spending on artificial intelligence capabilities.
+* **[UAE Blindsides OPEC With Shock Exit](https://www.bloomberg.com/news/newsletters/2026-04-29/uae-s-opec-split-reflects-twilight-of-the-oil-age)**: The United Arab Emirates made a shock decision to quit OPEC, severely diluting the cartel's ability to manage oil prices via supply adjustments. The departure follows years of simmering tensions with de facto leader Saudi Arabia and underscores Abu Dhabi's urgency to open its production taps while it still can.
+
+## Business & Industries
+* **[Meta Raises Capital Spending Outlook as Alphabet Beats](https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide)**: Meta Platforms shares slid in aftermarket trading after the company boosted its 2026 spending forecast to fund aggressive artificial intelligence investments. Concurrently, Alphabet posted an across-the-board beat driven by strong cloud growth, while Microsoft's cloud results left investors jittery about its overarching AI strategy. 
+* **[Kone Agrees to Buy TK Elevator for €29.4 Billion](https://www.bloomberg.com/news/articles/2026-04-29/finland-s-kone-agrees-to-buy-rival-tk-elevator-for-29-4-billion)**: Finland’s Kone Oyj agreed to acquire TK Elevator for €29.4 billion ($34.4 billion) including debt, transforming the company into the industry's dominant player. The massive transaction marks one of Europe’s largest-ever private equity exits for backers Advent and Cinven.
+* **[Ackman’s Fund IPO Raises $5 Billion for Permanent Capital Plan](https://www.bloomberg.com/news/articles/2026-04-29/ackman-s-fund-ipo-raises-5-billion-for-permanent-capital-plan)**: Bill Ackman’s combined initial public offering for his closed-end fund and alternative asset manager successfully raised $5 billion. The massive capital injection provides the hedge-fund billionaire with a permanent war chest for Warren Buffett-style long-term investments, with proceeds expected to be deployed within weeks.
+* **[European Banks Post Strong Quarters Led by Trading and Lending](https://www.bloomberg.com/news/articles/2026-04-29/deutsche-bank-beats-on-profit-in-quarter-as-trading-holds-up)**: Deutsche Bank, UBS, and Banco Santander all reported first-quarter earnings that sailed past analyst estimates. The widespread beats were driven by resilient fixed-income trading, robust corporate lending, and surging wealth management fees.
+
+## Policy & World
+* **[Supreme Court Curbs Use of Race in Drawing Voting Districts](https://www.bloomberg.com/news/articles/2026-04-29/supreme-court-curbs-use-of-race-in-drawing-voting-districts)**: Voting 6-3 along ideological lines, the US Supreme Court severely limited the use of the Voting Rights Act to create predominantly Black or Hispanic election districts. The landmark constitutional ruling rejected a Louisiana congressional map and buttresses Republican efforts to maintain control of the House.
+* **[US Has Spent $25 Billion on Iran Conflict So Far, Pentagon Says](https://www.bloomberg.com/news/articles/2026-04-29/us-has-spent-25-billion-on-iran-conflict-so-far-pentagon-says)**: The Pentagon comptroller revealed the US has spent an estimated $25 billion on the Iran war, providing the most complete public estimate of the conflict’s cost to date. However, analysts warned during a contentious congressional hearing that the $25 billion figure likely underestimates the true financial toll by a wide margin.
+* **[Xi Has $1.2 Trillion Rare Earths Leverage Ahead of Trump Visit](https://www.bloomberg.com/news/articles/2026-04-29/xi-s-has-1-2-trillion-rare-earths-leverage-ahead-of-trump-visit)**: As President Donald Trump prepares for a summit in Beijing next month, China's dominance over rare earths supply chains provides President Xi Jinping with an estimated $1.2 trillion in economic leverage. Shares of major Chinese rare earth producers rallied as Beijing unveiled detailed new penalties for unauthorized production to bolster its total control over the sector.
+
+## Opinion & Analysis
+* **[The Supreme Court Just Neutered the Voting Rights Act](https://www.bloomberg.com/opinion/articles/2026-04-29/supreme-court-voting-rights-ruling-neuters-the-law)**: Bloomberg Opinion argues that the Voting Rights Act has been on life support since 2013, and the Supreme Court’s latest decision effectively administers the coup de grâce. The conservative majority's ruling will enable a systematic disenfranchisement of minority voters that echoes dark moments in America's racial history.
+* **[A $34 Billion Private Equity Exit Is Going to Be a Long Slog](https://www.bloomberg.com/opinion/articles/2026-04-29/private-equity-advent-cinven-exit-from-tk-kone-deal-will-be-a-long-slog)**: The €29.4 billion sale of TK Elevator brings relief for Advent and Cinven, but it exemplifies the grueling challenges buyout firms face today. The piece notes that monetizing even the most attractive investments remains incredibly difficult amid an industry-wide mountain of unsold private equity assets.

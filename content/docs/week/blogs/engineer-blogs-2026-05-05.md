@@ -1,6 +1,6 @@
 ---
 title: 2026-05-05
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["software engineering", "agentic programming", "system design", "local models", "apple"]
 ---

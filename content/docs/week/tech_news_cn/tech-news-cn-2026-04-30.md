@@ -1,6 +1,6 @@
 ---
 title: 2026-04-30
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer electronics", "tech business", "open source"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-01
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["github copilot", "subscriptions", "user experience", "software design"]
 ---
