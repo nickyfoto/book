@@ -1,6 +1,6 @@
 ---
 title: 2026-05-04
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "markets", "monetary policy", "mergers and acquisitions", "energy"]
 ---

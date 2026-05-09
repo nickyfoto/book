@@ -1,6 +1,6 @@
 ---
 title: 2026-05-02
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["blogging", "photography", "wildlife", "claude-code"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-04
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "software engineering", "cybersecurity", "consumer tech"]
 ---

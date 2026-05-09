@@ -1,6 +1,6 @@
 ---
 title: 2026-05-03
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "edge ai", "developer tools", "ai infrastructure"]
 ---

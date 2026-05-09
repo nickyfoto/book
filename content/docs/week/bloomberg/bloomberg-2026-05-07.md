@@ -1,0 +1,33 @@
+---
+title: 2026-05-07
+weight: 1
+categories: ["News"]
+tags: ["us-iran conflict", "interest rates", "energy markets", "corporate earnings", "trade policy"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-05-07
+
+## Lead Story
+The US and Iran are currently weighing a potential peace deal centered around a one-page memorandum to end their 10-week war and reopen the Strait of Hormuz. President Donald Trump halted a nascent US Navy mission to guide commercial ships as the administration awaits Tehran's response, though the two nations still exchanged strikes in the waterway on Thursday. The ongoing conflict has sparked immense volatility in global energy markets, squeezing global shipping supply chains and stalling the Trump administration's affordability agenda ahead of the US midterm elections.
+
+## Markets & Economics
+*   **[US Yields at 5% Tug Traders Between Greed and Fear](https://www.bloomberg.com/news/articles/2026-05-07/us-yields-at-5-tug-traders-between-dip-buying-greed-and-fear)**: Wall Street is vigorously debating whether 30-year Treasury yields will sustain a breakout above the pivotal 5% mark. Meanwhile, Federal Reserve officials, including Boston Fed President Susan Collins and San Francisco's Mary Daly, downplayed recent FOMC dissents, emphasizing that the central bank needs more clarity before resuming its rate-cutting cycle.
+*   **[Norges Bank Delivers First Rate Hike Since 2023](https://www.bloomberg.com/news/articles/2026-05-07/norges-bank-delivers-first-rate-hike-since-2023-to-curb-prices)**: Norway’s central bank became the first in Western Europe to raise borrowing costs since the Iran war erupted, acting immediately to tackle stubbornly high inflation. The ECB's Isabel Schnabel separately warned that Europe may also be forced to hike rates if the war leaves a lasting mark on consumer prices.
+*   **[Banxico Cuts Key Rate to 6.5% in Possible End to Easing Cycle](https://www.bloomberg.com/news/articles/2026-05-07/banxico-cuts-key-rate-to-6-5-in-possible-end-to-easing-cycle)**: Mexico's central bank reduced borrowing costs by a quarter of a percentage point as the domestic economy contracted. Policymakers indicated this move could mark the end of an aggressive easing cycle that began two years ago.
+
+## Business & Industries
+*   **[Shell Says Profits Rise as Iran War Boosts Trading and Oil Price](https://www.bloomberg.com/news/articles/2026-05-07/shell-says-profits-rise-as-iran-war-boosts-trading-and-oil-price)**: Shell Plc posted stronger-than-expected first-quarter earnings, overcoming production drops with surging oil and gas prices. The global energy shock generated intense market volatility that provided a massive boost to the energy giant's trading unit.
+*   **[Cheniere Posts $3.5 Billion Hedging Loss on War-Led Price Blowout](https://www.bloomberg.com/news/articles/2026-05-07/cheniere-posts-3-5-billion-hedging-loss-on-war-led-price-blowout)**: Cheniere Energy Inc. shares plunged nearly 10% after the liquefied natural gas exporter reported a surprise $3.5 billion loss. The deficit was driven by plummeting derivative values as the conflict in the Middle East violently upended natural gas hedging strategies.
+*   **[Surveillance Firm Hawkeye 360 Jumps 30% After $416 Million IPO](https://www.bloomberg.com/news/articles/2026-05-07/surveillance-firm-hawkeye-360-jumps-30-after-416-million-ipo)**: Shares of Hawkeye 360 Inc., which provides satellite-based signals intelligence to US government agencies, soared 30% in their trading debut. The successful offering raised $416 million after being priced at the top of its marketed range, highlighting strong investor appetite for defense and aerospace technology.
+*   **[Kraken Parent to Buy Reap for $600 Million](https://www.bloomberg.com/news/articles/2026-05-07/kraken-parent-to-buy-reap-for-600-million-in-asian-expansion)**: The owner of the Kraken cryptocurrency exchange has agreed to acquire Reap Technologies for $600 million. The acquisition is aimed at expanding Kraken's footprint in stablecoin-oriented cross-border business payments across Asia.
+
+## Policy & World
+*   **[Trump’s Summit With Xi Is On Despite China’s Iran Concerns](https://www.bloomberg.com/news/articles/2026-05-07/trump-s-summit-with-xi-is-on-despite-china-s-iran-concerns)**: US President Donald Trump will become the first sitting US president to visit China in nearly a decade during his upcoming Beijing summit with Xi Jinping. The high-stakes meeting is moving forward despite unease among Chinese officials about hosting the talks before the war in Iran is fully resolved.
+*   **[Trump’s Latest 10% Tariffs Declared Unlawful by US Trade Court](https://www.bloomberg.com/news/articles/2026-05-07/trump-s-latest-10-tariffs-declared-unlawful-by-us-trade-court)**: A federal trade court declared President Trump's 10% global tariffs unlawful, dealing a fresh blow to the administration's economic agenda. In separate trade developments, Trump granted the European Union a July 4 extension to ratify its trade agreement with the US to avoid auto import tariffs.
+*   **[China Asks Banks to Pause New Loans to US-Sanctioned Refiners](https://www.bloomberg.com/news/articles/2026-05-07/china-asks-banks-to-pause-new-loans-to-us-sanctioned-refiners)**: China's financial regulator directed the nation's largest banks to temporarily suspend new lending to five refiners. The suspension targets companies recently hit by US sanctions over their ties to the Iranian oil trade, underscoring Beijing's cautious navigation of the conflict.
+
+## Opinion & Analysis
+*   **[Apollo CEO Marc Rowan Is Wrong About Private Credit and the Press](https://www.bloomberg.com/opinion/articles/2026-05-07/apollo-ceo-marc-rowan-is-wrong-about-private-credit-and-the-press)**: Apollo Global Management CEO Marc Rowan continually blames the media for misconceptions and fears surrounding the private credit market. However, Bloomberg Opinion argues that Rowan's deflection ignores the legitimate, systemic risks the asset class actually poses to the broader financial system.
+*   **[Trump-Xi Summit in Beijing May Be a Nothingburger. Good.](https://www.bloomberg.com/opinion/articles/2026-05-07/trump-xi-summit-in-beijing-may-be-a-nothingburger-good)**: As expectations run dangerously high for the upcoming summit between Presidents Trump and Xi in Beijing, substantive deals remain unlikely. The primary goal for the White House during these talks should simply be avoiding any escalation that makes current global fractures worse.
