@@ -1,6 +1,6 @@
 ---
 title: 2026-05-05
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["home cooking", "food science", "condiments", "cooking techniques", "japanese cuisine"]
 ---

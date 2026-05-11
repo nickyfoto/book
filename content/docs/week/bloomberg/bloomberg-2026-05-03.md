@@ -1,6 +1,6 @@
 ---
 title: 2026-05-03
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["geopolitics", "central banks", "oil", "artificial intelligence", "mergers and acquisitions"]
 ---

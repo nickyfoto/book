@@ -1,6 +1,6 @@
 ---
 title: 2026-05-07
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["large language models", "artificial intelligence", "cybersecurity", "developer tools"]
 ---
