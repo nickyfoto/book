@@ -1,6 +1,6 @@
 ---
 title: 2026-05-02
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["software engineering", "artificial intelligence", "programming languages", "legacy systems"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-02
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["frontend testing", "vue", "mathematics", "html5 canvas"]
 ---

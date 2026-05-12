@@ -1,6 +1,6 @@
 ---
 title: 2026-05-08
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["html", "security", "prompt-engineering", "llms", "claude-code"]
 ---

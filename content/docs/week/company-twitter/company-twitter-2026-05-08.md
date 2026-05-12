@@ -1,6 +1,6 @@
 ---
 title: 2026-05-08
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "ai safety", "developer tools", "robotics"]
 ---

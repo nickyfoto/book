@@ -1,6 +1,6 @@
 ---
 title: 2026-05-07
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "developer tooling", "consumer tech"]
 ---
