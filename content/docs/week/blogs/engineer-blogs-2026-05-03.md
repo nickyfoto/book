@@ -1,6 +1,6 @@
 ---
 title: 2026-05-03
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["zig", "error handling", "error reporting", "programming languages"]
 ---

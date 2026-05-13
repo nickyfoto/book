@@ -1,6 +1,6 @@
 ---
 title: 2026-05-06
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["hash tables", "concurrency", "lock-free", "atomics", "data structures"]
 ---

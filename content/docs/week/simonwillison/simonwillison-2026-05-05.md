@@ -1,6 +1,6 @@
 ---
 title: 2026-05-05
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "artificial intelligence", "openai", "ai ethics", "ai agents"]
 ---
