@@ -1,0 +1,31 @@
+---
+title: 中文科技资讯
+weight: 20
+categories: ["News", "Tech"]
+tags: ["artificial intelligence", "software engineering", "consumer tech", "semiconductors"]
+---
+
+# Chinese Tech Daily — 2026-05-13
+
+## Top Story
+In an unprecedented software engineering feat, the popular JavaScript runtime Bun was rewritten from Zig to Rust in just six days entirely by Anthropic's [Claude Code](https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v). Sparked by severe memory leak issues in Bun that were crashing Claude Code itself, the AI-generated migration successfully ported 960,000 lines of code and passed 99.8% of the Linux test suite, prompting founder Jarred Sumner to declare the end of the Zig era for Bun. This marks a massive paradigm shift where AI agents are no longer just assisting developers, but performing wholesale architectural rewrites at superhuman speeds.
+
+## Engineering & Dev
+In the AI infrastructure space, vector database pioneer [Pinecone](https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79) is surprisingly declaring the traditional RAG (Retrieval-Augmented Generation) era dead, pivoting instead to "Knowledge Compilation" with its new Nexus engine to drastically improve agent task completion rates. Chinese teams are also pushing the boundaries of agent architectures. ByteDance's Viking team open-sourced [OpenViking](https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA), a context database designed to give AI agents persistent memory, successfully demonstrating its capabilities by having AI agents play a complex game of "Werewolf" where they learned to "hold grudges" and bluff across multiple rounds. Similarly, Chinese AI startup [MiniMax launched Mavis](https://www.ifanr.com/1665759), an agent team infrastructure that utilizes a "Leader, Worker, Verifier" system to handle complex, long-context tasks by isolating contexts and having agents rigorously verify each other's outputs. 
+
+On the hardware and framework optimization front, domestic GPU maker [Moore Threads (MUSA)](https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW) has been officially integrated into the main branch of the SGLang inference framework, marking a shift from code co-building to native support for Chinese hardware. Meanwhile, OpenAI has introduced a [WebSocket-based execution mode](https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi) for its Responses API, drastically reducing latency in agentic workflows by replacing traditional HTTP request-response cycles with persistent bidirectional connections.
+
+## Products & Digital
+Google held an early [Android Show](https://sspai.com/post/109699), announcing Android 17's transition from a standard "Operating System" to an "Intelligence System" driven entirely by Gemini Intelligence. The event also unveiled the "Googlebook," a new laptop category natively designed for Gemini featuring a "Magic Pointer" that summons AI through cursor shakes, alongside the ability to seamlessly run Android apps. For gadget enthusiasts, DJI's highly anticipated [Pocket 4P](https://www.ifanr.com/1664986) adds a dedicated 3x optical telephoto lens alongside the main camera, solving the focal length limitations of its predecessors while introducing a custom analog joystick for precise panning. 
+
+In the wearables space, the [Garmin Instinct 3 Solar](https://sspai.com/post/108228) is being praised as the "endgame" smartwatch; it trades a flashy touchscreen for a rugged polymer build and RTOS efficiency, delivering up to 21 days of battery life—or infinite battery with sufficient sunlight. Interestingly, as digital fatigue sets in, a screenless, Wi-Fi-connected landline phone called [Tin Can](https://www.ifanr.com/1664194) is booming among American children, providing a closed-network, audio-only communication tool that eases parents' anxieties about social media.
+
+## News & Commentary
+As the Trump-Xi summit approaches, geopolitical technology maneuvers are intensifying. DeepSeek announced that its latest AI model is [optimized for Huawei chips](https://cn.nytimes.com/business/20260513/china-semiconductor-ai-deepseek/), a significant milestone for China's push toward technological self-sufficiency that potentially weakens Washington's export control leverage. Simultaneously, Chinese think tanks reportedly approached Anthropic to gain access to its powerful new [Mythos cybersecurity AI model](https://cn.nytimes.com/technology/20260513/china-ai-anthropic-openai-mythos-chatgpt/), a request that was rejected amid growing concerns over a Cold War-style AI arms race. On a broader economic scale, the tech industry is feeling the squeeze of a [global memory chip shortage](https://www.ifanr.com/1665628); prices for HBM, DDR, and SSD components are skyrocketing, driving up costs for everything from the iPhone 18 and upcoming Nintendo Switch 2 to EVs and standard laptops.
+
+## Also Noted
+*   Baidu introduced ["DAA" (Daily Active Agents)](https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O) as a new metric to measure AI value, shifting focus from pure model scale to actual task completion within business workflows.
+*   [MySQL 9.7 LTS](https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT) has been officially released, bringing the advanced Hypergraph optimizer and previously enterprise-only features like dynamic data masking to the community edition.
+*   MediaTek's [MDDC 2026](https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv) developer conference highlighted on-device AI integration and advanced mobile gaming tech, including Ray Tracing Pipeline (RTP) optimizations.
+*   A critical [SQL injection vulnerability](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceReport-sqli.html) was disclosed in FumaCRM's `BusinessPriceReport.aspx` endpoint, posing severe risks of data theft and unauthorized server access.
+*   Despite a halted $2 billion acquisition by Meta, [Manus founder Zhang Tao](https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee) reflected on their viral success, attributing it to a cloud-based virtual sandbox that transparently gives AI "hands" to execute tasks.
