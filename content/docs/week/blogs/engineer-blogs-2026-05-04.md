@@ -1,6 +1,6 @@
 ---
 title: 2026-05-04
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["css", "redis", "artificial intelligence", "system programming"]
 ---

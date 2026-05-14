@@ -1,6 +1,6 @@
 ---
 title: 2026-05-06
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer tech", "geopolitics"]
 ---

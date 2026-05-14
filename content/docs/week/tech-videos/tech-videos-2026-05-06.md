@@ -1,6 +1,6 @@
 ---
 title: 2026-05-06
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cloud infrastructure", "open source", "web development"]
 ---

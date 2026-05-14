@@ -1,6 +1,6 @@
 ---
 title: 2026-05-11
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["gitlab", "github", "layoffs", "artificial intelligence"]
 ---

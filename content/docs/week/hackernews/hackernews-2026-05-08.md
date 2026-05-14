@@ -1,6 +1,6 @@
 ---
 title: 2026-05-08
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "open source", "linux", "software engineering"]
 ---

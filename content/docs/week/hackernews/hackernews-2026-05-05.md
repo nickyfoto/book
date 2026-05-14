@@ -1,6 +1,6 @@
 ---
 title: 2026-05-05
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "privacy", "rust", "web browsers", "software engineering"]
 ---
