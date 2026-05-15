@@ -1,6 +1,6 @@
 ---
 title: 2026-05-07
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["cybersecurity", "vulnerabilities", "supply chain attacks", "npm"]
 ---

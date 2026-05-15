@@ -1,6 +1,6 @@
 ---
 title: 2026-05-06
-weight: 4
+weight: 5
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["home cooking", "cooking techniques", "food science", "kitchen appliances"]
 ---

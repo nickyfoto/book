@@ -1,6 +1,6 @@
 ---
 title: 2026-05-06
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["vibe coding", "agentic engineering", "coding agents", "claude"]
 ---

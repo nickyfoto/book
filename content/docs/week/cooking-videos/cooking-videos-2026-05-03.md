@@ -1,6 +1,6 @@
 ---
 title: 2026-05-03
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["japanese cuisine", "korean cuisine", "pork recipes", "fermented foods", "culinary travel"]
 ---
