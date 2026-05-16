@@ -1,6 +1,6 @@
 ---
 title: 2026-05-11
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "oil prices", "inflation", "private credit", "initial public offerings"]
 ---

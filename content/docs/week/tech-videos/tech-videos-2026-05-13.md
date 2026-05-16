@@ -1,6 +1,6 @@
 ---
 title: 2026-05-13
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cloud infrastructure", "cybersecurity", "software engineering"]
 ---

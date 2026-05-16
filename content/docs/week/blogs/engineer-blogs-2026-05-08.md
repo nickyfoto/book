@@ -1,6 +1,6 @@
 ---
 title: 2026-05-08
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["zig", "code formatting", "tooling", "developer experience"]
 ---
