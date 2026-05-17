@@ -1,6 +1,6 @@
 ---
 title: 2026-05-11
-weight: 4
+weight: 5
 categories: ["Blogs", "AI", "Tech"]
 tags: ["coding-agents", "agentic-engineering", "llms", "generative-ai"]
 ---

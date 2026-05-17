@@ -1,6 +1,6 @@
 ---
 title: 2026-05-10
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "large language models", "software engineering", "consumer tech"]
 ---

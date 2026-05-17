@@ -1,6 +1,6 @@
 ---
 title: 2026-05-10
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["knife skills", "zucchini", "bell pepper", "vegetable prep"]
 ---

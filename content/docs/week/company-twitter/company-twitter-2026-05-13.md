@@ -1,6 +1,6 @@
 ---
 title: 2026-05-13
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["agentic ai", "cybersecurity", "autonomous vehicles", "open source ai", "enterprise software"]
 ---

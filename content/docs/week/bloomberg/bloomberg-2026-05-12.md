@@ -1,6 +1,6 @@
 ---
 title: 2026-05-12
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["inflation", "geopolitics", "artificial intelligence", "central banks", "energy"]
 ---
