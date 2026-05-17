@@ -3,32 +3,30 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["prompt-engineering [1, 2]", "system-prompts [2, 3]", "claude [2, 3]", "coding-agents [1]", "generative-ai [1-3]", "apis", "ai", "saas", "salesforce", "speech-to-text", "microsoft", "openai", "translation", "mlx", "ai [1-3]", "python [2]", "llms [1, 3]", "vibe-coding [2]", "prompt-engineering [3]", "python", "llm", "generative-ai", "projects", "ai-assisted-programming", "open-source", "zig", "llms", "coding-agents", "inaturalist", "claude-code", "tools"]
+tags: ["html", "security", "prompt-engineering", "llms", "claude-code", "hallucinations", "journalism", "careers", "sqlite", "coding-agents", "agentic-engineering", "generative-ai", "llm", "datasette", "artificial intelligence", "debugging", "marketing", "ai-assisted-programming", "content-security-policy", "ai-agents", "codex", "vibe-coding", "inaturalist", "tools"]
 ---
 
-# Simon Willison — Week of 2026-04-18 to 2026-05-01
+# Simon Willison — Week of 2026-05-08 to 2026-05-15
 
 ## Highlight of the Week
-The alpha release of `llm 0.32a0` marks a foundational architectural pivot for Simon's ecosystem of CLI tools. By moving away from a simple text-in/text-out abstraction to one that natively models complex message sequences and typed streams, the library is now future-proofed to handle the realities of modern frontier models. This opens the door for seamless integration of server-side tool calls, multi-modal inputs, and reasoning tokens.
+The standout development this week is Simon's rapid adaptation to the latest frontier model capabilities, most notably releasing `llm 0.32a2` to expose and visualize the new interleaved reasoning tokens of GPT-5 class models directly in the terminal. This perfectly pairs with his hands-on explorations of embedding LLM calls deeply into developer workflows, such as executing prompts via script shebangs and leveraging models to output rich HTML rather than just Markdown.
 
 ## Key Posts
-**[Changes in the system prompt between Claude Opus 4.6 and 4.7]** · [Source](url)
-Simon analyzed the hidden diffs in Anthropic's Claude Opus 4.7 system prompt, uncovering fascinating tweaks to its safety wrappers and instructions designed to make the model less verbose. He also identified a new native knowledge cutoff of January 2026 and extracted 23 hidden UI tools by directly prompting the model about its own capabilities.
 
-**[Headless everything for personal AI]** · [Source](url)
-A compelling look into the "Second Wave of the API-first Economy," driven by AI agents that require programmable access rather than awkward GUI interfaces. Simon examines the implications for per-seat SaaS pricing as industry giants like Salesforce pivot to "headless" models to accommodate non-human agents operating via APIs.
+**[Using Claude Code: The Unreasonable Effectiveness of HTML]** · [Source](#)
+Inspired by Anthropic's Thariq Shihipar, Simon questions the long-standing habit of restricting LLM outputs to Markdown, noting that modern models can leverage HTML for rich, interactive elements like SVG diagrams. He successfully proves this by piping obfuscated Python exploit code into his `llm` CLI to generate a fully styled, interactive explanation directly from the command line.
 
-**[Introducing talkie: a 13B vintage language model from 1930]** · [Source](url)
-This post explores a fascinating "vegan model" trained entirely on 260 billion tokens of pre-1931 public domain text. It raises excellent questions about data purity and the difficulty of preventing anachronistic contamination when fine-tuning historically constrained models using modern AI tools like Claude Sonnet and Opus.
+**[Using LLM in the shebang line of a script]** · [Source](#)
+In a highly practical TIL, Simon explores how to invoke his `llm` CLI directly in the shebang (`#!/usr/bin/env llm`) of plain English text files. He demonstrates embedding tool calls and executing YAML templates that define extra tools as Python functions, including a complex setup that queries his blog via the Datasette SQL API.
 
-**[The Zig project’s rationale for their firm anti-AI contribution policy]** · [Source](url)
-An insightful breakdown of the cultural clash between AI-generated code and open-source sustainability. Simon highlights Loris Cro's "contributor poker" concept, arguing that maintainer review time spent on LLM-assisted code fails to cultivate the human trust and mentorship necessary for a project's long-term survival. 
+**[Not so locked in any more]** · [Source](#)
+Simon highlights a fundamental shift in software architecture driven by AI coding agents: programming language choices are increasingly fungible rather than permanent commitments. He shares an anecdote of a team using agents to rewrite native mobile apps into React Native, treating the framework as a temporary tool that can be cheaply ported back to native code later if it turns out to be the wrong choice.
 
-**[iNaturalist Sightings]** · [Source](url)
-A brilliant showcase of Simon's rapid-prototyping architecture, built entirely on his phone while camping using Claude Code for web. He chained together a Python CLI, Git scraping, and an AI-generated static frontend to create a highly functional, CORS-friendly personal utility that clusters his wildlife observations.
+**[CSP Allow-list Experiment]** · [Source](#)
+Built using GPT-5.5 xhigh via the Codex desktop app, this technical experiment explores intercepting Content Security Policy (CSP) errors within sandboxed iframes. It features a custom `fetch()` wrapper that gracefully passes errors to the parent window, allowing users to dynamically approve domains for an allow-list before refreshing the page.
 
 ## Project Updates
-Simon's major release this week was the `llm 0.32a0` alpha, which refactors the library to process inputs as a sequence of conversational messages and outputs as a stream of typed message parts. Developers can utilize new `llm.user()` and `llm.assistant()` builder functions to cleanly feed in conversation history, while CLI users gain a `-R/--no-reasoning` flag to suppress thinking tokens. He quickly followed up with `llm 0.32a1` to patch a bug that was preventing tool-calling conversations from correctly reinflating from the SQLite storage layer.
+It was a highly productive release week across Simon's ecosystem, headlined by the `llm 0.32a2` alpha, which adapts to OpenAI's new endpoints to natively display GPT-5 reasoning steps. In the Datasette world, he pushed `datasette 1.0a29` after using GPT-5.5 to debug a race-condition segfault, launched a dedicated Datasette project blog, and released the `datasette-ip-rate-limit 0.1a0` plugin built with Codex. Finally, he published `inaturalist-clumper 0.1`, a stabilized utility that compiles his personal iNaturalist sightings into JSON.
 
 ## Themes
-The overarching theme of the week is the friction and transformation brought by "agentic engineering". Simon continuously explored how AI agents are changing the mechanics of software—ranging from headless APIs and automated `Claude Code` deployment loops to the cultural pushback from open-source communities navigating the "digital smell" of AI-assisted code. Additionally, audio and speech processing was a strong recurring interest, highlighted by local VibeVoice diarization experiments on Apple Silicon and observations of Google Meet's alpha real-time translations.
+A dominant theme this week is the broader architectural and economic impact of "agentic engineering," where AI not only accelerates development but fundamentally alters software maintenance costs and dissolves traditional language lock-in. Concurrently, Simon continues to demonstrate the power of AI-assisted "vibe-coding," consistently using tools like Codex and Claude to rapidly spin up small, sharp utilities—from QR code generators to rate-limiting plugins—to solve immediate infrastructural needs.

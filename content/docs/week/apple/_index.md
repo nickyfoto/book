@@ -3,33 +3,33 @@ title: Apple News
 weight: 5
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["mac", "iphone", "hardware", "app store", "airpods", "smart glasses", "apple retail", "apple silicon", "macbook air", "smart home", "ios", "artificial intelligence", "apple", "macbook", "satellite connectivity", "hardware rumors", "security", "apple intelligence", "ios 27", "macbook neo"]
+tags: ["hardware", "privacy", "artificial intelligence", "supply chain", "macos 27", "macbook pro", "ipad", "ios updates", "icloud plus", "ios 26.5", "rcs messaging", "hardware rumors", "vision pro", "ios 27", "macbook neo", "apple ecosystem", "iphone", "mac", "apple silicon", "macos", "apple"]
 ---
 
-# Apple — Week of 2026-04-11 to 2026-04-17
+# Apple — Week of 2026-05-08 to 2026-05-15
 
 ## Week in Review
-This week was defined by Apple's aggressive hardware expansion strategy, fueled by surging consumer demand for the surprisingly affordable MacBook Neo that has completely depleted retail stock and contributed to a massive 20% shipment increase in China. Simultaneously, Apple's future product pipeline came into sharp focus, marked by detailed leaks surrounding the upcoming "iPhone Ultra" foldable, a structural shift in Apple's satellite connectivity courtesy of Amazon, and the first comprehensive feature reveals for iOS 27.
+This week was dominated by the highly anticipated release of iOS 26.5, which brought long-awaited features like end-to-end encrypted RCS messaging and critical security fixes. On the hardware front, Apple is navigating significant supply chain shifts, securing a historic chip manufacturing deal with Intel while grappling with component shortages that are pushing major Mac updates to 2027. Meanwhile, significant leaks surrounding iOS 27 and macOS 27 suggest a massive AI and design overhaul is coming at the upcoming WWDC keynote.
 
 ## Top Stories
 
-**[Unprecedented MacBook Neo Demand Drives Market Surge](#)** · [MacRumors](#)
-Apple's attractively priced $599 MacBook Neo has completely sold out through April, prompting the company to significantly ramp up production to an estimated 10 million units for 2026. Analysts note Apple is deliberately absorbing lower profit margins and utilizing binned chips to aggressively double its Mac user base, a strategy that helped drive a massive 20% year-over-year shipment increase in China amid an overall industry decline. 
+**[Apple Releases iOS 26.5 with Encrypted RCS and EU Interoperability]** · [Source](url)
+Apple officially launched iOS 26.5, delivering highly anticipated end-to-end encrypted RCS messaging for cross-platform chats with Android users. The update also introduces major EU-mandated interoperability features that allow third-party wearables to use AirPods-like proximity pairing, alongside the dynamic Pride Luminance wallpaper, Magic Accessory USB-C pairing, and over 50 crucial security patches.
 
-**[The Foldable "iPhone Ultra" and iPhone 18 Pro Take Shape](#)** · [Macworld](#)
-Apple’s first foldable device, heavily rumored to be branded the "iPhone Ultra," has seen its mass production pushed to August due to Engineering Validation Test delays, though a fall 2026 launch remains on track. The ultra-premium $2,000 device will feature a 4.7mm chassis and an advanced dynamic optically clear adhesive to eliminate screen creasing. Concurrently, the flagship iPhone 18 Pro has entered production for a groundbreaking variable aperture camera system and is expected to debut a new "Dark Cherry" colorway.
+**[Intel Begins Manufacturing Apple Silicon Amid Component Constraints]** · [Source](url)
+In a major move to diversify its supply chain away from TSMC, Apple has partnered with Intel, which has already begun small-scale production of lower-end, legacy chips using its 18A process. This transition comes as Apple navigates severe industry-wide memory shortages and capacity limits that have threatened the specifications of upcoming entry-level devices like the $599 MacBook Neo and the standard iPhone 18. Fortunately, shipping estimates for the MacBook Neo are improving following reports of a 10 million-unit TSMC "hot lot" order of A18 Pro chips to meet high demand.
 
-**[Amazon Acquires Globalstar to Power Apple's Satellite Services](#)** · [MacRumors](#)
-Amazon has entered a definitive $11.57 billion merger agreement to acquire Globalstar, officially taking over the infrastructure that powers Apple’s critical emergency satellite features. A newly signed agreement between the two tech giants secures existing out-of-cell safety capabilities and paves the way for advanced future functions rumored for iOS 27, including satellite-based photo messaging, Maps integration, and satellite 5G connections exclusive to the iPhone 18 Pro.
+**[iOS 27 and macOS 27 Leaks Point to AI Overhauls and Design Tweaks]** · [Source](url)
+Ahead of WWDC, significant leaks revealed that iOS 27 will feature a fully customizable Camera app and a dedicated Siri app with a system-wide "Search or Ask" Dynamic Island interface that can integrate with third-party models. Simultaneously, macOS 27 is expected to refine the polarizing "Liquid Glass" design to improve readability and performance, while introducing AI-powered Safari tab grouping and potentially dropping support for Intel Macs entirely. Apple is also reportedly exploring ways to safely incorporate autonomous AI agents into the App Store ecosystem.
 
-**[iOS 27 Leaks and the Expansion of Mac AI Agents](#)** · [MacStories](#)
-Leaked backend code indicates that June's iOS 27 announcement will focus on stability and a new system-wide transparency slider for the "Liquid Glass" design, alongside powerful on-device "Visual Intelligence" features capable of scanning nutrition labels and physical business cards. On the Mac side, the AI agent ecosystem expanded rapidly with a new native Gemini app and a major update to OpenAI's Codex, which now utilizes macOS accessibility frameworks to flawlessly "see" and control background desktop applications.
+**[Fall Hardware Roadmap Details iPhone Ultra While M5 Macs Slip to 2027]** · [Source](url)
+Apple's upcoming hardware roadmap includes a highly anticipated foldable "iPhone Ultra," rumored to feature a book-style fold, a titanium border, Touch ID, and a conservative two-color palette upon launch. Conversely, Mac enthusiasts may have to wait, as severe supply constraints driven by AI infrastructure demands have reportedly pushed the M5 Mac Studio and touchscreen MacBook Pro releases into 2027. 
 
-**[App Store Security Vetting Faces Intense Scrutiny](#)** · [9to5Mac](#)
-Apple's walled garden came under fire this week following the emergency removal of highly damaging applications, notably a fake "Ledger Live" crypto wallet that bypassed App Review and scammed Mac users out of $9.5 million. Compounding the controversy, a misleading app named "Freecash" was caught secretly harvesting sensitive biometric data, while separate reports highlighted how Apple's automated search tools inadvertently steered users toward banned AI "nudify" applications.
+**[Apple Navigates OpenAI Tensions and Defends Encryption]** · [Source](url)
+Apple is facing legal and regulatory friction on multiple fronts, strongly pushing back against Canada's Bill C-22 to protect end-to-end encryption from government backdoors. Furthermore, tensions are reportedly rising with OpenAI over poor ChatGPT subscription conversions via Siri, just as Apple's Craig Federighi was named as a document custodian in xAI's antitrust lawsuit against both companies. In a surprising pivot, Apple also defended Google against an EU proposal that would force Android to open up to rival AI services, citing privacy and security concerns.
 
 ## Also Worth Knowing
-*   **Smart Glasses Prototypes:** Apple is actively developing at least four distinct styles for its upcoming smart glasses—including premium acetate Wayfarer and circular frames—targeting a late 2026 or early 2027 launch with tight Siri intelligence integration.
-*   **A Dramatic MacBook Pro Redesign:** A completely overhauled M6 MacBook Pro is expected later this year, heavily rumored to feature Apple's first macOS-optimized touchscreen, vibrant OLED display panels, and a Dynamic Island in place of the traditional screen notch.
-*   **Leadership Exits:** Former head of AI John Giannandrea is officially departing his advisory role following an internal AI restructure, while Stan Ng, a pivotal marketing executive behind iconic products like the original iPod and Apple Watch, is retiring after 31 years.
-*   **Tragic Hardware Incidents:** Accessory maker Casely has re-issued a major recall for MagSafe power banks following an in-flight explosion and a fire-related death, while reports emerged that a fatal 2024 aircraft crash occurred during active filming for a Vision Pro immersive series.
+*   **Apple Maps Ads:** Following the release of iOS 26.5, Apple is preparing to introduce sponsored location ads in Apple Maps search results and a new "Suggested Places" section in the US and Canada.
+*   **Foxconn Ransomware Attack:** Apple's primary manufacturing partner, Foxconn, suffered a ransomware attack by the Nitrogen group, with hackers claiming to have stolen 8TB of data, potentially including confidential Apple project files and technical drawings.
+*   **Apple Card Transition:** As Apple Card transitions from Goldman Sachs to Chase, core benefits like no fees and 3% Daily Cash will remain, while new sign-ups are currently being offered a massive promo that effectively makes the $249 AirPods Pro 3 free with purchase.
+*   **Hardware Strategy Shifts:** Prominent leakers indicate the second-generation Vision Pro has been delayed until at least 2028 as Apple shifts talent to smart glasses, and the company has officially abandoned plans to integrate Touch ID into future Apple Watch models to prioritize battery life and advanced health sensors.

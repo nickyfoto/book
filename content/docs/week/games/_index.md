@@ -3,36 +3,32 @@ title: Gaming News
 weight: 19
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["video games", "hardware deals", "movies", "tabletop games", "industry news", "gaming news", "dragon ball", "game deals", "magic the gathering", "pop culture", "game reviews", "video game deals", "gaming hardware", "game updates", "gaming deals", "video game industry", "playstation", "movie adaptations", "free games", "artificial intelligence"]
+tags: ["nintendo switch 2", "playstation", "industry news", "game updates", "game deals", "lego games", "artificial intelligence", "pc gaming", "movie adaptations", "nintendo", "leaks", "game reviews", "gaming news", "gaming industry", "free games", "video games", "gaming hardware"]
 ---
 
-# Gaming News — Week of 2026-04-18 to 2026-05-01
+# Gaming News — Week of 2026-05-08 to 2026-05-15
 
 ## Story of the Week
-The highly anticipated co-op deep-sea survival game *Subnautica 2* finally locked in an Early Access release date of May 14, 2026, for PC and Xbox Series X|S. The sudden announcement from Unknown Worlds caused immediate shockwaves across the indie release calendar, even forcing the cozy base-builder *Outbound* to bump its own launch forward to avoid competing with the deep-sea leviathan. 
+Playground Games' *Forza Horizon 6* experienced an absolute rollercoaster of a week, surviving a disastrous 155GB unencrypted Steam preload leak to ultimately debut as a critical and commercial masterpiece. Set in a stunning, highly credible recreation of Japan, the open-world racer scored a flawless 10/10 and smashed series records with over 172,000 concurrent players on Steam during its premium early access period. 
 
 ## Top Stories
-**[Valve Drops the Steam Controller and Teases Steam Deck 2](https://www.ign.com)** · IGN
-Valve announced a $99 Steam Controller launching May 4, 2026, featuring drift-immune TMR sensors and innovative haptic touchpads. While the standalone Steam Machine was delayed due to an AI-fueled RAM shortage, Valve confirmed they are "hard at work" on the Steam Deck 2 as they evaluate next-generation silicon advancements.
+**[Nintendo Hikes Switch 2 Price to $499 Amid Devastating Leaks]** · [IGN](#)
+Nintendo confirmed a massive $50 price hike for the upcoming Switch 2, pushing the base console to $499.99 starting September 1 due to changing market conditions and rising component costs. To complicate matters, the company is facing a "worst-case scenario" of massive pipeline leaks—including a *Star Fox* remake and a *Zelda: Ocarina of Time* project—threatening their ability to manage fan expectations for future Nintendo Direct broadcasts.
 
-**[GTA 6 Will Dodge "Super-Premium" Pricing and Real-World Brands](https://www.ign.com)** · IGN
-Take-Two CEO Strauss Zelnick addressed rumors about *Grand Theft Auto 6*'s price, hinting it will cost "way way way less" than the value it delivers rather than carrying a super-premium tag. Furthermore, he confirmed the massive blockbuster won't sell out to real-world product placements, aiming to preserve Rockstar's fiercely satirical world.
+**[Subnautica 2 Smashes Records with Early Access Launch]** · [IGN](#)
+Unknown Worlds' *Subnautica 2* made a colossal splash on Steam, selling over 2 million copies in its first 12 hours and hitting a massive peak of 651,000 concurrent players across platforms. While players are praising its gripping sci-fi narrative and seamless co-op, the current early access map limits mean dedicated fans might burn through the mystery fairly quickly.
 
-**[Sony's Confusing PlayStation DRM Scare Resolved](https://www.ign.com)** · IGN
-A stealthy new 30-day online DRM timer on newly-purchased digital PS4 and PS5 games initially sparked panic among game preservationists. Sony eventually clarified that this is merely a temporary measure that converts to a permanent license after a 14-day online verification, effectively closing a refund loophole for hacked consoles without punishing legitimate owners.
+**[Sony Takes $765 Million Hit on Bungie as Marathon Pivots to PVE]** · [IGN](#)
+PlayStation reported a massive $765 million impairment loss against Bungie's assets after the hardcore extraction shooter *Marathon* completely failed to meet internal sales expectations. In a desperate bid to win over more casual players and salvage its $250 million budget, Bungie is introducing dedicated PVE modes, massive progression resets, and new quality-of-life adjustments in Season 2.
 
-**[Helldivers 2 Deploys Massive Player-Friendly Overhaul](https://www.ign.com)** · IGN
-Arrowhead Game Studios responded to immense community backlash with a transparent AMA from CCO Johan Pilestedt, followed closely by the robust Patch 6.2.2. The massive "Machinery of Oppression" update brings two new biomes and sweeping balance changes, notably giving Exosuits a major, much-needed durability buff with a combined health pool.
-
-**[Resident Evil Requiem Dominates While Capcom Plans Movie Reboot](https://www.ign.com)** · IGN
-*Resident Evil Requiem* continues to smash records with 7 million copies sold, prompting Capcom to confidently raise its profit forecasts and lock an upcoming Mercenaries-style mini-game behind campaign completion. Meanwhile, director Zach Cregger revealed his upcoming *Resident Evil* movie adaptation will ditch traditional "badass" tropes to focus on a hapless everyman navigating the weird, survival-horror dread of Raccoon City.
+**[Overwatch Heroes Invade Fortnite Alongside Massive Gameplay Changes]** · [IGN](#)
+Epic Games is pulling off another massive crossover event, dropping iconic *Overwatch* heroes like Tracer, Mercy, Genji, and D.Va onto the *Fortnite* island. The update also drastically shakes up the battle royale formula by replacing lethal fall damage with a 1HP "splat" mechanic, bringing unlimited-use "Pocket Items" to Zero Build modes, and introducing classic Overwatch maps like Hanamura to the game.
 
 ## Free Games & Deals
-The Epic Games Store is currently giving away *Oddsparks: An Automation Adventure*—a fantastic automated workshop builder with online co-op—for absolutely free until May 7. It's also Amazon Gaming Week, offering stellar RPG deals like *Final Fantasy 7 Rebirth* and *Dragon Quest 3 HD-2D Remake* for $29.99, while *Resident Evil 4* matches an all-time low at $15.99. On the hardware front, Best Buy is offering half-price open-box PlayStation VR2 headsets for an unbelievable $199.99, and Dell launched its 27" QHD 240Hz OLED gaming monitor for a shockingly low $349.99. Additionally, Amazon and Walmart are rebelling against the new "Switch 2 tax" by offering flat $10 discounts on physical pre-orders of upcoming titles like *Splatoon Raiders* and *Yoshi and the Mysterious Book*.
+The Epic Games Store is offering two fantastic freebies this week: claim the strategy game *Sunderfolk - Standard Edition* and the narrative-heavy *The Telltale Batman Shadows Edition* before May 21. If you're a Humble Bundle fan, you absolutely need to grab the $10 Indie Icons Showcase Bundle on PC, featuring verified bangers like *Celeste*, *Starbound*, and *Bloodstained: Ritual of the Night*. For physical console deals, Best Buy has heavily discounted Switch 2 titles like *Persona 3 Reload* to just $29.99 and *Hyrule Warriors: Age of Imprisonment* to $49.99, while PlayStation owners can snag *Yakuza Kiwami 1+2* for a historic low of $29.99 on Amazon.
 
 ## Also Worth Knowing
-*   **[Spiders Shutting Down](https://www.ign.com):** The French AA studio behind *GreedFall* is ceasing operations immediately following its parent company Nacon's insolvency, tragically ending its run just after launching its sequel into early access.
-*   **[Dragon Ball Xenoverse 3 Announced](https://www.ign.com):** Bandai Namco officially unveiled the action-RPG sequel set in a vibrant new "AGE 1000" world for PC, PlayStation 5, and Xbox Series X|S.
-*   **[Final Fantasy XIV Hits Switch 2](https://www.ign.com):** Square Enix is bringing the massive MMO to the Nintendo Switch 2 with full mouse and keyboard support, while officially preparing to sunset the aging PS4 version.
-*   **[Forza Horizon 6 Multiplayer Detailed](https://www.ign.com):** Playground Games detailed the 'Horizon Play' multiplayer suite launching May 19, which will feature 1v1 mountain pass "touge battles" and a massive 50-mile 'Goliath' race.
-*   **[Nintendo's Copyright Strike](https://www.ign.com):** Nintendo's legal team is taking down the popular PokéNational Geographic YouTube channel, demanding deletion within seven days despite the creator arguing the nature-documentary-style shorts fall under fair use.
+*   **[Lego Batman: Legacy of the Dark Knight Adds Denuvo DRM](#):** Warner Bros. quietly baked Denuvo into the highly demanding PC version just weeks before launch, sparking legitimate fears of a performance disaster.
+*   **[Sega Cancels 'Super Game' Initiative](#):** Sega pulled the plug on its live-service $634 million "Super Game" project after five years, shifting developers back to beloved single-player reboots like *Crazy Taxi* and *Jet Set Radio*.
+*   **[Lies of P Sequel Enters Full Production](#):** Neowiz officially moved the highly anticipated *Lies of P* sequel out of prototyping to double down on the original soulslike's fantastic storytelling.
+*   **[Party Animals Review-Bombed](#):** The co-op hit *Party Animals* was review-bombed to "mostly negative" on Steam after the developers mandated the use of generative AI for a $15,000 video contest.
