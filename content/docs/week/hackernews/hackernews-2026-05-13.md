@@ -1,6 +1,6 @@
 ---
 title: 2026-05-13
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "reverse engineering", "linux", "databases", "self-hosting"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-15
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["vibe-coding", "generative-ai", "inaturalist", "tools"]
 ---

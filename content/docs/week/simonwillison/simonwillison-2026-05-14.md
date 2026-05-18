@@ -1,6 +1,6 @@
 ---
 title: 2026-05-14
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "coding-agents", "generative-ai", "llms"]
 ---

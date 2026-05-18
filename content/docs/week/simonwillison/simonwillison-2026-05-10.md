@@ -1,6 +1,6 @@
 ---
 title: 2026-05-10
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["hallucinations", "journalism", "careers", "sqlite"]
 ---
