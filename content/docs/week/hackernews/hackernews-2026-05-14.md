@@ -1,6 +1,6 @@
 ---
 title: 2026-05-14
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "software engineering", "apple", "privacy"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-14
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "developer tools", "venture capital", "cryptocurrency"]
 ---

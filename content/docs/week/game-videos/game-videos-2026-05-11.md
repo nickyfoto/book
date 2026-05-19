@@ -1,6 +1,6 @@
 ---
 title: 2026-05-11
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["steam controller", "hardware review", "gaming peripherals", "pc gaming"]
 ---

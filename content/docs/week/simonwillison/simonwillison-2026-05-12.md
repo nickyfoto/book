@@ -1,6 +1,6 @@
 ---
 title: 2026-05-12
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llm", "datasette", "artificial intelligence", "debugging", "marketing"]
 ---

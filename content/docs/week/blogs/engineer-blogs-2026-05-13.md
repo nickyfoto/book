@@ -1,6 +1,6 @@
 ---
 title: 2026-05-13
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["macos", "utilities", "productivity", "bartender"]
 ---
