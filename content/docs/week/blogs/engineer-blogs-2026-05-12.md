@@ -1,6 +1,6 @@
 ---
 title: 2026-05-12
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["software architecture", "domain modeling", "conway's law", "llms", "rust"]
 ---

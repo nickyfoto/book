@@ -1,6 +1,6 @@
 ---
 title: 2026-05-16
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "us-china relations", "semiconductors", "tech media", "consumer tech"]
 ---

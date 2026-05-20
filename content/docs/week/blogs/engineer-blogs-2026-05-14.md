@@ -1,6 +1,6 @@
 ---
 title: 2026-05-14
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "continuous integration", "local inference"]
 ---

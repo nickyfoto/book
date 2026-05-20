@@ -1,6 +1,6 @@
 ---
 title: 2026-05-13
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-assisted-programming", "datasette", "content-security-policy", "ai-agents", "codex"]
 ---
