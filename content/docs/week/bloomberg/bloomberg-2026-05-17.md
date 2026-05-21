@@ -1,6 +1,6 @@
 ---
 title: 2026-05-17
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "crude oil", "artificial intelligence", "interest rates", "mergers and acquisitions"]
 ---
