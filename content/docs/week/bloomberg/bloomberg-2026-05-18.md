@@ -1,6 +1,6 @@
 ---
 title: 2026-05-18
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["artificial intelligence", "inflation", "geopolitics", "energy infrastructure", "mergers and acquisitions"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-14
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "us-china relations", "software engineering", "consumer tech"]
 ---

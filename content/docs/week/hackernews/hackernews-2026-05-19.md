@@ -1,6 +1,6 @@
 ---
 title: 2026-05-19
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "open source", "software engineering"]
 ---

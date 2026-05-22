@@ -1,6 +1,6 @@
 ---
 title: 2026-05-18
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["birds", "birdwatching", "los angeles", "pycon us"]
 ---

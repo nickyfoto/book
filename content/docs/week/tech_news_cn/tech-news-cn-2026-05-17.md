@@ -1,6 +1,6 @@
 ---
 title: 2026-05-17
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["geopolitics", "artificial intelligence", "networking", "windows 11", "semiconductors"]
 ---
