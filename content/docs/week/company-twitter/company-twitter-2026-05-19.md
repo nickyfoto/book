@@ -1,6 +1,6 @@
 ---
 title: 2026-05-19
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "google", "venture capital", "developer tools"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-19
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "gemini", "local-llms", "coding-agents", "llm-pricing"]
 ---

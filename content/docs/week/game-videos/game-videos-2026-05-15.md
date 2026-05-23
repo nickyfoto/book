@@ -1,6 +1,6 @@
 ---
 title: 2026-05-15
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["video games", "free games", "subnautica 2", "minecraft", "easter eggs"]
 ---
