@@ -3,30 +3,29 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["html", "security", "prompt-engineering", "llms", "claude-code", "hallucinations", "journalism", "careers", "sqlite", "coding-agents", "agentic-engineering", "generative-ai", "llm", "datasette", "artificial intelligence", "debugging", "marketing", "ai-assisted-programming", "content-security-policy", "ai-agents", "codex", "vibe-coding", "inaturalist", "tools"]
+tags: ["datasette", "llm", "css", "openclaw", "git", "open-source", "security", "ai", "gov-uk", "birds", "birdwatching", "los angeles", "pycon us", "llms", "gemini", "local-llms", "coding-agents", "llm-pricing", "generative-ai", "prompt-injection", "sqlite", "sandboxing", "artificial intelligence", "privacy", "memory", "advertising"]
 ---
 
-# Simon Willison — Week of 2026-05-08 to 2026-05-15
+# Simon Willison — Week of 2026-05-16 to 2026-05-22
 
 ## Highlight of the Week
-The standout development this week is Simon's rapid adaptation to the latest frontier model capabilities, most notably releasing `llm 0.32a2` to expose and visualize the new interleaved reasoning tokens of GPT-5 class models directly in the terminal. This perfectly pairs with his hands-on explorations of embedding LLM calls deeply into developer workflows, such as executing prompts via script shebangs and leveraging models to output rich HTML rather than just Markdown.
+The most impactful milestone this week is the official announcement of Datasette Agent, merging Simon's three years of work on his LLM library directly into Datasette. This conversational AI interface allows users to naturally interrogate their databases, boasting an extensible plugin architecture for charts, image generation, and secure code execution.
 
 ## Key Posts
+**[The last six months in LLMs in five minutes]** · [Source](#)
+Simon shared annotated slides from his PyCon US 2026 lightning talk capturing a major inflection point in AI developer tooling. He highlights how coding agents crossed the threshold to become reliable daily drivers, and points to the astonishing capabilities of massive local models running on consumer hardware like Mac Minis.
 
-**[Using Claude Code: The Unreasonable Effectiveness of HTML]** · [Source](#)
-Inspired by Anthropic's Thariq Shihipar, Simon questions the long-standing habit of restricting LLM outputs to Markdown, noting that modern models can leverage HTML for rich, interactive elements like SVG diagrams. He successfully proves this by piping obfuscated Python exploit code into his `llm` CLI to generate a fully styled, interactive explanation directly from the command line.
+**[Google I/O, Gemini Spark, Antigravity]** · [Source](#)
+Digging into Google's Gemini Spark workspace integration, Simon questions the security of their opaque "Antigravity" architecture. He highlights the growing tension between building powerful agents with deep access to user data and the persistent, fundamental risks of prompt injection vulnerabilities.
 
-**[Using LLM in the shebang line of a script]** · [Source](#)
-In a highly practical TIL, Simon explores how to invoke his `llm` CLI directly in the shebang (`#!/usr/bin/env llm`) of plain English text files. He demonstrates embedding tool calls and executing YAML templates that define extra tools as Python functions, including a complex setup that queries his blog via the Datasette SQL API.
+**[GDS weighs in on the NHS’s decision to retreat from Open Source]** · [Source](#)
+Simon covers a rare public dispute within the UK civil service regarding AI security. After the NHS closed its open-source repositories over AI-discovered vulnerabilities, the Government Digital Service pushed back, arguing that "open by default" policies are essential for cost reduction, code reuse, and security scrutiny.
 
-**[Not so locked in any more]** · [Source](#)
-Simon highlights a fundamental shift in software architecture driven by AI coding agents: programming language choices are increasingly fungible rather than permanent commitments. He shares an anecdote of a team using agents to rewrite native mobile apps into React Native, treating the framework as a temporary tool that can be cheaply ported back to native code later if it turns out to be the wrong choice.
-
-**[CSP Allow-list Experiment]** · [Source](#)
-Built using GPT-5.5 xhigh via the Codex desktop app, this technical experiment explores intercepting Content Security Policy (CSP) errors within sandboxed iframes. It features a custom `fetch()` wrapper that gracefully passes errors to the parent window, allowing users to dynamically approve domains for an allow-list before refreshing the page.
+**[The memory shortage is causing a repricing of consumer electronics]** · [Source](#)
+Highlighting the massive physical footprint of AI, Simon links to analysis showing how data center demands for High-Bandwidth Memory (HBM) are eating up fixed silicon wafer capacity. This shift is severely constraining consumer RAM supplies and threatens to significantly drive up the cost of affordable electronics like sub-$100 smartphones globally.
 
 ## Project Updates
-It was a highly productive release week across Simon's ecosystem, headlined by the `llm 0.32a2` alpha, which adapts to OpenAI's new endpoints to natively display GPT-5 reasoning steps. In the Datasette world, he pushed `datasette 1.0a29` after using GPT-5.5 to debug a race-condition segfault, launched a dedicated Datasette project blog, and released the `datasette-ip-rate-limit 0.1a0` plugin built with Codex. Finally, he published `inaturalist-clumper 0.1`, a stabilized utility that compiles his personal iNaturalist sightings into JSON.
+This was a massive week for releases, dominated by the launch of the `datasette-agent` ecosystem, which included plugins like `datasette-agent-charts` for data visualization and `datasette-agent-sprites` for secure sandbox execution via Fly Sprites. Simon focused heavily on transparency, shipping UX updates to expose the underlying SQL queries generated by the agent and ensuring robust permission checks. Additionally, he released `datasette-llm-limits 0.1a0` for strict API cost management, and aggressively updated his `llm-gemini` CLI plugin to support Google's new Gemini 3.5 Flash model and streaming reasoning tokens on the exact day of the model's announcement.
 
 ## Themes
-A dominant theme this week is the broader architectural and economic impact of "agentic engineering," where AI not only accelerates development but fundamentally alters software maintenance costs and dissolves traditional language lock-in. Concurrently, Simon continues to demonstrate the power of AI-assisted "vibe-coding," consistently using tools like Codex and Claude to rapidly spin up small, sharp utilities—from QR code generators to rate-limiting plugins—to solve immediate infrastructural needs.
+A recurring theme this week is the hidden economic and infrastructural costs of the AI boom. Simon kept returning to the realities of AI pricing at every scale: from his own need to build `datasette-llm-limits` to control local API spend, to analyzing Google's 3x price hikes for Gemini 3.5 Flash, noting SpaceX paying Anthropic $1.25 billion monthly for compute, and tracking how HBM data center demands are pricing out cheap consumer electronics.

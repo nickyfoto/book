@@ -3,30 +3,29 @@ title: Seattle Local
 weight: 12
 bookCollapseSection: true
 categories: ["News", "Lifestyle"]
-tags: ["transit", "public safety", "local politics", "affordable housing", "community", "crime", "education", "seattle", "business", "weather", "sports", "public health", "local business", "local sports", "environment", "world cup", "wildlife", "city politics"]
+tags: ["crime", "public health", "infrastructure", "parks", "public safety", "transit", "education", "outdoors", "weather", "local politics", "business", "nature", "environment", "homelessness", "local government", "transportation", "city politics", "community events"]
 ---
 
-# Seattle Local — Week of 2026-05-08 to 2026-05-15
+# Seattle Local — Week of 2026-05-16 to 2026-05-22
 
 ## Top Story
-The fatal stabbing of 19-year-old transgender UW student Juniper Blessing in the laundry room of the off-campus Nordheim Court Apartments gripped the University District community this week. After a multi-day manhunt that raised urgent safety concerns among student residents regarding building security, a 31-year-old suspect surrendered to Bellevue Police and now faces a first-degree murder charge with bail set at $10 million.
+The University of Washington community is mourning the loss of 19-year-old student Juniper Blessing, who was fatally stabbed in an off-campus laundry room on May 10. Authorities have charged 31-year-old Christopher Leahy with first-degree murder, setting his bail at $10 million as they investigate whether the brutal attack was targeted or connected to other campus-area prowling incidents. A growing campus memorial has been established for Blessing, who friends remembered for her powerful voice and moving presence.
 
 ## Local News
+**[SPD Increases Aurora Enforcement Following Shootings](url)** · KIRO 7
+Following a surge of violence that included four shootings in less than 72 hours near 97th Street and Aurora Avenue, Mayor Katie Wilson has confirmed the immediate deployment of additional police officers to the corridor. Frustrated neighborhood residents demanded emergency intervention ahead of the World Cup, noting that recent stray gunfire struck the wall of a baby's bedroom.
 
-**[Arrest Made in Beloved Taproom Employee's Murder]** · [KING 5](#)
-Quusaa "Q" Margarsa, a 25-year-old employee at The Growler Guys in the Lake City/Northgate area, was shot and killed while closing the business early Saturday morning. A 20-year-old suspect, Lucas Logan, surrendered to Seattle police after reportedly hanging out with the victim inside the closed restaurant prior to the shooting. The community quickly rallied around the tragedy, raising over $45,000 for Margarsa's funeral expenses as a memorial of flowers and notes grew outside the popular beer garden.
+**[Bothell High Students Walk Out Over SRO Removal](url)** · KOMO News
+More than 500 Bothell High School students walked out of classes to protest the Northshore School Board's decision to eliminate the campus's school resource officer program by the 2026-27 school year. Students expressed intense frustration, stating that Officer Garrett Ware is an integral part of their community and that their voices were ignored in the board's decision.
 
-**[Starbucks Announces Layoffs as Former CEO Criticizes Local Leaders]** · [The Seattle Times](#)
-Starbucks announced upcoming corporate layoffs impacting hundreds of support roles across the U.S., including at its SoDo headquarters. The cuts coincide with former CEO Howard Schultz announcing his exit to Florida via a scathing op-ed that criticized state and local policies as increasingly hostile toward businesses. This corporate friction arrives as Seattle grapples with a massive half-billion-dollar budget deficit that threatens local tax hikes and municipal layoffs.
+**[Mayor Faces Scrutiny Over "Millionaire" Remarks and Business Climate](url)** · The Seattle Times
+Seattle Mayor Katie Wilson is facing pushback from business leaders and former Governor Christine Gregoire after making controversial remarks appearing to dismiss millionaires and businesses leaving Washington state. City Councilmember Rob Saka also publicly warned against dismissing business concerns amidst growing economic anxiety over downtown office vacancies and the elimination of over 250 Starbucks corporate positions.
 
-**[King County Residents Monitored for Andes Hantavirus]** · [FOX 13](#)
-Three King County residents are quarantining at home following potential exposure to the Andes hantavirus linked to an international cruise ship outbreak. Two of the individuals were exposed on a flight from South Africa while seated near an infected passenger. Health officials stress that the risk to the general public remains low, as the virus typically spreads through rodent exposure rather than casual human contact and behaves differently than COVID-19.
+**[Audit Uncovers Potential Fraud in King County Youth Programs](url)** · FOX 13
+An independent investigation by King County's Office of the Ombuds identified nearly $700,000 in questionable costs tied to youth diversion programs within the Department of Community and Human Services. The audit of 224 transactions across multiple organizations concluded that waste, fraud, or abuse likely occurred in several instances.
 
-**[Sound Transit Faces Massive $35 Billion Funding Shortfall]** · [Local News](#)
-Sound Transit is grappling with a projected $34.5 billion to $35 billion funding gap that threatens to drastically reshape the future of light rail expansion promised to Puget Sound voters. To close the deficit, the agency is weighing severe cuts to previously planned projects, including potentially ending a future train line at Seattle Center instead of completing the route to Ballard.
-
-**[Seattle Prepares Transit and Tech for 2026 World Cup Fans]** · [KIRO 7](#)
-As the 2026 FIFA World Cup approaches, state and city leaders are urging residents to leave their cars at home, planning car-free zones to accommodate an influx of 750,000 fans. Preparation efforts include installing new solar-powered, high-tech public restrooms in Pioneer Square and SoDo, as well as anchoring a first-of-its-kind floating soccer stage and jumbotron in Elliott Bay.
+**[Auburn Police Officer Arrested in Child Exploitation Sting](url)** · KIRO 7
+An Auburn Police Department officer was arrested at the department's headquarters on allegations of felony immoral communication with a minor. Detectives from the Pierce County Internet Crimes Against Children task force took the officer into custody after he allegedly sent inappropriate messages to undercover investigators.
 
 ## Community & Lifestyle
-A mix of record heat and thunderstorms hit the region this week, while biologists are investigating a record 19th dead gray whale washing ashore in Washington due to malnutrition exacerbated by climate change. Commuters should prepare for major weekend traffic delays, including the closure of all northbound lanes of SR 99 on the First Avenue South Bridge for emergency repairs. For recreation, locals are advised to avoid swimming at Madison Park Beach and Seward Park Beach due to high bacteria levels, but can celebrate the Seattle Storm securing their first win of the WNBA season.
+Western Washington is kicking off Memorial Day weekend with beautiful, sunny weather in the mid-70s before rain returns on Monday. Families can visit the newly debuted lion cubs and western lowland gorilla at Woodland Park Zoo, but residents and pets are urged to avoid Green Lake due to the discovery of dangerous toxic algae. Meanwhile, downtown preparations for the 2026 FIFA World Cup are ramping up as the city installs new public bathrooms in Pioneer Square and transforms Lumen Field into "Seattle Stadium".

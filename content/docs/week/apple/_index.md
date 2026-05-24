@@ -3,33 +3,29 @@ title: Apple News
 weight: 5
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["hardware", "privacy", "artificial intelligence", "supply chain", "macos 27", "macbook pro", "ipad", "ios updates", "icloud plus", "ios 26.5", "rcs messaging", "hardware rumors", "vision pro", "ios 27", "macbook neo", "apple ecosystem", "iphone", "mac", "apple silicon", "macos", "apple"]
+tags: ["macbook pro", "apple watch", "ios", "macos", "hardware rumors", "apple", "ios 27", "artificial intelligence", "hardware deals", "macbook", "wwdc 2026", "apple intelligence", "foldable iphone", "apple watch ultra 4", "accessibility", "app store", "hardware", "iphone", "mac", "antitrust"]
 ---
 
-# Apple — Week of 2026-05-08 to 2026-05-15
+# Apple — Week of 2026-05-16 to 2026-05-22
 
 ## Week in Review
-This week was dominated by the highly anticipated release of iOS 26.5, which brought long-awaited features like end-to-end encrypted RCS messaging and critical security fixes. On the hardware front, Apple is navigating significant supply chain shifts, securing a historic chip manufacturing deal with Intel while grappling with component shortages that are pushing major Mac updates to 2027. Meanwhile, significant leaks surrounding iOS 27 and macOS 27 suggest a massive AI and design overhaul is coming at the upcoming WWDC keynote.
+This week was dominated by a tidal wave of iOS 27 and Apple Intelligence leaks ahead of the officially announced June 8 WWDC 2026 event. While the software ecosystem braces for a massive, Gemini-powered Siri overhaul and profound AI accessibility features, Apple's hardware teams experienced a mix of unprecedented Q1 market dominance and ongoing engineering challenges with its highly anticipated foldable iPhone. 
 
 ## Top Stories
+**[Massive iOS 27 Apple Intelligence Leaks Detail Siri Redesign](/news/ios-27-siri-ai)** · [MacRumors](#)
+Leaks this week detailed a comprehensive, Gemini-powered redesign for Siri in iOS 27, which will reportedly launch as a standalone chatbot app with auto-deleting histories to preserve user privacy. The upcoming "Apple Intelligence 2.0" update will also include Grammarly-style writing tools, natural language shortcut creation, and auto-generated Genmoji suggestions based on a user's photo library. Additionally, Apple previewed profound AI-driven accessibility tools, such as eye-tracking for wheelchairs and natural language navigation for Voice Control.
 
-**[Apple Releases iOS 26.5 with Encrypted RCS and EU Interoperability]** · [Source](url)
-Apple officially launched iOS 26.5, delivering highly anticipated end-to-end encrypted RCS messaging for cross-platform chats with Android users. The update also introduces major EU-mandated interoperability features that allow third-party wearables to use AirPods-like proximity pairing, alongside the dynamic Pride Luminance wallpaper, Magic Accessory USB-C pairing, and over 50 crucial security patches.
+**[Foldable iPhone Ultra Plagued by Hinge Failures](/news/foldable-iphone-ultra-hinge)** · [MacRumors](#)
+Apple's attempts to bring a foldable "iPhone Ultra" to market have hit significant engineering roadblocks, specifically regarding its Liquid Metal hinge. During high-frequency open-and-close trial production tests, the hinge consistently failed to meet Apple's rigorous long-term reliability standards. This severe quality control issue may delay mass production from June to August or later, even as Apple plans to eventually share this crease-free hinge design with an upcoming 18-inch foldable iPad.
 
-**[Intel Begins Manufacturing Apple Silicon Amid Component Constraints]** · [Source](url)
-In a major move to diversify its supply chain away from TSMC, Apple has partnered with Intel, which has already begun small-scale production of lower-end, legacy chips using its 18A process. This transition comes as Apple navigates severe industry-wide memory shortages and capacity limits that have threatened the specifications of upcoming entry-level devices like the $599 MacBook Neo and the standard iPhone 18. Fortunately, shipping estimates for the MacBook Neo are improving following reports of a 10 million-unit TSMC "hot lot" order of A18 Pro chips to meet high demand.
+**[Hardware Shakeups Amidst Market Dominance](/news/apple-q1-market-dominance)** · [9to5Mac](#)
+Chief Hardware Officer Johny Srouji recently reorganized his product design teams to accelerate the future device pipeline, handing oversight to Shelly Goldberg and Dave Pakula. Despite the underwhelming sales of the ultra-thin $999 iPhone Air, Apple dominated global smartphone shipments in Q1 2026 with a 21% market share thanks to immense demand for the iPhone 17 series. The new $599 A18 Pro MacBook Neo is also facing heavy demand, with aggressive pricing achieved partly through cost-saving "chip binning" strategies.
 
-**[iOS 27 and macOS 27 Leaks Point to AI Overhauls and Design Tweaks]** · [Source](url)
-Ahead of WWDC, significant leaks revealed that iOS 27 will feature a fully customizable Camera app and a dedicated Siri app with a system-wide "Search or Ask" Dynamic Island interface that can integrate with third-party models. Simultaneously, macOS 27 is expected to refine the polarizing "Liquid Glass" design to improve readability and performance, while introducing AI-powered Safari tab grouping and potentially dropping support for Intel Macs entirely. Apple is also reportedly exploring ways to safely incorporate autonomous AI agents into the App Store ecosystem.
-
-**[Fall Hardware Roadmap Details iPhone Ultra While M5 Macs Slip to 2027]** · [Source](url)
-Apple's upcoming hardware roadmap includes a highly anticipated foldable "iPhone Ultra," rumored to feature a book-style fold, a titanium border, Touch ID, and a conservative two-color palette upon launch. Conversely, Mac enthusiasts may have to wait, as severe supply constraints driven by AI infrastructure demands have reportedly pushed the M5 Mac Studio and touchscreen MacBook Pro releases into 2027. 
-
-**[Apple Navigates OpenAI Tensions and Defends Encryption]** · [Source](url)
-Apple is facing legal and regulatory friction on multiple fronts, strongly pushing back against Canada's Bill C-22 to protect end-to-end encryption from government backdoors. Furthermore, tensions are reportedly rising with OpenAI over poor ChatGPT subscription conversions via Siri, just as Apple's Craig Federighi was named as a document custodian in xAI's antitrust lawsuit against both companies. In a surprising pivot, Apple also defended Google against an EU proposal that would force Android to open up to rival AI services, citing privacy and security concerns.
+**[WWDC 2026 Scheduled as OLED MacBook Pro Advances](/news/wwdc-2026-oled-macbook-pro)** · [Apple](#)
+Apple officially scheduled its WWDC 2026 Keynote for June 8, adopting a "Coming Bright Up" tagline alongside a glowing Swift logo that heavily hints at the new AI-driven Siri interface. On the hardware front, Samsung Display achieved a "golden yield" of over 90 percent on its Gen 8.6 OLED line, meaning panel shipments for the redesigned 14-inch and 16-inch OLED MacBook Pros could begin as early as June. These pro models are expected to feature M6 Pro and M6 Max chips alongside a thinner chassis and a Dynamic Island.
 
 ## Also Worth Knowing
-*   **Apple Maps Ads:** Following the release of iOS 26.5, Apple is preparing to introduce sponsored location ads in Apple Maps search results and a new "Suggested Places" section in the US and Canada.
-*   **Foxconn Ransomware Attack:** Apple's primary manufacturing partner, Foxconn, suffered a ransomware attack by the Nitrogen group, with hackers claiming to have stolen 8TB of data, potentially including confidential Apple project files and technical drawings.
-*   **Apple Card Transition:** As Apple Card transitions from Goldman Sachs to Chase, core benefits like no fees and 3% Daily Cash will remain, while new sign-ups are currently being offered a massive promo that effectively makes the $249 AirPods Pro 3 free with purchase.
-*   **Hardware Strategy Shifts:** Prominent leakers indicate the second-generation Vision Pro has been delayed until at least 2028 as Apple shifts talent to smart glasses, and the company has officially abandoned plans to integrate Touch ID into future Apple Watch models to prioritize battery life and advanced health sensors.
+*   *Fortnite* has officially returned to the App Store globally (excluding Australia), as Epic Games CEO Tim Sweeney continues his "final battle" against Apple's commission fees.
+*   Google officially appealed the 2024 antitrust ruling against its multi-billion-dollar default search engine agreement with Apple, arguing the placement was earned on merit.
+*   Apple published its corecrypto source code on GitHub, detailing post-quantum cryptography algorithms to foster peer review and protect user data against future quantum computing threats.
+*   Apple prevented over $2.2 billion in potentially fraudulent App Store transactions in 2025, blocking nearly 195 million fake reviews and rejecting two million problematic apps from the storefront.

@@ -3,27 +3,29 @@ title: CNBC
 weight: 21
 bookCollapseSection: true
 categories: ["News"]
-tags: ["artificial intelligence", "semiconductors", "federal reserve", "earnings", "iran conflict", "oil prices", "retail", "stock market", "geopolitics", "inflation", "u.s.-china relations", "corporate earnings", "us-china relations"]
+tags: ["iran conflict", "oil prices", "artificial intelligence", "retail", "stock market", "earnings", "geopolitics", "inflation", "federal reserve", "u.s.-china relations", "corporate earnings", "us-china relations", "energy markets"]
 ---
 
-# CNBC — Week of 2026-05-08 to 2026-05-15
+# CNBC — Week of 2026-05-10 to 2026-05-16
 
 ## Story of the Week
-The escalating conflict with Iran and the resulting blockade of the Strait of Hormuz drove oil prices past $100 a barrel, sending massive inflationary shockwaves through the macroeconomic landscape. This energy-driven supply shock fueled a hotter-than-expected April CPI of 3.8% and a blazing 6% wholesale inflation print, forcing traders to abandon rate cut hopes and price in a 51% probability of a Federal Reserve rate hike by December. As incoming Fed Chair Kevin Warsh takes the helm following a tight Senate confirmation, the central bank faces a perilous balancing act between sticky inflation, rising Treasury yields, and severe geopolitical instability.
+The Middle East conflict dominated global markets as the effective closure of the Strait of Hormuz choked off oil supplies, sending crude prices surging and abruptly reigniting U.S. inflation. With April wholesale inflation hitting 6% annually, bond yields spiked and traders began pricing in rate hikes, presenting a massive challenge for newly confirmed Federal Reserve Chair Kevin Warsh.
 
 ## Markets & Economics
-*   **[Inflation Shock Forces Rate Hike Repricing]** · [CNBC](#): Hot April consumer prices (3.8%) and a 6% annual surge in producer prices have abruptly flipped the script on monetary policy. Fed funds futures are now pricing in a 51% chance of a rate hike by December just as Kevin Warsh is confirmed as the new Fed Chair.
-*   **[Hormuz Blockade Drives Oil Past $100]** · [CNBC](#): President Trump's rejection of an Iranian ceasefire has left the Strait of Hormuz effectively closed, pushing Brent crude to $104.21. Traders are increasingly embracing the "NACHO" (Not A Chance Hormuz Opens) trade as global tanker fleets remain stranded or out of position.
-*   **[Equities Shrug Off Macro Risks for New Highs]** · [CNBC](#): Despite geopolitical overhangs and rising Treasury yields, AI euphoria powered the S&P 500 above 7,500 and pushed the Dow back to 50,000 earlier in the week. The rally eventually stalled on Friday as inflation fears and a 5.12% 30-year Treasury yield returned to Wall Street with a vengeance.
-*   **[Beijing Summit Yields Aircraft and Energy Pacts]** · [CNBC](#): President Trump's high-stakes meeting with President Xi Jinping produced agreements for China to purchase U.S. crude and 200 Boeing jets. The two superpowers also negotiated a joint AI safety protocol and the clearance of Nvidia H200 sales to major Chinese tech firms to maintain leverage.
+*   **[Dow makes it back to 50,000 and the S&P 500 closed above 7,500](#)** · [CNBC](#): U.S. equities hit massive milestones mid-week on the back of strong corporate earnings and a broadening tech rally, though inflation fears later stalled the momentum.
+*   **[Wholesale inflation jumps 6% in April on annual basis](#)** · [CNBC](#): Energy spikes stemming from the Iran conflict pushed April CPI to 3.8% and PPI to a red-hot 6%, forcing markets to price in a 51% chance of a Fed rate hike by December.
+*   **[Senate confirms Kevin Warsh as Fed Governor](#)** · [CNBC](#): Warsh was confirmed to lead the central bank right as surging Treasury yields—with the 10-year nearing 4.6% and the 30-year topping 5.12%—signal the bond market believes the Fed is woefully behind the curve.
+*   **[What to expect from the upcoming Trump-Xi summit](#)** · [CNBC](#): President Trump's high-stakes Beijing summit yielded preliminary agreements for China to purchase U.S. oil, 200 Boeing jets, and reduce agricultural tariffs, alongside joint AI safety protocols.
+*   **[Retailers are on a hiring spree. But consumers are sending warning signs](#)** · [CNBC](#): While retail sales rose 0.5% in April, the gains were largely energy-driven, and consumer sentiment plummeted to all-time lows amid cumulative inflation fatigue.
 
 ## Business & Earnings
-*   **[Cerebras IPO Rides AI Mania]** · [CNBC](#): Artificial intelligence chipmaker Cerebras priced its IPO above expectations at $185, debuting to a massive $95 billion valuation. The stock nearly doubled before sinking 10% on Friday as investors questioned speculative excess in the broader semiconductor space.
-*   **[Cisco's Networking Supercycle]** · [CNBC](#): Cisco shares skyrocketed up to 17% after the legacy networking giant reported $5.3 billion in AI infrastructure orders. The company paired the hyperscaler demand with a 4,000-person headcount reduction to align with its new strategic focus.
-*   **[Aramco Capitalizes on Blockade]** · [CNBC](#): Saudi Aramco leveraged its East-West Pipeline to bypass the blockaded Strait of Hormuz, reporting a 26% jump in Q1 profit to $33.6 billion. The energy giant beat estimates by successfully capitalizing on the Middle East supply crunch.
-*   **[Tech Titans Testify in OpenAI Trial]** · [CNBC](#): Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman took the stand in the Musk v. Altman trial. Nadella criticized the OpenAI board's handling of Altman's temporary ouster as "amateur city," while Altman testified he never promised Elon Musk the company would remain a nonprofit.
-*   **[Restructuring Sweeps Corporate America]** · [CNBC](#): General Motors and other Detroit automakers slashed 20,000 salaried and IT jobs to fund AI pivots, while Starbucks laid off 300 U.S. corporate employees in ongoing efficiency efforts.
+*   **[Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap](#)** · [CNBC](#): The AI chipmaker's highly anticipated IPO priced above range at $185 and briefly soared to a $95 billion valuation before shedding 10% on Friday.
+*   **[Cisco CEO says tech is entering a 'networking supercycle'](#)** · [CNBC](#): Cisco shares surged 17% after revealing $5.3 billion in AI infrastructure orders, overshadowing its announcement of a 4,000-person headcount reduction.
+*   **[Microsoft CEO Satya Nadella testifies in OpenAI case](#)** · [CNBC](#): Nadella took the stand in the Musk v. Altman trial, blasting OpenAI's board as "amateur city" regarding Sam Altman's temporary ouster.
+*   **[Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity](#)** · [CNBC](#): The energy behemoth sidestepped the Strait of Hormuz blockade by maximizing its East-West Pipeline, smashing estimates with $33.6 billion in net income.
+*   **[Berkshire Hathaway Overhauls Portfolio](#)** · [CNBC](#): New CEO Greg Abel aggressively restructured the firm's holdings, tripling its stake in Alphabet and buying into Delta Air Lines while dumping Visa, Mastercard, and Amazon.
 
 ## Investing & Commentary
-*   **[Echoes of 1999 in AI Euphoria]** · [CNBC](#): Michael Burry and Jim Cramer both warned of extraordinarily narrow market leadership, cautioning that stocks are moving completely independently of economic data and aggressively punishing any company not tied to data centers. Cramer explicitly urged investors to avoid chasing the Cerebras IPO at its current valuation while remaining bullish on established infrastructure winners.
-*   **[Creative Hedging for the Infrastructure Boom]** · [CNBC](#): Options traders are heavily buying calls on silver (SLV) as a backdoor play on thermal conductivity needs for AI data centers. Meanwhile, defensive analysts are recommending dividend stocks like Enterprise Products Partners (EPD) to buffer portfolios against the geopolitical volatility gripping the global markets.
+*   **[Dan Ives on the AI Supercycle](#)** · [CNBC](#): Wedbush's Dan Ives sees the Nasdaq hitting 30,000 over the next year, arguing that strong tech earnings have fundamentally validated the AI bull thesis.
+*   **[Jim Cramer Warns of Speculative Excess](#)** · [CNBC](#): Cramer cautioned investors against chasing Cerebras at its current valuation and warned that upcoming mega-IPOs like SpaceX could overwhelm the market with excess supply, drawing stark comparisons to 1999.
+*   **[Bill Ackman Bets on Microsoft](#)** · [CNBC](#): Pershing Square established a new position in Microsoft, leveraging a recent sell-off to bet heavily on the long-term durability of Azure and its deep AI integrations.

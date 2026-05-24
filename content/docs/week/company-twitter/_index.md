@@ -3,32 +3,32 @@ title: Company@X
 weight: 8
 bookCollapseSection: true
 categories: ["Social Media", "Tech"]
-tags: ["ai agents", "ai safety", "developer tools", "robotics", "artificial intelligence", "autonomous driving", "cloud computing", "open source ai", "electric vehicles", "cybersecurity", "autonomous systems", "hardware", "open source", "autonomous vehicles", "agentic ai", "enterprise software", "venture capital", "cryptocurrency"]
+tags: ["ai agents", "open source", "productivity", "smart home", "cloud computing", "artificial intelligence", "autonomous vehicles", "space tech", "startups", "developer tools", "google", "venture capital", "electric vehicles", "autonomous agents", "generative video", "cybersecurity"]
 ---
 
-# Company@X — Week of 2026-05-08 to 2026-05-15
+# Company@X — Week of 2026-05-16 to 2026-05-22
 
 ## Signal of the Week
-The AI industry has decisively pivoted from passive API provision to hands-on, multi-agent enterprise deployment. OpenAI’s launch of the OpenAI Deployment Company—fueled by the acquisition of Tomoro to bring on 150 Forward Deployed Engineers—demonstrates that unlocking the value of frontier models now requires white-glove, end-to-end orchestration. This shift mirrors aggressive moves across the sector, including Microsoft and Google deploying massive multi-agent systems to take over highly complex, autonomous workflows in cybersecurity and mathematical research.
+The tech ecosystem is decisively abandoning synchronous conversational chat in favor of parallel-executing, autonomous agents capable of multi-day workflows. Google anchored this shift with Antigravity 2.0 and its 24/7 persistent Gemini Spark agent, while OpenAI launched a "Goal mode" for Codex that allows hands-off operation on complex objectives over extended periods. This transition from chat to systemic action was vividly demonstrated at Google I/O when a swarm of 93 agents autonomously wrote a functional operating system in just 12 hours.
 
 ## Key Announcements
-**OpenAI** · [Source](http://twitter.macworks.dev/OpenAI/status/2053939702110269822#m)
-OpenAI launched the OpenAI Deployment Company, a majority-owned entity backed by 19 firms, and acquired Tomoro to rapidly onboard 150 Forward Deployed Engineers. This marks a fundamental strategic shift toward direct enterprise integration, indicating that scaling AI value increasingly depends on custom engineering rather than out-of-the-box model access.
+**[Cursor]** · [Source](#)
+Cursor is graduating from an API consumer to a foundational model builder by announcing a joint training run with SpaceXAI on a massive Colossus 2 cluster. This signals a profound strategic shift in the AI ecosystem, as leading application-layer companies vertically integrate their own custom models to eliminate reliance on external providers and lower long-term latency.
 
-**Google DeepMind** · [Source](http://twitter.macworks.dev/pushmeet/status/2052812585804685322#m)
-DeepMind deployed a multi-agent "AI co-mathematician" that achieved a massive 48% score in autonomous mode on the rigorous FrontierMath Tier 4 benchmark. Moving beyond predictive text generation, this agent actively collaborates with human experts in advanced fields like group theory, signaling a major leap in open-ended scientific research capabilities.
+**[Google]** · [Source](#)
+Google released Gemini 3.5 Flash, an aggressively cost-effective model built specifically for coding and agentic orchestration, capable of hitting 800 tokens per second in Google Antigravity. Furthermore, Google introduced the Universal Commerce Protocol (UCP) and Agent Payments Protocol (AP2), establishing standardized infrastructure and guardrails for AI agents to automatically research, negotiate, and execute financial transactions.
 
-**Microsoft** · [Source](#)
-Microsoft launched an offensive multi-model agentic security system that utilizes over 100 specialized agents to autonomously uncover exploitable software bugs. Achieving top performance on the CyberGym benchmark and discovering 16 vulnerabilities prior to Patch Tuesday, the framework proves that multi-agent systems are now viable for complex enterprise cybersecurity tasks.
+**[OpenAI]** · [Source](#)
+OpenAI's general-purpose reasoning model made history by autonomously solving the planar unit distance problem, an open mathematical question posed by Paul Erdős in 1946. This milestone proves the viability of AI systems executing exceptionally long, difficult chains of reasoning without human intervention, unlocking new research potentials.
 
-**Waymo** · [Source](#)
-Waymo is aggressively expanding its autonomous ride-hailing operations to Miami, Austin, Atlanta, Houston, and the SF Bay Area. This massive rollout increases Waymo's coverage to over 1,400 square miles across 11 cities, decisively cementing its operational lead in the commercial robotaxi sector.
+**[Cloudflare]** · [Source](#)
+In a stark preview of AI's structural impact on modern tech organizations, Cloudflare laid off over 20% of its workforce despite 30% revenue growth, explicitly replacing "measurer" roles like middle management and internal auditors with continuous AI systems. The company is entirely restructuring its human capital deployment, focusing future hiring strictly on AI-native "builders" and "sellers" to achieve greater operational precision.
 
-**Anthropic** · [Source](#)
-Anthropic announced a major $200 million partnership with the Gates Foundation to provide grants, Claude credits, and technical support. This initiative targets high-impact sectors like global health, agriculture, and education, deeply embedding Claude into the operational workflows of prominent NGOs and scientific organizations.
+**[Exa]** · [Source](#)
+The search infrastructure startup secured a $250M Series C led by a16z at a $2.2 billion valuation to scale its search engine built specifically for AI agents. Serving major players like Cursor and Cognition, Exa's model drastically reduces text return payloads to make RAG architectures cheaper, underscoring the industry shift from human-readable web search to agent-consumable data structures.
 
-**Google** · [Source](#)
-Google announced "Googlebook," a new high-performance laptop explicitly designed for its upcoming "Gemini Intelligence" platform. Arriving this fall, the hardware signals a major strategic shift toward tight, vertical integration centered entirely around deep, OS-level AI agent capabilities.
+**[Tesla]** · [Source](#)
+Tesla officially ended production of its flagship Model S and Model X vehicles to consolidate all its resources and legacy around a singular vision for full autonomy. This sunsetting coincides with the rollout of FSD version 14.3.3 and the native integration of xAI's Grok voice interface directly into the fleet's hardware.
 
 ## Patterns
-The transition from conversational interfaces to autonomous "Systems of Action" was the dominant pattern this week, as seen in Grok's new enterprise connectors for Salesforce and Teams, Hugging Face's end-to-end `ml-intern` research agent, and Google Cloud's launch of an Agentic Data Cloud. Concurrently, there is a clear acceleration in specialized infrastructure being built exclusively to support these agents, ranging from Vapi's massive voice infrastructure adoption to AgentPhoneHQ provisioning real-world telecom identities for AI systems.
+A major theme this week is the rapid development of specialized "agentic" infrastructure at every layer of the stack, from Exa's agent-optimized search engine to Nvidia's new Vera CPU explicitly marketed as being "purpose-built for agentic AI". Additionally, there is an aggressive capitalization battle playing out at the earliest stages of company formation; OpenAI is offering $2 million API token grants to Y Combinator startups for equity, attempting to ensure platform lock-in before emerging AI-native applications mature and vertically integrate. Finally, open-source AI is breaking out of generalized text generation to target deep, physical verticals, evidenced by Hugging Face's $2,500 3D-printed LeRobot humanoid platform and its new 'Carbon' DNA model capable of processing an entire human genome on a single GPU in under two days.

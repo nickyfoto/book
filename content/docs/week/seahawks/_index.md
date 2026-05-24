@@ -3,29 +3,32 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["seahawks", "team sale", "nfl schedule", "russell wilson", "offseason", "ownership", "relocation rumors", "roster updates", "fan community", "super bowl", "dante fowler jr.", "roster moves", "mike macdonald", "schedule release", "offseason workouts", "media bias", "team news", "tickets", "super bowl rematch", "brian fluery"]
+tags: ["2026 nfl schedule", "jadarian price", "cooper kupp", "klint kubiak", "ticket sales", "tickets", "jerseys", "offensive line", "nostalgia", "russell wilson", "rookies", "merchandise", "demarcus lawrence", "jaxon smith-njigba", "mike macdonald", "super bowl lx", "ownership", "team building", "joint practice", "udfa", "super bowl", "schedule", "seattle seahawks", "nfl offseason", "trade rumors", "fan community", "sam darnold", "emanuel wilson", "fan gear", "nfc championship"]
 ---
 
-# Seahawks — Week of 2026-05-08 to 2026-05-15
+# Seahawks — Week of 2026-05-16 to 2026-05-22
 
 ## Top Story
-The highly anticipated 2026 NFL schedule officially dropped this week, headlined by a massive Super Bowl LX home rematch against the New England Patriots to kick off our title defense. The Seahawks are stepping into the national spotlight with a franchise-record six primetime matchups, a Christmas Day game against the Rams, and heavy travel miles, but the immediate surge in secondary market ticket prices has created serious sticker shock for 12s trying to get into Lumen Field.
+The crowning achievement of the 2025 season is officially immortalized at the VMAC, as the Seahawks proudly raised their brand-new Super Bowl LX Champions banner this week. As the team hits the facility for their final weekly offseason workouts, the banner serves as the perfect championship backdrop for a locker room that is fiercely embracing Mike Macdonald's "Always competing" mantra.
 
 ## News & Buzz
-**[Impending Franchise Sale & Stadium Rumors]** · [ESPN & r/Seahawks](https://reddit.com/r/seahawks)
-Rumors surrounding the Jody Allen trust sale are dominating off-field chatter, with deep-pocketed local Steve Ballmer emerging as a fan favorite to fend off an East Coast ownership bid from Aditya Mittal and Wyc Grousbeck. Seth Wickersham reported that these team sale discussions explicitly involve potentially building a brand new stadium in Seattle, though some fans remain paranoid about franchise relocation due to Mittal's London ties.
+**[Prime-Time Schedule Drop]** · [Twitter](https://twitter.com)
+The 2026 NFL schedule is officially live, featuring a massive Sunday Night Football showdown at Lumen Field in October and a heavily promoted Monday Night Football clash set for December 7th. Fans and official channels are already getting hyped for the prime-time slate, with the highly anticipated Week 1 Super Bowl LX rematch against the Patriots drawing serious attention from the 12s.
 
-**[Dante Fowler Jr. Joins the Defense]** · [Official Twitter](https://twitter.com/seahawks)
-The Seahawks officially bolstered their defensive front by signing veteran outside linebacker Dante Fowler Jr., who arrived at the VMAC this week to wear number 56. Fowler noted he chose Seattle based on straightforward free agency advice from DeMarcus Lawrence, who told him to come to the Pacific Northwest if he wanted to win a Super Bowl.
+**[VMAC Workouts & JBLM Visit]** · [Reddit](https://reddit.com/r/seahawks)
+Head Coach Mike Macdonald took the team to Joint Base Lewis-McChord for a leadership exchange with 1st Special Forces Group Green Berets, emphasizing process and daily standards. Back at the VMAC, the team is leaving no stone unturned in finding competitive edges, implementing a comprehensive new sleep science program with Cheri Mah during this week's workouts.
 
-**[Ticket Prices & Hawkblogger's Exchange]** · [r/Seahawks](https://reddit.com/r/seahawks)
-Following the schedule release, resale prices for the Patriots opening rematch spiked an absurd 47%, leading to massive frustration over $500 nosebleed seats. To combat these soaring broker fees, Hawkblogger successfully launched the revamped HBTix platform, allowing verified 12s to bypass the secondary market and buy and sell tickets to each other at face value.
+**[Rookies Show Up for the City]** · [Official Seahawks Twitter](https://twitter.com/seahawks)
+Rookie Jadarian Price is fully diving into Pacific Northwest culture, throwing out the ceremonial first pitch at a Mariners game while being cheered on by the entire 2026 draft class. Meanwhile, fellow rookie Nick Emmanwori is already showing massive swagger, reportedly comparing himself to NBA star Victor Wembanyama and claiming to be the "NFL's Wemby".
 
-**[Bud Clark & Rookie Signings]** · [Seahawks.com](https://www.seahawks.com)
-Second-round safety Bud Clark officially signed his rookie contract, leaving first-rounder Jadarian Price as the only unsigned player from the 2026 draft class. The team also signed rookie wide receivers Rashad Rochelle and Trayvon Rudolph, releasing UDFA linebacker Devean Deal in a corresponding move to clear space on the 90-man roster.
+**[Teasley Interview & Trade Debates]** · [Reddit](https://reddit.com/r/seahawks)
+In confirmed news, the Minnesota Vikings have officially requested a second interview with Seahawks assistant GM Nolan Teasley, which could be a significant blow to the front office architecture. On the rumor mill front, some 12s are engaging in a spicy debate over potentially putting star corner Devon Witherspoon on the trade block to eventually clear cap space for Byron Murphy II and Charles Cross, though this remains pure fan speculation.
 
-**[Mourning Charle Young]** · [Seahawks Official](https://www.seahawks.com)
-The Seahawks organization and the 12s mourned the passing of former legendary tight end and team captain Charle Young at the age of 75. Fans and official channels honored his distinguished All-Pro career, noting how he proudly finished his playing days right here in Seattle.
+**[Sam Darnold's Revenge Tour Continues]** · [Reddit](https://reddit.com/r/seahawks)
+Sam Darnold gracefully addressed the Vikings' decision to draft J.J. McCarthy over him last year, taking the high road and stating he truly believes McCarthy will be a great player. Meanwhile, 12s are dreaming big about Darnold's second season in Seattle, expecting his connection with Jaxon Smith-Njigba to explode under a new offensive coordinator's aggressive deep-passing attack.
 
 ## 12s Pulse
-The fan community is currently sitting at a unique intersection of extreme championship swagger and off-field front-office anxiety. While 12s are overflowing with confidence in head coach Mike Macdonald's "inevitability factor" and actively debating potential perfect 20-0 seasons, there is lingering, fierce unease regarding the franchise's future ownership situation and the skyrocketing costs to attend games at Lumen Field.
+The 12s are riding the ultimate championship high, heavily swapping Super Bowl LX tape and manifesting a third Lombardi trophy despite feeling ongoing disrespect from the national media. However, real-world offseason anxieties are creeping into the celebration, as fans stress over sky-high secondary market ticket prices, a lack of quality Fanatics merchandise, and lingering fears about the Paul Allen Trust eventually selling the franchise.
+
+***
+*Would you like me to also generate a tailored NotebookLM report of this week's synthesis so you have a formal, downloadable document?*
