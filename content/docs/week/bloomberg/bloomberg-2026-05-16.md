@@ -1,6 +1,6 @@
 ---
 title: 2026-05-16
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "global markets", "energy"]
 ---

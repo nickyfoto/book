@@ -1,6 +1,6 @@
 ---
 title: 2026-05-16
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "software testing", "knowledge graphs", "developer tools", "vertical ai"]
 ---

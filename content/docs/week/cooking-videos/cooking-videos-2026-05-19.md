@@ -1,6 +1,6 @@
 ---
 title: 2026-05-19
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["fusion cuisine", "cooking techniques", "convenience foods", "food reviews"]
 ---
