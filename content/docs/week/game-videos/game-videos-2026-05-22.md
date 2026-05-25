@@ -1,6 +1,6 @@
 ---
 title: 2026-05-22
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["free games", "pc gaming", "minecraft", "rpg", "survival"]
 ---

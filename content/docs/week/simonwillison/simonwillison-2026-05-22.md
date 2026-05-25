@@ -1,6 +1,6 @@
 ---
 title: 2026-05-22
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "privacy", "memory", "advertising"]
 ---

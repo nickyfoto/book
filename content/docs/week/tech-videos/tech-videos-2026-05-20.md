@@ -1,6 +1,6 @@
 ---
 title: 2026-05-20
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "rust", "developer tools", "cloud computing", "hardware"]
 ---
