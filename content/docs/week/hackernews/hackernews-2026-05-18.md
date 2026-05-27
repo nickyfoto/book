@@ -1,6 +1,6 @@
 ---
 title: 2026-05-18
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "open source", "cybersecurity", "privacy"]
 ---

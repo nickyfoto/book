@@ -1,6 +1,6 @@
 ---
 title: 2026-05-21
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "llms", "sqlite", "generative-ai", "sandboxing"]
 ---
