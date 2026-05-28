@@ -1,0 +1,34 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["artificial intelligence", "semiconductors", "oil", "us politics"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-05-27
+
+## Lead Story
+SK Hynix Inc. and Micron Technology Inc. have both surged past $1 trillion market valuations as an unrelenting artificial intelligence frenzy drives record demand for advanced memory chips. Driven by robust corporate earnings momentum, Goldman Sachs has lifted its year-end target for the S&P 500 Index to 8,000, helping power global equities to fresh highs.
+
+## Markets & Economics
+*   **[Oil Steadies as White House Rejects Iran Peace Deal Claims](https://www.bloomberg.com/news/articles/2026-05-27/latest-oil-market-news-and-analysis-for-may-28)**: Benchmark oil prices fluctuated after Iranian state television claimed an unofficial draft agreement would reopen the Strait of Hormuz within a month. The White House explicitly denied the report as a fabrication, and President Donald Trump emphasized that no single nation will be allowed to control the critical energy chokepoint.
+*   **[ECB Warns of Sudden Market Repricing Risk](https://www.bloomberg.com/news/articles/2026-05-27/ecb-sees-danger-of-sudden-and-sharp-repricing-in-markets)**: The European Central Bank cautioned that financial markets are vulnerable to a sharp correction as investors downplay the ongoing Iran conflict and highly leveraged hedge fund trades threaten bond market stability. Vice President Luis de Guindos noted the central bank must closely weigh the economic toll of the war in its upcoming June interest-rate decision.
+*   **[Australian Core Inflation Accelerates, Keeping RBA Hawkish](https://www.bloomberg.com/news/articles/2026-05-27/australia-s-core-inflation-accelerated-in-april-in-test-for-rba)**: Australia’s core inflation remained above the top of the Reserve Bank’s target range in April. This persistent inflation reinforces expectations that policymakers will maintain a hawkish tone following rapid interest-rate hikes earlier this year.
+*   **[China’s Industrial Profits Surge at Fastest in Over Two Years](https://www.bloomberg.com/news/articles/2026-05-27/china-s-industrial-profits-surge-at-fastest-in-over-two-years)**: Chinese industrial companies saw their profits soar, lifted by demand for artificial intelligence-related goods and a surge in oil prices stemming from the Middle East conflict.
+
+## Business & Industries
+*   **[Ousted BP Chair Manifold Disputes Firm’s Accusations](https://www.bloomberg.com/news/videos/2026-05-27/bp-s-ousted-chair-manifold-disputes-firm-s-accusations-video)**: Former BP Plc Chairman Albert Manifold is challenging his sudden termination, claiming he was fired without warning or explanation. BP cited serious concerns regarding governance standards, while insiders pointed to complaints of aggressive behavior and mishandling of sensitive information, deepening the leadership turmoil at the UK oil major.
+*   **[Boeing Rises as CEO Touts 737 Output, New Jet Approvals Nearing](https://www.bloomberg.com/news/videos/2026-05-27/boeing-rises-as-ceo-touts-737-output-new-jet-approvals-video)**: Boeing successfully completed a Federal Aviation Administration capstone review, allowing the planemaker to increase production of its 737 Max jet to a 47-plane monthly output. CEO Kelly Ortberg offered an optimistic forecast for profitability and cash generation as certifications for long-delayed models approach.
+*   **[SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up](https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up)**: Powerlaw Corp., a closed-end fund holding stakes in Elon Musk's SpaceX and OpenAI, is going public without raising capital. The vehicle aims to cater to intense retail investor clamor for exposure to the hottest private tech companies ahead of SpaceX's anticipated blockbuster listing.
+*   **[Lululemon Resolves Feud With Founder Chip Wilson](https://www.bloomberg.com/news/videos/2026-05-27/lululemon-resolves-feud-with-founder-chip-wilson-video)**: Lululemon Athletica is overhauling its board with three new directors to settle a long-running dispute with its founder. The company will appoint two of Wilson’s nominees, including former ESPN executive Laura Gentile, following this year's annual meeting.
+
+## Policy & World
+*   **[Paxton Crushes Cornyn in Texas Race After Winning Trump Nod](https://www.bloomberg.com/news/articles/2026-05-27/trump-pick-paxton-beats-cornyn-in-texas-primary-ddhq-projects)**: Texas Attorney General Ken Paxton scored a blowout victory over four-term incumbent US Senator John Cornyn, riding a late endorsement from Donald Trump to secure the Republican nomination. Paxton now faces well-funded Democrat James Talarico in a November showdown that could cost the GOP over $100 million to defend.
+*   **[China Stalls Airbus Deliveries to Pressure Europe on Comac Jets](https://www.bloomberg.com/news/articles/2026-05-27/china-stalls-airbus-deliveries-to-pressure-europe-on-comac-jets)**: The Civil Aviation Administration of China is slow-walking final operational approvals for Airbus SE jets. The move signals Beijing's impatience with how long European regulators are taking to certify Chinese-made Comac aircraft.
+*   **[Unpacking Trump’s ‘Anti-Weaponization Fund’](https://www.bloomberg.com/news/articles/2026-05-27/how-trump-doj-s-1-8-billion-fund-could-funnel-taxpayer-money-to-jan-6-rioters)**: The Justice Department’s plan to establish a $1.776 billion "Anti-Weaponization Fund" is facing swift bipartisan backlash. Lawmakers criticize the proposal as a slush fund intended to funnel taxpayer money to Trump loyalists and January 6 rioters.
+
+## Opinion & Analysis
+*   **[Ordinary Americans Deserve a Fair Shot at IPOs](https://www.bloomberg.com/opinion/articles/2026-05-27/spacex-ipo-how-to-fix-the-market-for-ordinary-investors)**: With SpaceX targeting a record-breaking $1.75 trillion valuation, Bloomberg Opinion highlights the immense challenge retail investors face in accessing mega-IPOs. The piece notes that getting shares of Elon Musk’s rocket company will likely be as difficult as securing a reservation at an exclusive New York restaurant.
+*   **[Why MAGA Republicans Keep Winning When Trump Is Losing](https://www.bloomberg.com/opinion/articles/2026-05-27/paxton-cornyn-primary-why-maga-republicans-win-as-trump-s-approval-sinks)**: Examining the Paxton-Cornyn primary, this column argues that while Trump's broader public support may be slipping, his demonstrable strength over the GOP base remains potent enough to consistently purge legacy incumbents in primary contests.
