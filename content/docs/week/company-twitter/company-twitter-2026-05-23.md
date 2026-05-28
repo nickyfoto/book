@@ -1,6 +1,6 @@
 ---
 title: 2026-05-23
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "data centers", "startups", "open source", "autonomous driving"]
 ---

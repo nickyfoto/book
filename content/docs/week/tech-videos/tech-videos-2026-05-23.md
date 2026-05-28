@@ -1,6 +1,6 @@
 ---
 title: 2026-05-23
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "local inference", "tech hiring", "model context protocol"]
 ---

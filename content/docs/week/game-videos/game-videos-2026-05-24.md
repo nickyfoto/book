@@ -1,6 +1,6 @@
 ---
 title: 2026-05-24
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["subnautica", "minecraft", "easter eggs", "memes", "survival"]
 ---

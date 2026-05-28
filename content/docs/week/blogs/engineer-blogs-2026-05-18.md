@@ -1,6 +1,6 @@
 ---
 title: 2026-05-18
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["software engineering", "artificial intelligence", "version control", "markdown", "developer tools"]
 ---

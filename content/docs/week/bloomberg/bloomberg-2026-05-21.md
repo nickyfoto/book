@@ -1,6 +1,6 @@
 ---
 title: 2026-05-21
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["artificial intelligence", "spacex", "global markets", "inflation", "geopolitics"]
 ---

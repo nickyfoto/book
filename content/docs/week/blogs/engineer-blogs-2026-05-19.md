@@ -1,6 +1,6 @@
 ---
 title: 2026-05-19
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["coding agents", "static analysis", "llm tools", "token optimization"]
 ---
