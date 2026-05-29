@@ -1,6 +1,6 @@
 ---
 title: 2026-05-26
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "ps5", "gameplay", "announcements"]
 ---

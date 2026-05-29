@@ -1,6 +1,6 @@
 ---
 title: 2026-05-21
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software engineering", "developer tools", "hardware", "cybersecurity"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-24
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "llms", "open-source", "github-issues"]
 ---

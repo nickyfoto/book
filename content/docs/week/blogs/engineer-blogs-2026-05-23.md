@@ -1,6 +1,6 @@
 ---
 title: 2026-05-23
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["mac", "command line", "rss", "self-hosted", "artificial intelligence"]
 ---

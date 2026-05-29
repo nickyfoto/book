@@ -1,6 +1,6 @@
 ---
 title: 2026-05-21
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "cybersecurity", "nixos"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-23
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["css", "html", "screen-readers", "web-standards"]
 ---
