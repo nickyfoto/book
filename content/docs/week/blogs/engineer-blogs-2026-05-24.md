@@ -1,6 +1,6 @@
 ---
 title: 2026-05-24
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["artificial intelligence", "automation", "future of work", "jevons paradox"]
 ---

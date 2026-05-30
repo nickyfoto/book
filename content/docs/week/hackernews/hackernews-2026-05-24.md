@@ -1,6 +1,6 @@
 ---
 title: 2026-05-24
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["open source", "artificial intelligence", "software engineering", "c++", "3d printing"]
 ---

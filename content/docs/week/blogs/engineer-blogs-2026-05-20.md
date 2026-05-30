@@ -1,6 +1,6 @@
 ---
 title: 2026-05-20
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["software engineering", "artificial intelligence", "memory safety", "static analysis"]
 ---

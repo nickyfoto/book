@@ -1,6 +1,6 @@
 ---
 title: 2026-05-24
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "local ai", "startups", "autonomous vehicles", "open source"]
 ---
