@@ -3,32 +3,32 @@ title: Hacker News
 weight: 15
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["artificial intelligence", "cybersecurity", "open source", "web development", "c++", "surveillance", "reverse engineering", "privacy", "software engineering", "cloud computing", "programming", "emulation", "programming languages", "software development", "systems engineering", "economics"]
+tags: ["artificial intelligence", "software development", "systems engineering", "economics", "cybersecurity", "software engineering", "hardware", "open source", "c++", "3d printing", "programming", "cloud computing", "distributed systems", "reverse engineering", "fintech", "ai agents"]
 ---
 
-# Hacker News — Week of 2026-05-16 to 2026-05-22
+# Hacker News — Week of 2026-05-22 to 2026-05-29
 
 ## Story of the Week
-The illusion of flat-rate AI pricing finally shattered this week as agentic loops collided with the raw physics of compute costs. Microsoft's Experiences & Devices division reportedly burned through its entire annual Claude Code budget in just a few months, forcing a hard rollback to standard GitHub Copilot CLI for engineers. It’s a harsh, structural wake-up call for the enterprise: you simply cannot sell unlimited seats when autonomous coding agents scale your underlying token consumption linearly.
+The illusion of flat-rate, unlimited AI agents violently collided with enterprise budgets this week as tech giants like Microsoft and Uber abruptly pulled the plug on their internal rollouts of tools like Claude Code. The harsh realization that token-based billing and underlying GPU constraints simply cannot scale with the induced demand of autonomous coding agents is forcing developers back to basic autocomplete tools, signaling the first real macroeconomic friction in the generative AI boom.
 
 ## Top Stories
-**[Fisker went bankrupt and owners built an open source car company from the ashes]** · [Source](#)
-When Fisker’s bankruptcy effectively bricked 11,000 Ocean SUVs, owners refused to accept the loss of their $70k vehicles. An organized collective mapped the CAN buses, reversed proprietary software patches, and used Home Assistant integrations to stand up an open-source support ecosystem, delivering a massive, tangible victory for the Right to Repair movement and a damning indictment of the fragile "software-defined vehicle" era.
+**[BambuStudio has been violating PrusaSlicer AGPL license since their fork]** · [Source](#)
+Josef Prusa ignited a massive community firestorm by calling out Bambu Lab for building their 3D printing empire on open-source foundations while keeping telemetry and networking locked behind proprietary plugins. The situation escalated when Bambu threatened an independent developer over an OrcaSlicer fork, sparking an intense legal debate over whether cloud services can effectively bypass the AGPL's "Corresponding Source" requirements.
 
-**[The "Mini Shai-Hulud" npm supply chain attack]** · [Source](#)
-An attacker compromised an npm maintainer account and published over 600 malicious versions across 314 packages in just 22 minutes. The payload specifically targeted developers' local Claude Code and Codex environments through hook injections to quietly harvest AWS and Kubernetes credentials, proving that our agentic dev tools are now a prime, highly-targeted attack surface.
+**[CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude]** · [Source](#)
+The vulnerability research landscape shifted permanently this week as Anthropic's Claude successfully uncovered a classic integer overflow bypassing Apple's heavily marketed M5 Memory Integrity Enforcement. While AI is now automating the discovery of zero-days at an unprecedented and terrifying scale, the structural bottlenecks of verifying, disclosing, and actually patching these vulnerabilities remain painfully human.
 
-**[Bun’s unreleased Rust port has 13,365 unsafe blocks]** · [Source](#)
-The yt-dlp maintainers announced they are deprecating support for the Bun runtime over severe security concerns regarding Bun's upcoming Rust rewrite. The team aggressively used Claude to port their Zig codebase, resulting in a "fully vibe-coded" architecture littered with unsafe blocks, which sparked fierce community debate over the long-term maintainability of using LLMs for systems-level rewrites.
+**[We should get rid of average CPU utilization]** · [Source](#)
+A crucial PSA for systems engineers reminded the community that standard average CPU utilization metrics actively hide kernel CFS (Completely Fair Scheduler) throttling. Bursty containerized workloads can easily exhaust their time quotas across multiple cores, leading to brutal p99 latency spikes and timeout errors that your dashboard will completely miss while reporting a seemingly healthy 40% utilization.
 
-**[Disney erased FiveThirtyEight]** · [Source](#)
-Nate Silver discovered that Disney completely wiped ten years and an estimated 200,000 person-hours of data journalism from the internet. The ensuing open-source archival effort became a perfect, infuriating case study in link rot and the systemic tragedy of massive conglomerates suffocating niche media acquisitions.
+**[No Juniors Today, No Seniors in 2031]** · [fbritoferreira.com](#)
+With junior hiring cratering by 40% due to corporate boards using AI to justify cutting entry-level roles, the industry is sleepwalking into a structural mentorship crisis. Commenters heavily debated the emergence of a "mid-level trap," arguing that true senior architectural judgment isn't generated by LLMs, but forged through surviving painful feedback loops and debugging 2 a.m. incidents.
 
-**[I broke AppLovin’s mediation cipher protocol]** · [Source](#)
-A masterclass in reverse engineering proved that iOS App Tracking Transparency (ATT) is functionally privacy theater. By cracking a weak, unauthenticated SplitMix64 cipher, a developer showed that AppLovin is deterministically fingerprinting iPhones and broadcasting 50 device fields—including boot time and free memory—to dozens of ad networks regardless of user consent.
+**[jqwik testing app prompt injection]** · [Source](#)
+In a highly controversial move, the maintainer of the Java testing app jqwik slipped a hidden prompt injection into the latest release instructing LLMs to delete all tests and code. While the developer defended it as a righteous strike against the environmental and intellectual harms of generative AI, the community ruthlessly condemned the payload as a malicious attack that ultimately just destroys a downstream human operator's work.
 
 ## Show HN & Launches
-Deno 2.8 shipped a massive update, pushing Node.js test suite compatibility to 76.4% and making `npm:` the default CLI behavior. On the AI tooling front, `Semble` launched as a token-efficient code search library for agents using static Model2Vec embeddings, while `Forge` provided a self-hosted reliability layer to make 8B local models perform on par with frontier models via strict step constraints. Finally, `yapsnap` brought an incredibly pragmatic, zero-dependency Python CLI for faster-than-realtime, CPU-only video transcription using a streaming Zipformer. 
+It was a massive week for developer tooling, headlined by Deno 2.8 crushing Bun's Node.js compatibility and making npm the default CLI behavior without requiring a prefix. In response to the growing pollution of auto-generated code, the community highly praised AISlop, a new CLI linter specifically built to catch hallucinated imports and lazy patterns left behind by autonomous agents. We also saw fascinating systems-level drops like Sp.h, a 15,000-line single-header C99 library aiming to completely replace libc by ditching the runtime heap and relying on string views instead of legacy null-terminated strings.
 
 ## Community Mood
-The community is reaching peak exhaustion with AI-generated slop breaking the fundamental trust substrates of the internet, from automated bug hunters spamming the Linux mailing list to agents completely destroying the economic loop of open-source bounty markets. Simultaneously, an aggressive anti-cloud pragmatism is surging—fueled by Google's "IBM-ification" and platform-as-a-service providers randomly banning production accounts—pushing engineers to heavily scrutinize multi-cloud buzzwords and the hidden costs of relying on centralized, opaque infrastructure.
+A deep, collective anxiety regarding AI's impact on the software engineering craft permeated the front page this week. Between exhaustion over "AI slop" polluting asynchronous text channels and the realization that relying on slot-machine-style code generation prevents developers from synthesizing the long-term working memory required for mastery, the technical community is aggressively pushing back against the deskilling of the profession.

@@ -3,29 +3,29 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["datasette", "llm", "css", "openclaw", "git", "open-source", "security", "ai", "gov-uk", "birds", "birdwatching", "los angeles", "pycon us", "llms", "gemini", "local-llms", "coding-agents", "llm-pricing", "generative-ai", "prompt-injection", "sqlite", "sandboxing", "artificial intelligence", "privacy", "memory", "advertising"]
+tags: ["artificial intelligence", "privacy", "memory", "advertising", "css", "html", "screen-readers", "web-standards", "datasette", "llms", "open-source", "github-issues", "security", "generative-ai", "prompt-injection", "coding-agents", "openai", "anthropic", "sqlite", "claude", "ai", "sql"]
 ---
 
-# Simon Willison — Week of 2026-05-16 to 2026-05-22
+# Simon Willison — Week of 2026-05-22 to 2026-05-29
 
 ## Highlight of the Week
-The most impactful milestone this week is the official announcement of Datasette Agent, merging Simon's three years of work on his LLM library directly into Datasette. This conversational AI interface allows users to naturally interrogate their databases, boasting an extensible plugin architecture for charts, image generation, and secure code execution.
+This week's most significant milestone is the release of Datasette 1.0a31, which fundamentally shifts the project's paradigm by introducing UI support for executing write queries directly against the database. This officially bridges Datasette from a purely read-only tool to one that embraces secure data mutation, allowing developers to save and template insert, update, and delete operations.
 
 ## Key Posts
-**[The last six months in LLMs in five minutes]** · [Source](#)
-Simon shared annotated slides from his PyCon US 2026 lightning talk capturing a major inflection point in AI developer tooling. He highlights how coding agents crossed the threshold to become reliable daily drivers, and points to the astonishing capabilities of massive local models running on consumer hardware like Mac Minis.
+**[I think Anthropic and OpenAI have found product-market fit]** · Source
+Simon analyzes the shift in enterprise pricing to argue that AI coding agents have crossed the threshold into massive usage and real revenue generation. He points to Anthropic's staggering $1.25 billion monthly compute spend and notes that labs are pivoting to capture enterprise value directly from heavy agent users rather than relying on middlemen.
 
-**[Google I/O, Gemini Spark, Antigravity]** · [Source](#)
-Digging into Google's Gemini Spark workspace integration, Simon questions the security of their opaque "Antigravity" architecture. He highlights the growing tension between building powerful agents with deep access to user data and the persistent, fundamental risks of prompt injection vulnerabilities.
+**[Claude Opus 4.8: "a modest but tangible improvement"]** · Source
+Simon highlights Anthropic's refreshing honesty regarding this incremental update, which lowers the prompt cache minimum to 1,024 tokens and allows mid-conversation system messages. He immediately tested the model's decreased hallucination rate and new caching mechanics using his LLM CLI to generate SVG pelicans in an agentic loop.
 
-**[GDS weighs in on the NHS’s decision to retreat from Open Source]** · [Source](#)
-Simon covers a rare public dispute within the UK civil service regarding AI security. After the NHS closed its open-source repositories over AI-discovered vulnerabilities, the Government Digital Service pushed back, arguing that "open by default" policies are essential for cost reduction, code reuse, and security scrutiny.
+**[The memory shortage is causing a repricing of consumer electronics]** · Source
+Exploring the physical ripple effects of the AI boom, Simon breaks down how data centers' insatiable demand for High-Bandwidth Memory (HBM) is consuming fixed silicon wafer capacity. This supply chain constraint is severely impacting standard consumer RAM production, threatening the availability and pricing of cheap smartphones globally.
 
-**[The memory shortage is causing a repricing of consumer electronics]** · [Source](#)
-Highlighting the massive physical footprint of AI, Simon links to analysis showing how data center demands for High-Bandwidth Memory (HBM) are eating up fixed silicon wafer capacity. This shift is severely constraining consumer RAM supplies and threatens to significantly drive up the cost of affordable electronics like sub-$100 smartphones globally.
+**[Microsoft Copilot Cowork Exfiltrates Files]** · Source
+Simon digs into a fascinating prompt injection vulnerability demonstrating the severe data exfiltration risks inherent in enterprise agentic systems. Attackers can manipulate the Copilot agent to send unapproved emails with pre-authenticated OneDrive links, which are then secretly leaked via network requests from rendered external images.
 
 ## Project Updates
-This was a massive week for releases, dominated by the launch of the `datasette-agent` ecosystem, which included plugins like `datasette-agent-charts` for data visualization and `datasette-agent-sprites` for secure sandbox execution via Fly Sprites. Simon focused heavily on transparency, shipping UX updates to expose the underlying SQL queries generated by the agent and ensuring robust permission checks. Additionally, he released `datasette-llm-limits 0.1a0` for strict API cost management, and aggressively updated his `llm-gemini` CLI plugin to support Google's new Gemini 3.5 Flash model and streaming reasoning tokens on the exact day of the model's announcement.
+Datasette saw massive ecosystem momentum this week, anchored by the 1.0a30 alpha which added a customizable "Jump to..." menu, and the 1.0a31 alpha which introduced game-changing write query capabilities. Simon aggressively dogfooded the new Python and JavaScript extension hooks by simultaneously shipping the `datasette-agent` and `datasette-fixtures` plugins. On the CLI front, he released `llm-anthropic 0.25.1` to immediately support Claude Opus 4.8's constraints and fast mode options.
 
 ## Themes
-A recurring theme this week is the hidden economic and infrastructural costs of the AI boom. Simon kept returning to the realities of AI pricing at every scale: from his own need to build `datasette-llm-limits` to control local API spend, to analyzing Google's 3x price hikes for Gemini 3.5 Flash, noting SpaceX paying Anthropic $1.25 billion monthly for compute, and tracking how HBM data center demands are pricing out cheap consumer electronics.
+A dominant thread this week is the real-world friction of agentic AI systems colliding with existing ecosystems, spanning from physical supply chains to open-source software maintenance. Simon repeatedly explored how automated agents are altering the security and maintainer landscape, noting how they flood projects like `curl` with vulnerabilities, generate AI "slop" in issue trackers, and force repositories like SQLite to establish formal rules of engagement for LLMs.

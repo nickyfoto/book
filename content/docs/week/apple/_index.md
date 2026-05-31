@@ -3,29 +3,33 @@ title: Apple News
 weight: 5
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["macbook pro", "apple watch", "ios", "macos", "hardware rumors", "apple", "ios 27", "artificial intelligence", "hardware deals", "macbook", "wwdc 2026", "apple intelligence", "foldable iphone", "apple watch ultra 4", "accessibility", "app store", "hardware", "iphone", "mac", "antitrust"]
+tags: ["artificial intelligence", "ios 27", "iphone", "antitrust", "wwdc 2026", "cybersecurity", "watchos 27", "ios 26", "hardware rumors", "siri", "apple watch", "ios", "rumors", "security", "hardware", "apple intelligence", "macos", "wearables", "iphone 18 pro", "macbook neo"]
 ---
 
-# Apple — Week of 2026-05-16 to 2026-05-22
+# Apple — Week of 2026-05-22 to 2026-05-29
 
 ## Week in Review
-This week was dominated by a tidal wave of iOS 27 and Apple Intelligence leaks ahead of the officially announced June 8 WWDC 2026 event. While the software ecosystem braces for a massive, Gemini-powered Siri overhaul and profound AI accessibility features, Apple's hardware teams experienced a mix of unprecedented Q1 market dominance and ongoing engineering challenges with its highly anticipated foldable iPhone. 
+As we rapidly approach WWDC 2026, the technology news cycle is utterly dominated by massive leaks outlining Apple's sweeping artificial intelligence roadmap, most notably a Gemini-powered, foundational overhaul of Siri in iOS 27. On the hardware front, the path to the highly anticipated foldable iPhone Ultra has proven turbulent due to persistent manufacturing hurdles, while new details about the iPhone 18 Pro suggest significantly more expensive camera tech and fresh colorways are on the horizon.
 
 ## Top Stories
-**[Massive iOS 27 Apple Intelligence Leaks Detail Siri Redesign](/news/ios-27-siri-ai)** · [MacRumors](#)
-Leaks this week detailed a comprehensive, Gemini-powered redesign for Siri in iOS 27, which will reportedly launch as a standalone chatbot app with auto-deleting histories to preserve user privacy. The upcoming "Apple Intelligence 2.0" update will also include Grammarly-style writing tools, natural language shortcut creation, and auto-generated Genmoji suggestions based on a user's photo library. Additionally, Apple previewed profound AI-driven accessibility tools, such as eye-tracking for wheelchairs and natural language navigation for Voice Control.
 
-**[Foldable iPhone Ultra Plagued by Hinge Failures](/news/foldable-iphone-ultra-hinge)** · [MacRumors](#)
-Apple's attempts to bring a foldable "iPhone Ultra" to market have hit significant engineering roadblocks, specifically regarding its Liquid Metal hinge. During high-frequency open-and-close trial production tests, the hinge consistently failed to meet Apple's rigorous long-term reliability standards. This severe quality control issue may delay mass production from June to August or later, even as Apple plans to eventually share this crease-free hinge design with an upcoming 18-inch foldable iPad.
+**The iOS 27 Siri Overhaul and Apple's Dual-Pronged AI Strategy** · [MacRumors](#)
+Siri is set to transition from a basic voice assistant into a comprehensive chatbot with a dedicated app, deep contextual awareness, and a refreshed dark interface that lives inside the Dynamic Island. To balance privacy and processing power, Apple intends to emphasize running AI models locally via custom silicon, but will rely on Google Cloud—powered by Nvidia's confidential compute technology—to run a licensed version of Google's Gemini model for complex, parameter-heavy queries.
 
-**[Hardware Shakeups Amidst Market Dominance](/news/apple-q1-market-dominance)** · [9to5Mac](#)
-Chief Hardware Officer Johny Srouji recently reorganized his product design teams to accelerate the future device pipeline, handing oversight to Shelly Goldberg and Dave Pakula. Despite the underwhelming sales of the ultra-thin $999 iPhone Air, Apple dominated global smartphone shipments in Q1 2026 with a 21% market share thanks to immense demand for the iPhone 17 series. The new $599 A18 Pro MacBook Neo is also facing heavy demand, with aggressive pricing achieved partly through cost-saving "chip binning" strategies.
+**Foldable "iPhone Ultra" Plagued by Production Hurdles** · [Source](#)
+The highly anticipated foldable "iPhone Ultra," widely expected to launch this fall alongside the iPhone 18 lineup for around $2,000, is facing significant development roadblocks. Reports this week revealed the device initially failed high-frequency hinge reliability tests, and is now struggling with surface-mount technology (SMT) yield issues during the pre-assembly phase, which could threaten mass production timelines. Despite these issues, third-party protective cases have already surfaced, confirming a slim profile with a two-lens camera system.
 
-**[WWDC 2026 Scheduled as OLED MacBook Pro Advances](/news/wwdc-2026-oled-macbook-pro)** · [Apple](#)
-Apple officially scheduled its WWDC 2026 Keynote for June 8, adopting a "Coming Bright Up" tagline alongside a glowing Swift logo that heavily hints at the new AI-driven Siri interface. On the hardware front, Samsung Display achieved a "golden yield" of over 90 percent on its Gen 8.6 OLED line, meaning panel shipments for the redesigned 14-inch and 16-inch OLED MacBook Pros could begin as early as June. These pro models are expected to feature M6 Pro and M6 Max chips alongside a thinner chassis and a Dynamic Island.
+**iPhone 18 Pro Camera Upgrades and Color Leaks** · [MacRumors](#)
+Slated for release later this year, the iPhone 18 Pro will introduce a variable aperture main camera that will grant users superior exposure control and depth of field flexibility. However, this advanced component will reportedly cost Apple 50% more than the camera units used in current models. Furthermore, newly surfaced dummy models reveal the device will ship in Dark Cherry, Light Blue, Dark Gray, and Silver, officially omitting the popular Cosmic Orange finish.
+
+**Massive OLED MacBook Pro Redesign Detailed** · [Source](#)
+Apple is reportedly preparing one of its most dramatic MacBook Pro updates ever, potentially rebranding the 2nm M6-powered machine as the "MacBook Ultra". The laptop is rumored to feature an OLED display, a Dynamic Island, and the first-ever touchscreen on a Mac. While Samsung's OLED Gen 8.6 production line has achieved "golden yield" rates of over 90% for the displays, the redesigned laptop may be delayed until early next year due to broader industry supply shortages.
+
+**Amazon Acquires Apple's Satellite Partner** · [Source](#)
+In a massive infrastructure shakeup, Amazon is acquiring Apple's satellite provider, Globalstar, in an $11.57 billion deal. The acquisition involves Amazon absorbing Apple's 20% equity stake in the company. Crucially for the Apple ecosystem, Amazon has promised to utilize its expanded low Earth orbit network to maintain ongoing support for essential iPhone and Apple Watch satellite features, including Emergency SOS and Find My location sharing.
 
 ## Also Worth Knowing
-*   *Fortnite* has officially returned to the App Store globally (excluding Australia), as Epic Games CEO Tim Sweeney continues his "final battle" against Apple's commission fees.
-*   Google officially appealed the 2024 antitrust ruling against its multi-billion-dollar default search engine agreement with Apple, arguing the placement was earned on merit.
-*   Apple published its corecrypto source code on GitHub, detailing post-quantum cryptography algorithms to foster peer review and protect user data against future quantum computing threats.
-*   Apple prevented over $2.2 billion in potentially fraudulent App Store transactions in 2025, blocking nearly 195 million fake reviews and rejecting two million problematic apps from the storefront.
+*   **Anti-Snatching Security Framework:** Code discoveries reveal Apple is developing a native "anti-snatching" security feature that uses an iPhone's accelerometer and proximity to a paired Apple Watch to detect if the device has been grabbed from a user's hand. If triggered, it instantly locks the device and implements Stolen Device Protection to thwart thieves.
+*   **OpenAI's iPhone Rival:** OpenAI is pivoting away from screen-less hardware to develop an "AI agent phone" powered by a customized MediaTek processor, aiming to compete directly with the iPhone by early 2027. 
+*   **Post-Quantum Cryptography Codebase:** Demonstrating its commitment to future-proofing platform security, Apple open-sourced its corecrypto implementations of post-quantum cryptography algorithms (like ML-KEM) on GitHub to foster peer review against the future threats of quantum computing.
+*   **Digital ID Expansion:** Apple Wallet's digital ID capabilities continue to roll out across the United States, adding support for residents in Arkansas and Virginia to present official identification at TSA checkpoints, as well as enabling age verification for downloading 18+ apps and creating new Apple Accounts

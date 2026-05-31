@@ -3,33 +3,33 @@ title: Tech News
 weight: 6
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["artificial intelligence", "cybersecurity", "social media", "open source", "privacy", "business", "gaming", "google", "ipos", "semiconductors", "space exploration", "tech policy", "autonomous vehicles"]
+tags: ["artificial intelligence", "cybersecurity", "tech policy", "space exploration", "aerospace", "open source", "linux", "electric vehicles", "renewable energy", "spacex", "search engines", "semiconductors", "space", "labor", "apple", "autonomous vehicles", "wearables", "policy", "robotics", "tech finance"]
 ---
 
-# Tech News — Week of 2026-05-16 to 2026-05-22
+# Tech News — Week of 2026-05-22 to 2026-05-29
 
 ## Story of the Week
-SpaceX's highly anticipated IPO filings peeled back the curtain on Elon Musk's labyrinthine empire, revealing the aerospace firm is actually a massive artificial intelligence powerhouse in disguise. The S-1 exposed a staggering $45 billion compute deal with Anthropic and highlighted $20.7 billion in capital expenditures to fuel Musk's data-centers-in-space ambitions. By pitching investors on a $26.5 trillion total addressable market, Musk is effectively betting SpaceX's future—and its record-shattering $2 trillion valuation—on dominating the AI hardware and software landscape.
+Anthropic has officially unseated OpenAI as the world's most valuable artificial intelligence startup, closing a jaw-dropping $65 billion Series H funding round that catapults its valuation to $965 billion. This historic changing of the guard arrives alongside the launch of Claude Opus 4.8 and a novel "Dynamic Workflows" tool for orchestrating swarms of AI subagents. The massive capital influx proves that explosive enterprise demand is rapidly reshaping the generative AI hierarchy, placing Anthropic squarely in the driver's seat for the next era of frontier model development.
 
 ## Top Stories
-**[Data Center Demands Drive Megamerger and Strain Power Grids](#)** · Bloomberg
-The voracious energy appetite of AI data centers is forcing radical, immediate shifts in physical infrastructure. NextEra Energy and Dominion Energy agreed to a historic $67 billion megamerger specifically tailored to feed the power demands of Northern Virginia's massive data center hubs. Meanwhile, the physical grid is already buckling, with NV Energy reportedly diverting 75% of the electricity supply for 49,000 Lake Tahoe residents to power nearby data centers for tech giants.
+**[SpaceX's Wild Ride Toward a $1.8 Trillion IPO]** · Various
+Elon Musk’s SpaceX executed a successful orbital test of its Starship V3 prototype, marking a massive leap forward for the economics of orbital logistics, even though the Super Heavy booster was lost during descent. The milestone coincides with the company's formal IPO filing, initially detailing a $28 trillion total addressable market before adjusting its valuation target down to a more grounded $1.8 trillion. With Blue Origin’s New Glenn rocket suffering a catastrophic launchpad explosion this week, SpaceX's dominance in space—and its deepening, multi-billion dollar defense ties—remains practically uncontested.
 
-**[Meta Axes 8,000 Jobs to Fund Its AI Obsession](#)** · The Verge
-Meta is ruthlessly cutting 10% of its workforce—roughly 8,000 jobs—while reassigning 7,000 surviving employees to newly formed AI divisions. The sweeping layoffs are a drastic bid to enforce a flatter corporate hierarchy and offset the massive capital requirements of the company's AI infrastructure. In the background, Meta conveniently settled a bellwether lawsuit with a Kentucky school district over youth social media addiction, averting a highly publicized federal trial on the societal costs of its platforms.
+**[The AI Boom Hits the Reality Distortion Field]** · Various
+The unit economics of generative AI are facing severe stress tests. Uber's president openly questioned the ROI of its AI budget after exhausting it in just four months, struggling to connect rising token consumption to actual consumer value. Meanwhile, as DeepSeek permanently slashes its flagship V4-Pro AI model pricing by 75% to violently undercut Western competitors, Meta is launching paid subscriptions across Facebook, Instagram, and a $19.99/mo "Meta One" chatbot tier just to offset its monstrous infrastructure burn.
 
-**[Trump Halts AI Oversight Order After Billionaire Pressure](#)** · Slashdot
-President Trump abruptly canceled a planned executive order that would have mandated government security testing for frontier AI models prior to their public release. The 11th-hour reversal followed intense lobbying from tech leaders like Elon Musk, Mark Zuckerberg, and David Sacks, who argued the red tape would erode the US innovation lead over China. The administration is now pivoting to a much narrower cybersecurity directive.
+**[Agentic AI Infrastructure is a Security Nightmare]** · Various
+As the tech industry races to deploy autonomous agents, a critical vulnerability in the Starlette Python framework has exposed the credentials of millions of AI agents relying on Model Context Protocol (MCP) servers to access external systems. Recognizing the systemic risks of agentic workflows, AWS and Google have rushed to implement strict operational guardrails and sandboxed execution environments. The real-world friction is already apparent, with the Bank of England completely locking out Anthropic's powerful Mythos tool due to unresolved cybersecurity fears.
 
-**[Elon Musk Loses Landmark Lawsuit Against OpenAI](#)** · TechCrunch
-A federal jury handed OpenAI and CEO Sam Altman a massive procedural victory, ruling unanimously that Elon Musk waited too long to sue over the company's shift from a nonprofit to a for-profit entity. The verdict clears a major legal cloud for OpenAI, which is now moving full speed ahead toward a highly anticipated initial public offering targeted for as soon as September. Musk, meanwhile, has already promised to appeal the decision.
+**[The Vatican and Silicon Valley Align on AI Oversight]** · Various
+In an unprecedented move, Pope Leo XIV released *Magnifica Humanitas*, a 42,300-word encyclical warning of AI's threat to human dignity and employment. Co-presented by Anthropic's Christopher Olah, the document schooled tech billionaires on moral limits while demanding strict government regulation. It represents a fascinating strategic alignment between the Vatican and the AI safety wing, particularly as US federal regulation stalls and President Trump abruptly scrapped a frontier AI oversight order following intense lobbying from Elon Musk and Mark Zuckerberg.
 
-**[Hackers Breach Thousands of GitHub Repositories](#)** · Ars Technica
-A cybercriminal group dubbed TeamPCP successfully executed a massive supply chain attack on GitHub using a poisoned VS Code extension. The attackers breached the platform and stole data from roughly 3,800 internal repositories, which they are now attempting to sell on cybercrime forums. While GitHub confirmed the breach, the Microsoft-owned platform claims the exposed data consists of internal code rather than customer files.
+**[The Energy Transition Hits a Tipping Point]** · Various
+Global electricity generated by wind and solar power has officially surpassed gas for the first time in history, hitting 22% and generating a record 531 terawatt-hours in April. The global transition could soon accelerate even further as MIT researchers backed by startup Rock Zero have commercialized a low-heat method to extract battery-grade lithium using weak acids in plastic tanks. This process eliminates the need for extreme-temperature roasting, severely undercutting traditional hard-rock mining costs to under $6,000 per metric ton.
 
 ## Also Worth Knowing
-*   **[Anthropic Nears $900B Valuation](#):** Anthropic is reportedly closing a massive $30 billion funding round that would push its valuation past $900 billion, catapulting it ahead of OpenAI to become the world's most valuable AI startup.
-*   **[Google's Search Overhaul](#):** Google introduced a massive search overhaul powered by Gemini 3.5 Flash, shifting away from traditional links toward an "agentic," conversational interface that threatens to devastate web traffic for digital publishers.
-*   **[Nvidia's $58.3B Profit](#):** Nvidia reported a staggering $58.3 billion quarterly profit, yet Wall Street investors reacted with a shrug due to mounting fears over chip competition and the sustainability of the AI hardware rally.
-*   **[Waymo Pauses Operations](#):** Waymo was forced to suspend its robotaxi services in Atlanta and San Antonio after its autonomous vehicles repeatedly drove into flooded intersections and got stuck, while also halting freeway driving across all US markets.
-*   **[Fisker Owners Hack Their Cars](#):** Following Fisker's bankruptcy, a community of stranded Ocean SUV owners successfully reverse-engineered proprietary code to keep their rapidly deprecating software-defined vehicles running, essentially building a volunteer-run car company.
+*   **Valve's Pricing Power:** Valve hiked the price of its 1TB OLED Steam Deck to a staggering $949 due to rising component costs, yet the popular gaming handheld still completely sold out in North America in under 24 hours.
+*   **Robinhood's Risky Bot Trading:** Robinhood is officially allowing users to deploy autonomous AI agents to trade their life savings, though the brokerage explicitly warns that agentic trading carries a high risk of total investment loss.
+*   **Linux's Double Whammy:** A decade-old critical vulnerability (CVE-2026-46333) was discovered in mainline Linux kernels granting instant root access, arriving exactly as solo maintainers face severe burnout from a 20% spike in AI-generated "drive-by" bug reports.
+*   **Google Insider Trading:** Federal prosecutors charged a Google security engineer with fraud after he allegedly weaponized unreleased 2025 "Year in Search" data to net $1.2 million betting on Polymarket.
+*   **Ferrari's Design Miss:** Ferrari's first all-electric vehicle, the $640,000 "Luce" co-designed by Jony Ive, is facing a brutal online backlash for resembling a Nissan Leaf or an Apple product rather than an aggressive Italian supercar.

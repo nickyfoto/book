@@ -3,29 +3,29 @@ title: CNBC
 weight: 21
 bookCollapseSection: true
 categories: ["News"]
-tags: ["iran conflict", "oil prices", "artificial intelligence", "retail", "stock market", "earnings", "geopolitics", "inflation", "federal reserve", "u.s.-china relations", "corporate earnings", "us-china relations", "energy markets"]
+tags: ["artificial intelligence", "stock market", "u.s.-china relations", "federal reserve", "inflation", "corporate earnings", "us-china relations", "energy markets", "geopolitics", "semiconductors", "earnings", "oil"]
 ---
 
-# CNBC — Week of 2026-05-10 to 2026-05-16
+# CNBC — Week of 2026-05-14 to 2026-05-29
 
 ## Story of the Week
-The Middle East conflict dominated global markets as the effective closure of the Strait of Hormuz choked off oil supplies, sending crude prices surging and abruptly reigniting U.S. inflation. With April wholesale inflation hitting 6% annually, bond yields spiked and traders began pricing in rate hikes, presenting a massive challenge for newly confirmed Federal Reserve Chair Kevin Warsh.
+The relentless and broadening artificial intelligence boom eclipsed sticky inflation and geopolitical fears this week, minting new titans across public and private markets. Dell's historic 32% surge on explosive AI server sales and Anthropic's staggering $965 billion private valuation definitively proved that the enterprise hardware and software supercycle remains in high gear.
 
 ## Markets & Economics
-*   **[Dow makes it back to 50,000 and the S&P 500 closed above 7,500](#)** · [CNBC](#): U.S. equities hit massive milestones mid-week on the back of strong corporate earnings and a broadening tech rally, though inflation fears later stalled the momentum.
-*   **[Wholesale inflation jumps 6% in April on annual basis](#)** · [CNBC](#): Energy spikes stemming from the Iran conflict pushed April CPI to 3.8% and PPI to a red-hot 6%, forcing markets to price in a 51% chance of a Fed rate hike by December.
-*   **[Senate confirms Kevin Warsh as Fed Governor](#)** · [CNBC](#): Warsh was confirmed to lead the central bank right as surging Treasury yields—with the 10-year nearing 4.6% and the 30-year topping 5.12%—signal the bond market believes the Fed is woefully behind the curve.
-*   **[What to expect from the upcoming Trump-Xi summit](#)** · [CNBC](#): President Trump's high-stakes Beijing summit yielded preliminary agreements for China to purchase U.S. oil, 200 Boeing jets, and reduce agricultural tariffs, alongside joint AI safety protocols.
-*   **[Retailers are on a hiring spree. But consumers are sending warning signs](#)** · [CNBC](#): While retail sales rose 0.5% in April, the gains were largely energy-driven, and consumer sentiment plummeted to all-time lows amid cumulative inflation fatigue.
+* **[Inflation and Stagflation Fears Deepen]** · [CNBC]: Traders aggressively repriced rate hike probabilities after wholesale inflation hit an annual rate of 6% and Q1 GDP was revised down to a sluggish 1.6%. This sets up an immediate policy clash for incoming Fed Chair Kevin Warsh against a hawkish committee.
+* **[Treasury Yields Whip on Rate Anxiety]** · [CNBC]: The 30-year Treasury yield topped 5.12% and the 10-year yield surged near 4.6% as markets digested structurally higher inflation. Yields eventually softened slightly following the Memorial Day break as traders weighed geopolitical developments.
+* **[Equities Defy Gravity to Hit Milestones]** · [CNBC]: Despite macroeconomic headwinds and hot consumer price index data, robust corporate earnings and AI euphoria propelled the S&P 500 above 7,500 and the Dow to 50,000 for the first time. 
+* **[Geopolitics Drive Extreme Energy Volatility]** · [CNBC]: Crude oil endured massive swings, initially soaring on the Strait of Hormuz closure and U.S.-Iran military strikes. However, oil plunged 20% from 2026 peaks amid optimism over a potential 60-day ceasefire framework.
+* **[Trump-Xi Summit Yields Trade Pacts]** · [CNBC]: President Trump's Beijing summit delivered key economic agreements, including China's commitment to purchase U.S. crude oil and 200 Boeing jets. The two superpowers also outlined plans for a joint AI safety protocol.
 
 ## Business & Earnings
-*   **[Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap](#)** · [CNBC](#): The AI chipmaker's highly anticipated IPO priced above range at $185 and briefly soared to a $95 billion valuation before shedding 10% on Friday.
-*   **[Cisco CEO says tech is entering a 'networking supercycle'](#)** · [CNBC](#): Cisco shares surged 17% after revealing $5.3 billion in AI infrastructure orders, overshadowing its announcement of a 4,000-person headcount reduction.
-*   **[Microsoft CEO Satya Nadella testifies in OpenAI case](#)** · [CNBC](#): Nadella took the stand in the Musk v. Altman trial, blasting OpenAI's board as "amateur city" regarding Sam Altman's temporary ouster.
-*   **[Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity](#)** · [CNBC](#): The energy behemoth sidestepped the Strait of Hormuz blockade by maximizing its East-West Pipeline, smashing estimates with $33.6 billion in net income.
-*   **[Berkshire Hathaway Overhauls Portfolio](#)** · [CNBC](#): New CEO Greg Abel aggressively restructured the firm's holdings, tripling its stake in Alphabet and buying into Delta Air Lines while dumping Visa, Mastercard, and Amazon.
+* **Dell and Snowflake Crush Earnings**: Dell shares skyrocketed a record 32% after reporting a 757% year-over-year explosion in AI server sales to $16.1 billion. Snowflake similarly surged over 30% following an earnings beat and the announcement of a $6 billion cloud pact with Amazon.
+* **The AI Club Mints New Trillion-Dollar Members**: Chipmakers Micron Technology and SK Hynix both crossed the $1 trillion market cap threshold, driven by a global memory shortage essential for AI infrastructure.
+* **Blockbuster Valuations and Volatility**: AI chipmaker Cerebras debuted with a $95 billion valuation before giving back some gains, while private AI darling Anthropic surpassed OpenAI with a new $965 billion valuation.
+* **M&A Market Heats Up**: Tilman Fertitta announced a $17.6 billion deal to take Caesars Entertainment private. Meanwhile, Jamie Dimon revealed JPMorgan Chase is actively hunting for an acquisition target worth up to $20 billion.
+* **Corporate America Trims the Fat**: A massive wave of restructuring hit multiple sectors as companies pivot toward AI and software, with Starbucks, Detroit automakers, and Wix collectively slashing thousands of jobs.
 
 ## Investing & Commentary
-*   **[Dan Ives on the AI Supercycle](#)** · [CNBC](#): Wedbush's Dan Ives sees the Nasdaq hitting 30,000 over the next year, arguing that strong tech earnings have fundamentally validated the AI bull thesis.
-*   **[Jim Cramer Warns of Speculative Excess](#)** · [CNBC](#): Cramer cautioned investors against chasing Cerebras at its current valuation and warned that upcoming mega-IPOs like SpaceX could overwhelm the market with excess supply, drawing stark comparisons to 1999.
-*   **[Bill Ackman Bets on Microsoft](#)** · [CNBC](#): Pershing Square established a new position in Microsoft, leveraging a recent sell-off to bet heavily on the long-term durability of Azure and its deep AI integrations.
+* **Cramer Champions the Data Center Trade**: Jim Cramer advised investors to look past the rally in AI winners, calling the data center buildout the "greatest stock story of all time". He heavily endorsed buying Nvidia and Amazon following Dell and Snowflake's blowout quarters.
+* **BofA and ECB Warn of Summer Pullback**: Major institutions, including Bank of America and the European Central Bank, urged caution, warning that stretched technical indicators, high valuations, and geopolitical vulnerabilities could trigger a near-term market correction.
+* **Ackman Bets Big on Microsoft's Cloud**: Bill Ackman’s Pershing Square capitalized on recent volatility to build a major new stake in Microsoft. The fund is betting heavily on the long-term durability of its Azure cloud business and seamless AI integration.
