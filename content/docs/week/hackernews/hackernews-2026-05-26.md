@@ -1,6 +1,6 @@
 ---
 title: 2026-05-26
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "programming", "cloud computing", "open source"]
 ---

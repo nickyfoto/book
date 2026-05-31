@@ -1,6 +1,6 @@
 ---
 title: 2026-05-26
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "machine learning", "hardware", "wearables"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-05-22
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["oatmeal", "microwave tips", "food science", "creative recipes"]
 ---

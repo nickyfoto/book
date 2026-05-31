@@ -1,6 +1,6 @@
 ---
 title: 2026-05-23
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["geopolitics", "inflation", "public health", "us politics", "mergers and acquisitions"]
 ---
