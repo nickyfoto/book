@@ -1,6 +1,6 @@
 ---
 title: 2026-05-26
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["geopolitics", "initial public offerings", "electric vehicles", "artificial intelligence", "monetary policy"]
 ---

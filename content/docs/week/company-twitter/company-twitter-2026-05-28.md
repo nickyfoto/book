@@ -1,6 +1,6 @@
 ---
 title: 2026-05-28
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["generative ai", "ai agents", "developer tools", "autonomous vehicles"]
 ---

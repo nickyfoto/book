@@ -1,6 +1,6 @@
 ---
 title: 2026-05-29
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["technical interviews", "hiring", "talent assessment", "engineering management"]
 ---
