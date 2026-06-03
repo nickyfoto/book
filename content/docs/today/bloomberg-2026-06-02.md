@@ -1,0 +1,36 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["artificial intelligence", "geopolitics", "ipos", "us politics"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-06-02
+
+## Lead Story
+Alphabet Inc. surprised Wall Street with an $80 billion equity offering to bankroll its artificial intelligence infrastructure buildout—a move set to become the largest equity capital markets transaction in history. The massive capital raise, bolstered by an investment from Berkshire Hathaway, comes as the AI arms race reaches a fever pitch: rival Anthropic quietly filed for a blockbuster IPO today, and OpenAI is aggressively expanding its enterprise tools to target finance and legal professionals. The sheer scale of Alphabet's fundraising underscores the staggering capital requirements needed to secure dominance in the next era of computing.
+
+## Markets & Economics
+* **[SpaceX Preps Blockbuster IPO Terms After Squeezing Wall Street Fees](https://www.bloomberg.com/news/articles/2026-06-02/spacex-is-said-to-plan-setting-ipo-terms-as-soon-as-wednesday)**: Elon Musk's space exploration firm plans to set the terms for its historic initial public offering as early as Wednesday, negotiating razor-thin fees that will still yield a collective $500 million for its bankers.
+* **[Iran Conflict Forces Gulf Gas Trade Into the Shadows](https://www.bloomberg.com/news/articles/2026-06-02/iran-war-pushes-gas-trade-to-rip-up-rulebook-as-tankers-sail-dark-through-hormuz)**: With the Strait of Hormuz effectively locked down by the ongoing war, major energy producers like QatarEnergy and Adnoc are adopting "shadow fleet" tactics typically employed by Russia to maintain their liquefied natural gas exports. 
+* **[Euro-Zone Inflation Breaches 3% Ahead of Crucial ECB Meeting](https://www.bloomberg.com/news/articles/2026-06-02/euro-zone-inflation-surpasses-3-for-first-time-since-2023)**: Consumer price growth in the euro area accelerated past 3% for the first time since 2023, cementing market expectations that the European Central Bank will hike interest rates next week.
+* **[Bitcoin’s Inflation-Hedge Narrative Crumbles in 36% Rout](https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge)**: The world's largest cryptocurrency tumbled below $70,000 for the first time in two months, driven by Middle East geopolitical fears and a rare token sale by Strategy Inc. that is undermining the asset's safe-haven appeal.
+
+## Business & Industries
+* **[Samsung’s Massive AI Bonuses Trigger Global Tech Labor Debate](https://www.bloomberg.com/news/articles/2026-06-02/samsung-ai-windfall-how-massive-chip-bonuses-sparked-a-global-labor-debate)**: The South Korean electronics giant averted a crippling strike by paying out enormous windfalls to its semiconductor engineers, but the move has sparked bitter resentment in other divisions and ignited a broader conversation about how AI profits should be shared.
+* **[UniCredit Surpasses 30% Commerzbank Stake in €38.6 Billion Takeover](https://www.bloomberg.com/news/articles/2026-06-02/unicredit-says-commerzbank-offer-set-to-push-direct-stake-to-34)**: The Italian lender announced that enough investors have accepted its acquisition offer to push its direct ownership of Commerzbank past the 30% threshold, intensifying the push for European banking consolidation.
+* **[Marvell Shares Surge After Nvidia CEO Predicts $1 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company)**: Jensen Huang declared at the Computex trade show in Taipei that Marvell Technology will be the next semiconductor firm to hit a $1 trillion market cap—more than five times its current valuation—sending the networking company's stock soaring.
+* **[Victoria’s Secret Stock Rockets 47% on Reversal of Fortunes](https://www.bloomberg.com/news/articles/2026-06-02/victoria-s-secret-boosts-outlook-as-brand-s-momentum-continues)**: The heavily shorted lingerie retailer posted first-quarter profits and operating income that easily cleared Wall Street estimates, serving as a major vindication for Chief Executive Officer Hillary Super's turnaround strategy.
+
+## Policy & World
+* **[Trump Taps Housing Chief Bill Pulte as Acting DNI](https://www.bloomberg.com/news/articles/2026-06-02/trump-taps-pulte-as-acting-director-of-national-intelligence)**: President Donald Trump named the head of the Federal Housing Finance Agency to concurrently serve as acting Director of National Intelligence, a dual-hatted arrangement that critics warn will sideline the administration's housing agenda and politicize the intelligence community.
+* **[Israel’s Lebanon Push Threatens Trump’s Iran Peace Deal](https://www.bloomberg.com/news/articles/2026-06-02/trump-tries-to-stop-israel-s-lebanon-push-derailing-an-iran-deal)**: The US is struggling to keep an interim peace agreement with Iran on track after Tehran threatened to suspend talks in retaliation for Prime Minister Benjamin Netanyahu's escalating military strikes in Lebanon.
+* **[Trump Retains Audit Immunity but Drops $1.8 Billion "Weaponization" Fund](https://www.bloomberg.com/news/articles/2026-06-02/trump-to-get-audit-immunity-even-as-1-8-billion-fund-in-doubt)**: A controversial Justice Department settlement will permanently shield the president and his businesses from past IRS audits, though Acting Attorney General Todd Blanche announced the administration is abandoning a massive compensation fund for victims of alleged government targeting following intense bipartisan backlash.
+* **[Putin Warned War Spending Risks Triggering Russian Budget Crisis](https://www.bloomberg.com/news/videos/2026-06-02/officials-warn-putin-on-war-spending-budget-crisis-risk-video)**: Senior finance officials have warned the Russian president that the country's economic growth is grinding to a halt, arguing that military expenditures for the long war in Ukraine are on an increasingly unsustainable trajectory.
+
+## Opinion & Analysis
+* **[Kevin Warsh’s Fed Regime Change Comes With a Catch](https://www.bloomberg.com/opinion/articles/2026-06-02/kevin-warsh-wants-to-shrink-the-fed-it-could-get-messy-fast)**: The new Federal Reserve Chairman has two powerful allies in his quest to aggressively shrink the central bank's $6.7 trillion balance sheet, but executing that runoff without triggering severe market volatility will be messy, argues Bloomberg Opinion.
+* **[New Grads Face a Bigger Enemy Than AI](https://www.bloomberg.com/opinion/articles/2026-06-02/can-t-find-a-job-after-graduation-blame-wfh-not-ai)**: While college graduates are increasingly anxious about being replaced by artificial intelligence, the brutal entry-level job market is actually being driven by the widespread entrenchment of work-from-home policies that limit junior hiring.
+* **[Pulte Will Drag US Intelligence From Bad to Worse](https://www.bloomberg.com/opinion/articles/2026-06-02/pulte-will-drag-us-intelligence-from-bad-to-worse)**: Bloomberg Opinion warns that tapping a housing regulator to lead 18 disparate spy agencies is a stark indicator of the institutional decay facing the American intelligence apparatus.
