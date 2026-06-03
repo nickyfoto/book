@@ -1,6 +1,6 @@
 ---
 title: 2026-05-30
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "global markets", "defense"]
 ---

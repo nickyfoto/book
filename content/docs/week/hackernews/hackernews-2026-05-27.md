@@ -1,6 +1,6 @@
 ---
 title: 2026-05-27
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "distributed systems", "reverse engineering", "software engineering", "fintech"]
 ---

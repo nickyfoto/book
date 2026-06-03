@@ -1,6 +1,6 @@
 ---
 title: 2026-05-30
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "datasette", "sandboxing", "open-source", "python"]
 ---
