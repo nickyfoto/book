@@ -1,6 +1,6 @@
 ---
 title: 2026-05-30
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai safety", "defense tech", "developer tools"]
 ---

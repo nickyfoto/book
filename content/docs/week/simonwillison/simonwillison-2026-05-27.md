@@ -1,6 +1,6 @@
 ---
 title: 2026-05-27
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["coding-agents", "llms", "openai", "anthropic", "sqlite"]
 ---

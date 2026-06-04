@@ -1,6 +1,6 @@
 ---
 title: 2026-05-27
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "startups", "developer tools"]
 ---
