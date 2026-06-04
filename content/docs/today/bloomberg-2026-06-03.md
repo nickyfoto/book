@@ -1,0 +1,35 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["artificial intelligence", "us-iran conflict", "spacex", "tariffs", "private credit"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-06-03
+
+## Lead Story
+Elon Musk’s SpaceX is aiming to raise a record-shattering $75 billion in an initial public offering, targeting a price of $135 per share. The mega-listing is designed to fund the company's aggressive expansion into artificial intelligence and space launch infrastructure, and JPMorgan CEO Jamie Dimon is personally pitching the deal to thousands of ultra-rich clients this week. The offering threatens to completely rewrite the rules of Wall Street's AI gold rush, setting the stage for subsequent blockbuster listings across the tech sector.
+
+## Markets & Economics
+* **Equities Stall as US-Iran Clashes Escalate** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/us-iran-exchange-military-strikes-to-put-fresh-strains-on-ceasefire)): US equities fell from all-time highs and oil prices rallied for a third day after US forces intercepted Iranian missiles and struck a command center in the Islamic Republic. The military exchange strains a fragile ceasefire and threatens prospects for a peace deal that would reopen the critical Strait of Hormuz.
+* **Fed Beige Book Signals Persistent Inflation** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/fed-s-beige-book-shows-steady-employment-higher-inflation)): Economic activity expanded at a slight to moderate pace across the US, but most Federal Reserve districts reported higher inflation than the previous period. The upward price pressures are being driven largely by the Middle East conflict's impact on energy costs, while employment remains steady.
+* **Private Credit Grapples With Mounting Redemptions** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/private-credit-stocks-fall-after-cliffwater-redemption-requests)): Shares of major alternative asset managers tumbled following reports of escalating redemption requests at Cliffwater LLC's flagship fund. The industry stress test is compounding as federal prosecutors in the Southern District of New York scrutinize possible valuation discrepancies across the private credit marketplace.
+* **Alphabet Upsizes Equity Raise to $85 Billion** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/alphabet-upsizes-equity-offering-to-85-billion-for-ai-spending)): Google’s parent company expanded its equity offering to $84.75 billion, up from $80 billion announced just days prior. The massive capital raise underscores the staggering costs of the infrastructure arms race sweeping the artificial intelligence sector.
+
+## Business & Industries
+* **Anthropic Taps Banks for IPO** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/anthropic-said-to-pick-morgan-stanley-goldman-sachs-to-lead-ipo)): Artificial intelligence startup Anthropic PBC has lined up Morgan Stanley and Goldman Sachs to lead its initial public offering. The move accelerates the race against rival OpenAI to be the first major foundational model developer to go public.
+* **Duke Energy Forecasts 10x Surge in Power Demand** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/duke-duk-ceo-sees-ai-fueling-power-demand-growth-at-10-times-historic-pace)): Duke Energy's CEO projects that power demand will grow at ten times its historical rate over the coming decades. The unprecedented surge is being fueled by the rapid buildout of AI data centers and the broader electrification of the US economy.
+* **Macy’s Lifts Annual Guidance** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/macy-s-lifts-guidance-after-solid-results-at-all-three-brands)): The department store chain raised its comparable sales outlook to as much as 1.2% for the year following solid results across its brands. The upgraded forecast suggests Macy's strategic pivot toward luxury offerings and improved product assortments is paying off with consumers.
+* **Nestle Acquires yfood Labs** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/nestle-buys-out-yfood-founders-in-first-acquisition-for-new-ceo)): In its new CEO's first acquisition, Nestle SA is taking full control of ready-to-drink meal maker yfood Labs GmbH. The buyout aligns with the consumer giant's strategy to re-center its portfolio around faster-growing, innovative brands.
+
+## Policy & World
+* **Trump Proposes Broad 10% Tariffs** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/us-proposes-broad-tariffs-of-at-least-10-citing-forced-labor)): The US is floating new tariffs of at least 10% on imports from 60 major trading partners. The administration is utilizing accusations of forced labor to implement the levies, seeking to rebuild the sweeping tariff wall previously struck down by the Supreme Court.
+* **House Votes to Halt US-Iran War** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/republican-led-house-votes-to-stop-iran-war-in-rebuke-to-trump)): Breaking ranks with President Trump, the Republican-led House voted to stop the US military conflict with Iran. The legislative rebuke underscores mounting domestic frustration over an unpopular foreign conflict that is taking a heavy economic toll on American consumers.
+* **Europe Unveils Tech Sovereignty Plan** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/europe-unveils-sweeping-tech-sovereignty-plan-to-boost-chips-ai)): The European Union introduced a sweeping strategy to expand its domestic technology supply chains. The initiative targets semiconductors, artificial intelligence, and cloud computing in a bid to secure greater independence from the US and Asia.
+
+## Opinion & Analysis
+* **Ray Dalio Sounds the AI Bubble Alarm** ([Bloomberg](https://www.bloomberg.com/news/newsletters/2026-06-03/bridgewater-s-dalio-sees-ai-bubble-bursting)): Bridgewater Associates founder Ray Dalio warns that the artificial intelligence boom is showing classic signs of a bubble. Dalio also cautioned that the US debt burden has passed a "point of no return," compounding risks across global bond markets.
+* **Private Equity Fund Gates Are Features, Not Bugs** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-06-03/partners-group-private-equity-fund-gates-are-features-not-bugs)): Noting Partners Group's decision to cap withdrawals on an $8.6 billion vehicle, Bloomberg Opinion argues that illiquidity should not surprise private equity investors. However, the move is a troubling signal for an industry aggressively targeting the broader wealth market for future growth.
+* **SpaceX’s Capital Needs Are Out of This World** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-06-03/spacex-ipo-elon-musk-capital-needs-are-out-of-this-world)): Elon Musk's pivot to position SpaceX as an AI infrastructure company radically alters its financial profile. Bloomberg Opinion notes that the massive capital requirements for computing capacity cast doubt on the feasibility of its targeted multi-billion dollar IPO valuation.
