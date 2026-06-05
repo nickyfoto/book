@@ -1,6 +1,6 @@
 ---
 title: 2026-05-30
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "consumer tech", "software engineering", "tech industry"]
 ---

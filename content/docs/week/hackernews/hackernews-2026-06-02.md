@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "hardware", "privacy", "apple", "software engineering"]
 ---

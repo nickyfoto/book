@@ -1,6 +1,6 @@
 ---
 title: 2026-06-01
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["javascript", "npm", "supply chain attacks", "cybersecurity"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "machine learning", "infrastructure"]
 ---
