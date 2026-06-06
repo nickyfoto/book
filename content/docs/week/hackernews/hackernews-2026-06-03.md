@@ -1,6 +1,6 @@
 ---
 title: 2026-06-03
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "software engineering", "cryptography", "linux"]
 ---

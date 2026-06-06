@@ -1,6 +1,6 @@
 ---
 title: 2026-05-30
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["large language models", "attention mechanisms", "transformers", "machine learning"]
 ---

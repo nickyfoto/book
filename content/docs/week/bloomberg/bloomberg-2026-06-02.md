@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "ipos", "us politics"]
 ---

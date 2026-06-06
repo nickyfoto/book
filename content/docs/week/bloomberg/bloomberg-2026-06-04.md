@@ -1,0 +1,34 @@
+---
+title: 2026-06-04
+weight: 1
+categories: ["News"]
+tags: ["artificial intelligence", "initial public offerings", "geopolitics", "monetary policy"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-06-04
+
+## Lead Story
+Technology shares took a hit after Broadcom Inc.'s disappointing sales forecast triggered an abrupt unwind in the artificial-intelligence trade that had powered recent market gains. Despite the sudden reality check for AI stocks, mega-cap enthusiasm remains alive as SpaceX gears up for a record-breaking initial public offering, with Wall Street projecting massive AI revenue growth to justify a targeted $1.8 trillion valuation,.
+
+## Markets & Economics
+*   **[BOJ Is Said to Mull June Rate Hike With Another Possible in 2026]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/boj-is-said-to-mull-june-rate-hike-with-another-possible-in-2026)): Bank of Japan officials are considering a quarter-point rate increase this month, bolstered by data showing Japanese real wages rose for a fourth consecutive month,. Options traders are actively ramping up hedges against sharp yen swings amid potential intervention risks.
+*   **[Blackstone’s BCRED Caps Redemptions After Investors Seek 10%]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/blackstone-bcred-joins-private-credit-funds-limiting-redemptions)): Blackstone limited redemptions from its flagship private credit fund for the first time after investors sought to pull 10% of their shares, highlighting a continued exodus in the sector. Competitor Partners Group also announced it is ready to gate other evergreen funds amid rising pressure from investors to access liquidity.
+*   **[US Tech Sector Announces Most Job Cuts in Nearly Two Years]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years)): US technology companies announced the most job cuts in nearly two years in May as they pivot capital spending toward artificial intelligence. The broader labor market is also showing signs of softening, with applications for US unemployment benefits rising to the highest level since February.
+
+## Business & Industries
+*   **[Jamie Dimon to Pitch SpaceX IPO to JPMorgan’s Ultra-Rich Clients]** ([Bloomberg](https://www.bloomberg.com/news/videos/2026-06-04/jpm-s-dimon-to-pitch-spacex-ipo-to-ultra-rich-clients-video)): JPMorgan Chase CEO Jamie Dimon is hosting a live interactive discussion to pitch the upcoming SpaceX IPO to thousands of high-net-worth clients. Elon Musk is set to retain 84% voting control of the rocket and satellite company after it goes public.
+*   **[Honeywell-Backed Quantinuum Raises $1.68 Billion in Upsized IPO]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/honeywell-backed-quantinuum-raises-1-68-billion-in-upsized-ipo)): A wave of upsized initial public offerings priced strongly, demonstrating renewed investor appetite for emerging technology and industrials. Alongside Quantinuum's quantum computing debut, power equipment firm Innio Holding raised $2.43 billion, and Blackstone-backed Liftoff Mobile secured $437 million,,.
+*   **[Lululemon Trims Outlook, Adding Pressure Ahead of New CEO]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/lululemon-trims-outlook-adding-pressure-ahead-of-new-ceo)): Lululemon Athletica lowered its annual forecast, underscoring the challenges incoming Chief Executive Officer Heidi O’Neill faces in revitalizing the premium activewear brand.
+*   **[AI Power Boom Revives Natural Gas as Infrastructure Bet]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/ai-power-boom-revives-natural-gas-as-infrastructure-bet)): The massive electricity demands of data centers and artificial intelligence are creating a renaissance for natural gas development as North American power markets adapt to the structural shift.
+
+## Policy & World
+*   **[Progress in US-Iran Talks Stalls After Hezbollah Rejects Truce]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/no-sign-of-progress-in-us-iran-talks-as-hezbollah-rejects-truce)): The US announced a conditional ceasefire agreement between Israel and Lebanon, but the Tehran-backed Hezbollah militia quickly rejected the US-brokered truce,. The renewed outbreak of violence has effectively stalled any progress in interim peace talks between Washington and Iran.
+*   **[Trump Unveils New Tariff Plan for Trade Partners]** ([Bloomberg](https://www.bloomberg.com/news/videos/2026-06-04/trump-unveils-new-tariff-plan-for-trade-partners-video)): The US is proposing new 10% tariffs on imports from major trading partners, citing forced-labor practices. However, the administration signaled it will honor existing bilateral agreements with economies like the European Union and Japan that negotiated caps on US levies.
+*   **[How Funding Cuts Left the World Vulnerable to Ebola]** ([Bloomberg](https://www.bloomberg.com/news/features/2026-06-04/ebola-crisis-tests-global-health-system-weakened-by-funding-cuts)): A widening Ebola outbreak in the Democratic Republic of Congo is testing an international health system weakened by global funding cuts. Efforts to contain the virus are struggling as patients flee isolation facilities and burial teams face violent attacks.
+*   **[Deadly Screwworm Parasite Found in US Threatens Cattle Herd]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/deadly-screwworm-parasite-found-in-us-in-threat-to-cattle-herd)): The US Department of Agriculture is rushing to contain an outbreak of the flesh-eating New World screwworm parasite detected in a Texas calf,. It is the first US case in nearly a decade and threatens a domestic cattle herd that is already at its lowest level in 75 years.
+
+## Opinion & Analysis
+*   **[A Decade After Brexit, the City of London Is Fine]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-06-04/a-decade-after-brexit-the-city-of-london-is-fine)): Ten years after the UK voted to quit the European Union, London's finance industry remains resilient, defying fears that it would lose its premier global role. It is hard to identify clear losses caused directly by tearing up continental agreements.
+*   **[BYD Is Showing Tesla How to Build Trust in Robo-Cars]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-06-04/byd-is-showing-tesla-how-to-build-trust-in-robo-cars)): Chinese electric vehicle giant BYD is outmaneuvering Tesla by offering its advanced driver assistance systems for free across most of its models. The strategy is providing a masterclass in how to build widespread consumer confidence in autonomous vehicle technology.

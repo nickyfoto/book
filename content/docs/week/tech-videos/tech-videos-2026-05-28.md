@@ -1,6 +1,6 @@
 ---
 title: 2026-05-28
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software engineering", "cloud computing", "cryptocurrency"]
 ---

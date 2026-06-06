@@ -1,6 +1,6 @@
 ---
 title: 2026-05-29
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["anthropic", "datasette", "artificial intelligence", "sql", "sqlite"]
 ---
