@@ -3,32 +3,35 @@ title: Hacker News
 weight: 15
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["artificial intelligence", "software development", "systems engineering", "economics", "cybersecurity", "software engineering", "hardware", "open source", "c++", "3d printing", "programming", "cloud computing", "distributed systems", "reverse engineering", "fintech", "ai agents"]
+tags: ["ai agents", "cybersecurity", "open source", "software engineering", "artificial intelligence", "compilers", "systems programming", "hardware", "privacy", "apple", "cryptography", "linux", "web development", "hardware hacking"]
 ---
 
-# Hacker News — Week of 2026-05-22 to 2026-05-29
+# Hacker News — Week of 2026-05-29 to 2026-06-05
 
 ## Story of the Week
-The illusion of flat-rate, unlimited AI agents violently collided with enterprise budgets this week as tech giants like Microsoft and Uber abruptly pulled the plug on their internal rollouts of tools like Claude Code. The harsh realization that token-based billing and underlying GPU constraints simply cannot scale with the induced demand of autonomous coding agents is forcing developers back to basic autocomplete tools, signaling the first real macroeconomic friction in the generative AI boom.
+The escalating friction between the open-source community and the AI ecosystem dominated the week, culminating in the Ladybird browser project entirely refusing public pull requests because AI-generated spam has destroyed the effort-based trust model. This drastic lockdown followed closely on the heels of the fierce debate over `jqwik`, a Java testing library whose maintainer actively sabotaged coding agents by slipping a hidden prompt injection into their CI output to delete downstream code. It represents a sobering shift: open-source maintainers are transitioning from quiet burnout to active hostility and defensive lockdown against generative AI tools.
 
 ## Top Stories
-**[BambuStudio has been violating PrusaSlicer AGPL license since their fork]** · [Source](#)
-Josef Prusa ignited a massive community firestorm by calling out Bambu Lab for building their 3D printing empire on open-source foundations while keeping telemetry and networking locked behind proprietary plugins. The situation escalated when Bambu threatened an independent developer over an OrcaSlicer fork, sparking an intense legal debate over whether cloud services can effectively bypass the AGPL's "Corresponding Source" requirements.
+**Anthropic’s Massive Week of Financials and Code** · [Anthropic](url)
+Anthropic officially dethroned OpenAI in private market valuation following a $65 billion Series H round, and confidentially submitted a draft S-1 for a proposed IPO, setting the stage to reveal the true compute costs behind the AI boom. Meanwhile, their engineering team dropped a bombshell claiming Claude now authors over 80% of their merged code, pushing them toward a near-term scenario of recursive self-improvement where the human bottleneck shifts strictly to direction-setting and review.
 
-**[CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude]** · [Source](#)
-The vulnerability research landscape shifted permanently this week as Anthropic's Claude successfully uncovered a classic integer overflow bypassing Apple's heavily marketed M5 Memory Integrity Enforcement. While AI is now automating the discovery of zero-days at an unprecedented and terrifying scale, the structural bottlenecks of verifying, disclosing, and actually patching these vulnerabilities remain painfully human.
+**GitHub and the crime against software** · [eblog.fly.dev](url)
+Efron Licht delivered a blistering, data-backed takedown of GitHub's frontend rot that struck a massive chord with the community. Pointing out that a blank repository page now demands 540,000 lines of code and 69MiB of steady-state RAM, the author argues that Microsoft's obsession with shoehorning "agentic" AI features everywhere has fundamentally broken the platform's reliability and abandoned user-first infrastructure.
 
-**[We should get rid of average CPU utilization]** · [Source](#)
-A crucial PSA for systems engineers reminded the community that standard average CPU utilization metrics actively hide kernel CFS (Completely Fair Scheduler) throttling. Bursty containerized workloads can easily exhaust their time quotas across multiple cores, leading to brutal p99 latency spikes and timeout errors that your dashboard will completely miss while reporting a seemingly healthy 40% utilization.
+**1-Click GitHub Token Stealing via a VSCode Bug** · [Ammar Askar](url)
+Security researcher Ammar Askar exposed a terrifying zero-click exploit in github.dev and VSCode webviews. By abusing cross-origin message passing and keyboard shortcut bubbling, an attacker could silently install a local workspace extension to exfiltrate GitHub tokens with full read/write access, serving as a harsh reminder of the massive attack surface embedded in Electron applications trying to securely render untrusted content.
 
-**[No Juniors Today, No Seniors in 2031]** · [fbritoferreira.com](#)
-With junior hiring cratering by 40% due to corporate boards using AI to justify cutting entry-level roles, the industry is sleepwalking into a structural mentorship crisis. Commenters heavily debated the emergence of a "mid-level trap," arguing that true senior architectural judgment isn't generated by LLMs, but forged through surviving painful feedback loops and debugging 2 a.m. incidents.
+**VoidZero Is Joining Cloudflare** · [Cloudflare](url)
+In a tectonic shift for the frontend ecosystem, Evan You and the VoidZero team (the creators of Vite) have been acquired by Cloudflare. While Cloudflare promises to keep Vite vendor-neutral and MIT-licensed, they are explicitly aligning their own internal tooling and `workerd` platform to capture the application foundation layer as AI coding agents increasingly default to Vite for rapid scaffolding.
 
-**[jqwik testing app prompt injection]** · [Source](#)
-In a highly controversial move, the maintainer of the Java testing app jqwik slipped a hidden prompt injection into the latest release instructing LLMs to delete all tests and code. While the developer defended it as a righteous strike against the environmental and intellectual harms of generative AI, the community ruthlessly condemned the payload as a malicious attack that ultimately just destroys a downstream human operator's work.
+**Meta's ships facial recognition on smart glasses** · [Android APK Teardown](url)
+Reverse-engineers tore apart the Stella Android APK for Meta's smart glasses and discovered a fully dormant, local facial recognition pipeline waiting in the wings. Bundled with 100MB of detection and embedding models alongside a local vector database schema, the plumbing is entirely built and wired up to trigger deep-linked "Person recognized" notifications once activated.
+
+**The U.S. Military Quietly Turned GPS into a Global "Numbers Station"** · [Security Research](url)
+A brilliant piece of signal analysis revealed that for nearly two decades, every GPS satellite has been broadcasting encrypted payloads on a public channel to handle remote cryptographic rekeying for the Pentagon's OTAD network. Hiding in plain sight within a 176-bit field, the discovery is a fantastic reminder that there are still secrets floating in the signals arriving at our antennas every single day.
 
 ## Show HN & Launches
-It was a massive week for developer tooling, headlined by Deno 2.8 crushing Bun's Node.js compatibility and making npm the default CLI behavior without requiring a prefix. In response to the growing pollution of auto-generated code, the community highly praised AISlop, a new CLI linter specifically built to catch hallucinated imports and lazy patterns left behind by autonomous agents. We also saw fascinating systems-level drops like Sp.h, a 15,000-line single-header C99 library aiming to completely replace libc by ditching the runtime heap and relying on string views instead of legacy null-terminated strings.
+This week featured some incredible hardware and low-level software hacking, notably a daemon that bypasses kernel modules to allocate idle Nvidia VRAM as ultra-low-latency Linux swap space over a Unix socket. Another standout was a developer successfully running a 26-billion parameter Gemma 4 MoE model at reading speed on a 10-year-old GPU-less Xeon processor by mastering `ik_llama.cpp` flags and CPU cache alignment. On the tooling front, `AISlop` launched as a much-needed CLI linter to catch the deterministic, lazy code smells left behind by AI agents, while the Elixir community celebrated the release of v1.20, which officially brings gradual, set-theoretic typing to the language.
 
 ## Community Mood
-A deep, collective anxiety regarding AI's impact on the software engineering craft permeated the front page this week. Between exhaustion over "AI slop" polluting asynchronous text channels and the realization that relying on slot-machine-style code generation prevents developers from synthesizing the long-term working memory required for mastery, the technical community is aggressively pushing back against the deskilling of the profession.
+A palpable sense of "AI Job Grief" and corporate dread permeates the community right now, with developers mourning the deskilling of the craft and expressing existential anxiety over structural changes to the profession. This dread is amplified by grim corporate realities, highlighted by Teradata cancelling employee raises to fund AI investments, leaving rank-and-file engineers feeling completely alienated by leadership's "fire fast" restructuring. However, a strong pragmatic counter-narrative has emerged: while AI is commoditizing the *production* of code, deep domain expertise—knowing "what right looks like" in complex, real-world systems—remains the ultimate, un-promptable moat for senior engineers.

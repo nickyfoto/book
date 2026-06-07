@@ -3,29 +3,32 @@ title: Company@X
 weight: 8
 bookCollapseSection: true
 categories: ["Social Media", "Tech"]
-tags: ["artificial intelligence", "autonomous agents", "generative video", "cybersecurity", "developer tools", "data centers", "startups", "open source", "autonomous driving", "local ai", "autonomous vehicles", "ai agents", "machine learning", "space technology", "tech industry", "generative ai", "cryptocurrency"]
+tags: ["ai agents", "developer tools", "cryptocurrency", "autonomous vehicles", "artificial intelligence", "ai safety", "defense tech", "cloud computing", "open source", "venture capital", "hardware", "foundation models", "local ai", "enterprise software", "multimodal ai", "open source ai"]
 ---
 
-# Company@X — Week of 2026-05-22 to 2026-05-29
+# Company@X — Week of 2026-05-29 to 2026-06-05
 
 ## Signal of the Week
-The definitive arrival of the autonomous agentic economy dominated the week, shifting AI from synchronous chat to persistent, transactional background execution. Google laid the groundwork with the Agent Payments Protocol (AP2) and Universal Commerce Protocol (UCP), while simultaneously moving its 24/7 Gemini Spark agent into production. Concurrently, OpenAI expanded Codex’s autonomous "Goal mode" to Windows, and partnerships like Replit and Visa signaled that frictionless agent-to-system transactions are now a core commercial reality.
+According to Cloudflare Radar, agentic internet traffic has officially surpassed human traffic for the first time in internet history. This systemic milestone perfectly encapsulates a week where major providers rapidly shifted from conversational chat interfaces to deploying autonomous, "always-on" background agents into commercial production.
 
 ## Key Announcements
 **[Anthropic]** · Source
-Anthropic secured a massive $65 billion Series H at a $965 billion valuation, revealing an astounding $47 billion in run-rate revenue. Alongside this capital injection, they released Claude Opus 4.8, signaling that the enterprise AI market has reached unprecedented scale and Anthropic is cementing its dominance in high-reliability, long-duration autonomous workflows.
+Anthropic confidentially submitted a draft S-1 registration statement to the SEC, marking a major regulatory step toward a massive IPO liquidity event for the frontier AI lab. Concurrently, the company revealed internal data showing a 52x speedup in its Mythos Preview model's ability to optimize AI training code, pointing to rapidly compounding, recursive self-improvement.
+
+**[Microsoft]** · Source
+Using #MSBuild to signal an "agent-first" computing pivot, Microsoft unveiled Project Solara alongside seven new MAI foundation models. Led by the custom MAIA 200-optimized MAI-Thinking-1, this comprehensive ecosystem rollout pushes autonomous orchestration deeply into local hardware and Azure enterprise workflows.
 
 **[Google]** · Source
-Google established the foundation for an agentic economy with the Agent Payments Protocol (AP2) and Universal Commerce Protocol (UCP), providing strict, tamper-proof guardrails for autonomous purchasing. This coincided with the production US release of Gemini Spark, a 24/7 persistent agent capable of cross-device background execution, marking a decisive shift toward consumer-scale autonomous systems.
+Google officially moved autonomous agents into production with the US release of Gemini Spark, a 24/7 personal AI that continuously operates across user devices in the background. The company also brought frontier reasoning to edge devices by launching Gemma 4 12B, a novel encoder-free multimodal model under an open Apache 2.0 license.
 
-**[Google DeepMind]** · Source
-DeepMind expanded its SynthID watermarking standard to major competitors, including OpenAI and ElevenLabs, to create an interoperable, industry-wide AI provenance standard. By integrating this cryptographic authentication natively into Chrome, Search, and Pixel cameras, Google is aggressively positioning itself as the foundational layer for verifying synthetic content at scale.
+**[OpenAI]** · Source
+OpenAI expanded its Codex agent to Windows, bridging mobile control with continuous desktop execution to enable away-from-keyboard automated workflows. To further capture enterprise market share, OpenAI also deployed its GPT-5.5 and Codex models into general availability on AWS Bedrock for compliant, large-scale agent operations.
 
-**[OpenAI & Y Combinator]** · Source
-OpenAI is subsidizing the next generation of AI-native applications by granting $2 million in compute tokens to every startup in Y Combinator’s upcoming batches. This unprecedented capital maneuver effectively replaces early-stage human capital with raw compute, illustrating the high-stakes battle among hyperscalers to lock founders into proprietary model ecosystems from day one.
+**[NVIDIA]** · Source
+NVIDIA aggressively expanded its open-weights strategy by launching Cosmos 3, an open omnimodel featuring native vision reasoning and action generation. They also released Nemotron 3 Ultra, a 550-billion-parameter MoE model specifically engineered to lower inference costs for complex, long-running agentic tasks.
 
-**[xAI]** · Source
-xAI launched its grok-build-0.1 model in public beta, aggressively pricing its agentic coding API to undercut established players in the automated software engineering market. Native integration into developer surfaces like Kilocode, OpenRouter, and Cursor positions xAI as a formidable, highly capitalized contender in the AI tooling space.
+**[Y Combinator]** · Source
+Y Combinator announced two portfolio decacorns in a single day, highlighting massive capital consolidation around AI infrastructure. Database provider Supabase secured a $500M Series F fueled by AI tool adoption, while Helion Energy raised a $465M Series G to build a commercial fusion power plant backed by a Microsoft power purchase agreement.
 
 ## Patterns
-A massive push toward hyper-optimized local inference is emerging to offset cloud bottlenecks, evidenced by OpenClaw reducing model startup latency to 5ms and PrismML launching 3GB local diffusion models that run on consumer hardware. Furthermore, the financial layer is rapidly adapting to support non-human actors, with companies like Replit, Visa, and Base developing robust protocols and on-chain infrastructure to allow AI agents to securely hold funds and execute trades without human intervention.
+The B2B and consumer software sectors are aggressively abandoning ad-hoc "copilot" chat tools in favor of continuous, background agentic execution that orchestrates entire workflows autonomously. Furthermore, the open-source AI ecosystem experienced unprecedented maturation with over 25 major multimodal and agentic weight drops in one week, significantly narrowing the technical moat for closed-source incumbents.

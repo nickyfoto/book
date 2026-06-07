@@ -3,36 +3,36 @@ title: Gaming News
 weight: 19
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["video games", "industry news", "game deals", "tv shows", "gaming news", "video game deals", "movies and tv", "pop culture", "tabletop gaming", "esports", "movies", "game reviews", "gaming deals", "playstation", "destiny 2", "hardware", "rpgs", "game announcements", "shooter games", "xbox"]
+tags: ["video games", "industry news", "game deals", "xbox", "playstation", "game preservation", "gaming industry", "hardware deals", "gaming news", "video game deals", "hardware", "industry updates", "game announcements", "gaming deals", "god of war", "free games", "nintendo switch 2", "game reviews", "summer game fest"]
 ---
 
-# Gaming News — Week of 2026-05-22 to 2026-05-29
+# Gaming News — Week of 2026-05-29 to 2026-06-05
 
 ## Story of the Week
-Bungie has shocked the gaming community by officially winding down live-service support for *Destiny 2* this June, effectively bringing a 12-year era to a close as the studio pours all remaining resources into its upcoming extraction shooter, *Marathon*. Reports indicate Bungie even considered a massive "Destiny Infinity" franchise relaunch before pulling the plug due to the high risks following underperforming expansions like *Edge of Fate*. Devastated and disgruntled fans are now organizing mass server-crashing protests on June 9, desperate to prove to Sony that the franchise still has a dedicated player base worth saving.
+Square Enix dropped an absolute bombshell at Summer Game Fest, revealing *Final Fantasy VII Revelation* as the epic conclusion to the remake trilogy launching in Spring 2027. Players can expect a massive open world complete with skydiving from the Highwind, a new FITS outfit-based job system, and fully playable Vincent Valentine and Cid Highwind. This promises to be a monumental RPG finale that seamlessly expands on its predecessors.
 
 ## Top Stories
-**[007 First Light is an Absolute Blockbuster]** · [IGN](#)
-IO Interactive has struck gold with *007 First Light*, which became the studio's fastest-selling game ever by moving an impressive 1.5 million copies in its first 24 hours. The critically acclaimed game trades pure stealth for aggressive brawling, offering a beautifully immersive world that has reviewers calling it the best James Bond game since *GoldenEye*. 
+**[God of War Laufey Shakes Up the Franchise]** · [IGN](#)
+Sony surprised everyone with *God of War Laufey*, a daring spin-off where you play as Kratos' late wife, Faye, battling through the afterlife known as the Everywhen using agile, magic-infused swordplay. While fans initially panicked about Kratos being sidelined, Santa Monica Studio quickly reassured the community that he remains the franchise's figurehead and that *Laufey* is simply an expansion of the universe.
 
-**[The Witcher 3 is Getting a Massive Expansion in 2027]** · [IGN](#)
-Twelve years after its legendary launch, *The Witcher 3: Wild Hunt* is receiving a brand new, major expansion titled *Songs of the Past*. CD Projekt Red confirmed the standalone adventure starring Geralt will serve as an indirect prologue to *The Witcher 4*, ensuring top-tier quality for dedicated fans when it drops in 2027.
+**[007 First Light is a Record-Breaking Success]** · [IGN](#)
+IO Interactive's *007 First Light* has become a massive hit, selling 1.5 million copies in its first 24 hours to become the studio's fastest-selling game ever. The $200 million spy adventure earned a stellar 9/10 from IGN and features a unique bluffing mechanic, but interestingly, future sequels will be published by Amazon Game Studios instead of being self-published.
 
-**[Modern Warfare 4 Ditches Last-Gen Consoles]** · [IGN](#)
-Infinity Ward has officially revealed *Call of Duty: Modern Warfare 4*, which will boldly leave the PS4 and Xbox One behind to allow for smoother movement and fully reactive environments. Launching Day 1 on the Nintendo Switch 2 this October, the game brings back the fan-favorite DMZ mode, introduces offline campaign play, and finally removes weapon bloom.
+**[Control Resonant Pivots to Melee Action This September]** · [IGN](#)
+Remedy's mind-bending sequel, *Control Resonant*, launches on September 24 for a refreshing $59.99, shifting the franchise from a shooter into a frantic, open-ended melee action game starring Dylan Faden. Unfortunately, the release is marred by an anti-consumer exclusivity deal that gives PS5 Digital Deluxe Edition owners a 48-hour early access period while PC and Xbox fans are left entirely in the dark.
 
-**[Valve Hikes Steam Deck OLED Prices]** · [IGN](#)
-In a painful blow to the portable PC gaming market, Valve has drastically increased the price of new Steam Deck OLED models due to rising component costs. The premium 1TB model has jumped a staggering $300, going from $649 up to $949, though budget-conscious gamers can still hunt down refurbished LCD models at their original prices.
+**[Marvel's Wolverine Promises Brutal, Linear Action]** · [IGN](#)
+*Marvel's Wolverine* hits on September 15, 2026, delivering an unapologetically violent, M-rated linear adventure rather than an open-world sandbox. Though fans are understandably disappointed it's skipping a physical Collector's Edition, the game will feature co-op finishers with Jean Grey, an accessibility toggle to turn off the gore, and an uneasy alliance with Sabretooth.
 
-**[Fable Reboot Pushed to 2027 to Dodge GTA 6]** · [IGN](#)
-Microsoft has officially delayed Playground Games' highly anticipated *Fable* reboot to February 2027. Xbox is reportedly making this move to ensure the RPG gets the "dedicated moment it deserves," steering it well clear of the massive shadow *Grand Theft Auto 6* will cast this fall.
+**[Elden Ring Brings the Erdtree to Nintendo Switch 2]** · [IGN](#)
+FromSoftware's dark fantasy masterpiece is officially heading to the Nintendo Switch 2 on August 28, 2026. The new *Tarnished Edition* will bundle the base game, the *Shadow of the Erdtree* expansion, new weapons, and the ability to customize Torrent with armor skins, marking a massive win for the upcoming portable console.
 
 ## Free Games & Deals
-It is a fantastic week to grow your library without breaking the bank, starting with the Epic Games Store giving away the cat-cafe management game *Calico* and the spaceship roguelike *LONESTAR* for free until June 4. Meanwhile, the massive PlayStation Days of Play Sale has slashed prices on 12-month PS Plus subscriptions, knocked the PSVR 2 down by $100, and heavily discounted hit games like *Marvel's Spider-Man 2* ($29.99), *Death Stranding 2* ($39.99), and *Ghost of Yōtei* ($49). If you game on PC, Fanatical is hosting an absurdly cheap Bethesda bundle where you can snag *Fallout 3: Game of the Year* and *Fallout New Vegas Ultimate* combined for just $6.99. Finally, don't miss the free *Resident Evil Requiem* demo, available to download across PC, PS5, Xbox Series X/S, and Switch 2 right now.
+Epic Games Store is coming in hot this week on PC, giving away the fantastic turn-based strategy adventure *Songs of Conquest* and the pirate-themed tactical game *Rogue Waters* entirely for free until June 11, 2026. If you need to pad your backlog further, the $10 IGN Live Humble Bundle is an absolute steal with nine top-tier PC titles like *Control Ultimate Edition* and *Shadow Gambit*, while the June Humble Choice gets you *Octopath Traveler 2* and more for $14.99. Deal hunters should also check out PlayStation's Days of Play sale featuring *Ghost of Yotei* for an all-time low of $49, and hardware hunters can grab a PowerA Advantage Wired Controller for Switch 2 for just $13.49 on Woot. 
 
 ## Also Worth Knowing
-*   Square Enix has completely restarted *Dragon Quest 12* from scratch, renaming it to *Beyond Dreams* and pivoting away from its originally planned darker tone.
-*   Take-Two Interactive is cracking down on *GTA 5* modding, forcing the popular RAGE:MP platform to shut down by August 31 so users migrate to the officially owned FiveM.
-*   Blizzard dropped the first major balance patch in years for *StarCraft 2*, radically altering the early-game meta by reducing starting workers from 12 down to eight.
-*   *Planet Zoo 2* has been officially announced for October 13, finally bringing highly requested flying and aquatic animals to PC and current-gen consoles.
-*   Team Cherry has officially confirmed premium physical editions for *Hollow Knight: Silksong*, arriving on October 16, 2026, for PS5, Xbox, and the Switch 2.
+* Microsoft officially delayed the highly anticipated *Fable* reboot to February 2027 to safely steer clear of the massive launch footprint of *Grand Theft Auto 6* this fall.
+* California passed the Stop Killing Games consumer protection bill (AB-1921), forcing publishers to give a 60-day notice before pulling server-dependent titles offline.
+* PlatinumGames is officially taking over development of the dark, AAA action title *Teenage Mutant Ninja Turtles: The Last Ronin* following the shutdown of the original project at Black Forest Games.
+* In a shocking end to its nine-year live-service run, Bungie confirmed that *Destiny 2* content updates will completely cease on June 9 following the final Monument of Triumph update.
+* The highly anticipated *Avatar: The Last Airbender* AAA RPG from Saber Interactive has been officially cancelled due to the Paramount/Skydance merger.
