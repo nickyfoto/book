@@ -1,6 +1,6 @@
 ---
 title: 2026-06-01
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "mergers and acquisitions", "inflation"]
 ---

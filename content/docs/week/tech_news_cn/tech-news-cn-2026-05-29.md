@@ -1,6 +1,6 @@
 ---
 title: 2026-05-29
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "electric vehicles", "consumer electronics", "e-commerce"]
 ---
