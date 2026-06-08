@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["sony", "playstation", "apple", "iphone", "hardware"]
 ---

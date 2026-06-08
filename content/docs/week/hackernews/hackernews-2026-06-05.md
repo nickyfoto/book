@@ -1,6 +1,6 @@
 ---
 title: 2026-06-05
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "open source", "software engineering", "cybersecurity", "privacy"]
 ---

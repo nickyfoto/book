@@ -1,6 +1,6 @@
 ---
 title: 2026-06-03
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer tech", "enterprise software"]
 ---
