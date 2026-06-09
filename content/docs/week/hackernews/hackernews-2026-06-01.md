@@ -1,6 +1,6 @@
 ---
 title: 2026-06-01
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "systems programming", "cybersecurity", "hardware", "open source"]
 ---

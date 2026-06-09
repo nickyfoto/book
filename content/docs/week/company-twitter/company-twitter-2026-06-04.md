@@ -1,6 +1,6 @@
 ---
 title: 2026-06-04
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "venture capital", "developer tools", "hardware"]
 ---

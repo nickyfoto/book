@@ -1,6 +1,6 @@
 ---
 title: 2026-06-06
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["chinese cuisine", "cooking techniques", "kitchen organization", "food science"]
 ---

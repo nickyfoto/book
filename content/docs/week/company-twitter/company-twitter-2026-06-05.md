@@ -1,6 +1,6 @@
 ---
 title: 2026-06-05
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "open source ai", "venture capital"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-01
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "open source", "venture capital", "hardware"]
 ---

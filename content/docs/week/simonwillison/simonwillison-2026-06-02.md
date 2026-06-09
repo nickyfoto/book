@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "tools", "ai-assisted-programming", "microsoft"]
 ---

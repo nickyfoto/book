@@ -1,6 +1,6 @@
 ---
 title: 2026-06-02
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "foundation models", "local ai", "enterprise software"]
 ---
