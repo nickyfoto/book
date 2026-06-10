@@ -1,6 +1,6 @@
 ---
 title: 2026-06-03
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "shorts", "relaxation", "gaming"]
 ---

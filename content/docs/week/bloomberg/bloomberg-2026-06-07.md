@@ -1,6 +1,6 @@
 ---
 title: 2026-06-07
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "central banks", "aviation", "mergers and acquisitions", "global markets"]
 ---

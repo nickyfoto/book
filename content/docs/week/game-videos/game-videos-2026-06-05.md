@@ -1,6 +1,6 @@
 ---
 title: 2026-06-05
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["summer game fest", "free games", "minecraft", "game trailers"]
 ---
