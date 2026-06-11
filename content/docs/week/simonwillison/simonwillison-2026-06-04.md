@@ -1,6 +1,6 @@
 ---
 title: 2026-06-04
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "google", "ai-ethics", "agentic-engineering"]
 ---

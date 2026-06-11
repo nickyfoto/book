@@ -1,6 +1,6 @@
 ---
 title: 2026-06-04
-weight: 5
+weight: 6
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["steamed egg", "tofu", "soy milk", "fusion cuisine"]
 ---

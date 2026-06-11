@@ -1,0 +1,33 @@
+---
+title: 2026-06-02
+weight: 8
+categories: ["News", "Tech"]
+tags: ["artificial intelligence", "software engineering", "developer tools", "consumer tech", "semiconductors"]
+---
+
+# Chinese Tech Daily — 2026-06-02
+
+## Top Story
+Nvidia's bold declarations at GTC Taipei dominate today's tech landscape, with CEO Jensen Huang announcing that the Vera Rubin architecture has entered full mass production and unveiling the Cosmos 3 physical AI model. This marks a definitive shift from generative text and image models to "Practical AI," where models act as agents interacting directly with the physical world and software tools to generate economic value. The launch of Cosmos 3, alongside the new Vera CPU, signals Nvidia's aggressive evolution from a hardware vendor to a full-stack AI factory infrastructure provider.
+
+## Engineering & Dev
+The shift toward AI agents is transforming developer workflows and infrastructure. InfoQ reports on the meteoric rise of DeepSeek-TUI (now CodeWhale), a terminal AI coding agent built by non-traditional developer Hunter Bown, who leveraged DeepSeek V4's massive context window to create a trending open-source tool **[不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown](https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j)**. Meanwhile, the battle for AI coding dominance intensifies between Claude Code and OpenAI Codex, with developers noting that Claude Code currently consumes nearly 90% of token usage among top power users, though Codex remains highly favored for efficiency, verifiable testing, and strict instruction following **[Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？](https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj)**.
+
+In the infrastructure space, Platform Engineering Lab has expanded its open-source IaC tool `formae` with native Kubernetes and Helm integration, offering a dynamic "system of record" that avoids the drift issues common in state-file-dependent tools **[平台工程实验室通过支持 Kubernetes 和原生 Helm 集成扩展了 formae](https://www.infoq.cn/article/La4b6r66tWxbYLR2VT8s)**. For Java enthusiasts, the TamboUI library has launched to bring modern, Ratatui-inspired Text User Interfaces (TUIs) to the Java ecosystem, aiming to make 2026 "the year of Java in the terminal" **[TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能](https://www.infoq.cn/article/QqE5qG38ewRaaapcJcpW)**. Lastly, a fascinating deep-dive from LinkedIn engineers reveals how they used eBPF off-CPU profiling to catch an elusive kernel lock contention issue triggered by massive Rust `HashMap` memory allocations **[LinkedIn 如何发现导致系统反复死机的内核锁竞争问题](https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK)**.
+
+## Products & Digital
+In productivity, a comprehensive sspai review highlights how Obsidian can be transformed into the ultimate research environment by integrating Claudian, the ultra-cheap and high-context DeepSeek V4 API, and the Obsidian Web-Clipper **[从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)**. Mac power users dealing with background resource hogs might want to check out App Tamer 3.0, a utility that uses macOS QoS mechanisms and POSIX signals (SIGSTOP/SIGCONT) to strictly throttle or freeze background applications, which is especially useful for reigning in resource-heavy Electron apps **[得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)**. 
+
+On the hardware front, CANDYSIGN released the AI Mirror, a highly modular desktop charger featuring a retro-style OLED "amber screen" to display power metrics while doubling as a compact travel adapter **[制糖工厂发布 AI 小电拼 Mirror：琥珀屏、双支架与可拼拆设计，重构桌面能源设备](https://www.ifanr.com/1667822)**. Finally, mobile photography enthusiasts are praising the OPPO Find X9 Ultra for its Hasselblad-inspired HNCS HDR implementation, which preserves natural shadow depth and authentic lighting contrast rather than relying on aggressive computational flattening **[在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)**.
+
+## News & Commentary
+The enterprise AI narrative is shifting heavily from model capabilities to data infrastructure, a sentiment echoed loudly at the Snowflake Summit 2026 where industry leaders declared that 85% of enterprise AI roadblocks are due to fragmented data rather than technical AI limits **[85%的企业 AI 落地卡在数据上，为什么你还在选模型？](https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9)**. Meanwhile, Anthropic has confidentially filed for an IPO, pushing its valuation to an estimated $965 billion and kicking off a massive capital race against OpenAI as both giants battle over the lucrative enterprise service market **[Anthropic 抢跑 IPO，AI 巨头接连秘密上市，背后是怎样的攻防战](https://www.ifanr.com/1667829)**. 
+
+In cybersecurity and geopolitics, the New York Times reports that a Chinese firm, Jizhi, is developing predictive AI tools designed to profile citizens and preemptively identify political dissent using telecommunications and behavioral data **[中国尝试利用人工智能预测异见倾向](https://cn.nytimes.com/china/20260602/china-ai-predicting-dissent/)**. Furthermore, public procurement records reveal that the Chinese military continues to actively acquire advanced Nvidia AI chips despite US export controls, utilizing sophisticated workarounds and cloud leasing to bypass restrictions **[报告称中国军方多年来一直寻求获得英伟达芯片](https://cn.nytimes.com/business/20260602/china-military-nvidia-chips/)**.
+
+## Also Noted
+* **[准确率突破 96.33%！百度文心发布PaddleOCR-VL-1.6，刷新文档解析 SOTA](https://www.infoq.cn/article/CRcTLqE135yNxrlZsN8R)**: Baidu released PaddleOCR-VL-1.6, claiming new state-of-the-art accuracy in complex document parsing and layout detection.
+* **[谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览](https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor)**: Google is expanding its SynthID AI watermarking technology and offering a content detection API preview to enterprise partners.
+* **[派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品](https://sspai.com/post/110592)**: AMD unveiled new 3D V-Cache desktop processors, including the AM5 Ryzen 7 7700X3D and a 10th-anniversary AM4 Ryzen 7 5800X3D at Computex 2026.
+* **[上海人工智能实验室青年科学家何聪辉确认出席AICon上海站，分享面向 Agent 时代的文档解析基础设施演进与实践](https://www.infoq.cn/article/6X2S5ssDaDh0REOsfGtg)**: Shanghai AI Lab will showcase its open-source document parsing infrastructure, MinerU, focusing on its transition to an AI agent-driven OCR pipeline.
+* **[孚盟云CRM Price_detail.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-Price_detail-sqli.html)**: A critical SQL injection vulnerability was disclosed in FumaCRM's cloud service, allowing unauthorized database access and potential server takeover.

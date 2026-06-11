@@ -1,6 +1,6 @@
 ---
 title: 2026-06-06
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "easter eggs", "sound design", "james bond"]
 ---

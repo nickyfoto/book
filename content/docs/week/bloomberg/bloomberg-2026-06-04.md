@@ -1,6 +1,6 @@
 ---
 title: 2026-06-04
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["artificial intelligence", "initial public offerings", "geopolitics", "monetary policy"]
 ---

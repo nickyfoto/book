@@ -1,6 +1,6 @@
 ---
 title: 2026-06-03
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["artificial intelligence", "us-iran conflict", "spacex", "tariffs", "private credit"]
 ---
