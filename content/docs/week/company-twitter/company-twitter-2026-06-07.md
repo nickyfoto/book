@@ -1,6 +1,6 @@
 ---
 title: 2026-06-07
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["open source ai", "local ai", "robotics", "autonomous driving"]
 ---

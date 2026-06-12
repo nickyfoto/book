@@ -1,6 +1,6 @@
 ---
 title: 2026-06-07
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software architecture", "cloud infrastructure", "venture capital"]
 ---

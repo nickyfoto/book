@@ -1,6 +1,6 @@
 ---
 title: 2026-06-04
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["go", "ipv6", "s3", "object storage"]
 ---

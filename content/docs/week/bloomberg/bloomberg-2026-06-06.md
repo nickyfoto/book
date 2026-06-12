@@ -1,6 +1,6 @@
 ---
 title: 2026-06-06
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["federal reserve", "geopolitics", "mergers and acquisitions", "aviation", "cryptocurrency"]
 ---
