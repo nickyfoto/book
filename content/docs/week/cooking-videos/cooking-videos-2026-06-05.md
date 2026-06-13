@@ -1,6 +1,6 @@
 ---
 title: 2026-06-05
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["recipe", "cooking technique", "chinese cuisine", "food travel"]
 ---

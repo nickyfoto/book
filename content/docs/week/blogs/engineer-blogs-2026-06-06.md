@@ -1,6 +1,6 @@
 ---
 title: 2026-06-06
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["mental health", "systems engineering", "self-hosting", "algorithms"]
 ---

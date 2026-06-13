@@ -1,6 +1,6 @@
 ---
 title: 2026-06-06
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "multi-agent systems", "developer tools", "hardware"]
 ---

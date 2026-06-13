@@ -1,6 +1,6 @@
 ---
 title: 2026-06-08
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "software engineering", "consumer tech", "apple"]
 ---

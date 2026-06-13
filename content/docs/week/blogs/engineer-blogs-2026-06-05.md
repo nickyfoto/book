@@ -1,6 +1,6 @@
 ---
 title: 2026-06-05
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["open source", "mental health", "self-hosting", "infrastructure"]
 ---
