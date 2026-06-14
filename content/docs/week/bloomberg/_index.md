@@ -3,31 +3,32 @@ title: Bloomberg
 weight: 11
 bookCollapseSection: true
 categories: ["News"]
-tags: ["us-iran relations", "monetary policy", "space industry", "artificial intelligence", "global markets", "geopolitics", "defense", "mergers and acquisitions", "inflation", "ipos", "us politics", "us-iran conflict", "spacex", "tariffs", "private credit", "initial public offerings", "us economy"]
+tags: ["federal reserve", "geopolitics", "mergers and acquisitions", "aviation", "cryptocurrency", "central banks", "global markets", "artificial intelligence", "middle east conflict", "initial public offerings", "interest rates", "inflation", "oil prices", "spacex", "iran conflict", "us-iran relations", "monetary policy"]
 ---
 
-# Bloomberg — Week of 2026-05-29 to 2026-06-05
+# Bloomberg — Week of 2026-06-06 to 2026-06-12
 
 ## Story of the Week
-A blowout US May jobs report fundamentally rewrote the macroeconomic narrative, demolishing hopes for imminent rate cuts and driving traders to fully price in a Federal Reserve rate hike by year-end. The sudden hawkish repricing sent tech stocks and Treasuries reeling, disrupting a massive, AI-fueled liquidity frenzy that had been defined by Alphabet’s historic $84.75 billion equity raise and SpaceX's unprecedented $75 billion initial public offering.
+Global markets were whipsawed by the escalating military conflict between the US, Israel, and Iran, which drove US inflation to a three-year high of 4.2% and caused massive volatility in crude oil prices. However, President Donald Trump abruptly canceled further military strikes late in the week, signaling an imminent agreement to reopen the Strait of Hormuz ahead of the G7 summit and sparking major relief rallies across global equities.
 
 ## Markets & Economics
-*   **Hawkish Repricing After Blowout Jobs Data** · [Bloomberg](https://www.bloomberg.com): The US economy added a staggering 172,000 jobs in May, crushing forecasts and prompting traders to price in a Fed rate hike this year as both tech and Treasury markets sold off.
-*   **Global Central Banks Ready Moves** · [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-29/japan-used-record-73-6-billion-to-support-yen-in-past-month): Eurozone inflation breached 3%, cementing expectations for an ECB rate hike, while the Bank of Japan mulls a June increase after deploying a record $73.6 billion to defend the yen.
-*   **Private Credit Gates Snap Shut** · [Bloomberg](https://www.bloomberg.com): Mounting investor redemptions forced alternative asset giants like Blackstone and Cliffwater to cap withdrawals from their flagship private credit vehicles, signaling deepening structural stress in the sector.
-*   **Crypto Narrative Crumbles** · [Bloomberg](https://www.bloomberg.com): Bitcoin plunged beneath the $60,000 threshold in a brutal 36% rout, shedding its safe-haven appeal amid Middle East escalations and a broader market rotation out of speculative assets.
+*   **ECB Delivers First Rate Hike Since 2023** · [Bloomberg](https://www.bloomberg.com): The European Central Bank raised its deposit rate to 2.25% to combat broadening inflationary pressures fueled by the Middle East conflict. Policymakers kept the door open for a consecutive increase in July if war-driven inflation persists.
+*   **US Inflation Resurgence Kills Fed Cut Hopes** · [Bloomberg](https://www.bloomberg.com): A blowout US jobs report and a jump in headline CPI to 4.2%—the highest since early 2023—prompted Wall Street to scrap predictions for a Federal Reserve rate cut this year. Bond markets are now pricing in a "higher for longer" monetary environment as they digest the robust economic data.
+*   **Vanguard Dethrones BlackRock in US ETF Market** · [Bloomberg](https://www.bloomberg.com): Ending a two-decade reign, Vanguard Group overtook BlackRock Inc. to become the single largest issuer in the $15.2 trillion American ETF industry. 
+*   **Bank Indonesia Executes Emergency Rate Hike** · [Bloomberg](https://www.bloomberg.com): Facing severe capital outflows and a plunging currency, Bank Indonesia delivered an off-cycle interest-rate hike. Prior to the emergency action, the central bank utilized a record $110 billion from a key foreign-exchange tool to defend the battered rupiah.
 
 ## Business & Industries
-*   **SpaceX’s Unprecedented $75 Billion IPO**: Elon Musk’s space venture drew overwhelming demand for its megadeal targeting a $1.8 trillion valuation, even as underwriters were ordered to block Chinese investors and index gatekeepers refused fast-tracked inclusion into major benchmarks.
-*   **Alphabet's Historic Equity Raise**: Google's parent company upsized its equity offering to an immense $84.75 billion—poised to be the largest in history—to finance the staggering infrastructure demands of the artificial intelligence arms race.
-*   **Anthropic Beats OpenAI to the Punch**: AI developer Anthropic confidentially filed for a blockbuster IPO led by Morgan Stanley and Goldman Sachs, securing a crucial first-mover advantage over rival OpenAI in the battle for public market capital.
-*   **Lululemon's Downward Spiral**: The premium activewear brand's shares plummeted and analysts effectively abandoned the stock after it slashed its annual forecast due to slumping North American sales, mounting immense pressure on its incoming CEO.
+*   **SpaceX IPO Mints World’s First Trillionaire**: Elon Musk's SpaceX executed the largest initial public offering in history, raising $75 billion after immense institutional and retail demand. Shares surged 19% on their first day of trading to achieve a $2.2 trillion market capitalization, elevating Musk to the status of the world's first trillionaire.
+*   **Paramount’s $110 Billion Warner Deal Clears US DOJ**: The US Justice Department officially closed its antitrust investigation into Paramount Skydance’s blockbuster $110 billion acquisition of Warner Bros. Discovery. However, the massive media consolidation still faces a formal probe by the UK’s merger watchdog.
+*   **Bidding War Ignites Over Italy’s Monte Paschi**: European bank consolidation is accelerating as Intesa Sanpaolo pitched a €30.6 billion cash-and-stock buyout for Banca Monte dei Paschi di Siena. The aggressive move aims to outmaneuver a rival €50 billion tie-up proposal from Banco BPM to create a new Italian financial heavyweight.
+*   **OpenAI Files Confidentially for IPO**: The ChatGPT creator initiated preparations for an initial public offering to fund massive computing costs and outmaneuver tech rivals. The filing coincides with a major platform overhaul to reposition the AI firm as a consumer "superapp".
 
 ## Policy & World
-*   **US-Iran Ceasefire Collapses**: A preliminary 60-day truce dissolved into military clashes after Hezbollah rejected a US-brokered deal, choking commercial traffic through the Strait of Hormuz to a standstill and driving forecasts that oil could remain near $100 a barrel until 2028.
-*   **Trump Floats 10% Tariffs, Drops Compensation Fund**: The Trump administration proposed sweeping 10% levies on 60 major trading partners citing forced labor, while simultaneously abandoning a controversial $1.8 billion "anti-weaponization" payout fund amid fierce bipartisan backlash and lawsuits.
-*   **Russian Officials Warn Putin on War Costs**: In a rare showing of internal division, senior Russian finance officials warned President Vladimir Putin that the economic burden of the prolonged war in Ukraine is unaffordable and risks triggering a severe budget crisis.
+*   **Trump Refuses to Renew USMCA Framework**: President Trump announced the US will not reauthorize the USMCA trade agreement, demanding better terms from Canada and Mexico. The decision dismantles the existing framework and sets up months of fraught negotiations for North American automotive and supply chains.
+*   **UK Defense Chief Resigns Over Budget Dispute**: Prime Minister Keir Starmer's government faces a leadership crisis following the resignation of Defense Secretary John Healey. Healey's exit was triggered by a fierce dispute with the Treasury over the government's failure to follow through on sweeping defense spending commitments.
+*   **Judge Strikes Down $100,000 H-1B Visa Fee**: A federal judge rejected an exorbitant visa application fee mandated by the Trump administration. The ruling offers an immediate and crucial reprieve for US technology firms reliant on hiring skilled foreign talent.
+*   **China Arrests American on Spying Charges**: Beijing formally confirmed the detention of a US citizen over espionage allegations. The high-profile arrest threatens to destabilize the fragile trade truce recently upheld between the United States and China.
 
 ## Opinion & Analysis
-*   **Dalio Sounds the Alarm on AI Bubble and US Debt**: Bridgewater founder Ray Dalio warned that the relentless AI boom exhibits classic bubble dynamics, while cautioning that America's debt burden has crossed a dangerous "point of no return" for global bond markets.
-*   **SCOTUS Abdicates Voting Rights Guardrails**: Bloomberg Opinion argues that the Supreme Court’s decision to allow Alabama's racially discriminatory congressional map sends a grim message that American voters are now entirely on their own in the battle for fair elections.
+*   **Echoes of 1929 in Modern Markets**: With a staggering AI boom, massive mega-IPOs like SpaceX, crypto speculation, and aggressive regulatory rollbacks converging, financial columnists warn that the current market euphoria eerily mirrors the Roaring Twenties.
+*   **The $48 Billion ETF Tax Loophole**: Bloomberg analysis reveals that the ETF industry is exploiting a "heartbeat" tax break at an unprecedented scale, effectively shielding massive capital gains for the wealthiest 1% of investors.

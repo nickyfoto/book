@@ -3,30 +3,30 @@ title: Engineer Reads
 weight: 1
 bookCollapseSection: true
 categories: ["Blogs"]
-tags: ["machine learning", "large language models", "webassembly", "mathematics", "systems engineering", "technical interviews", "hiring", "talent assessment", "engineering management", "attention mechanisms", "transformers", "javascript", "npm", "supply chain attacks", "cybersecurity", "artificial intelligence", "software engineering", "technical debt", "information retrieval", "go", "ipv6", "s3", "object storage", "open source", "mental health", "self-hosting", "infrastructure"]
+tags: ["go", "ipv6", "s3", "object storage", "open source", "mental health", "self-hosting", "infrastructure", "systems engineering", "algorithms", "llm agents", "software engineering", "software testing", "golang", "c", "memory safety", "openssl", "cybersecurity", "markdown", "marked 3", "tools", "giveaway", "artificial intelligence", "personal knowledge management"]
 ---
 
-# Engineering Reads — Week of 2026-05-28 to 2026-06-05
+# Engineering Reads — Week of 2026-06-04 to 2026-06-11
 
 ## Week in Review
-This week's reading reflects an industry furiously negotiating the boundaries of abstraction, complexity, and human attention. As the cost of generating software artifacts drops to near zero via AI, engineers are confronting the reality that our bottlenecks have shifted entirely away from writing code and squarely onto system verification, security boundaries, and organizational discipline. 
+This week's reading is dominated by the tension between rigid technical standards, the rapid integration of human-in-the-loop AI workflows, and the application of systems-engineering mental models to the human mind. Across both software architecture and personal infrastructure, there is a strong undercurrent of reclaiming autonomy—whether that means migrating away from managed cloud platforms to self-hosted bare metal, or reframing generative AI from a code-spewing novelty into a critical accessibility tool.
 
 ## Must-Read Posts
 
-**The Last Technical Interview** · Steve Yegge
-Yegge argues that standard tech interview loops are statistically bankrupt pseudosciences that function primarily as unconscious bias filters rather than predictors of job performance. To fix this, he proposes a "campfire" model of paid, provisional work where candidates tackle real tickets alongside the team, walking away with a portable, verified reputation stamp regardless of the final hiring outcome. 
+**[A new era for software testing]** · antirez · [antirez.com](https://antirez.com)
+antirez flips the AI script: rather than trading structural quality for speed by having LLMs write code, we should use them as automated QA engineers to run open-ended, exploratory tests. By prompting agents to evaluate new commits for subjective UX flaws and complex distributed state issues, teams can actually catch the nuanced regressions that high-speed, agent-generated code tends to create.
 
-**"No way to prevent this" say users of only package manager where this regularly happens** · xeiaso.net
-This report dissects a massive NPM supply-chain attack that establishes deep system persistence via VS Code and AI agent hooks, exposing the JavaScript ecosystem's vulnerability to compromised maintainer credentials. The author sharply critiques the community's cultural learned helplessness, forcing practitioners to confront the tradeoff between frictionless dependency velocity and catastrophic security breaches.
+**[Thoughts on starting new projects with LLM agents]** · Eli Bendersky · [eli.thegreenplace.net](https://eli.thegreenplace.net)
+Bendersky argues that building maintainable software with agents requires optimizing the workflow for *reading* rather than writing. Rejecting the "vibe-coding" trend, he advocates for enforcing small, reviewable changelists and notes that Go is the ideal language for agentic development because its strict formatting and high readability minimize the human cognitive load required during review.
 
-**AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)** · Charity Majors
-Majors addresses the cultural war between developers shipping unreviewed AI-generated "vibe code" and skeptics defending system integrity against untraceable technical debt. She argues that AI integration does not replace engineering discipline; instead, it strictly requires robust telemetry, fast feedback loops, and rigorous CI/CD to safely auto-accept diffs and prevent codebases from decaying into slop.
+**[The circus freaks of open source]** · Drew DeVault 
+A scathing critique of the tech community's toxic habit of voyeuristically consuming the mental health crises of eccentric, neurodivergent maintainers like Terry A. Davis and Kent Overstreet. DeVault holds a nuanced line: while projects must protect their communities from abrasive contributors, the broader public owes struggling engineers compassionate privacy rather than "gleeful humiliation rituals" on a public stage.
 
-**Dancing mad with sandboxing** · Xe Iaso
-This article explores how to safely execute arbitrary code generated by AI agents without exposing the host operating system. By leveraging WebAssembly (wazero) and virtual filesystems, engineers can construct a strict, copy-on-write execution jail that trades network socket flexibility for rock-solid process isolation.
+**["No way to prevent this" say users of only language where this regularly happens]** · xeiaso.net 
+Triggered by an OpenSSL CVE, this sharp satire compares C developers' acceptance of use-after-free bugs to helpless victims accepting a natural disaster. It bluntly highlights that C is practically the only environment where 90% of memory safety vulnerabilities continue to occur, suggesting that refusing modern, structural memory guarantees is increasingly rooted in cultural inertia rather than strict technical necessity.
 
-**A Server Called Mercury** · Kenneth Reitz
-Reitz argues that the era of benevolent, free-tier managed cloud platforms is dead, driving developers to reconstruct Heroku-like deployment ergonomics on bare metal. By deploying Dokploy on Hetzner servers and utilizing AI agents to handle the tedious mechanics of DNS and database wiring, engineers can marry the total control of self-hosting with the velocity of a modern PaaS.
+**[Breaking Changes]** · Kenneth Reitz 
+Reitz brillianty maps software platform economics onto clinical psychiatry, arguing that updates to the DSM act like breaking API changes for patients who have built load-bearing identities on top of volatile diagnostic endpoints. The core takeaway is to treat diagnostic labels as pinned software dependencies rather than objective truths, providing a migration path when clinical terminology deprecates.
 
 ## Connecting Threads
-Across the stack, there is a palpable anxiety regarding the structural dependencies we rely on, whether that means the vulnerable NPM supply chain, the memory bottlenecks of LLM attention mechanisms, or the rent-seeking lifecycle of corporate cloud providers. Engineers are realizing that high-level abstractions inevitably leak, leaving teams stranded with "generative debt" if they do not deeply understand the underlying primitives. Consequently, we are seeing a defensive retreat toward rigorous systems boundaries: jailing untrusted code in WebAssembly, rewriting raw tensor operations from scratch, and leveraging AI not to bypass discipline, but to automate the drudgery of bare-metal server deployments.
+A recurring theme this week is abstraction fatigue and the structural failure of highly optimized systems to serve their human end-users. We see this in URL parsers breaking over IPv6 edge cases, algorithmic feeds that optimize for "waste" metrics like engagement time, and institutional frameworks that evaluate the legible presentation of wellness rather than actual recovery. Across the board, engineers are responding by rejecting opaque, generalized platforms in favor of bespoke, highly personalized infrastructure—whether by moving to bare-metal servers, writing custom SDK wrappers to bypass commoditized APIs, or using AI to sustainably maintain a web framework for a userbase of exactly one.

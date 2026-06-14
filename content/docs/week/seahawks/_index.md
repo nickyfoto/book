@@ -3,30 +3,26 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["jadarian price", "otas", "mike macdonald", "super bowl", "nolan teasley", "nfl draft", "leonard williams", "zach charbonnet", "myles garrett trade", "russell wilson", "byron murphy ii", "pride month", "derick hall", "los angeles rams", "tickets", "st. jude", "myles garrett", "sam darnold", "michael dansby"]
+tags: ["rashid shaheed", "russell wilson", "los angeles rams", "lumen field", "minicamp", "charles cross", "super bowl rings", "fan culture", "bobby hart", "super bowl lx", "joey bosa", "jaxon smith-njigba", "todd boehly", "roster moves", "aaron donald", "training camp", "community service", "ownership", "roster updates", "contracts", "community", "super bowl", "uniforms", "kenneth walker iii", "trent kirchner", "schedule wallpapers"]
 ---
 
-# Seahawks — Week of 2026-05-29 to 2026-06-05
+# Seahawks — Week of 2026-06-06 to 2026-06-12
 
 ## Top Story
-Following a historic Super Bowl championship season, the Seahawks secured a massive piece of their defensive future by signing edge rusher Derick Hall to a three-year, $42 million extension. Taking a hometown discount to bypass the open market, Hall emphasized his desire to win more rings and stay in Seattle's phenomenal championship culture. The massive $21 million guaranteed deal wrapped up just as the team concluded their final OTA sessions, with all eyes now shifting to their Super Bowl LX banner-raising home opener against a league that is desperately trying to catch up.
+The biggest development for the 12s this week was the highly anticipated Super Bowl LX championship ring ceremony, which finally took place following days of intense speculation and social media teasing. Crafted by Jason of Beverly Hills and touted as the largest and most technologically advanced ring ever made, the iced-out celebration featured DJ Metro Boomin and brought the championship squad together one last time. Seeing our defensive stars flaunting their well-earned jewelry provided a phenomenal capstone to the offseason as we prepare for the 2026 title defense.
 
 ## News & Buzz
+**Ownership Rumors Heating Up** · [Reddit](https://reddit.com/r/seahawks)
+Reports suggest billionaire Todd Boehly is weighing a massive bid for the Seahawks, which could drastically alter the franchise's spending power. However, rumors of a local "whale" preparing a bid also emerged, with fans actively hoping a local ownership group steps up to keep the current winning culture and football operations intact.
 
-**Russell Wilson Officially Retires** · [Twitter/Reddit](https://reddit.com/r/seahawks)
-Former franchise cornerstone Russell Wilson has officially hung up his cleats, announcing his retirement in an emotional video titled "Thank You, Football. Love, #3". The 12s flooded the timeline with nostalgic tributes, fiercely defending his Hall of Fame-worthy legacy, sharing clips of his iconic "moon balls," and reliving legendary moments like the NFC Championship game-winner to Jermaine Kearse. Wilson is slated to join CBS Sports as an analyst next, while fans are already debating his rapid induction into the Seahawks Ring of Honor.
+**Minicamp Opens with a Community Focus** · [Twitter/Facebook](https://twitter.com)
+Mandatory minicamp kicked off with coaches installing a secretive "'kinda' new offense" while giving blunt injury updates on player availability. Head coach Mike Macdonald quickly flipped the script on Day 2, transforming practice into a massive day of community service across the city, including meaningful stops at Seattle Children's Hospital and the VA.
 
-**Rams Go All-In for Myles Garrett** · [Reddit](https://reddit.com/r/seahawks)
-The NFL landscape shook when the division-rival Los Angeles Rams traded defensive rookie of the year Jared Verse and a first-round pick to land superstar edge rusher Myles Garrett. While reports indicated Seattle's front office also pushed hard for Garrett, the 12s remain entirely unfazed, trusting GM John Schneider's "Process over Flash" approach. Head coach Mike Macdonald addressed the blockbuster trade this week, but fans are busy predicting a hard regression for the aging LA roster and fantasizing about derailing their offseason hype train at SoFi Stadium.
+**Securing the Trenches and Secondary** · [Reddit](https://reddit.com/r/seahawks)
+The front office officially extended Super Bowl standout Derick Hall, rewarding him after a phenomenal championship season. Meanwhile, the team is actively negotiating to lock down star cornerback Devon Witherspoon long-term before training camp begins, while also bolstering offensive line depth by signing veteran OT Bobby Hart.
 
-**Teasley Departure Nets Massive Draft Capital** · [Twitter/X](https://twitter.com/seahawks)
-Assistant GM Nolan Teasley is officially leaving the Pacific Northwest after agreeing to terms to become the general manager for the Minnesota Vikings. This front-office departure directly benefits Seattle with compensatory picks, swelling the Seahawks' 2027 draft chest to a staggering 12 total selections, including two third-rounders and four fifth-rounders. This enormous surplus of mid-round capital gives John Schneider and the front office immense future flexibility to sustain our championship window.
-
-**OTAs Wrap Up With High Praise** · [Reddit](https://reddit.com/r/seahawks)
-The Seahawks concluded their OTA practices at the VMAC with incredibly high energy, capped off by a spectacular "Willie Mays-style" basket interception from seventh-round rookie DB Michael Dansby. Newly turned 29-year-old Super Bowl champion QB Sam Darnold showed growing chemistry with weapons like Jaxon Smith-Njigba and Shaheed, while D-lineman Rylie Mills confirmed he is "fully back" from his ACL tear. Meanwhile, defensive anchors like Byron Murphy II and Jarran Reed made it crystal clear they are locked in and ready to "Run It Forward" for a 2026 repeat.
-
-**Jadarian Price Inks Rookie Deal** · [Twitter/X](https://twitter.com/seahawks)
-The Seahawks officially locked down their No. 32 overall selection, agreeing to terms with first-round running back Jadarian Price. The front office had the paperwork completely ready to go, squashing any minor fan anxiety and wrapping up the rookie's contract seamlessly as the team heads into summer preparation.
+**Bittersweet Departures & Absences** · [Reddit](https://reddit.com/r/seahawks)
+While former Hawks like Tariq Woolen and Boye Mafe returned to Seattle for their rings, Super Bowl MVP Kenneth Walker III unfortunately missed the celebration due to minicamp obligations with his new team, the Chiefs. In front-office news, VP of player personnel Trent Kirchner is officially departing to become the assistant GM for the Minnesota Vikings.
 
 ## 12s Pulse
-The 12s are currently riding an incredibly emotional wave, perfectly blending euphoric Super Bowl championship highs with profound nostalgia. Russell Wilson's retirement has completely dominated community timelines, with fans warmly reminiscing about his legendary golden era and overwhelmingly agreeing to welcome him back with open arms for his Ring of Honor day. Concurrently, there is fierce, protective divisional pride pulsating through the fanbase; 12s are laughing off the Rams' aggressive offseason additions and are supremely confident in Coach Mike Macdonald's campaign to effortlessly secure a repeat title.
+The 12s are absolutely floating on air right now, basking in the championship afterglow while hyping up a blissfully drama-free roster. Despite a bittersweet undercurrent of watching some of our beloved Super Bowl heroes scatter to other teams across the league, the fanbase is universally triumphant and brimming with confidence. We are relishing every moment of offseason schadenfreude at the expense of our NFC West rivals and are fiercely ready to prove everyone wrong again this fall.

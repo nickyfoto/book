@@ -3,27 +3,27 @@ title: YouTube
 weight: 7
 bookCollapseSection: true
 categories: ["Youtube"]
-tags: ["artificial intelligence", "geopolitics", "history", "culture", "finance", "computer science", "economics", "personal finance", "mental health", "marine biology", "global news", "stock market", "semiconductors", "peacebuilding", "technology", "business", "science"]
+tags: ["finance", "artificial intelligence", "geopolitics", "business", "politics", "culture", "consumer electronics", "brain-computer interfaces", "history", "sports", "technology", "pop culture", "space", "space exploration", "hong kong cinema", "wildlife"]
 ---
 
-# YouTube — Week of 2026-05-29 to 2026-06-05
+# YouTube — Week of 2026-06-06 to 2026-06-12
 
 ## Watch First
-Chai Jing's harrowing documentary, **1976被处决的工人史云峰：我是公民，绝不是敌人！**, is an absolute must-watch that meticulously pieces together the execution of a young worker during the Cultural Revolution, offering a heartbreaking look at the fragility of civil rights. It's a masterful, sobering piece of historical journalism that demands your full attention.
+If you have time for one deep dive this week, make it Zhang Xiaojun's fascinating four-hour interview with Anker CEO Steven Yang in **144. 对阳萌的4小时访谈**. It is an absolute masterclass on surviving the brutal "consumer electronics death cycle" and what it actually takes to build a sustainable tech platform rather than just chasing industry hype.
 
 ## Week in Review
-This week's content was heavily anchored by the sober realities of the AI boom, marking a critical shift in focus from software hype to the staggering physical infrastructure costs, power demands, and supply chain vulnerabilities underlying the technology. Geopolitical friction also dominated the global news cycle, with recurring, deeply reported threads on Iran's illicit oil networks and its strategic calculus in regional conflicts.
+The dominant themes this week revolved around the sobering realities of massive, unprecedented scale. AI discussions shifted abruptly from chatbot hype to the physical constraints of data centers, water usage, and hardware limits, while the broader financial world was completely consumed by SpaceX's dizzying tech-monopoly IPO. Meanwhile, across both English and Chinese channels, there was a refreshing wave of grounded historical and geopolitical retrospectives attempting to contextualize these modern anxieties.
 
 ## Highlights by Theme
 
 ### News & Business
-Corporate AI spending and its increasingly questionable ROI took center stage in financial commentary, sharply analyzed by Chinese channel 美投侃新闻 and CNBC. On the geopolitical front, the WSJ provided excellent tracking of Iran's "ghost fleet" smuggling sanctioned oil, while the NYT conducted a chilling visual investigation into civilian casualties resulting from a new US precision missile. Meanwhile, Chinese-language channels offered superb historical context on modern issues, notably LIFEANO CLUB’s dive into labor rights through historical mining disasters and BBC News 中文's sobering dispatches on the 37th anniversary of the Tiananmen Square protests.
+The global financial world is currently obsessed with SpaceX's massive IPO, which just vaulted Elon Musk to trillionaire status; Chinese finance channel Xiao Lin Shuo offers an excellent breakdown of the extreme voting rights and capital mechanics behind the valuation in **SpaceX上市，背后在玩什么资本游戏?**. Domestically, CNBC covered the new Silicon Valley "AI Rollup" playbook of buying up boring service businesses to strip out labor costs, while the *Wall Street Journal* followed the surprisingly sticky support for Graham Platner, an embattled oyster-farming populist running for Senate in Maine. For market watchers, *Meitou* (美投侃新闻) provided sharp, opinionated critiques on how tech sectors are getting hammered as massive cloud infrastructure costs outpace near-term revenue expectations.
 
 ### Learning & Ideas
-Historian Stephen Kotkin delivered unvarnished, masterclass-level analyses on America's enduring geopolitical strengths and the Pakistani origins of Iran's nuclear program. For science and nature enthusiasts, Veritasium offered phenomenal explorations into the algorithms powering modern GPS and the mysteries of European signal jamming, while BBC Earth captured unprecedented, textbook-altering footage of a tigress babysitting another female's cubs. On the cultural side, Jonathan Haidt’s TED Talk made an urgent, persuasive case for techno-skepticism to protect adolescent brains from screens, complementing Gao Xiaosong's rich historical dive into the legendary Ming Dynasty voyages of Zheng He.
+The *Financial Times* offered a brilliant and convincing argument linking the synchronized global population collapse directly to the rise of smartphones and the fracturing of face-to-face socializing. For a dose of intellectual inspiration, TED featured novelist Ann Patchett’s urgent defense of maintaining a "long format brain" through reading, while the Hoover Institution explored the fascinating economic theory that misallocated resources—not just a lack of capital—are what truly keep developing nations poor. On the Chinese history front, Yuan Sir (袁Sir) delivered hilarious context on ancient bureaucracy, revealing that emperors had to threaten Ming Dynasty officials with hard labor just to get them to wake up for 3 a.m. morning court.
 
 ### Tech & AI
-Artificial intelligence's physical bottlenecks were the undeniable focus, highlighted best by CNBC's excellent investigation into the severe national security risks of relying on Chinese-manufactured circuit boards for modern AI chips. Additionally, GQ Taiwan provided highly accessible, top-tier primers on semiconductor physics and GPU microarchitecture, while the WSJ revealed the existence of Anthropic’s tightly guarded "superhacker" AI model.
+The AI industry is facing a severe reality check as businesses transition from unchecked experimentation to demanding actual ROI, actively scrutinizing budgets and capping employee API usage. Concurrently, Anthropic executives launched a massive PR defense tour, pushing back against accusations of "doom marketing", warning of potential public bans if the industry missteps, and vigorously downplaying their AI's direct role in US military strikes.
 
 ### Everything Else
-In cross-cultural commentary, Chinese-language creators provided highly relatable insights into British versus Asian workplace dynamics, perfectly capped off by Susie Woo’s lighthearted vlog envying the Asian corporate afternoon nap. We also got a refreshing dose of career escapism from CNBC Make It, profiling a burnt-out software engineer who happily traded her $250K salary to run a neighborhood matcha shop.
+Director Wong Jing gave a delightfully unfiltered interview to Luo Yonghao, frankly admitting his purely profit-driven approach to the chaotic, mob-infested golden era of Hong Kong cinema. Finally, for wearable tech users, the *WSJ. Style* channel got a blunt explanation from Oura's CEO on why their smart ring doesn't explicitly track sex, noting that resourceful users have simply found a workaround by tagging the exertion as "wrestling".

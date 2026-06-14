@@ -3,29 +3,29 @@ title: Apple News
 weight: 5
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["iphone 18 pro", "artificial intelligence", "macbook neo", "ios 27", "wwdc 2026", "rumors", "hardware", "apple music", "apps", "wwdc26", "iphone ultra", "software updates", "foldable iphone", "apple vision", "app store", "iphone 18", "macbook ultra", "macos 27", "hardware rumors"]
+tags: ["wwdc 2026", "ios 27", "apple intelligence", "macbook neo", "foldable iphone", "apple", "artificial intelligence", "siri", "macos 27", "siri ai", "macos golden gate", "apple hardware", "wwdc26", "macbook"]
 ---
 
-# Apple — Week of 2026-05-29 to 2026-06-05
+# Apple — Week of 2026-06-06 to 2026-06-12
 
 ## Week in Review
-The Apple ecosystem is intensely focused on the impending WWDC 2026, with widespread expectations of a generative AI overhaul led by a revamped Siri and critical "Snow Leopard-style" stability updates for macOS 27. On the hardware front, Apple's budget-friendly MacBook Neo is severely disrupting the PC market with record sales, while a stream of credible leaks has painted a detailed picture of an incoming foldable "iPhone Ultra" boasting highly advanced thermal and mechanical engineering. Meanwhile, incoming leadership is reportedly enacting a massive recalibration of Apple's spatial computing roadmap, heavily pivoting away from mixed-reality headsets toward everyday smart glasses.
+This week was entirely defined by the historic WWDC 2026 keynote, which saw the official introduction of "Siri AI," iOS 27, and macOS Golden Gate. The event carried immense emotional weight as Tim Cook delivered his farewell keynote address, preparing to pass the CEO baton to John Ternus this fall. Beyond the sweeping software announcements, the rumor mill provided concrete glimpses into Apple's hardware future, with mounting evidence pointing toward an impending foldable "iPhone Ultra" and the company's first touchscreen MacBook.
 
 ## Top Stories
-**Siri Prepares for Major AI Upgrade at WWDC** · [MacRumors](#)
-Anticipation for WWDC 2026 has reached a fever pitch, driven by Apple's "All systems glow" teaser and widespread reports of a massive AI overhaul for Siri in iOS 27. The new assistant will reportedly feature a dynamic, pill-shaped interface, on-screen awareness, and multi-step app integration, utilizing a hybrid processing approach that leverages both on-device Apple Intelligence and Google's Nvidia Blackwell-powered servers. Notably, because the revamped assistant is considered a "preview," Apple may initially gate access to some of its most advanced capabilities behind a beta waitlist. 
+**[Siri AI and Apple Foundation Models Debut]** · [WWDC Keynote](#)
+Apple officially unveiled "Siri AI," a deeply integrated assistant powered by its third-generation Apple Foundation Models, including the 20-billion-parameter AFM 3 Core Advanced. While Apple used Google Gemini frontier models as a starting point and utilizes Private Cloud Compute for complex tasks, executives clarified that Apple Silicon processes most requests locally using proprietary, retrained models. However, the most advanced on-device features will require at least 12GB of RAM—excluding the base iPhone 17—and Siri AI will be withheld from the EU and China at launch due to regulatory hurdles surrounding the Digital Markets Act.
 
-**Foldable 'iPhone Ultra' Takes Shape Through Supply Chain Leaks** · [MacRumors](#)
-Leaks this week have provided a remarkably complete picture of Apple's first foldable smartphone, reportedly dubbed the "iPhone Ultra". Expected to launch as early as September, the 4.5mm-thick device will feature a highly durable liquid metal hinge, advanced vapor chamber cooling to mitigate heat, and a return to Touch ID integrated into the power button to save crucial internal space. However, the device is reportedly still facing mass production yield hurdles related to surface-mount technology (SMT) during pre-assembly.
+**[Agentic AI Transforms Passwords and Developer Tools]** · [9to5Mac / MacRumors](#)
+In a major leap for practical AI, iOS 27 and macOS Golden Gate introduce an autonomous agent within the Passwords app. This powerful feature can automatically navigate websites, fill out forms, request one-time verification codes, and update compromised credentials entirely in the background. Developers are also receiving a significant agentic boost, as Xcode 27 now natively integrates Google's Gemini to help plan, write, and review code directly within the IDE.
 
-**MacBook Neo Disrupts PC Market as Apple Recalibrates Hardware Roadmap** · [Source](#)
-Apple’s aggressive push into the entry-level market is paying massive dividends, with the new $599 MacBook Neo shipping over 1.1 million units in its debut quarter and forcing rivals like Dell to slash XPS 13 pricing in response. Due to "off the charts" demand, Apple has doubled its 2026 production target to 10 million units. Simultaneously, incoming CEO John Ternus has reportedly ordered a major shift in Apple's spatial computing strategy, shelving the cheaper Vision Air and Vision Pro 2 to focus entirely on smart glasses slated for 2027.
+**[Tim Cook Delivers Final Keynote as CEO]** · [MacRumors](#)
+WWDC 2026 marked the end of an era as Tim Cook delivered his final keynote address. Cook will transition to the role of Executive Chairman on September 1, officially handing the CEO position over to John Ternus. Ternus will take the helm just in time for the highly anticipated fall hardware releases, including the iPhone 18 Pro lineup.
 
-**macOS 27 to Drop Intel Support in "Snow Leopard-Style" Update** · [Macworld](#)
-The upcoming macOS 27 update, potentially codenamed "Project Big Bear," is shaping up to be a critical refinement release focused heavily on system stability, bug fixes, and battery life improvements rather than flashy new features. This software iteration will mark the official end of major OS updates for Intel Macs, completing the Apple Silicon transition, though Apple will retain Rosetta functionality to support legacy games and developer workflows.
+**[Foldable iPhone and Touchscreen MacBook Imminent]** · [Supply Chain Leaks](#)
+Hardware rumors gained serious traction this week, with physical dummy units leaking for a passport-style foldable iPhone featuring a 7.8-inch inner display and an ultra-thin 4.5mm titanium frame. The iOS 27 developer beta corroborates this with code-level references to a folding "iPhone Ultra," while macOS Golden Gate includes touch-friendly UI adjustments that supply chain leakers claim "100% confirm" an upcoming OLED touchscreen MacBook.
 
 ## Also Worth Knowing
-*   **iPhone 18 Pro Camera Costs Surge:** A new variable aperture lens for the iPhone 18 Pro lineup is expected to cost Apple 50% more than current camera modules, offering improved exposure control and depth of field flexibility.
-*   **New Apple Store Closures Spark Union Disputes:** Apple is permanently closing three U.S. retail locations in June, including the Towson Town Center store—the first unionized Apple Store in the nation—drawing fire and union-busting accusations from lawmakers and labor organizers.
-*   **iOS 27 Interface Tweaks:** Leaks indicate iOS 27 will bring refined "Liquid Glass" UI elements, an AI-powered "Siri Mode" for a redesigned Camera app, and a "Parallel View" feature designed to adapt standard apps for wider split screens on larger displays.
-*   **Texas Age Verification Mandate:** Following a federal court ruling lifting a previous injunction, Apple has enacted strict new age verification and parental consent APIs for App Store downloads and purchases made by minors in Texas.
+*   **macOS Golden Gate Ends Intel Era:** The new macOS 27 officially drops support for all Intel-based Macs and serves as a strict one-year warning for developers before Rosetta 2 compatibility is permanently removed.
+*   **Liquid Glass Interface Fixed:** Responding to intense user feedback, Apple refined its controversial "Liquid Glass" design by adding transparency and opacity sliders, alongside tighter corner radii across macOS 27 and iOS 27.
+*   **Unprecedented MacBook Neo Demand:** Apple's new budget-friendly MacBook Neo is experiencing massive customer demand, forcing the company to double its 2026 production targets from 5 million to 10 million units.
+*   **Notion Adopts SwiftUI:** Apple confirmed during the Platforms State of the Union that the popular productivity app Notion is finally ditching its Electron-based web architecture to migrate to a fully native SwiftUI macOS application.
