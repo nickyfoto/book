@@ -1,6 +1,6 @@
 ---
 title: 2026-06-07
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "datasette", "llm-tool-use", "generative-ai"]
 ---

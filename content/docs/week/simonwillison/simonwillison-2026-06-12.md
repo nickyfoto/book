@@ -1,6 +1,6 @@
 ---
 title: 2026-06-12
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "openai", "webrtc", "audio", "tools"]
 ---

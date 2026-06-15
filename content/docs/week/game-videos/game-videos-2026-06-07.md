@@ -1,6 +1,6 @@
 ---
 title: 2026-06-07
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "steam", "game trailers", "game sales"]
 ---

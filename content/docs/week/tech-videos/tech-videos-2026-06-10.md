@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "large language models", "data centers"]
 ---

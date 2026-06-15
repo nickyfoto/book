@@ -1,6 +1,6 @@
 ---
 title: 2026-06-08
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["artificial intelligence", "middle east conflict", "initial public offerings", "mergers and acquisitions"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-12
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "robotics", "apple", "software engineering", "consumer tech"]
 ---
