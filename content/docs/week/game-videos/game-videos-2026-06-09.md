@@ -1,6 +1,6 @@
 ---
 title: 2026-06-09
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["nintendo", "nintendo direct", "ios 27", "apple", "mobile gaming"]
 ---

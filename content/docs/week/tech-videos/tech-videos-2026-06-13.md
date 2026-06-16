@@ -1,6 +1,6 @@
 ---
 title: 2026-06-13
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["github copilot", "swift", "anthropic", "tcp"]
 ---

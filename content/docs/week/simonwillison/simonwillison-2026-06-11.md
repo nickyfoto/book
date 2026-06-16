@@ -1,6 +1,6 @@
 ---
 title: 2026-06-11
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-assisted programming", "claude fable", "datasette", "prompt injection"]
 ---

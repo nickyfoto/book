@@ -1,6 +1,6 @@
 ---
 title: 2026-06-11
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["spacex", "inflation", "iran conflict", "artificial intelligence", "interest rates"]
 ---

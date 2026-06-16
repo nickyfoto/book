@@ -1,6 +1,6 @@
 ---
 title: 2026-06-08
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open-source ai", "ai agents", "autonomous vehicles"]
 ---
