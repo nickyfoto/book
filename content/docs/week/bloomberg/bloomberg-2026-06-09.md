@@ -1,6 +1,6 @@
 ---
 title: 2026-06-09
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["geopolitics", "artificial intelligence", "interest rates", "mergers and acquisitions", "global markets"]
 ---

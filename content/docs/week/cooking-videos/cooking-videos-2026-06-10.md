@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 5
+weight: 6
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["recipes", "asian cuisine", "cooking techniques", "street food"]
 ---

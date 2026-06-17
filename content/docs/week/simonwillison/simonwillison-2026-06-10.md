@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative-ai", "llms", "ai-ethics", "datasette"]
 ---

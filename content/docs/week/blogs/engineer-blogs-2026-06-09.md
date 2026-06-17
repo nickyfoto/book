@@ -1,6 +1,6 @@
 ---
 title: 2026-06-09
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["c", "memory safety", "openssl", "cybersecurity"]
 ---
