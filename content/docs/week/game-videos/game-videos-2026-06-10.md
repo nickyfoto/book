@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft dungeons ii", "exodus", "sci-fi", "game trailers"]
 ---

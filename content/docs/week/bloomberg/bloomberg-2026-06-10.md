@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["inflation", "interest rates", "initial public offerings", "geopolitics", "oil prices"]
 ---

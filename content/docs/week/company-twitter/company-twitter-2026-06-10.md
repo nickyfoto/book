@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "tech policy", "cloud computing", "autonomous vehicles"]
 ---
