@@ -1,6 +1,6 @@
 ---
 title: 2026-06-14
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["open source ai", "local inference", "hard tech", "ai agents", "ai economics"]
 ---

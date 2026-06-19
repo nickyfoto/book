@@ -1,6 +1,6 @@
 ---
 title: 2026-06-11
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["mental health", "artificial intelligence", "software engineering", "personal knowledge management"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-14
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["careers", "generative-ai", "software engineering", "llms"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-15
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "software engineering", "tech culture", "infrastructure"]
 ---

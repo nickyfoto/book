@@ -1,6 +1,6 @@
 ---
 title: 2026-06-16
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "developer tools", "large language models", "acquisitions"]
 ---
