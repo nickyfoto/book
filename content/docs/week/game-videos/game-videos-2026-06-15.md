@@ -1,6 +1,6 @@
 ---
 title: 2026-06-15
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["steam", "pc gaming", "game sales", "discounts"]
 ---

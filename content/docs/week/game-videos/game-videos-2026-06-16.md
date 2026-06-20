@@ -1,6 +1,6 @@
 ---
 title: 2026-06-16
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "game trailers", "chaos cubed", "gaming"]
 ---

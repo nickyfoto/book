@@ -1,6 +1,6 @@
 ---
 title: 2026-06-12
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["large language models", "python", "software architecture", "music theory"]
 ---

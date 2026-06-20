@@ -1,6 +1,6 @@
 ---
 title: 2026-06-14
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["python", "plugins", "software architecture", "pluggy", "api design"]
 ---
