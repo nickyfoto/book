@@ -3,26 +3,30 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["rashid shaheed", "russell wilson", "los angeles rams", "lumen field", "minicamp", "charles cross", "super bowl rings", "fan culture", "bobby hart", "super bowl lx", "joey bosa", "jaxon smith-njigba", "todd boehly", "roster moves", "aaron donald", "training camp", "community service", "ownership", "roster updates", "contracts", "community", "super bowl", "uniforms", "kenneth walker iii", "trent kirchner", "schedule wallpapers"]
+tags: ["super bowl 60 rings", "team sale", "russell wilson trade", "schedule predictions", "turf vs grass", "alumni", "roster predictions", "ticket sales", "fan media", "super bowl", "offseason", "doug baldwin", "white house", "roster expectations", "otas", "sam darnold", "training camp", "front office", "los angeles rams", "fanatics", "mascots", "super bowl lx", "roster projections", "uniforms", "merchandise", "mike macdonald", "nfl draft", "world cup", "hard knocks", "jerseys"]
 ---
 
-# Seahawks — Week of 2026-06-06 to 2026-06-12
+# Seahawks — Week of 2026-06-13 to 2026-06-19
 
 ## Top Story
-The biggest development for the 12s this week was the highly anticipated Super Bowl LX championship ring ceremony, which finally took place following days of intense speculation and social media teasing. Crafted by Jason of Beverly Hills and touted as the largest and most technologically advanced ring ever made, the iced-out celebration featured DJ Metro Boomin and brought the championship squad together one last time. Seeing our defensive stars flaunting their well-earned jewelry provided a phenomenal capstone to the offseason as we prepare for the 2026 title defense.
+The biggest development this week was the highly anticipated unveiling of the Super Bowl 60 championship rings, which are being hailed as the largest and most technologically advanced in NFL history. After a massive weekend of ring ceremonies and well-deserved celebrations, the defending champions are already shifting their focus to a repeat, driven by glowing OTA reports confirming Sam Darnold looks completely locked in as the "general" of this high-powered offense.
 
 ## News & Buzz
-**Ownership Rumors Heating Up** · [Reddit](https://reddit.com/r/seahawks)
-Reports suggest billionaire Todd Boehly is weighing a massive bid for the Seahawks, which could drastically alter the franchise's spending power. However, rumors of a local "whale" preparing a bid also emerged, with fans actively hoping a local ownership group steps up to keep the current winning culture and football operations intact.
 
-**Minicamp Opens with a Community Focus** · [Twitter/Facebook](https://twitter.com)
-Mandatory minicamp kicked off with coaches installing a secretive "'kinda' new offense" while giving blunt injury updates on player availability. Head coach Mike Macdonald quickly flipped the script on Day 2, transforming practice into a massive day of community service across the city, including meaningful stops at Seattle Children's Hospital and the VA.
+**[Hard Knocks Heads to Seattle]** · Reddit
+The Seahawks have officially been selected as the featured team on HBO's *Hard Knocks*, with the season premiere slated for August 11. While cameras have historically brought distraction concerns, the 12s are overwhelmingly hyped to showcase Coach Mike Macdonald's elite locker room culture and a dominant, fundamentally sound roster to a national audience.
 
-**Securing the Trenches and Secondary** · [Reddit](https://reddit.com/r/seahawks)
-The front office officially extended Super Bowl standout Derick Hall, rewarding him after a phenomenal championship season. Meanwhile, the team is actively negotiating to lock down star cornerback Devon Witherspoon long-term before training camp begins, while also bolstering offensive line depth by signing veteran OT Bobby Hart.
+**[Front Office Shakeup & Ownership Rumors]** · r/Seahawks
+Following the Minnesota Vikings poaching executives Nolan Teasley and Trent Kirchner, GM John Schneider officially promoted Matt Berry and Willie Schneider to Assistant General Managers. Meanwhile, massive long-term ownership rumors continue to swirl in the background; an NBC Sports report shared by fans suggests signs point to a potential franchise sale by September, with some 12s floating Steve Ballmer as a hopeful buyer.
 
-**Bittersweet Departures & Absences** · [Reddit](https://reddit.com/r/seahawks)
-While former Hawks like Tariq Woolen and Boye Mafe returned to Seattle for their rings, Super Bowl MVP Kenneth Walker III unfortunately missed the celebration due to minicamp obligations with his new team, the Chiefs. In front-office news, VP of player personnel Trent Kirchner is officially departing to become the assistant GM for the Minnesota Vikings.
+**[World Cup Grass & Lumen Field Dominance]** · Reddit
+Lumen Field is currently rocking as a 2026 World Cup host venue, bringing an electric atmosphere that even drew out Beastmode himself, Marshawn Lynch. The temporary installation of natural grass for the tournament has reignited the NFL player debate over artificial turf safety, while one fan calculated Seattle's staggering 181-107 historical record across stadiums hosting the games.
+
+**[Draft Strategy & Early Roster Battles]** · Reddit
+With the offseason slowing down, fans are obsessing over the masterclass draft haul that secured first-round RB Jadarian Price alongside physical, quintessential Seahawks defenders like Bud Clark and Julian Neal. Early 53-man roster projections are heating up, with intense pre-camp positional battles brewing for the WR6 spot, offensive guard depth, and Nose Tackle, where Pili currently leads Deven Eastern.
+
+**[Jersey Frustrations Resurface]** · Reddit
+Despite the championship high, 12s are letting Fanatics and the Pro Shop hear it regarding the lackluster options in the latest FUSE limited jersey drop. Fans are demanding refunds for last year's "Temu"-quality gear and expressing severe irritation that breakout championship stars and much-desired retro white away options were excluded from the new lineup.
 
 ## 12s Pulse
-The 12s are absolutely floating on air right now, basking in the championship afterglow while hyping up a blissfully drama-free roster. Despite a bittersweet undercurrent of watching some of our beloved Super Bowl heroes scatter to other teams across the league, the fanbase is universally triumphant and brimming with confidence. We are relishing every moment of offseason schadenfreude at the expense of our NFC West rivals and are fiercely ready to prove everyone wrong again this fall.
+The mood across the fanbase remains an immaculate, euphoric high as the 12s bask in the afterglow of a Super Bowl LX championship. Between taking victory laps over salty division rivals like the Rams and 49ers and hyping up a stacked, developing roster that many believe will somehow be even more dangerous in 2026, Seattle fans are radiating an untouchable level of swagger.
