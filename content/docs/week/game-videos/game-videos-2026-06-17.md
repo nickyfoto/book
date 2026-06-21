@@ -1,6 +1,6 @@
 ---
 title: 2026-06-17
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["steam", "nintendo switch", "minecraft", "video games"]
 ---
