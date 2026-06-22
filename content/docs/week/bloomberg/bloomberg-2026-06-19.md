@@ -1,6 +1,6 @@
 ---
 title: 2026-06-19
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "global markets", "international trade", "mergers and acquisitions", "uk politics"]
 ---

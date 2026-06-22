@@ -1,6 +1,6 @@
 ---
 title: 2026-06-16
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["jailbreaking", "claude-code", "local-llms", "datasette"]
 ---

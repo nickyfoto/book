@@ -1,6 +1,6 @@
 ---
 title: 2026-06-18
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "developer tools", "extended reality"]
 ---

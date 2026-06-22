@@ -1,6 +1,6 @@
 ---
 title: 2026-06-16
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["software engineering", "large language models", "decentralization", "agentic ai"]
 ---
