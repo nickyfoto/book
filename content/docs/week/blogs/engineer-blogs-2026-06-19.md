@@ -1,6 +1,6 @@
 ---
 title: 2026-06-19
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "system metrics", "lossy compression"]
 ---

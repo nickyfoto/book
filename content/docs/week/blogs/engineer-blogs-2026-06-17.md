@@ -1,6 +1,6 @@
 ---
 title: 2026-06-17
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["software engineering", "llm architecture", "mental health", "music theory"]
 ---

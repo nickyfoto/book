@@ -1,6 +1,6 @@
 ---
 title: 2026-06-15
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "web development", "developer tools", "cybersecurity", "infrastructure"]
 ---

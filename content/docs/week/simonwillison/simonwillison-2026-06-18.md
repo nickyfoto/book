@@ -1,6 +1,6 @@
 ---
 title: 2026-06-18
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "sandboxing", "javascript", "content-security-policy", "ai-assisted-programming"]
 ---

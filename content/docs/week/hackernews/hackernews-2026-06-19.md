@@ -1,6 +1,6 @@
 ---
 title: 2026-06-19
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["java", "cybersecurity", "artificial intelligence", "databases", "user interface"]
 ---

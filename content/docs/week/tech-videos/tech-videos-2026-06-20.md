@@ -1,6 +1,6 @@
 ---
 title: 2026-06-20
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["webassembly", "cognitive science", "semiconductors", "history"]
 ---
