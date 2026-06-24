@@ -1,6 +1,6 @@
 ---
 title: 2026-06-21
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "crude oil", "central banks", "global markets", "mergers and acquisitions"]
 ---

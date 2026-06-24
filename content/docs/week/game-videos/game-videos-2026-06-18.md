@@ -1,6 +1,6 @@
 ---
 title: 2026-06-18
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["grand theft auto vi", "rockstar games", "gaming", "trailers"]
 ---

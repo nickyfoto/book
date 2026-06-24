@@ -1,6 +1,6 @@
 ---
 title: 2026-06-21
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "engineering management", "edge computing"]
 ---

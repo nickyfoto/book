@@ -1,6 +1,6 @@
 ---
 title: 2026-06-21
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite-utils", "sqlite", "cloudflare", "migrations", "ai agents"]
 ---
