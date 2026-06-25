@@ -1,6 +1,6 @@
 ---
 title: 2026-06-15
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "observability", "immutable infrastructure"]
 ---

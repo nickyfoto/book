@@ -1,6 +1,6 @@
 ---
 title: 2026-06-17
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "large language models", "open source", "web components", "ai-assisted programming"]
 ---

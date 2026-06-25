@@ -1,6 +1,6 @@
 ---
 title: 2026-06-19
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "model-context-protocol", "llms", "ai"]
 ---

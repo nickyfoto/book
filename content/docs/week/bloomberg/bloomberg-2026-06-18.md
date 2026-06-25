@@ -1,6 +1,6 @@
 ---
 title: 2026-06-18
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["us-iran peace deal", "interest rates", "oil prices", "artificial intelligence"]
 ---
