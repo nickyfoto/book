@@ -1,6 +1,6 @@
 ---
 title: 2026-06-23
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "pyodide", "sqlite", "opfs"]
 ---
