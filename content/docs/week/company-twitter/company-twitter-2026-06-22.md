@@ -1,6 +1,6 @@
 ---
 title: 2026-06-22
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "generative ai", "venture capital", "open source", "autonomous vehicles"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-22
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["claude-code", "vibe-coding", "onnx", "prompt-injection", "webgpu"]
 ---
