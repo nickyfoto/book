@@ -1,6 +1,6 @@
 ---
 title: 2026-06-25
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["artificial intelligence", "inflation", "supreme court", "iran war", "global markets"]
 ---

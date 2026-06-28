@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "cloud infrastructure", "software engineering"]
 ---
