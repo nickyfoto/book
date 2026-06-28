@@ -3,32 +3,33 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["ai", "openai", "webrtc", "audio", "tools", "pyodide", "webassembly", "anthropic", "llms", "python", "careers", "generative-ai", "software engineering", "datasette", "sqlite", "jailbreaking", "claude-code", "local-llms", "large language models", "open source", "web components", "ai-assisted programming", "sandboxing", "javascript", "content-security-policy", "ai-assisted-programming"]
+tags: ["datasette", "sandboxing", "javascript", "content-security-policy", "ai-assisted-programming", "model-context-protocol", "llms", "ai", "sqlite-utils", "sqlite", "cloudflare", "migrations", "ai agents", "claude-code", "vibe-coding", "onnx", "prompt-injection", "webgpu", "pyodide", "opfs", "github-actions", "datasette-lite", "careers", "ai-ethics", "law", "hallucinations"]
 ---
 
-# Simon Willison — Week of 2026-06-12 to 2026-06-18
+# Simon Willison — Week of 2026-06-18 to 2026-06-25
 
 ## Highlight of the Week
-The most impactful release this week is the launch of `datasette-apps`, a major new plugin that allows developers to run self-contained, sandboxed HTML and JavaScript applications directly against a persistent Datasette backend. It brilliantly merges Simon's ongoing experiments with AI-generated "vibe-coded" single-file tools and robust security architectures, pushing Datasette from a read-only publishing platform into a comprehensive ecosystem for building interfaces over data.
+This week's absolute standout is the launch of the `datasette-apps` plugin, which fundamentally transforms how we build micro-applications over local databases. By utilizing tightly constrained iframe sandboxes and Content-Security-Policy headers, developers and LLMs alike can safely run custom HTML/JS interfaces against a persistent Datasette backend. It brilliantly merges Simon's ongoing experiments with AI-assisted "vibe coding" and robust security architectures into a core ecosystem feature, effectively bridging the gap between Claude Artifacts and secure data environments.
 
 ## Key Posts
-**Datasette Apps: Host custom HTML applications inside Datasette**
-Simon details the security architecture behind his new plugin, which uses an `<iframe sandbox="allow-scripts">` tag combined with immutable Content-Security-Policy (CSP) headers to safely execute untrusted JavaScript code. Fascinatingly, before access to Claude Fable 5 was restricted by export controls, he used the model to evaluate the tool's security, and it successfully identified a severe data exfiltration vulnerability that he immediately patched.
 
-**The Fable 5 Export Controls Harm US Cyber Defense** 
-Reacting to the US government's directive forcing Anthropic to suspend access to Fable 5 and Mythos 5 over "jailbreak" concerns, Simon points out the absurdity of penalizing a model for fixing security flaws. Drawing on commentary from security expert Katie Moussouris, he argues that the government fundamentally misunderstands how AI assists in defensive security, mistaking the standard "find, fix, and test loop" for a dangerous exploit.
+**[Datasette Apps: Host custom HTML applications inside Datasette]** · [Source](#)
+Simon details the security and architecture behind `datasette-apps`, leveraging `<iframe sandbox="allow-scripts">` and injected CSP headers to safely execute untrusted JavaScript over authenticated data. Interestingly, he used Claude Fable 5 to evaluate the plugin, which uncovered a severe data exfiltration vulnerability that he promptly patched before locking down domain-allow permissions.
 
-**GLM-5.2 is probably the most powerful text-only open weights LLM** 
-Simon takes Z.ai's new 753B parameter open-weights model for a spin, testing its UI-generation capabilities with his standard SVG prompts. While it produced a flawless animated pelican on a bicycle and currently tops major coding leaderboards, it failed on other prompts, showing a curious mix of impressive benchmark dominance and regressions compared to its predecessor.
+**[Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code]** · [Source](#)
+In a masterclass on AI-driven development, Simon used Claude Code (Opus 4.8) to act as a full-stack ML engineer, converting a PyTorch model to ONNX, handling browser caching via the CacheStorage API, and deploying a WebGPU app without writing a single line of code himself. It is a striking demonstration of how autonomous agents can bridge significant domain gaps while the developer works on entirely different primary projects.
 
-**Why AI hasn’t replaced software engineers, and won’t** 
-Highlighting an essay by Arvind Narayanan and Sayash Kapoor, Simon reflects on the shifting economics of software engineering. He echoes their conclusion that while AI accelerates the actual typing of code, a developer's real value remains anchored in deep systemic understanding—specifically the human context needed to specify what to build and verify the delivery.
+**[datasette 1.0a35]** · [Source](#)
+This major pre-release introduces powerful graphical interfaces for creating and altering tables, shifting Datasette further away from its read-only roots. Users can now seamlessly define columns, constraints, and foreign keys directly via the UI, fully supported by backing JSON APIs and formalized template context variables.
 
-**Publishing WASM wheels to PyPI for use with Pyodide** 
-Celebrating the Pyodide 314.0 release, Simon explores how developers can finally publish Pyodide-built Python packages directly to PyPI, eliminating a massive ecosystem bottleneck. He immediately leveraged Codex and GPT-5.5 xhigh to compile and deploy an experimental C++ WebAssembly project, showcasing the power of combining AI assistance with bleeding-edge web tooling.
+**[simonw/browser-compat-db]** · [Source](#)
+Showcasing his signature rapid-prototyping workflow, Simon used Claude Code to convert Mozilla's MDN compatibility data into a ~66MB SQLite database. To get around GitHub Releases lacking open CORS headers, he used GPT-5.5 to write a clever GitHub Actions workflow that force-pushes the DB to an orphan branch, making it instantly queryable in the browser via Datasette Lite.
+
+**[Prompt Injection as Role Confusion]** · [Source](#)
+Simon highlights research showing that LLMs parse instructions based on stylistic cues rather than structural boundaries, meaning they fundamentally struggle to distinguish privileged system prompts from untrusted user input. The researchers found that simply "destyling" the text dropped attack success rates from 61% to 10%, underscoring that prompt injection will remain a perpetual game of whack-a-mole until models achieve genuine "role perception".
 
 ## Project Updates
-It was a massive week for tool releases, particularly around the Datasette ecosystem. Simon shipped `datasette-agent 0.3a0`, enabling users to execute structural database changes and modify records on the fly using natural language from the terminal via a new `--unsafe` auto-approval mode. This agentic write-capability directly inspired the release of `datasette 1.0a34`, which finally adds long-overdue built-in GUI tools for row insertion, editing, and deletion. He also released `luau-wasm 0.1a0` to test PyPI's new WASM wheel support, and published `datasette-tailscale 0.1a0`, an experimental plugin built on `tailscale-rs` that securely exposes local databases to a Tailnet.
+It was a massive week of consolidation for the broader SQLite and Datasette ecosystems. Simon shipped `sqlite-utils` 4.0rc1, which officially brings nested transactions and database migrations (absorbing the `sqlite-migrate` package) directly into the core library. Across the Datasette front, we saw multiple alpha releases for `datasette-apps` and `datasette-acl` to refine multi-user access controls, culminating in the monumental Datasette 1.0a35 release that introduces core table mutation UIs.
 
 ## Themes
-Two major themes dominated this week: the friction of AI regulation and the paradigm shift in AI-assisted programming. Simon repeatedly criticized the US export controls on Anthropic's models, highlighting how banning capable models over narrow jailbreak fears actively harms local development and defensive cybersecurity efforts. Meanwhile, his practical work underscored how developers are moving from simply writing code to orchestrating systems—relying on cutting-edge models to discover obscure SQLite C-level functions, patch CSP vulnerabilities, and rapidly package complex C++ WebAssembly pipelines.
+A dominant theme this week is the maturation of AI "vibe coding" from a novelty into a serious orchestration strategy for shipping functional code across unfamiliar domains like WebGPU and ONNX. We're seeing Simon actively deploy frontier models to handle heavy architectural tasks, while simultaneously focusing deeply on the stringent security and permission paradigms required to run this untrusted, AI-generated code safely in production.

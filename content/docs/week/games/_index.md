@@ -3,36 +3,36 @@ title: Gaming News
 weight: 19
 bookCollapseSection: true
 categories: ["Tech"]
-tags: ["xbox", "microsoft", "assassin's creed", "nintendo switch", "movies and tv", "dead by daylight", "pokemon", "retro gaming", "open-world games", "gaming deals", "final fantasy", "deals", "hardware", "industry news", "game reviews", "game updates", "hardware deals", "nintendo", "free games", "gta 6", "playstation", "game deals", "entertainment"]
+tags: ["industry news", "xbox", "pc gaming", "game previews", "deals", "hardware deals", "movie leaks", "hardware", "game deals", "prime day deals", "gta 6", "game reviews", "grand theft auto 6", "console hardware", "gaming news", "video game industry", "gaming deals"]
 ---
 
-# Gaming News — Week of 2026-06-13 to 2026-06-19
+# Gaming News — Week of 2026-06-20 to 2026-06-26
 
 ## Story of the Week
-The most massive ongoing saga this week is the existential crisis and turbulent restructuring rocking Microsoft's Xbox division. Amidst CEO Satya Nadella candidly admitting that YouTube currently generates more monetization from Xbox games than Microsoft does, the company is facing a potential "bloodbath" of studio closures that threatens beloved developers like Double Fine and Ninja Theory. While attempting to fast-track heavy-hitters like *Halo* and *Fallout*, Microsoft has resorted to adding an "EXCLUSIVE" label to its console dashboard to clarify its increasingly muddy multiplatform strategy.
+The gaming hardware market is currently in a state of absolute chaos, defined by skyrocketing component costs and a dramatic shift in console dominance. Microsoft is jacking up the Xbox Series X to an eye-watering $799.99 in August, which has contributed to catastrophic sales lows for both Xbox and PlayStation. Meanwhile, the Nintendo Switch 2 is completely obliterating the competition, capping off a historic first year with 5.9 million US units sold as gamers flock to more affordable hardware.
 
 ## Top Stories
-**PlayStation Abandons Single-Player PC Ports** · [IGN](#)
-Sony is officially backing away from releasing its premier single-player narrative games on PC due to inconsistent launch quality and inadequate revenue. Upcoming heavy-hitters like *Marvel's Wolverine* and *God of War Laufey* will remain strictly exclusive to PlayStation consoles, marking a definitive end to Sony's recent PC expansion strategy for solo campaigns.
+**Bungie Suffers Massive Layoffs as Destiny 2 Support Ends** · [IGN](#)
+In a devastating blow to the industry, Sony has pulled the plug on *Destiny 2* support, prompting Bungie to lay off nearly 300 staff members at its Bellevue headquarters. This marks the historic studio's third major round of cuts in three years, driven by financial underperformance and a struggling shift to their upcoming extraction shooter, *Marathon*. It is a heartbreaking, unceremonious end for a towering live-service franchise. 
 
-**Grand Theft Auto 6 Locks In November Release** · [IGN](#)
-The agonizing wait for solid *GTA 6* news finally paid off with Rockstar unveiling stunning official cover art featuring Jason and Lucia alongside a June 25 pre-order date. This massive announcement acts as the ultimate silencer to ongoing delay rumors, locking the highly anticipated blockbuster in for a definitive November 19, 2026 launch.
+**Grand Theft Auto 6 Preorders Launch with a Catch** · [IGN](#)
+Rockstar has officially opened preorders for the standard edition of *Grand Theft Auto 6* at a hefty $80 base price. In a massively controversial move that has sparked retailer boycotts, the physical boxed editions will not include a game disc, shipping only with a digital download code to kill the second-hand market. Despite fan outrage over this decision and the lack of a new trailer, over 70% of players still plan to drop money on the $100 Ultimate Edition. 
 
-**Nintendo Teases Ocarina of Time Remake for Switch 2** · [IGN](#)
-Nintendo dropped a massive tease for a ground-up remake of *The Legend of Zelda: Ocarina of Time* headed to the upcoming Switch 2 console. Revealing a realistic new art style and a cap-less Link, industry speculation strongly suggests this will be a seamless, ambitious reimagining of the 1998 classic rather than a simple 1:1 visual remaster.
+**Valve's $1,049 Steam Machine Refuses to Subsidize Hardware** · [IGN](#)
+Valve's highly anticipated Steam Machine is finally here, but its staggering $1,049 starting price has left PC gamers with serious sticker shock. Driven by a global RAM shortage fueled by the AI boom, Valve is flat-out refusing to sell the console at a loss like traditional manufacturers. While it is an incredible living-room powerhouse, don't expect a price drop anytime soon, as component shortages are expected to last through 2027. 
 
-**Epic's Unreal Engine 6 Ecosystem Sparks AI Controversy** · [IGN](#)
-Epic Games revealed that the upcoming Unreal Engine 6 will feature an open ecosystem allowing cosmetic items like *Fortnite* skins to carry over interchangeably into other games. However, Epic's confirmed use of generative AI tools to iterate on 3D environments and character skins has sparked backlash, prompting *Vampire Survivors* developer Poncle to publicly reconsider a lucrative *Fortnite* crossover.
+**Xbox Faces Massive Studio Restructuring** · [IGN](#)
+Microsoft's gaming division is reportedly facing another brutal restructuring that threatens beloved studios like Ninja Theory, Double Fine, and Compulsion. As Microsoft resets its core strategy to protect massive, mainline giants like *Halo* and *Gears of War*, major projects like *Forza Motorsport* and *The Outer Worlds* have unfortunately been cancelled entirely. 
 
-**Assassin’s Creed Black Flag Resynced Readies to Set Sail** · [IGN](#)
-Ubisoft has provided a thorough deep dive into the *Assassin's Creed: Black Flag* remake, confirming it features modernized combat, reworked open-ended stealth, and a highly requested skip-time feature. Launching July 9, 2026, the remake will also introduce a brand-new endgame chapter titled "A World Without Gold," proving it is much more than a simple cosmetic facelift for the beloved pirate adventure.
+**Stranger Than Heaven Completely Overhauls Like a Dragon** · [IGN](#)
+RGG Studio is violently shaking up its aging brawler formula with the upcoming 2027 prequel, *Stranger Than Heaven*. The game replaces traditional combos with a fiercely challenging combat system where players must independently puppeteer the protagonist's fists using the controller's shoulder buttons. Bafflingly, this gritty, time-hopping entry will also feature resurrected digital versions of Tupac alongside Snoop Dogg. 
 
 ## Free Games & Deals
-The Epic Games Store is absolutely delivering the goods this week, offering the stylish rhythm-shooter *ROBOBEAT* and the critically acclaimed cyberpunk RPG *Citizen Sleeper* for free until June 25. Over on consoles, Rockstar is generously throwing players a bone by offering free digital current-gen upgrades for *Grand Theft Auto V* to all PS4 and Xbox One owners ahead of *GTA 6*. Deal hunters should also note some massive hardware discounts ahead of Prime Day, including a monstrous $1,980 off the premium Alienware 16X Aurora laptop at Dell, alongside an absolute steal on the phenomenal action-RPG *Nioh 3* for PS5, which has dropped to its lowest price yet at $49.99 on Amazon and Best Buy.
+This week is a deal hunter's absolute dream, starting with two phenomenal freebies on the Epic Games Store: the cosmic horror platformer *Voidwrought* and the management classic *RollerCoaster Tycoon 3 Complete Edition*, available to claim until July 2, 2026. Over on PC, the massive Steam Summer Sale is live, slashing *Red Dead Redemption 2* to an absolute steal at $15 and *Baldur's Gate 3* to $45. If you want to dodge the upcoming industry hardware price hikes, use the promo code "CHEAPSWITCH2" at Woot to score a Nintendo Switch 2 for just $399, or grab an Xbox Series X at Walmart for $573.99 before its MSRP jumps to $800 in August. Finally, fighting game fans should snag the $20 Arc System Works Evo Collection Humble Bundle on PC for top-tier titles like *Guilty Gear -Strive-* while supporting rare disease research.
 
 ## Also Worth Knowing
-*   Capcom is finally doing away with the highly controversial fast-travel and revival microtransactions in *Dragon's Dogma 2* ahead of the *Dark Arisen* expansion arriving this October.
-*   A sealed, near-perfect 1986 copy of *Super Mario Bros.* completely obliterated records by selling for an absurd $3 million at auction.
-*   Arrowhead dropped a massive 6.3.0 patch for *Helldivers 2* that introduces structured Galactic Campaigns and highly requested meta-shifting changes like dodging while reloading.
-*   French studio Don't Nod is currently in serious financial jeopardy, with auditors warning they will run out of funds by November 2026 without an immediate cash injection.
-*   Robert "Bobby" Prince, the legendary composer who defined '90s PC gaming with iconic, metal-infused soundtracks for *Doom* and *Wolfenstein 3D*, has tragically passed away at age 81.
+*   Ubisoft co-founder Claude Guillemot tragically passed away at age 69 in a twin-engine plane crash in western France.
+*   In a baffling move, playing local split-screen co-op in *Halo: Campaign Evolved* on the PS5 will require two active PlayStation Plus subscriptions.
+*   *Fallout* Season 3 is officially heading to snowy, post-apocalyptic Colorado, exploring a region entirely new to the mainline video game canon.
+*   Games Workshop is aggressively issuing takedown requests against popular digital *Warhammer 40,000* fan mods on *Tabletop Simulator*.
+*   Epic Games unveiled a 12-month roadmap for the Epic Games Store, promising much-needed features like a 5x faster boot time, user reviews, and third-party patch notes.

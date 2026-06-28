@@ -3,35 +3,35 @@ title: Hacker News
 weight: 15
 bookCollapseSection: true
 categories: ["News", "Tech"]
-tags: ["artificial intelligence", "cybersecurity", "open source", "privacy", "software engineering", "databases", "tech culture", "infrastructure", "meta", "gaming", "hardware", "java", "user interface"]
+tags: ["artificial intelligence", "cybersecurity", "linux", "open source", "robotics", "systems programming", "hardware", "web security", "software engineering", "web development", "startups", "privacy", "cloud computing"]
 ---
 
-# Hacker News — Week of 2026-06-13 to 2026-06-19
+# Hacker News — Week of 2026-06-20 to 2026-06-26
 
 ## Story of the Week
-The week was dominated by the US government's panicked, abrupt suspension of Anthropic's Fable 5 and Mythos 5 models over supposed "national security concerns". The drama quickly devolved from genuine geopolitical tension to regulatory farce when it was revealed that the "jailbreak" triggering the ban was just a standard defensive prompt asking the model to "fix this code". As Anthropic executives scrambled in D.C. for damage control, the community ruthlessly debated the irony of the company's "safety superpower" posturing, pointing out how the incident highlights the technological cluelessness of regulators handicapping the very tools defenders use to patch vulnerabilities.
+This week, the unchecked firehose of AI-generated code finally forced structural changes across the ecosystem, culminating in GitHub introducing persistent PR limits after projects like OpenClaw were crushed by thousands of low-effort "slop" PRs. This friction bled directly into open-source philosophy, most notably when the GNU project outright rejected a highly performant Metal/OpenGL Emacs GPU backend simply because the author used LLMs. The era of purely human-driven open-source maintenance is effectively over, forcing maintainers to rely on automated governance just to survive the noise.
 
 ## Top Stories
-**OpenAI's $20B Cash Bonfire** 
-Leaked 2025 financials revealed OpenAI booked a staggering $20.92 billion operating loss against $13.07 billion in revenue, mostly driven by R&D and Microsoft compute costs. As the company marches toward an IPO, this astronomical burn rate has the community seriously questioning whether compounding scale can outpace market patience before the capital simply dries up.
+**Fable 5 wrote a Windows kernel in 38 minutes** · Anthropic
+Anthropic’s restricted cybersecurity model, Fable 5, successfully wrote a bootable, NT-compatible Windows kernel in Rust from a blank directory in just 38 minutes. The model autonomously debugged its own hardware emulation issues and correctly implemented the scheduler and memory manager, shifting the security conversation from whether AI can write a Trusted Computing Base to how humans can possibly formally verify code produced at this velocity.
 
-**SpaceX Acquires Cursor for $60B** 
-In an absolute blockbuster, Elon Musk's SpaceX absorbed AI coding darling Cursor (Anysphere) in a $60B all-stock deal. The acquisition signals a massive, terrifying shift where top-tier enterprise AI developer tooling is being swallowed by frontier aerospace to build out a trillion-dollar training ecosystem.
+**The "AURpocalypse" Supply-Chain Attack** · Arch Linux
+Threat actors weaponized orphaned packages in the Arch User Repository, executing a massive supply-chain attack that injected data-harvesting malware via npm and Bun into hundreds of PKGBUILD files. The sustained attack forced maintainers to halt new user registrations, sparking fierce debates over whether mandatory 2FA or strict local code review is the actual fix for inherently fragile, community-maintained repositories.
 
-**The Broadcom VMware Exodus Continues** 
-Broadcom’s strategy of squeezing enterprise customers hit a breaking point, with Tesco migrating 40,000 workloads and filing a lawsuit over a "manifestly unfair" 175% price hike. It is a stark warning on the dangers of vendor lock-in, forcing massive infrastructure migrations as Broadcom swaps perpetual licenses for aggressively priced subscriptions.
+**AI’s Affordability Crisis & Big Tech Debt** · Multiple Sources
+The economic reality of generative AI compute is hitting hard, with hyperscalers quietly abandoning flat subscriptions for strict token-based billing as OpenAI reportedly hits $34 billion in expenses against $13 billion in revenue for 2025. Consequently, Big Tech is leveraging heavily to fund data center races, shifting the AI infrastructure narrative from a cash-flow story to a macroeconomic bond-market story tied to hawkish Fed policy and debt servicing.
 
-**Open Source Supply Chains Are Crumbling** 
-Trust in open-source ecosystems took several massive hits this week. The Arch Linux AUR suffered a staggering supply chain attack compromising over 1,500 packages, a solo dev found 10,000 GitHub repos pushing Trojan malware via perfectly cloned commit histories, and researchers unspooled a highly sophisticated 13-year backdoor operation hiding across 44 WordPress security plugins. 
+**Project Fetch: Phase Two** · Anthropic
+Anthropic demonstrated a massive leap in physical agentic AI by letting Claude Opus 4.7 autonomously write code to control a robotic quadruped. Operating entirely without human assistance, the model quickly interfaced with lidar sensors to retrieve a beach ball, generating ten times less code than human teams and mostly getting it right on the first try.
 
-**Project Valhalla Hits Java (Finally)** 
-After 12 years and five discarded prototypes, JDK 28 is finally introducing value classes to Java. This is a tectonic architectural shift that breaks the 1995 assumption that "every object has identity," allowing developers to code with object-oriented abstractions but execute with the flattened memory density of primitives.
+**Microsoft’s expiring 2011 UEFI certificate** · LWN.net
+The upcoming September 2026 expiration of Microsoft's UEFI certificate is a looming disaster for the Linux ecosystem. Booting new installation media on machines lacking the 2023 replacement key will fail, and because relying on hardware vendors for legacy firmware updates is historically a losing bet, countless users will likely have no choice but to disable Secure Boot entirely.
 
-**Meta Gutting Core Engineering for AI** 
-Gergely Orosz dropped a bombshell report on Meta forcefully reassigning up to 50% of core engineers to AI data labeling while enforcing mandatory keystroke tracking. The community is treating this deliberate destruction of morale and understaffing of core infrastructure as a textbook case of "AI psychosis".
+**The new HTTP QUERY method explained** · IETF
+Protocol nerds are celebrating RFC 10008, which finally standardizes the QUERY method for HTTP. It elegantly solves the decades-old REST anti-pattern of passing massive, deeply nested search payloads in GET bodies or non-idempotent POST requests, providing a safe, cacheable alternative that avoids URL character limits.
 
 ## Show HN & Launches
-It was a deeply refreshing week for low-level engineering and hardware hacking, offering a much-needed palate cleanser from AI fatigue. Second-year EE students stunned the front page by building a fully functional 8-bit Harvard architecture CPU purely out of hardwired 74-series logic gates, and a solo dev shipped a dependency-free C++20 path tracer built entirely without AI assistance. On the higher-performance end, NVlabs released `cuTile Rust`, an experimental framework that hits 7 TB/s for memory-safe GPU kernels, while solo hackers shipped tightly optimized tools like `Kage` for packing websites into single `.zim` binaries for offline viewing.
+**Oak** made waves as a VCS built in Rust explicitly for AI agents, utilizing BLAKE3 hashing and lazy mounts to bypass massive Git worktree overheads. On the web and tooling front, **Deno 2.9** introduced a native way to bundle self-contained desktop apps using host webviews instead of Electron's binary bloat, while **Nub** emerged as a pragmatic toolkit augmenting stock Node.js with native TypeScript execution and automatic `.env` loading. Finally, **ymawky** delivered beautifully unnecessary engineering: a fork-per-connection web server written entirely in ARM64 assembly that somehow includes CGI support and path traversal protection.
 
 ## Community Mood
-The dominant theme this week is a deep, existential exhaustion with AI "slop" and the massive economic shifts it brings to our profession. Because LLMs default to eagerly over-engineering everything, execution has become infinitely cheap, making human review and formal verification the new, painful bottlenecks. There is a palpable frustration that we are witnessing the active "deskilling" of engineering; as the virtue of hard technical mastery evaporates into "vibe coding", developers are left drowning in the cognitive load of managing glitchy agents and reviewing bloated, AI-generated logic.
+There's a palpable exhaustion settling over the community regarding the friction of AI tooling, captured perfectly by discussions on the draining "social" brainwork required to negotiate with LLMs and the severe cognitive overload of reviewing massive AI-generated diffs that pass CI but ruin architectural sanity. Simultaneously, developers are expressing deep frustration with creeping systemic bureaucracy—whether it's the "papers, please" era of government-mandated age-gates and VPN bans, or the miserable, automated gauntlet of the modern AI-proctored software job market.

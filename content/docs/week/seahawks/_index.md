@@ -3,30 +3,29 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["super bowl 60 rings", "team sale", "russell wilson trade", "schedule predictions", "turf vs grass", "alumni", "roster predictions", "ticket sales", "fan media", "super bowl", "offseason", "doug baldwin", "white house", "roster expectations", "otas", "sam darnold", "training camp", "front office", "los angeles rams", "fanatics", "mascots", "super bowl lx", "roster projections", "uniforms", "merchandise", "mike macdonald", "nfl draft", "world cup", "hard knocks", "jerseys"]
+tags: ["lumen field", "fan memorabilia", "autographs", "team history", "nfc west", "father's day", "jaxon smith-njigba", "super bowl", "geno smith", "leonard williams", "training camp", "tennessee titans", "ernest jones iv", "nfl top 100", "minicamp", "jerseys", "super bowl 60", "mike macdonald", "cooper kupp", "matt hasselbeck", "tight ends", "sunday ticket", "media rankings", "offseason", "super bowl lx", "sam darnold", "bobby wagner", "fantasy football"]
 ---
 
-# Seahawks — Week of 2026-06-13 to 2026-06-19
+# Seahawks — Week of 2026-06-20 to 2026-06-26
 
 ## Top Story
-The biggest development this week was the highly anticipated unveiling of the Super Bowl 60 championship rings, which are being hailed as the largest and most technologically advanced in NFL history. After a massive weekend of ring ceremonies and well-deserved celebrations, the defending champions are already shifting their focus to a repeat, driven by glowing OTA reports confirming Sam Darnold looks completely locked in as the "general" of this high-powered offense.
+The Seahawks are officially taking their newly minted Vince Lombardi Trophy on a celebratory tour following their historic Super Bowl 60 victory over the Patriots. While the organization is basking in championship glory and celebrating Head Coach Mike Macdonald's birthday, the front office is already looking ahead to the title defense by scheduling a physical joint training camp practice with the Tennessee Titans. 
 
 ## News & Buzz
+**Disturbing Allegations Against Geno Smith** · [Reddit](#)
+A deeply troubling video surfaced online this week featuring Geno Smith's former partner accusing the quarterback of assault, throwing her belongings out of a car, and stealing money. Although the video showed Smith speaking with police and no arrests appear to have been made yet, 12s are anxiously monitoring this highly concerning off-field development.
 
-**[Hard Knocks Heads to Seattle]** · Reddit
-The Seahawks have officially been selected as the featured team on HBO's *Hard Knocks*, with the season premiere slated for August 11. While cameras have historically brought distraction concerns, the 12s are overwhelmingly hyped to showcase Coach Mike Macdonald's elite locker room culture and a dominant, fundamentally sound roster to a national audience.
+**Myles Garrett Shakes Up the NFC West** · [The Athletic / r/Seahawks](#)
+A blockbuster trade sending superstar edge rusher Myles Garrett to a division rival has NFL executives and fans heavily debating the balance of power between the Seahawks and Rams. The 12s are already gearing up for the rivalry, weaponizing league penalty data since 2022 to argue that the Rams consistently benefit from a "soft whistle".
 
-**[Front Office Shakeup & Ownership Rumors]** · r/Seahawks
-Following the Minnesota Vikings poaching executives Nolan Teasley and Trent Kirchner, GM John Schneider officially promoted Matt Berry and Willie Schneider to Assistant General Managers. Meanwhile, massive long-term ownership rumors continue to swirl in the background; an NBC Sports report shared by fans suggests signs point to a potential franchise sale by September, with some 12s floating Steve Ballmer as a hopeful buyer.
+**Super Bowl 60 Reflections & Surprising Honesty** · [Twitter/X](#)
+Behind-the-scenes content is feeding the fanbase right now, with the *Making A Champion* docuseries highlighting the "12 As One" mindset that fueled the championship run. Interestingly, quarterback Sam Darnold was brutally honest about his individual performance in the big game, admitting he was "kinda bummed" about missing certain throws despite securing the ring.
 
-**[World Cup Grass & Lumen Field Dominance]** · Reddit
-Lumen Field is currently rocking as a 2026 World Cup host venue, bringing an electric atmosphere that even drew out Beastmode himself, Marshawn Lynch. The temporary installation of natural grass for the tournament has reignited the NFL player debate over artificial turf safety, while one fan calculated Seattle's staggering 181-107 historical record across stadiums hosting the games.
+**Lumen Field's Future in the Spotlight** · [Reddit](#)
+Lumen Field was recently voted the best World Cup venue by BBC writers, but the massive revenue from the upcoming tournament has fans worried about the stadium's future. Speculation is rampant that a new owner might use the financial upside to push for replacing the open-air stadium with a dome to lure lucrative events like future Super Bowls.
 
-**[Draft Strategy & Early Roster Battles]** · Reddit
-With the offseason slowing down, fans are obsessing over the masterclass draft haul that secured first-round RB Jadarian Price alongside physical, quintessential Seahawks defenders like Bud Clark and Julian Neal. Early 53-man roster projections are heating up, with intense pre-camp positional battles brewing for the WR6 spot, offensive guard depth, and Nose Tackle, where Pili currently leads Deven Eastern.
-
-**[Jersey Frustrations Resurface]** · Reddit
-Despite the championship high, 12s are letting Fanatics and the Pro Shop hear it regarding the lackluster options in the latest FUSE limited jersey drop. Fans are demanding refunds for last year's "Temu"-quality gear and expressing severe irritation that breakout championship stars and much-desired retro white away options were excluded from the new lineup.
+**Offseason Accolades & Exclusives** · [Official Channels](#)
+Super Bowl champion linebacker Ernest Jones IV cracked the NFL Top 100 at No. 97, dedicating the milestone to his late father. On the aesthetic front, it was revealed that breakout wide receiver Jaxon Smith-Njigba will be one of just five players in the entire league to rock an exclusive Gold NFL Shield on his jersey for the 2026 season.
 
 ## 12s Pulse
-The mood across the fanbase remains an immaculate, euphoric high as the 12s bask in the afterglow of a Super Bowl LX championship. Between taking victory laps over salty division rivals like the Rams and 49ers and hyping up a stacked, developing roster that many believe will somehow be even more dangerous in 2026, Seattle fans are radiating an untouchable level of swagger.
+The 12s are currently riding an unbelievable championship high, fiercely unified and steeped in Super Bowl 60 euphoria as the 75-day countdown to kickoff begins. While the terrifying allegations surrounding Geno Smith and the Rams' acquisition of Myles Garrett have caused undeniable anxiety, the dominant mood remains deeply nostalgic and highly optimistic about our chances to repeat.
