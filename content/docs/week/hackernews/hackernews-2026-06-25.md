@@ -1,6 +1,6 @@
 ---
 title: 2026-06-25
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "open source", "software engineering", "startups", "privacy"]
 ---

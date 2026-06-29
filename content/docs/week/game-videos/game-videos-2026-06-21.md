@@ -1,6 +1,6 @@
 ---
 title: 2026-06-21
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["mass effect", "rpg", "steam sale", "minecraft", "shorts"]
 ---

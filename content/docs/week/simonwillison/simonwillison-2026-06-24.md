@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "ai-assisted-programming", "github-actions", "datasette-lite", "careers"]
 ---

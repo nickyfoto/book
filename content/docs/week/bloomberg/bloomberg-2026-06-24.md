@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["artificial intelligence", "semiconductors", "us politics", "oil markets", "central banks"]
 ---
