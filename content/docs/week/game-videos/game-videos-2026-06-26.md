@@ -1,6 +1,6 @@
 ---
 title: 2026-06-26
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "gaming", "youtube shorts", "memes"]
 ---

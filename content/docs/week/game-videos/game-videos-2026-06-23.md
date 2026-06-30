@@ -1,6 +1,6 @@
 ---
 title: 2026-06-23
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "minecraft shorts", "minecraft videos", "minecraft news"]
 ---

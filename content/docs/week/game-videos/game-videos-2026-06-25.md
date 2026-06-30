@@ -1,6 +1,6 @@
 ---
 title: 2026-06-25
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["steam summer sale", "minecraft", "game recommendations"]
 ---

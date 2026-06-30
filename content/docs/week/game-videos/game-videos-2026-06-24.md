@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "add-ons", "inventory management", "trailers"]
 ---
