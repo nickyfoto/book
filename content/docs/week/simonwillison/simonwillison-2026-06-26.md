@@ -1,6 +1,6 @@
 ---
 title: 2026-06-26
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative-ai", "llms", "prompt-injection", "openai", "security"]
 ---
