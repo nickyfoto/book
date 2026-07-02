@@ -1,6 +1,6 @@
 ---
 title: 2026-06-27
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["local coding agents", "open-weight models", "ai coding assistants", "developer tools"]
 ---

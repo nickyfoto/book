@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "enterprise ai", "autonomous systems"]
 ---

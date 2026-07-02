@@ -1,6 +1,6 @@
 ---
 title: 2026-06-22
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["software engineering", "automation", "documentation", "artificial intelligence", "macos"]
 ---

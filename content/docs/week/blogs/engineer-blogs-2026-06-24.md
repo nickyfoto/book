@@ -1,6 +1,6 @@
 ---
 title: 2026-06-24
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["apex", "quarto", "markdown", "pandoc"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-29
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source", "autonomous vehicles", "developer tools", "robotics"]
 ---
