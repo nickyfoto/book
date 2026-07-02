@@ -1,0 +1,33 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["artificial intelligence", "federal reserve", "usmca", "cryptocurrency", "oil markets"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-07-01
+
+## Lead Story
+The United States has decided against renewing the sweeping $2 trillion US-Mexico-Canada Agreement (USMCA), shifting instead to rolling annual reviews of the trilateral trade pact. The decision, unveiled by US Trade Representative Jamieson Greer, avoids an immediate collapse of the treaty—which technically remains in force for another decade unless a member exits—but opens the door to years of contentious, drawn-out renegotiations. By abandoning a straightforward renewal, the Trump administration has injected massive long-term uncertainty into North American manufacturing and cross-border supply chains.
+
+## Markets & Economics
+* **[Fed's Warsh Charts New Course, Ends Forward Guidance](https://www.bloomberg.com/news/articles/2026-07-01/warsh-says-fed-charting-new-course-repeats-no-forward-guidance)**: Making his global debut as Federal Reserve Chairman at the ECB forum in Sintra, Kevin Warsh vowed to aggressively ensure price stability while confirming the central bank will no longer offer forward guidance. Warsh signaled a quieter, more independent Fed and appointed former Bank of England Governor Mervyn King to co-chair a new task force aimed at overhauling central bank communications.
+* **[US Crude Grades Shed Premium as Hormuz Flows Surge](https://www.bloomberg.com/news/articles/2026-07-01/us-crude-grades-shed-iran-war-premium-as-energy-crisis-eases)**: Key US oil grades are trading at a discount again as global crude flows through the Strait of Hormuz surpass 10 million barrels per day, severely sapping Iran's leverage. Safe passage of commercial ship convoys is unwinding the recent war-driven energy shock, sending global oil prices lower and easing euro-area inflation fears.
+* **[US Companies Add 98,000 Jobs in June, ADP Says](https://www.bloomberg.com/news/videos/2026-07-01/us-companies-add-98-000-jobs-in-june-adp-says-video)**: Private sector payrolls rose by 98,000 last month, falling slightly short of the 120,000 median estimate but maintaining enough steady growth to cap the best three-month hiring stretch in a year. The resilient labor data arrived alongside news that the S&P 500 notched its strongest quarter in six years, heavily fueled by a broad-based AI capital spending boom.
+
+## Business & Industries
+* **[AOL Owner Bending Spoons Jumps 14% After $1.68 Billion IPO](https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo)**: Italian software holding company Bending Spoons SpA and its financial backers raised $1.68 billion in an upsized US initial public offering priced above the marketed range. Shares of the firm, known for rolling up struggling software businesses, surged 14% on their debut.
+* **[US Lifts Export Restrictions on Anthropic’s Fable 5](https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video)**: The US government has officially removed foreign access curbs on Anthropic PBC's Fable 5 AI model, clearing the advanced technology for wider distribution. The reversal follows closed-door negotiations where the startup successfully resolved safety and geopolitical concerns raised by the Trump administration .
+* **[Big Tech’s Carbon Emissions Spike With Runaway Growth of AI](https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai)**: Both Amazon and Google have reported substantial jumps in their greenhouse gas outputs for 2025. The severe emissions spike is being driven almost entirely by the relentless global data center build-out required to support new artificial intelligence infrastructure.
+* **[Kroger to Buy Giant Eagle for $1.65 Billion in Midwest Push](https://www.bloomberg.com/news/articles/2026-07-01/kroger-to-acquire-giant-eagle-chain-in-1-65-billion-deal)**: Supermarket giant Kroger Co. has reached a definitive agreement to acquire the grocery chain Giant Eagle for $1.65 billion . The strategic acquisition will add approximately 200 retail stores across key Midwest states, including Pennsylvania and Ohio .
+
+## Policy & World
+* **[Trump’s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker](https://www.bloomberg.com/news/articles/2026-07-01/trump-s-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker)**: President Donald Trump reported earning at least $1.4 billion in 2025 from cryptocurrency and memecoin ventures, vastly outpacing the income of any publicly traded US digital-asset firm. The massive windfall has raised alarm bells among ethics lawyers, who point to clear constitutional and conflict-of-interest violations as his administration regulates the crypto sector.
+* **[Trump’s Firing Power Ripples Through US Agencies After Court Win](https://www.bloomberg.com/news/articles/2026-07-01/trump-s-firing-power-ripples-through-us-agencies-after-court-win)**: A recent US Supreme Court ruling expanding the President's direct control over federal agencies is sending shockwaves across Washington. The decision has reopened dormant lawsuits regarding efforts to oust entrenched officials, sparking fresh anxiety among civil servants over sweeping executive personnel purges.
+* **[Slovakia to Revive Aluminum Plant That Was Once a Top Producer](https://www.bloomberg.com/news/articles/2026-07-01/slovakia-to-revive-aluminum-plant-that-was-once-a-top-producer)**: In a massive boost to Europe's heavy industrial capacity, Slovakia is preparing to restart primary aluminum production at a facility that was historically one of the continent's largest producers of the metal.
+
+## Opinion & Analysis
+* **[The AI Rally Is Running Out of Road](https://www.bloomberg.com/news/newsletters/2026-07-01/the-great-rotation-leaves-ai-behind-as-the-bubble-peaks)**: An unsustainable melt-up in semiconductor stocks is finally nearing its end as the broader artificial intelligence rally ticks every box defining a classic financial bubble, warning investors that a painful market rotation is imminent .
+* **[Google’s Power Struggles Are Killing Its AI Mojo](https://www.bloomberg.com/opinion/articles/2026-07-01/google-s-power-struggles-are-killing-its-ai-mojo)**: Despite briefly catching up to OpenAI and Anthropic with the release of Gemini 3, Google is once again slipping behind in crucial areas like AI coding . A confounding tangle of corporate red tape and internal power struggles—not technological deficits—is crippling Alphabet's momentum .
