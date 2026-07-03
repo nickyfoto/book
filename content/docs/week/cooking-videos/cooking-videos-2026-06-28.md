@@ -1,6 +1,6 @@
 ---
 title: 2026-06-28
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["recipes", "kitchen gadgets", "cooking tips", "product reviews"]
 ---

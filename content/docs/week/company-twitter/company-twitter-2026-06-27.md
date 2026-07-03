@@ -1,6 +1,6 @@
 ---
 title: 2026-06-27
-weight: 4
+weight: 5
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "open source llms", "local inference", "ai agents"]
 ---

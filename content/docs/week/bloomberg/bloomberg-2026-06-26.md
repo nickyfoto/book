@@ -1,6 +1,6 @@
 ---
 title: 2026-06-26
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["middle east conflict", "artificial intelligence", "monetary policy", "oil markets", "apple"]
 ---

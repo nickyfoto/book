@@ -1,6 +1,6 @@
 ---
 title: 2026-06-30
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["software engineering", "engineering management", "accessibility", "artificial intelligence"]
 ---

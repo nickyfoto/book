@@ -1,6 +1,6 @@
 ---
 title: 2026-06-30
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["stock market", "oil prices", "us supreme court", "artificial intelligence", "foreign exchange"]
 ---
