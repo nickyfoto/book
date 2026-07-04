@@ -1,6 +1,6 @@
 ---
 title: 2026-06-28
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["careers", "coding-agents", "generative-ai", "agentic-engineering"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-01
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["artificial intelligence", "federal reserve", "usmca", "cryptocurrency", "oil markets"]
 ---

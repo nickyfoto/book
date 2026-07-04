@@ -1,6 +1,6 @@
 ---
 title: 2026-06-28
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["geopolitics", "monetary policy", "artificial intelligence", "mergers and acquisitions"]
 ---

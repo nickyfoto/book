@@ -1,6 +1,6 @@
 ---
 title: 2026-06-27
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "global economy", "international trade"]
 ---
