@@ -1,6 +1,6 @@
 ---
 title: 2026-06-27
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "multi-agent systems", "developer tools", "data centers", "open source ai"]
 ---

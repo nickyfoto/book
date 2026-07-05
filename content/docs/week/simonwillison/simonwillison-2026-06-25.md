@@ -1,6 +1,6 @@
 ---
 title: 2026-06-25
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "ai-ethics", "law", "hallucinations"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-25
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["memory safety", "c", "security", "ffmpeg", "cve"]
 ---

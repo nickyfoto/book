@@ -1,6 +1,6 @@
 ---
 title: 2026-06-29
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "systems programming", "hardware", "debugging", "privacy"]
 ---
