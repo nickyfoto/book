@@ -3,32 +3,29 @@ title: Seattle Local
 weight: 12
 bookCollapseSection: true
 categories: ["News", "Lifestyle"]
-tags: ["world cup", "public safety", "weather", "housing", "community events", "extreme heat", "crime", "transit", "city budget", "local business", "homelessness", "transportation", "fifa world cup", "seattle weather"]
+tags: ["world cup", "public safety", "homelessness", "local business", "pride", "crime", "wildfires", "state politics", "transportation", "seattle pride", "community events", "taxes", "weather", "food", "local government", "local politics", "fourth of july"]
 ---
 
-# Seattle Local — Week of 2026-06-20 to 2026-06-26
+# Seattle Local — Week of 2026-06-27 to 2026-07-03
 
 ## Top Story
-The FIFA World Cup continues to dominate Seattle's landscape, breaking local transit records and boosting waterfront business as tens of thousands of international fans flock to the city. While the tournament has brought immense energy and set up a controversial "Pride Match" between Egypt and Iran, it has also kept federal authorities busy managing restricted airspace, resulting in the seizure of 22 rogue drones around Seattle Stadium. 
+Seattle Mayor Katie B. Wilson and King County Executive Girmay Zahilay announced a sweeping restructuring of the King County Regional Homelessness Authority after a forensic audit revealed $13 million in unaccounted public funds. The troubled agency will see its budget slashed by 75% and face layoffs as the city and county reclaim management of $160 million in homelessness contracts. This joint plan aims to immediately stabilize fiscal controls and ensure compliance with federal funding requirements moving forward.
 
 ## Local News
-**King County Homelessness Rises Amid Looming Budget Deficits** · [KOMO News](#)
-New data from the 2026 Point-in-Time Count reveals King County's homeless population has surged 9% over the past two years, reaching 18,365 unsheltered individuals. Simultaneously, Mayor Katie Wilson’s administration is grappling with a projected half-billion-dollar budget deficit, prompting the city's economic development director to explore revenue options beyond the JumpStart payroll tax to rebuild business confidence.
+**['Millionaires Tax' Repeal Qualifies for Ballot]** · [The Seattle Times](https://www.seattletimes.com/seattle-news/politics/campaign-to-repeal-wa-millionaires-tax-submits-over-500000-signatures/)
+Opponents of Washington state's new capital gains tax on high earners submitted over 511,000 signatures this week, easily surpassing the required threshold to place a repeal initiative on the November ballot. Spearheaded by Let's Go Washington, the effort aims to strike down the controversial 9.9% tax rate that applies to individuals or households earning over $1 million annually.
 
-**City Installs Barriers on Aurora Avenue Following Teen Shooting** · [KIRO 7](#)
-Seattle crews have placed temporary concrete barriers along Aurora Avenue North to deter ongoing violent crime and prostitution in the Greenwood neighborhood. The localized intervention follows a recent incident where a 15-year-old boy was critically injured in what police now believe was a shooting carried out by a passenger inside his own vehicle.
+**[New July 1 Laws Hike Taxes and Fines]** · [KIRO 7](https://www.kiro7.com/news/local/celebrate-americas-250th-with-higher-gas-taxes-work-zone-speeding-fines/OG6Z4C3YHJEXHFTU6OMOTP62SM/#Echobox=1782865811)
+Several new state laws took effect on July 1, including a 2% increase to the state gas tax and the launch of a $125 fine for first-time speeders caught by work zone cameras. Additionally, workers are officially seeing payroll deductions for the WA Cares Fund, which simultaneously began paying out long-term care benefits of up to $36,500 for eligible residents needing daily assistance.
 
-**Massive Fireworks Explosion Destroys Homes on Whidbey Island** · [KING 5](#)
-An explosion triggered by an estimated 700 pounds of illegally stored fireworks devastated multiple homes in the Greenbank area of Whidbey Island on Wednesday. The catastrophic blast injured two residents and three responding firefighters, prompting an ongoing investigation into the incident.
+**[Missing Arizona Child Rescued in Olympia Encampment]** · [KOMO News](https://www.youtube.com/watch?v=AJ-MDoVNj4o)
+U.S. Marshals safely recovered an endangered missing girl from Arizona at "The Jungle," a sprawling 20-acre homeless encampment in Olympia, after receiving intelligence about potential sex trafficking. Despite mounting community pressure following the rescue, Olympia city officials stated there are no immediate plans to clear the site, which currently houses roughly 200 people.
 
-**Fire Devastates Historic Jewish Burial Facility in South Seattle** · [KING 5](#)
-An early morning blaze in the Seward Park neighborhood severely damaged a synagogue's funeral home and the region's only *tahara* facility, which is used for traditional burial purification. Community leaders warn that the loss of this historic campus facility will significantly disrupt religious services across three states.
+**[Seattle Records First Homicide-Free June Since 1970]** · [KOMO News](https://komonews.com/news/local/seattle-had-no-homicides-in-june-for-the-first-time-since-1970-chief-shon-barnes-police-department-spd-law-enforcement-real-time-crime-center-visitors-international-events)
+For the first time in over half a century, the city of Seattle completed the month of June without a single homicide. Police Chief Shon Barnes praised the milestone as a sign of progress, noting the city has seen only 15 homicides so far this year compared to a record high of 74 in 2023.
 
-**Region Swings From Heat Advisories to "Junuary" Chill** · [FOX 13](#)
-Following early-week temperatures in the 90s that prompted Stage 1 burn bans and heat-illness warnings across western Washington, a cool Pacific front is bringing a dramatic weather shift. The 15-to-20-degree drop is delivering onshore winds and Seattle's first expected rainfall since early June, providing welcome relief for the nearly half of regional residents without air conditioning.
-
-**Garfield High School Reinstates Brandon Roy as Basketball Coach** · [KOMO News](#)
-Former NBA All-Star Brandon Roy is returning to lead Garfield High School's boys basketball program, nearly a year after being fired over alleged athletic recruitment violations. Seattle Public Schools reinstated him following a Washington Interscholastic Activities Association investigation that fully cleared him of the allegations.
+**[World Cup Brings Record Crowds and Local Frustrations]** · [KING 5](https://www.king5.com/article/money/business/cid-businesses-report-double-digit-sales-decline-fifa-match-days/281-82d4097b-d8b7-4832-b3b2-559fcf70c9f7)
+Seattle Stadium is bracing for massive crowds as the U.S. Men's National Team faces Belgium in a Round of 16 match on Monday, following a week of high-profile global matches where 45,000 pounds of stadium trash have already been collected. However, the influx of 149,000 visitors to Pioneer Square has starkly contrasted with the neighboring Chinatown-International District, where businesses report double-digit sales declines and held protests over persistent public safety concerns.
 
 ## Community & Lifestyle
-As Seattle gears up for a busy Pride weekend and the upcoming 44th annual West Seattle Summer Fest, residents heading to the beach can now catch the new "Golden Gardens Direct" pilot shuttle running every 30 minutes from Ballard. Meanwhile, local public transit is celebrating major milestones, with Sound Transit shattering single-day light rail ridership records multiple times this week thanks to massive World Cup crowds and the new Crosslake Connection on the Eastside.
+The 52nd annual Seattle Pride Parade drew hundreds of thousands of attendees downtown on Sunday to celebrate LGBTQ+ visibility. As residents prepare for the 250th Fourth of July, Washington State Ferries is anticipating a record 400,000 riders, while local drivers should plan for WSDOT closures on Interstate 5 at the Mercer Street, Lakeview Boulevard, and Boylston Avenue exits. In tastier news, the iconic Seattle Dog—featuring its signature cream cheese and grilled onions—was just named the country's best regional hot dog by The New York Times and Chef José Andrés.

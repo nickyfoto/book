@@ -3,33 +3,32 @@ title: Simon Willison
 weight: 16
 bookCollapseSection: true
 categories: ["Blogs", "AI", "Tech"]
-tags: ["datasette", "sandboxing", "javascript", "content-security-policy", "ai-assisted-programming", "model-context-protocol", "llms", "ai", "sqlite-utils", "sqlite", "cloudflare", "migrations", "ai agents", "claude-code", "vibe-coding", "onnx", "prompt-injection", "webgpu", "pyodide", "opfs", "github-actions", "datasette-lite", "careers", "ai-ethics", "law", "hallucinations"]
+tags: ["datasette", "ai-ethics", "law", "hallucinations", "generative-ai", "llms", "prompt-injection", "openai", "security", "careers", "coding-agents", "agentic-engineering", "local-llms", "tools", "applescript", "html", "shot-scraper", "anthropic", "dspy", "prompt-engineering", "open-source", "datasette-lite"]
 ---
 
-# Simon Willison — Week of 2026-06-18 to 2026-06-25
+# Simon Willison — Week of 2026-06-25 to 2026-07-03
 
 ## Highlight of the Week
-This week's absolute standout is the launch of the `datasette-apps` plugin, which fundamentally transforms how we build micro-applications over local databases. By utilizing tightly constrained iframe sandboxes and Content-Security-Policy headers, developers and LLMs alike can safely run custom HTML/JS interfaces against a persistent Datasette backend. It brilliantly merges Simon's ongoing experiments with AI-assisted "vibe coding" and robust security architectures into a core ecosystem feature, effectively bridging the gap between Claude Artifacts and secure data environments.
+The single most impactful release this week was Simon's launch of `llm-coding-agent 0.1a0`, which successfully turns his popular `llm` library into a full-fledged coding agent capable of file manipulation and command execution. Bootstrapped entirely using Claude Fable 5 via test-driven development, this represents a massive leap forward for his CLI ecosystem and a brilliant showcase of using frontier models to build the very tools that will orchestrate them.
 
 ## Key Posts
+**[llm-coding-agent 0.1a0]** · [Source](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything)
+Simon released a major alpha turning his `llm` library into a tool-wielding agent. He used Claude Code with Claude Fable 5 to write the spec, generating file manipulation tools and an unprompted Python API that he immediately used to build a SwiftUI app.
 
-**[Datasette Apps: Host custom HTML applications inside Datasette]** · [Source](#)
-Simon details the security and architecture behind `datasette-apps`, leveraging `<iframe sandbox="allow-scripts">` and injected CSP headers to safely execute untrusted JavaScript over authenticated data. Interestingly, he used Claude Fable 5 to evaluate the plugin, which uncovered a severe data exfiltration vulnerability that he promptly patched before locking down domain-allow permissions.
+**[Have your agent record video demos of its work with shot-scraper video]** · [Source](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything)
+Showcasing his "agentic engineering" workflow, Simon built a new `shot-scraper video` command driven by a YAML storyboard, using GPT-5.5. He notes a brilliant pattern for CLI design: putting detailed examples in `--help` output essentially creates an embedded skill file that coding agents can read to use the tools autonomously.
 
-**[Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code]** · [Source](#)
-In a masterclass on AI-driven development, Simon used Claude Code (Opus 4.8) to act as a full-stack ML engineer, converting a PyTorch model to ONNX, handling browser caching via the CacheStorage API, and deploying a WebGPU app without writing a single line of code himself. It is a striking demonstration of how autonomous agents can bridge significant domain gaps while the developer works on entirely different primary projects.
+**[Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding]** · [Source](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything)
+Exploring the cutting edge of local open-weights models, Simon tested the new MIT-licensed Ornith-1.0. Running the 35B MoE variant locally, he found it incredibly proficient at executing tool calls against a Datasette checkout, signaling practical steps forward for open-source AI developer tooling.
 
-**[datasette 1.0a35]** · [Source](#)
-This major pre-release introduces powerful graphical interfaces for creating and altering tables, shifting Datasette further away from its read-only roots. Users can now seamlessly define columns, constraints, and foreign keys directly via the UI, fully supported by backing JSON APIs and formalized template context variables.
+**[AI and Liability]** · [Source](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything)
+Taking a critical look at governance, Simon highlighted Bruce Schneier's analysis of a German court ruling against Google. Schneier forcefully argues that companies must face the exact same liability for AI-generated errors as they would for human employees to prevent disastrous corporate incentives.
 
-**[simonw/browser-compat-db]** · [Source](#)
-Showcasing his signature rapid-prototyping workflow, Simon used Claude Code to convert Mozilla's MDN compatibility data into a ~66MB SQLite database. To get around GitHub Releases lacking open CORS headers, he used GPT-5.5 to write a clever GitHub Actions workflow that force-pushes the DB to an orphan branch, making it instantly queryable in the browser via Datasette Lite.
-
-**[Prompt Injection as Role Confusion]** · [Source](#)
-Simon highlights research showing that LLMs parse instructions based on stylistic cues rather than structural boundaries, meaning they fundamentally struggle to distinguish privileged system prompts from untrusted user input. The researchers found that simply "destyling" the text dropped attack success rates from 61% to 10%, underscoring that prompt injection will remain a perpetual game of whack-a-mole until models achieve genuine "role perception".
+**[Fable’s judgement]** · [Source](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)
+A highly pragmatic prompt engineering tip for running agents locally ahead of token price hikes. Simon instructed Claude Fable to act as a manager that delegates mundane implementation tasks to smaller models (like Sonnet or Haiku), reserving the expensive Fable model for high-level design and review.
 
 ## Project Updates
-It was a massive week of consolidation for the broader SQLite and Datasette ecosystems. Simon shipped `sqlite-utils` 4.0rc1, which officially brings nested transactions and database migrations (absorbing the `sqlite-migrate` package) directly into the core library. Across the Datasette front, we saw multiple alpha releases for `datasette-apps` and `datasette-acl` to refine multi-user access controls, culminating in the monumental Datasette 1.0a35 release that introduces core table mutation UIs.
+It was a busy week for releases, headlined by the major alpha release of `llm-coding-agent 0.1a0` and `shot-scraper 1.10`, which introduced the powerful new YAML-driven video command. On the maintenance side, Simon shipped an "embarrassingly tiny" but critical `datasette-export-database 0.3a2` patch to fix a dependency pinning issue that broke Datasette compatibility, and added a new HTML table extractor to his collection of sharp, single-purpose web utilities.
 
 ## Themes
-A dominant theme this week is the maturation of AI "vibe coding" from a novelty into a serious orchestration strategy for shipping functional code across unfamiliar domains like WebGPU and ONNX. We're seeing Simon actively deploy frontier models to handle heavy architectural tasks, while simultaneously focusing deeply on the stringent security and permission paradigms required to run this untrusted, AI-generated code safely in production.
+A massive recurring theme this week was the shift toward "agentic engineering," where developers must manage AI-generated complexity through token economics (GPT-5.6 caching, Sonnet 5 token bumps, Fable delegation) and mitigate "cognitive debt" to maintain fluency in their codebase. Philosophically, Simon explored how we fit into this loop, championing Jon Udell's concept of an "agent in the loop" rather than surrendering our engineering authority to unreviewable black boxes.
