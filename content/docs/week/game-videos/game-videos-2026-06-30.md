@@ -1,6 +1,6 @@
 ---
 title: 2026-06-30
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["free games", "game deals", "pc gaming", "minecraft"]
 ---

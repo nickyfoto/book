@@ -1,6 +1,6 @@
 ---
 title: 2026-06-27
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "hardware", "tech news", "gaming"]
 ---

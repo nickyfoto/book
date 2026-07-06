@@ -1,6 +1,6 @@
 ---
 title: 2026-07-01
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["open source", "artificial intelligence", "software engineering", "game development", "cryptography"]
 ---

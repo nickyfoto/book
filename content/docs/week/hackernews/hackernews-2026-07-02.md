@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "google", "open source", "cybersecurity", "software engineering"]
 ---

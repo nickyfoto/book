@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["coding-agents", "generative-ai", "llms", "datasette", "dspy"]
 ---

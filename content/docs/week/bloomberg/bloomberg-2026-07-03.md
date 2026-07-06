@@ -1,6 +1,6 @@
 ---
 title: 2026-07-03
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["federal reserve", "artificial intelligence", "commodities", "geopolitics", "mergers and acquisitions"]
 ---
