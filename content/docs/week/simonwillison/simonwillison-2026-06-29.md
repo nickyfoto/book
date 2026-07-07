@@ -1,6 +1,6 @@
 ---
 title: 2026-06-29
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["local-llms", "tools", "applescript", "html"]
 ---

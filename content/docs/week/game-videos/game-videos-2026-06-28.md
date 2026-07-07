@@ -1,6 +1,6 @@
 ---
 title: 2026-06-28
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["steam summer sale", "upcoming games", "minecraft", "gaming memes"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-29
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["supreme court", "geopolitics", "cryptocurrency", "artificial intelligence", "mergers and acquisitions"]
 ---

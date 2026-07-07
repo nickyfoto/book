@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "software engineering", "consumer tech", "cloud computing"]
 ---
