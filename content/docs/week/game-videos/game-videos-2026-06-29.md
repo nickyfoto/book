@@ -1,6 +1,6 @@
 ---
 title: 2026-06-29
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["steam summer sale", "game recommendations", "budget gaming", "deals"]
 ---

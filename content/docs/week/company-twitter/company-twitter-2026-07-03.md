@@ -1,6 +1,6 @@
 ---
 title: 2026-07-03
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "open source", "national security"]
 ---

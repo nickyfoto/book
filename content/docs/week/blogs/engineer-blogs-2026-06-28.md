@@ -1,6 +1,6 @@
 ---
 title: 2026-06-28
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["python", "ableton live", "webassembly", "large language models", "developer tools"]
 ---

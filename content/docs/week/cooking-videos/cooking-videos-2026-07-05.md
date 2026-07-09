@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["lu cuisine", "cold dishes", "instant ramen", "cooking techniques"]
 ---

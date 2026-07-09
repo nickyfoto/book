@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["engineering management", "artificial intelligence", "leadership", "technology mandates"]
 ---
