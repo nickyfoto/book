@@ -1,6 +1,6 @@
 ---
 title: 2026-07-06
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["assassin's creed", "steam summer sale", "gameplay", "game deals"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "robotics", "open source", "biotechnology", "enterprise software"]
 ---

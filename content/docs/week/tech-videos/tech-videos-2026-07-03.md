@@ -1,6 +1,6 @@
 ---
 title: 2026-07-03
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "devops", "open-source models", "hardware", "product management"]
 ---

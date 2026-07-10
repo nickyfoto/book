@@ -1,6 +1,6 @@
 ---
 title: 2026-07-06
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["software architecture", "agentic engineering", "ai ethics", "llm costs"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-04
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "energy markets", "macroeconomics", "monetary policy", "corporate strategy"]
 ---

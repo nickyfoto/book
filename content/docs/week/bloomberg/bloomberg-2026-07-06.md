@@ -1,6 +1,6 @@
 ---
 title: 2026-07-06
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["artificial intelligence", "semiconductors", "mergers and acquisitions", "global politics"]
 ---

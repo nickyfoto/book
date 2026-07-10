@@ -1,6 +1,6 @@
 ---
 title: 2026-07-04
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source", "hardware", "cloud computing", "generative ai"]
 ---
