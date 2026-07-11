@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["crude oil", "artificial intelligence", "semiconductors", "geopolitics"]
 ---

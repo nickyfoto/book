@@ -1,6 +1,6 @@
 ---
 title: 2026-07-04
-weight: 4
+weight: 5
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "llm-tool-use", "coding-agents", "javascript", "ascii-art"]
 ---

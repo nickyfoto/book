@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite-utils", "claude fable", "coding agents", "agentic engineering"]
 ---

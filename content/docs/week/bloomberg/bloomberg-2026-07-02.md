@@ -1,6 +1,6 @@
 ---
 title: 2026-07-02
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["us economy", "artificial intelligence", "federal reserve", "semiconductors", "oil markets"]
 ---
