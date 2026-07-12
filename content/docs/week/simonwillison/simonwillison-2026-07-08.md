@@ -1,6 +1,6 @@
 ---
 title: 2026-07-08
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-assisted-programming", "sqlite-utils", "agentic-engineering", "llms"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-03
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "prompt-engineering", "open-source", "datasette-lite", "generative-ai"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-08
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "global markets", "artificial intelligence", "monetary policy", "crude oil"]
 ---

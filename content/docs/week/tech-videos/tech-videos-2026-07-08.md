@@ -1,6 +1,6 @@
 ---
 title: 2026-07-08
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "large language models", "developer tools", "ai infrastructure", "engineering culture"]
 ---

@@ -1,0 +1,34 @@
+---
+title: 2026-07-02
+weight: 8
+categories: ["News"]
+tags: ["us economy", "artificial intelligence", "federal reserve", "semiconductors", "oil markets"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-07-02
+
+## Lead Story
+In a pivotal shift for the US economy, June hiring slowed sharply with nonfarm payrolls increasing by just 57,000, curbing the job market's recent momentum despite a drop in the unemployment rate. The softer-than-expected data immediately rippled through financial markets, prompting a Treasury rally and driving equity traders to dial back bets that the Federal Reserve will raise interest rates in the coming months. The employment cooldown aligns with recent dovish remarks from Fed Chairman Kevin Warsh on easing inflation, cementing expectations that the central bank will remain patient on monetary policy. 
+
+## Markets & Economics
+*   **[Tech Selloff Extends as Meta Sparks AI Capacity Fears](https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers)**: A global semiconductor selloff intensified after Meta Platforms Inc.'s reported plans to sell computing power ignited fears of an AI capacity glut. The resulting tech rout dragged down US indexes and hammered Asian chipmakers, raising immediate questions about the sustainability of the artificial intelligence-fueled market rally.
+*   **[Yen Strengthens on Intervention Alert as Foreigners Dump Bonds](https://www.bloomberg.com/news/articles/2026-07-02/yen-edges-higher-with-traders-on-alert-for-risk-of-intervention)**: The Japanese yen edged higher against the dollar amid growing speculation that government officials may intervene in currency markets without warning. Simultaneously, overseas investors offloaded the most Japanese bonds in three years in June after lackluster performance left the debt trailing its global peers.
+*   **[Saudi Oil Exports Rebound Amid Hormuz Truce](https://www.bloomberg.com/news/articles/2026-07-02/saudi-tankers-exit-hormuz-in-kingdom-s-biggest-oil-flow-since-iran-war-truce)**: Saudi Arabia's crude exports from the Persian Gulf have surged to near pre-war levels following an interim US-Iran peace deal that unblocked the Strait of Hormuz. The increased flows are providing near-term supply relief to global markets and allowing independent refiners to aggressively snap up cheaper Middle Eastern barrels.
+
+## Business & Industries
+*   **[OpenAI Proposes 5% Stake for US Government](https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-video)**: OpenAI executives, including CEO Sam Altman, have initiated preliminary discussions to give the US government a 5% equity stake in the ChatGPT developer. The proposal is reportedly part of a broader, high-stakes strategy to secure Washington's backing by offering a stake in all leading domestic AI developers.
+*   **[Banks Line Up $49 Billion for Paramount-Warner Deal](https://www.bloomberg.com/news/articles/2026-07-02/banks-get-bids-on-49-billion-paramount-debt-well-before-sale)**: Wall Street lenders have already secured enough investor demand to cover a massive $49 billion debt package backing Paramount Skydance Corp.’s blockbuster takeover of Warner Bros. Discovery Inc. long before formally launching the deal.
+*   **[Tesla Deliveries Surge 25% to Beat Estimates](https://www.bloomberg.com/news/articles/2026-07-02/tesla-vehicle-sales-climb-25-far-exceeding-analyst-estimates)**: Tesla Inc. posted a 25% jump in vehicle sales, significantly outperforming Wall Street expectations in a sluggish global market for plug-in cars. The automaker is looking to further its momentum by making a highly anticipated three-row version of its top-selling Model Y SUV available to US consumers.
+*   **[Jersey Mike's Files for IPO Amid Listing Rebound](https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump)**: The Blackstone-backed sandwich chain Jersey Mike’s Subs Inc. has officially filed for an initial public offering. The move joins a rush of corporate debuts—including EG Group's Cumberland Farms—that has powered a record start to the year for US listings.
+
+## Policy & World
+*   **[Apple Seeks Chinese Chips as US-China Tariff Talks Simmer](https://www.bloomberg.com/news/videos/2026-07-02/daybreak-europe-7-2-2026-video)**: Apple CEO Tim Cook has reportedly appealed to the Trump administration to facilitate the purchase of memory chips from Chinese semiconductor firms currently on a Pentagon blacklist. The direct lobbying occurs as Washington and Beijing seek to preserve a broader trade truce by rolling back tariffs on agricultural products.
+*   **[Japan and India Deepen Strategic Ties](https://www.bloomberg.com/news/articles/2026-07-02/japan-s-takaichi-to-meet-modi-on-first-official-india-visit)**: Japanese Prime Minister Sanae Takaichi held talks with Indian Prime Minister Narendra Modi in New Delhi to strengthen defense, technology, and economic cooperation. The bilateral summit underscores a mutual effort by both nations to reduce their strategic dependence on China.
+*   **[Russia Unleashes Intense Attacks on Kyiv](https://www.bloomberg.com/news/articles/2026-07-02/russian-missile-attack-on-kyiv-kills-at-least-10-injures-dozens)**: Russia launched one of its most severe missile and drone barrages on the Ukrainian capital this year, killing at least 13 people and injuring dozens more. Concurrently, Moscow signaled that Ukraine may have deployed a ballistic missile in combat for the first time.
+
+## Opinion & Analysis
+*   **[Ford Mistook AI for a Quick Fix](https://www.bloomberg.com/opinion/articles/2026-07-02/ford-mistook-artificial-intelligence-for-a-quick-fix)**: Bloomberg Opinion explores how corporate America, exemplified by Ford, is wildly misjudging artificial intelligence, comparing disjointed corporate adoption strategies to the deafening, uncoordinated screams of Beatles fans who couldn't hear the music at Shea Stadium.
+*   **[SpaceX Is Junk. That’s What the Bond Market Says](https://www.bloomberg.com/opinion/articles/2026-07-02/spacex-is-junk-that-s-what-the-bond-market-says)**: Despite its technological triumphs, Elon Musk’s space venture faced a "very sloppy" inaugural bond sale. Credit rating firms and debt markets are in rare agreement, treating the company's financial profile as high-risk junk.
+*   **[China's Great Economic Contradiction](https://www.bloomberg.com/news/videos/2026-07-02/what-dan-wang-saw-on-his-last-trip-to-china-video)**: Analyst Dan Wang dissects the pervasive sense of unease within China's borders, juxtaposing the nation's undeniable industrial dominance and rising material prosperity against a chronically soft domestic market and profound worker precarity.
