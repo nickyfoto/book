@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "startups", "history"]
 ---

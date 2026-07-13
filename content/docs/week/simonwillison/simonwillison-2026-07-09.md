@@ -1,6 +1,6 @@
 ---
 title: 2026-07-09
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "openai", "meta", "llm-tool-use", "generative-ai"]
 ---

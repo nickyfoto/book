@@ -1,6 +1,6 @@
 ---
 title: 2026-07-01
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "api design", "terminal interfaces", "developer tools"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "open source", "cybersecurity", "ai infrastructure", "scientific ai"]
 ---
