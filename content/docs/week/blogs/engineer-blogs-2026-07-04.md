@@ -1,6 +1,6 @@
 ---
 title: 2026-07-04
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["observability", "software engineering", "artificial intelligence", "engineering management", "developer tools"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-06
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite", "generative ai", "large language models", "developer tools"]
 ---

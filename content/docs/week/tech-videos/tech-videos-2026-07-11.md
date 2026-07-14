@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "local ai", "software engineering"]
 ---

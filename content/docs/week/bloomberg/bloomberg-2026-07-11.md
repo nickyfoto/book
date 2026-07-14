@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "monetary policy", "energy", "mergers and acquisitions", "us politics"]
 ---

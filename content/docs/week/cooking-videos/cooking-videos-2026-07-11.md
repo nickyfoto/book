@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["seafood", "cooking techniques", "chinese cuisine", "thai cuisine"]
 ---
