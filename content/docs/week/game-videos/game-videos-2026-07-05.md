@@ -1,6 +1,6 @@
 ---
 title: 2026-07-05
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["mass effect 2", "minecraft", "rpg", "video essay"]
 ---

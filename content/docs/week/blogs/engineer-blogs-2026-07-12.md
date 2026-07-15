@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["markdown", "large language models", "presentations", "automation"]
 ---

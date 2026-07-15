@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "coding agents", "software engineering", "developer tools", "tech workforce"]
 ---

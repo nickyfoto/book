@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative-ai", "shot-scraper", "management", "ai-ethics"]
 ---
