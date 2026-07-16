@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["linear algebra", "large language models", "engineering leadership", "technical debt"]
 ---

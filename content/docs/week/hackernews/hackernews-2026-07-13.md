@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "linux", "cybersecurity", "software engineering", "performance optimization"]
 ---

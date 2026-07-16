@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["us-iran conflict", "oil prices", "mergers and acquisitions", "monetary policy", "artificial intelligence"]
 ---

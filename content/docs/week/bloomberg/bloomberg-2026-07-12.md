@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "global markets", "us politics", "corporate news", "commodities"]
 ---
