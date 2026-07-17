@@ -1,6 +1,6 @@
 ---
 title: 2026-07-09
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "rust", "databases", "reverse engineering", "right to repair"]
 ---

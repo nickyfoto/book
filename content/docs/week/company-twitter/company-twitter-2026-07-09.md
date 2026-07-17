@@ -1,6 +1,6 @@
 ---
 title: 2026-07-09
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "large language models", "open source", "robotics"]
 ---

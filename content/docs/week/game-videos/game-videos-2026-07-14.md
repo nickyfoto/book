@@ -1,6 +1,6 @@
 ---
 title: 2026-07-14
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["gta online", "steam sales", "minecraft", "game trailers"]
 ---

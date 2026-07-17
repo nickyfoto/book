@@ -1,6 +1,6 @@
 ---
 title: 2026-07-08
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "new features", "shorts"]
 ---
