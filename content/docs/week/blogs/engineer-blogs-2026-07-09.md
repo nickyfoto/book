@@ -1,6 +1,6 @@
 ---
 title: 2026-07-09
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "observability", "markdown", "gaming", "business strategy"]
 ---

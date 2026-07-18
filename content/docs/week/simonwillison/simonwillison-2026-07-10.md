@@ -1,6 +1,6 @@
 ---
 title: 2026-07-10
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai", "chatgpt", "augmented reality", "privacy"]
 ---

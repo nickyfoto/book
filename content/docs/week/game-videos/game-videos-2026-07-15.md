@@ -1,6 +1,6 @@
 ---
 title: 2026-07-15
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["assassin's creed", "black flag resynced", "ubisoft", "game remake"]
 ---

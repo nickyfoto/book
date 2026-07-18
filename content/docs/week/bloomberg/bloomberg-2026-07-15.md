@@ -1,6 +1,6 @@
 ---
 title: 2026-07-15
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["iran war", "inflation", "interest rates", "crude oil", "artificial intelligence"]
 ---

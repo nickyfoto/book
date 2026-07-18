@@ -1,0 +1,31 @@
+---
+title: 2026-07-16
+weight: 1
+categories: ["News", "Tech"]
+tags: ["artificial intelligence", "software engineering", "consumer tech", "tech industry"]
+---
+
+# Chinese Tech Daily — 2026-07-16
+
+## Top Story
+Alibaba's **[Qoder has captured a staggering 47.6% of China's AI coding market](https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj)**, signaling a fundamental shift from simple AI code generation to AI-native Software Development Life Cycles (SDLC). As the only Chinese company in Gartner's Challenger quadrant for AI code agents, Qoder's success underscores how the competitive focus is moving from raw model capabilities to "harness engineering"—building agents that can autonomously read repositories, manage state, and execute full tasks across the enterprise workflow.
+
+## Engineering & Dev
+The debate over AI's place in open source reached a boiling point as **[Linus Torvalds explicitly defended AI tools](https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq)** on the Linux kernel mailing list, declaring that AI is a tool just like a compiler, and telling critics to fork the project or "walk away" if they disagree. In the realm of testing, **[Slack introduced agentic end-to-end testing](https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2)** to address the fragility of traditional UI automation, using AI agents to navigate UI changes dynamically based on high-level intents. For developers building full-stack AI apps, **[Google's Genkit released its Agents API in preview](https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF)**, enabling detachable task turns and human-in-the-loop interventions without swapping underlying infrastructure. 
+
+Meanwhile, Ruan Yifeng's weekly roundup highlighted the **[hardware nuances of running local AI models](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)**, explaining why a mini-PC with AMD's unified memory architecture might outshine an RTX 5090 for massive models, despite the GPU's superior memory bandwidth, alongside a handy guide on the art of naming Boolean variables. Lastly, developers are exploring the **[AT Protocol for high-resilience, local-first applications](https://www.infoq.cn/article/jfLE6MAu0Bq8b4dsXG9y)**, utilizing personal data servers (PDS) to avoid single points of failure in collaborative apps.
+
+## Products & Digital
+In consumer software, **[macOS 15 launched its first public beta](https://sspai.com/post/112375)**, officially dropping support for Intel architectures while refining its "Liquid Glass" visual language and enhancing iPhone mirroring with dynamic aspect ratios. On the productivity front, **[WPS unveiled Lingxi Professional Edition](https://www.ifanr.com/1672096)**, an AI office assistant that shifts the paradigm from temporary chat windows to long-term project memory, allowing the AI to retain context across multiple files, group chats, and historical workflows. 
+
+For students, **[Apple's annual Back to School promotion in China has launched](https://sspai.com/post/112386)** with a notable twist: instead of bundling AirPods or an Apple Pencil, the baseline promotion now offers a four-pack of AirTags, alongside recently hiked starting prices for Macs and iPads. In smart home hardware, DJI's foray into robot vacuums is turning heads with the **[ROMO P2](https://sspai.com/post/112400)**, a device featuring a transparent polycarbonate shell that proudly displays its internal components, paired with robust obstacle avoidance tech inherited from its drone lineage. Finally, Canva continues to lower the barrier to entry with **[Canva Code 2.0](https://sspai.com/post/112373)**, a "Vibe Coding" platform that lets users generate and edit interactive web pages entirely through conversational prompts.
+
+## News & Commentary
+A comprehensive survey of the tech workforce reveals that **[the "AI honeymoon" may be ending, leading to a state of "smiling exhaustion"](https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW)**. While AI has dramatically increased output speed, it has also resulted in unsustainable pacing, cognitive atrophy, and mounting burnout, with over half of tech workers feeling exhausted and deeply hesitant to recommend their roles to newcomers. Geopolitically, the open-source AI community is facing an existential threat as rumors swirl that **[the White House is considering restricting open-source AI models](https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx)**, particularly targeting highly capable Chinese systems like DeepSeek; experts warn this could cripple the open-source ecosystem within six months. In the semiconductor space, **[ChangXin Memory Technologies (CXMT) is preparing for a blockbuster IPO](https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/)** on the Shanghai Stock Exchange, aiming to raise nearly 66.6 billion RMB as China accelerates its push for self-reliance in the high-bandwidth memory chips crucial for AI data centers.
+
+## Also Noted
+*   **[DeepSeek planning Shanghai IPO next year](https://www.ifanr.com/1672097)**: The AI firm is seeking $1.5 billion in new funding at a $71 billion valuation and aiming for a STAR Market listing.
+*   **[Apple Intelligence approved in China](https://www.ifanr.com/1672097)**: Apple's on-device generative AI service has completed its regulatory filing, with Alibaba's Qwen model integrating to power features for Chinese users.
+*   **[Akamai tests new edge infrastructure during World Cup](https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B)**: Streaming the tournament hit a peak of 125 Tbps, pushing the industry to shift from centralized data centers to distributed edge networks.
+*   **[Yonyou U8 Cloud SQL injection and XXE vulnerabilities exposed](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)**: A critical flaw in the XChangeServlet interface threatens database integrity for enterprise ERP users.
+*   **[Meet Tibo, the "Cyber Godfather" of OpenAI Codex](https://www.ifanr.com/1672101)**: The developer who manages Codex's token limits and routinely resets them for millions of users is quietly steering OpenAI's super-app strategy.
