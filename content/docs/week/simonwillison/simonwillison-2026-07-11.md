@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite-utils", "python", "sqlite", "ai-assisted-programming"]
 ---

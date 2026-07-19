@@ -1,6 +1,6 @@
 ---
 title: 2026-07-11
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "large language models", "autonomous vehicles", "cloud computing", "enterprise software"]
 ---

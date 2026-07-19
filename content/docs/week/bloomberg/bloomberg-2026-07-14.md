@@ -1,6 +1,6 @@
 ---
 title: 2026-07-14
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["artificial intelligence", "inflation", "oil", "bank earnings", "geopolitics"]
 ---

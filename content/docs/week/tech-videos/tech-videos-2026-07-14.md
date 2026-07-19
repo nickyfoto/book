@@ -1,6 +1,6 @@
 ---
 title: 2026-07-14
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "ai agents", "developer tools", "machine learning"]
 ---

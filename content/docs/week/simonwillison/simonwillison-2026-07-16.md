@@ -1,6 +1,6 @@
 ---
 title: 2026-07-16
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "webassembly", "open-source", "generative-ai"]
 ---

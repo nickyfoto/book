@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "apple", "openai", "ai infrastructure"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-16
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["steam", "game deals", "minecraft", "unboxing"]
 ---
