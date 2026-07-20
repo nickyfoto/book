@@ -1,6 +1,6 @@
 ---
 title: 2026-07-12
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "coding agents", "postgresql", "web browsers", "software engineering"]
 ---

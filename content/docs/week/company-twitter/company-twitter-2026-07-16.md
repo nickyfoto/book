@@ -1,6 +1,6 @@
 ---
 title: 2026-07-16
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "generative ai", "developer tools", "venture capital"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous vehicles", "cloud computing", "startups"]
 ---
