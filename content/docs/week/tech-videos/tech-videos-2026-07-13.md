@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cloud infrastructure", "ios 27"]
 ---

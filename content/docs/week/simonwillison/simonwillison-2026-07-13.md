@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite", "datasette", "ai-assisted-programming", "llms", "coding-agents"]
 ---

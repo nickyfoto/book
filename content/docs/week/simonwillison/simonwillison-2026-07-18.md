@@ -1,6 +1,6 @@
 ---
 title: 2026-07-18
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "tools", "sqlite", "python", "anthropic"]
 ---

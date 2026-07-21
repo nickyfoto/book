@@ -1,6 +1,6 @@
 ---
 title: 2026-07-14
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative ai", "sqlite", "github actions", "prompt engineering"]
 ---

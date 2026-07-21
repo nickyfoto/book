@@ -1,6 +1,6 @@
 ---
 title: 2026-07-13
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["agentic programming", "software engineering", "code review", "large language models"]
 ---

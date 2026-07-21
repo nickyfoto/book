@@ -1,6 +1,6 @@
 ---
 title: 2026-07-15
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["fourier transform", "signal processing", "mathematics", "calculus"]
 ---
