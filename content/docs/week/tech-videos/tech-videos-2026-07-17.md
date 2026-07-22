@@ -1,6 +1,6 @@
 ---
 title: 2026-07-17
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "machine learning", "coding agents", "software engineering"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-15
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["security", "prompt-injection", "coding-agents", "open-source", "rust"]
 ---

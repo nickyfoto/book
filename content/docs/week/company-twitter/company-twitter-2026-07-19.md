@@ -1,6 +1,6 @@
 ---
 title: 2026-07-19
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open-source ai", "autonomous driving", "electric vehicles"]
 ---

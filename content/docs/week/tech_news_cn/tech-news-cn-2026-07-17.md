@@ -1,6 +1,6 @@
 ---
 title: 2026-07-17
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "large language models", "software engineering", "consumer tech", "geopolitics"]
 ---

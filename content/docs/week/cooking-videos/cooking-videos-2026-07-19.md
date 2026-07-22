@@ -1,6 +1,6 @@
 ---
 title: 2026-07-19
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["clarified broth", "fried meatballs", "broccoli sprouts", "grass jelly"]
 ---
