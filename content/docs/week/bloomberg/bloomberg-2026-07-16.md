@@ -1,6 +1,6 @@
 ---
 title: 2026-07-16
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["geopolitics", "monetary policy", "mergers and acquisitions", "international trade"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "large language models", "ai infrastructure", "software engineering", "chinese tech"]
 ---

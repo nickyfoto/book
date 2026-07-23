@@ -1,6 +1,6 @@
 ---
 title: 2026-07-18
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["android", "large language models", "open source", "software engineering"]
 ---

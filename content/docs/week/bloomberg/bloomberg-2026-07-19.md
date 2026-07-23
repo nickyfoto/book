@@ -1,6 +1,6 @@
 ---
 title: 2026-07-19
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "global markets", "oil prices", "world cup"]
 ---

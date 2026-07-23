@@ -1,6 +1,6 @@
 ---
 title: 2026-07-17
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["artificial intelligence", "semiconductors", "us-iran war", "donald trump", "global markets"]
 ---
