@@ -1,6 +1,6 @@
 ---
 title: 2026-07-21
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["prompt engineering", "coding agents", "local llms", "anthropic", "macos"]
 ---

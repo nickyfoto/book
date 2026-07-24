@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "startups", "robotics", "edge computing"]
 ---

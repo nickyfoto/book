@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["memory safety", "buffer overflow", "tagged unions", "c programming"]
 ---
