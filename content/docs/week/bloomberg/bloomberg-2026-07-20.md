@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "inflation", "oil and energy", "artificial intelligence", "mergers and acquisitions"]
 ---

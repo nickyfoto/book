@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "cybersecurity", "mathematics", "computer graphics"]
 ---

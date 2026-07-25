@@ -1,6 +1,6 @@
 ---
 title: 2026-07-16
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "legacy modernization", "voice coding", "machine learning"]
 ---

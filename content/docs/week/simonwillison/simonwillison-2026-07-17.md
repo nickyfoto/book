@@ -1,6 +1,6 @@
 ---
 title: 2026-07-17
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["webassembly", "generative ai", "tools", "ai energy usage"]
 ---
