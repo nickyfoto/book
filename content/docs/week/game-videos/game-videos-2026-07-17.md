@@ -1,6 +1,6 @@
 ---
 title: 2026-07-17
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["plants vs. zombies", "easter eggs", "tech unboxing", "minecraft"]
 ---

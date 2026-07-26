@@ -1,6 +1,6 @@
 ---
 title: 2026-07-18
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["us-iran conflict", "artificial intelligence", "interest rates", "international trade", "semiconductors"]
 ---
