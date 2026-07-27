@@ -1,6 +1,6 @@
 ---
 title: 2026-07-24
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["chinese cuisine", "cooking techniques", "family meals", "japanese curry"]
 ---

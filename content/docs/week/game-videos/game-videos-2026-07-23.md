@@ -1,6 +1,6 @@
 ---
 title: 2026-07-23
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "gaming", "shorts", "memes", "challenge"]
 ---

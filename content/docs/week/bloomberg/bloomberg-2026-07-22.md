@@ -1,6 +1,6 @@
 ---
 title: 2026-07-22
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["artificial intelligence", "geopolitics", "tariffs", "central banks", "oil"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-24
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "open source ai", "hardware infrastructure"]
 ---

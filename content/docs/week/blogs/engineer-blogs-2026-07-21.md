@@ -1,6 +1,6 @@
 ---
 title: 2026-07-21
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["django", "web development", "large language models", "domain-specific languages"]
 ---

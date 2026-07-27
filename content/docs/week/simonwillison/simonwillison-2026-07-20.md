@@ -1,6 +1,6 @@
 ---
 title: 2026-07-20
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative-ai", "coding-agents", "ai-ethics", "reverse-engineering", "llms"]
 ---

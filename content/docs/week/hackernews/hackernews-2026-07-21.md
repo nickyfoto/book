@@ -1,6 +1,6 @@
 ---
 title: 2026-07-21
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "mathematics", "privacy", "open source", "software engineering"]
 ---
