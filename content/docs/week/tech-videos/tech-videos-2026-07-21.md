@@ -1,6 +1,6 @@
 ---
 title: 2026-07-21
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "large language models", "hardware"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-22
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "semiconductors", "cybersecurity", "large language models"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-06-10
-weight: 4
+weight: 5
 categories: ["Sports", "Youtube"]
 tags: ["mike macdonald", "minicamp", "injuries", "accountability", "scheme"]
 ---

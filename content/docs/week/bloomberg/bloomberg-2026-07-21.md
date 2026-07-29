@@ -1,6 +1,6 @@
 ---
 title: 2026-07-21
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["us-iran conflict", "global markets", "tariffs", "mergers and acquisitions", "artificial intelligence"]
 ---

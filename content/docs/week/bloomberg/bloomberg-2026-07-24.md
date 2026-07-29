@@ -1,6 +1,6 @@
 ---
 title: 2026-07-24
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["tariffs", "oil prices", "monetary policy", "mergers and acquisitions", "geopolitics"]
 ---
