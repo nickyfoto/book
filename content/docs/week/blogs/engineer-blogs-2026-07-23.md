@@ -1,6 +1,6 @@
 ---
 title: 2026-07-23
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["artificial intelligence", "linux", "open source", "developer tools", "macos"]
 ---

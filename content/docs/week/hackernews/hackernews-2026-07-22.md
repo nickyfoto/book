@@ -1,6 +1,6 @@
 ---
 title: 2026-07-22
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "software engineering", "open source", "business"]
 ---

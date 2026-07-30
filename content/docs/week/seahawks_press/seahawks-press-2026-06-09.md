@@ -1,6 +1,6 @@
 ---
 title: 2026-06-09
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "jaxon smith-njigba", "nick emmanwori", "injury updates", "offseason training"]
 ---

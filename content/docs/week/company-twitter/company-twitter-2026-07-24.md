@@ -1,6 +1,6 @@
 ---
 title: 2026-07-24
-weight: 4
+weight: 5
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "open source models", "semiconductors", "developer tools"]
 ---

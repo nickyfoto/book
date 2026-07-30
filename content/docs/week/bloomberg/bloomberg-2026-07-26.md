@@ -1,6 +1,6 @@
 ---
 title: 2026-07-26
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "artificial intelligence", "interest rates", "commodities", "tariffs"]
 ---
