@@ -1,0 +1,34 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["federal reserve", "middle east", "artificial intelligence", "corporate earnings", "mergers and acquisitions"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-07-29
+
+## Lead Story
+The Federal Reserve voted 9-3 to hold interest rates steady, but a fractured committee signaling support for tighter monetary policy sent shockwaves through bond and equity markets. A trio of dissenters pushed for an immediate rate hike, while Chairman Kevin Warsh's abandonment of forward guidance fueled historic volatility, pushing the Nasdaq 100 into correction territory and sending 30-year Treasury yields swinging wildly. Investors are increasingly doubting Warsh's commitment to fighting inflation despite his tough rhetoric, placing intense pressure on the central bank ahead of its next policy meeting.
+
+## Markets & Economics
+*   **[Emerging-Market Stocks Sink Further as Asian Tech Slide Deepens](https://www.bloomberg.com/news/articles/2026-07-29/emerging-market-stocks-sink-further-as-asian-tech-slide-deepens)**: Emerging-market equities plunged to a multi-month low as the global tech selloff deepened, catalyzed by SK Hynix Inc.'s disappointing earnings and mounting fears over artificial intelligence overinvestment. 
+*   **[Iran Attacks US Bases and Saudi Arabia Joins Strikes in Iraq](https://www.bloomberg.com/news/articles/2026-07-29/iran-attacks-us-bases-and-saudi-arabia-joins-strikes-in-iraq)**: Oil prices rallied sharply after the US intercepted Iranian ballistic missiles targeting military bases, abruptly ending a days-long pause in hostilities. The US and Saudi Arabia immediately retaliated with joint strikes on Tehran-backed militias in Iraq, rattling global markets with the risk of a broader conflict.
+*   **[Australian Inflation Misses Estimate, Traders Slash RBA Bets](https://www.bloomberg.com/news/articles/2026-07-29/australia-core-prices-cooler-than-expected-easing-rba-pressure)**: Australia's core inflation came in unexpectedly cooler last quarter, prompting money markets to rapidly dial back bets on another interest-rate hike from the Reserve Bank of Australia this year.
+
+## Business & Industries
+*   **[Grant Thornton to Buy Advisory Firm CBIZ in $5 Billion Deal](https://www.bloomberg.com/news/articles/2026-07-29/grant-thornton-us-buys-cbiz-in-5-billion-deal)**: Grant Thornton's US arm agreed to acquire rival accounting firm CBIZ Inc. for $5 billion. The transaction marks one of the largest professional services acquisitions in recent years and signals an aggressive consolidation push in the advisory space.
+*   **[Hermès, Kering Record Stock Spread Highlights Diverging Paths](https://www.bloomberg.com/news/articles/2026-07-29/hermes-kering-record-stock-spread-highlights-diverging-paths)**: The luxury sector experienced a dramatic divergence in fortunes as Hermès International SCA sales demonstrated resilience against an industry downturn. Meanwhile, Kering SA shares jumped after its flagship brand Gucci posted better-than-expected progress in its long-awaited turnaround effort.
+*   **[UBS Starts $3 Billion Buyback as It Counters Swiss Capital Push](https://www.bloomberg.com/news/articles/2026-07-29/ubs-starts-3-billion-buyback-as-it-counters-swiss-capital-push)**: European banks showed formidable strength as UBS Group AG launched a new $3 billion share buyback program to offer investors clarity amid capital uncertainty. Concurrently, Deutsche Bank AG posted record fixed-income trading revenues that outpaced most of its Wall Street peers.
+*   **[Paramount ‘Highly Confident’ In Warner Bros. Deal](https://www.bloomberg.com/news/videos/2026-07-29/paramount-highly-confident-in-warner-bros-deal-video)**: A federal judge temporarily blocked Paramount Skydance’s $110 billion takeover of Warner Bros. Discovery, citing probable antitrust violations. Larry Ellison and his family could be personally liable for $9.8 billion if the mega-merger ultimately collapses.
+
+## Policy & World
+*   **[Trump Says US Will Strike Iran Hard as War Escalates Again](https://www.bloomberg.com/news/articles/2026-07-29/trump-tells-fox-news-us-will-be-hitting-iran-hard-as-war-resumes)**: President Donald Trump promised that Iran will "get a beating" following the missile strikes on US bases. In tandem, the Pentagon is accelerating multiyear mega-contracts, including a $59 billion deal with Lockheed Martin, to rebuild Patriot missile stockpiles heavily strained by the escalating conflict.
+*   **[Multiple Dead After 7.1-Magnitude Quake Hits Japan](https://www.bloomberg.com/news/videos/2026-07-29/multiple-dead-after-7-1-magnitude-quake-hits-japan-video)**: A major 7.1-magnitude earthquake struck Japan's southwestern island of Kyushu, leaving at least 13 people dead and triggering a frantic hunt for survivors. The disaster impacted a critical hub for Japan's semiconductor industry, raising fresh concerns for global tech supply chains.
+*   **[Fauci Pleads Fifth Amendment in Senate Covid Hearing](https://www.bloomberg.com/news/articles/2026-07-29/fauci-pleads-fifth-amendment-in-senate-covid-hearing)**: Dr. Anthony Fauci invoked his Fifth Amendment rights, refusing to testify before a Senate committee regarding his role in the US pandemic response. Fauci slammed the proceeding, accusing the panel of attempting to entrap him into making incriminating statements.
+*   **[Russia Charges Telegram Founder Durov With Aiding Terrorism](https://www.bloomberg.com/news/articles/2026-07-29/russia-charges-telegram-founder-durov-with-aiding-terrorism)**: Russian authorities charged billionaire Telegram co-founder Pavel Durov with aiding terrorism. Moscow officials accuse Durov of allowing the encrypted messaging platform to be actively utilized by Ukrainian security services.
+
+## Opinion & Analysis
+*   **[Polymarket and Kalshi Could Be Vulnerable to Manipulation](https://www.bloomberg.com/news/articles/2026-07-29/polymarket-and-kalshi-could-be-vulnerable-to-manipulation)**: Despite being heralded as infallible "truth machines" for forecasting, political prediction markets are showing clear evidence of vulnerability to distortion and manipulation by outside actors, undercutting their reputation.
+*   **[America Is Undergoing a Massive Debt-for-Equity Swap](https://www.bloomberg.com/opinion/articles/2026-07-29/america-is-undergoing-a-massive-debt-for-equity-swap)**: With net interest on the US national debt now exceeding the defense budget and nearing $1 trillion annually, fiscal conservatives are sounding the alarm on a dangerous macroeconomic shift brought on by unrestricted federal borrowing.
