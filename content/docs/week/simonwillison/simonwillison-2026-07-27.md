@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "generative-ai", "general-agents", "janky-licenses"]
 ---

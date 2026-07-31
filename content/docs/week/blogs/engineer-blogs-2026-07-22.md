@@ -1,6 +1,6 @@
 ---
 title: 2026-07-22
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "open source", "software distribution"]
 ---

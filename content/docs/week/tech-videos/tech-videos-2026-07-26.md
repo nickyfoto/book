@@ -1,6 +1,6 @@
 ---
 title: 2026-07-26
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "machine learning", "developer tools", "hardware", "infrastructure"]
 ---

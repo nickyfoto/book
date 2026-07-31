@@ -1,6 +1,6 @@
 ---
 title: 2026-07-23
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "llm inference", "data centers"]
 ---

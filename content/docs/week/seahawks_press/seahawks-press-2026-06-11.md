@@ -1,6 +1,6 @@
 ---
 title: 2026-06-11
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["minicamp", "team culture", "roster continuity", "injury updates"]
 ---

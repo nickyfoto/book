@@ -1,6 +1,6 @@
 ---
 title: 2026-07-23
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "ai agents", "consumer electronics", "developer tools", "tech news"]
 ---

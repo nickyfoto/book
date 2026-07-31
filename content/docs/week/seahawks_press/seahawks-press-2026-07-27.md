@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 2
+weight: 3
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "press conferences", "roster updates"]
 ---

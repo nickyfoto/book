@@ -1,6 +1,6 @@
 ---
 title: 2026-07-23
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["artificial intelligence", "corporate earnings", "monetary policy", "middle east conflict", "tariffs"]
 ---
