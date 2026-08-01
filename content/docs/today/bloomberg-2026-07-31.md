@@ -1,0 +1,33 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["artificial intelligence", "central banks", "corporate earnings", "geopolitics"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-07-31
+
+## Lead Story
+Ken Griffin’s Citadel stepped in to rescue Leopold Aschenbrenner’s heavily leveraged AI hedge fund, Situational Awareness, after a massive tech selloff triggered a frantic fire-sale of assets. However, the market panic was quickly overshadowed by a sweeping rebound in global tech stocks, spurred by blockbuster earnings from Amazon.com Inc. that reassured investors about the enduring runway for AI-driven growth and capital expenditure. 
+
+## Markets & Economics
+* **[Bank of Japan Holds Interest Rate Steady at 1% as Expected]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/bank-of-japan-holds-interest-rate-steady-at-1-as-expected)): The BOJ maintained its benchmark policy settings and nudged its economic growth forecast higher, signaling confidence that the economy remains on track for further normalization. The steady hand follows a massive $52.8 billion currency intervention by Japanese authorities to prop up the yen, marking a new era of tight coordination with US counterparts.
+* **[Fed Dissenters Say Rate Hikes Needed to Tame Stubborn Inflation]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/fed-dissenters-say-hikes-needed-to-tackle-persistent-inflation)): Two Federal Reserve officials who dissented against this week's decision to hold rates warned that waiting too long to act against inflation could force the central bank into more aggressive policy later. Concurrently, new Fed Chairman Kevin Warsh is reportedly considering a structural shift to reduce the frequency of the central bank’s scheduled policy meetings.
+* **[US Consumer Sentiment Rises to a Five-Month High in July]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/us-consumer-sentiment-rises-to-five-month-high-on-broad-pickup)): The University of Michigan’s final July sentiment index improved to 55.2, reflecting brightening views on the economic outlook as gasoline prices remained below war-time highs. This consumer optimism aligns with steady labor cost growth in the second quarter, suggesting the job market isn't significantly fueling further inflationary pressures.
+
+## Business & Industries
+* **[Exxon, Chevron Steer Windfall Profits Into Debt Reduction]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction)): Both ExxonMobil and Chevron posted robust profits fueled by war-driven supply disruptions and soaring crude and fuel-making margins. In a clear sign of caution regarding the longevity of the geopolitical price rally, both oil giants prioritized debt reduction over deploying capital into massive stock buybacks.
+* **[Universal Music Group Record Low; Roblox Slumps]** ([Bloomberg](https://www.bloomberg.com/news/videos/2026-07-31/universal-music-group-record-low-roblox-slumps-video)): Universal Music Group shares plunged to their lowest level since listing after the world's largest record label reported disappointing subscription revenue growth of 16.6%. Bearish analysts warned the company faces deep, structural challenges that the wider market has yet to fully price in.
+* **[Couche-Tard to Acquire Stake in Poland’s Żabka for $8.7 Billion]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-to-acquire-stake-in-poland-s-zabka-for-8-7-billion)): Canadian convenience store operator Alimentation Couche-Tard agreed to buy a controlling stake in Polish retailer Żabka Group SA for roughly $8.7 billion. The deal significantly expands Couche-Tard's footprint across central and eastern Europe, a move the CEO is confident in despite anticipating pushback from some Żabka shareholders.
+* **[FIFA Drops World Cup Stake Sale Plan in Setback for Infantino]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/fifa-to-abandon-world-cup-stake-sale-plans-infantino-says)): FIFA President Gianni Infantino officially abandoned a highly controversial plan to privatize the organization's commercial business following intense international pushback. Powerful clubs like Real Madrid and Juventus, along with regional football bodies, had threatened boycotts over the proposed $20 billion commercial vehicle.
+
+## Policy & World
+* **[Trump Says Hamas Agreed to Disarm]** ([Bloomberg](https://www.bloomberg.com/news/videos/2026-07-31/trump-says-hamas-agreed-to-disarm-video)): US President Donald Trump announced that the US-led Board of Peace secured an agreement for Hamas to disarm, though the militant group stipulated Israel must withdraw from Gaza and agree to a Palestinian state. Officials cautioned the accord requires extensive refinement and will not be implemented immediately.
+* **[Trump Orders Iran Attack as Soon as This Weekend, WSJ Says]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says)): Escalating the conflict in the Middle East, President Trump has reportedly ordered the US military to execute a new attack on Iran, potentially targeting energy infrastructure. Trump publicly stated he is losing confidence in Iranian negotiators, blaming them for misrepresentations after a multi-day pause in fighting collapsed.
+* **[Spain Sends Troops to Africa Enclave on Illegal Immigrant Surge]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-30/spain-sends-troops-to-africa-enclave-on-illegal-immigrant-surge)): The Spanish government deployed the military to Ceuta after an estimated 60,000 migrants crossed into the North African enclave from Morocco. Prime Minister Pedro Sánchez forcefully described the mass influx as a "violation" of Spain's territorial integrity.
+
+## Opinion & Analysis
+* **[Odd Lots: How Private Equity Reshaped Life Insurance]** ([Bloomberg](https://www.bloomberg.com/news/audio/2026-07-31/odd-lots-how-private-equity-reshaped-life-insurance-podcast)): Insurers have quietly transformed into a primary driver of the private credit boom by striking expansive deals with private equity firms, raising critical new questions about systemic risk and taxpayer liability.
+* **[ChatGPT, Claude, Gemini Have Great Financial Advice. And It’s Free]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-07-31/chatgpt-claude-gemini-have-great-financial-advice-and-it-s-free)): AI chatbots are democratizing access to financial planning, providing guidance that is arguably more comprehensive and far less burdened by the conflicts of interest and biases inherent to human advisors.
