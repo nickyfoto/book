@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai security", "ai agents", "robotics", "cloud computing"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["resident evil", "survival horror", "capcom", "game review"]
 ---

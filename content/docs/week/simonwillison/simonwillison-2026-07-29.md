@@ -1,6 +1,6 @@
 ---
 title: 2026-07-29
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative-ai", "prompt-injection", "model-context-protocol", "cryptography", "sqlite-utils"]
 ---

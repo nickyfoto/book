@@ -1,0 +1,34 @@
+---
+title: 2026-07-30
+weight: 1
+categories: ["News"]
+tags: ["federal reserve", "artificial intelligence", "us-iran conflict", "corporate earnings"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-07-30
+
+## Lead Story
+Federal Reserve Chair Kevin Warsh's decision to hold interest rates and his bare-bones communication style sparked a massive bond rout, sending 30-year Treasury yields surging to a 19-year high of nearly 5.23%. Investors are openly questioning Warsh's credibility and commitment to fighting inflation, overshadowing a weaker-than-expected US second-quarter GDP print of 1.5%.
+
+## Markets & Economics
+* **[Bank of England Leaves Interest Rates Unchanged](https://www.bloomberg.com/news/articles/2026-07-30/boe-holds-rates-in-split-vote-as-war-clouds-inflation-outlook)** (Bloomberg): The BOE held its benchmark rate steady at 3.75% in a 6-3 vote as Governor Andrew Bailey balanced easing domestic price pressures against the inflationary threat of the US-Iran conflict. Bailey pushed back against imminent rate hike expectations, warning instead that the UK labor market is softening.
+* **[Yen Surges After Japan Intervenes Ahead of BOJ Decision](https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj)** (Bloomberg): The Japanese currency soared by more than 2% against the dollar in its biggest jump in over two years. The surge was fueled by official intervention to prop up the sagging yen right before the Bank of Japan's closely watched policy meeting.
+* **[Korean Stocks Jump Record 15% on Renewed AI Trade Optimism](https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase)** (Bloomberg): South Korean equities staged a historic rebound following a 33% plunge earlier in the month. The rally was driven by major US technology firms reaffirming their capital spending plans, reigniting global investor confidence in the artificial intelligence trade.
+
+## Business & Industries
+* **[Microsoft Eyes History With $490 Billion Pop in Market Value](https://www.bloomberg.com/news/articles/2026-07-30/microsoft-eyes-history-with-490-billion-pop-in-market-value)** (Bloomberg): Microsoft is on track for a record single-day market value increase after stellar cloud earnings reassured investors about AI monetization. In contrast, Meta's shares slid as executives defended their own massive AI expenditures despite disappointing revenue forecasts.
+* **[Shell Reports Profit Surge as Oil Trading and Refining Boom](https://www.bloomberg.com/news/articles/2026-07-30/shell-reports-profit-surge-as-oil-trading-and-refining-boom)** (Bloomberg): Shell Plc posted an adjusted net income of $9.8 billion, capitalizing on record refining utilization not seen in over a decade. The broader oil sector is reaping huge windfall profits as the escalating Iran war upends global energy markets and regional supply chains.
+* **[UEFA Votes to Boycott World Cup If FIFA Proceeds With Selloff](https://www.bloomberg.com/news/articles/2026-07-30/uefa-approve-boycott-of-fifa-events-as-feud-escalates)** (Bloomberg): UEFA's 55 member nations resolved to boycott FIFA tournaments if President Gianni Infantino proceeds with controversial plans to sell a stake in the governing body's media division to private investors. The $20 billion proposal reportedly originated from secret talks last year between Infantino and venture capitalist Joshua Kushner.
+* **[Blackstone-Backed Jersey Mike’s Falls 8.7% After $1 Billion IPO](https://www.bloomberg.com/news/articles/2026-07-30/blackstone-backed-jersey-mike-s-falls-8-7-after-1-billion-ipo)** (Bloomberg): The sandwich chain stumbled in its trading debut, falling below its pricing midpoint after raising $1 billion. The broader IPO market saw mixed results, with sustainable womenswear brand Reformation opening flat after pricing at the bottom of its marketed range.
+
+## Policy & World
+* **[US Launches Fresh Strikes Against Iran as War Escalates Again](https://www.bloomberg.com/news/articles/2026-07-30/us-launches-fresh-strikes-against-iran-as-war-escalates-again)** (Bloomberg): The US military hit dozens of targets in Iran following an attack on American forces in Jordan, deepening a regional crisis that is disrupting global shipping. The expanding conflict has prompted Saudi Arabia to discuss forming a multinational maritime coalition to counter Houthi blockades in the Red Sea.
+* **[Trump Puts Immunity From Probes Over His Fight for Todd Blanche](https://www.bloomberg.com/news/articles/2026-07-30/trump-puts-immunity-from-probes-over-his-fight-for-todd-blanche)** (Bloomberg): Facing fierce opposition from retiring Republican senators, President Trump floated temporarily withdrawing Todd Blanche’s nomination for attorney general. Trump appears to be prioritizing his own legal protections and immunity from prosecution over forcing an immediate confirmation fight.
+* **[Poland Likely Hit by Russian Missile, Premier Says](https://www.bloomberg.com/news/articles/2026-07-30/poland-likely-hit-by-russian-missile-premier-says)** (Bloomberg): Polish Prime Minister Donald Tusk announced that an unidentified object, likely a Russian missile, crashed in eastern Poland near the Ukrainian border. The incident occurred during an intense Russian missile barrage targeting western Ukraine, triggering an immediate investigation.
+
+## Opinion & Analysis
+* **[Kevin Warsh’s Market-Driven Approach Weakens Fed Monetary Policy](https://www.bloomberg.com/opinion/articles/2026-07-30/kevin-warsh-s-market-driven-approach-weakens-fed-monetary-policy)** (Bloomberg): The Bloomberg Editorial Board argues that Chairman Warsh's refusal to provide forward guidance is essentially outsourcing monetary policy to financial markets. By adopting a "silent treatment," Warsh is injecting unnecessary and dangerous uncertainty into a precarious rate environment.
+* **[Mark Zuckerberg Finally Has a Dystopian-But-Lucrative AI Plan for Meta](https://www.bloomberg.com/opinion/articles/2026-07-30/mark-zuckerberg-finally-has-a-dystopian-but-lucrative-ai-plan-for-meta)** (Bloomberg): Parmy Olson notes that despite investors immediately punishing Meta for its massive AI expenditure, tech's conventional wisdom dictates it is better to wildly overspend than to miss the next blockbuster computing shift.
+* **[The Goldilocks US Inflation and Spending Data Are an Illusion](https://www.bloomberg.com/opinion/articles/2026-07-30/the-goldilocks-us-inflation-and-spending-data-are-an-illusion)** (Bloomberg): Despite surface-level data showing resilient consumer spending and softening core inflation, the underlying economic reality is far more fragile and likely to deteriorate rapidly.
