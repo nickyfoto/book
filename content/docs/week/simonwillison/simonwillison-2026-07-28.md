@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-security-research", "security", "python", "llms"]
 ---

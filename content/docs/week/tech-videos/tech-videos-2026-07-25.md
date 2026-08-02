@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "physical ai", "ai regulation", "startups"]
 ---

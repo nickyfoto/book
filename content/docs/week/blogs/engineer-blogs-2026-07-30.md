@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["refactoring", "artificial intelligence", "macos", "developer tools"]
 ---

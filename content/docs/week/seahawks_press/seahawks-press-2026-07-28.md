@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 2
+weight: 3
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "offensive scheme", "lumen field turf"]
 ---

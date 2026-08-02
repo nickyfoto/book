@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "hello kitty", "dlc", "gaming"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["radish cake", "singapore street food", "pan-frying", "hawker centres"]
 ---

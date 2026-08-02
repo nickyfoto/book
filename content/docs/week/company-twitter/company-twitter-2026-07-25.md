@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["ai agents", "ai security", "open-weight models", "robotics"]
 ---

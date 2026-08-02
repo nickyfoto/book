@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["geopolitics", "artificial intelligence", "global markets", "oil", "trade"]
 ---

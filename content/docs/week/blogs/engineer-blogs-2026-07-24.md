@@ -1,6 +1,6 @@
 ---
 title: 2026-07-24
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["popclip", "obsidian", "typescript", "plugin development"]
 ---

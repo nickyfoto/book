@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software architecture", "llms", "technical leadership"]
 ---
