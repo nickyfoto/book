@@ -1,6 +1,6 @@
 ---
 title: 2026-07-25
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["training camp", "injuries", "mike macdonald", "seattle seahawks"]
 ---

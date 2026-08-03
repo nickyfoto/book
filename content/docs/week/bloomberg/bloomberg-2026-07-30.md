@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["federal reserve", "artificial intelligence", "us-iran conflict", "corporate earnings"]
 ---

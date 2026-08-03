@@ -1,6 +1,6 @@
 ---
 title: 2026-07-26
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "y combinator", "open source", "startups"]
 ---

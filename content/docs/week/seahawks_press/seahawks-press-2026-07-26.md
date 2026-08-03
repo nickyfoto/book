@@ -1,6 +1,6 @@
 ---
 title: 2026-07-26
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "team culture", "roster updates", "scheme"]
 ---
