@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "autonomous agents", "developer tools"]
 ---

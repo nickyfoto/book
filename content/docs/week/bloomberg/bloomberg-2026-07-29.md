@@ -1,6 +1,6 @@
 ---
 title: 2026-07-29
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["federal reserve", "middle east", "artificial intelligence", "corporate earnings", "mergers and acquisitions"]
 ---

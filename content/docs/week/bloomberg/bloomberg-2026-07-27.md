@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["us-iran conflict", "oil prices", "central banks", "artificial intelligence"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "ai agents", "developer tools", "hardware"]
 ---

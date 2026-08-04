@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "robotics", "cloud computing", "large language models"]
 ---

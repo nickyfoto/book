@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "enshittification", "software engineering", "open source"]
 ---

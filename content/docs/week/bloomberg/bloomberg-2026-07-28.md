@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["semiconductors", "artificial intelligence", "geopolitics", "interest rates", "corporate earnings"]
 ---

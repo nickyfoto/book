@@ -1,6 +1,6 @@
 ---
 title: 2026-07-27
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cybersecurity", "hardware"]
 ---
