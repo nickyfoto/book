@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["openai", "datasette", "generative-ai", "tools", "mathematics"]
 ---

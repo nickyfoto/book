@@ -1,6 +1,6 @@
 ---
 title: 2026-07-31
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "easter eggs", "classic games", "game details"]
 ---

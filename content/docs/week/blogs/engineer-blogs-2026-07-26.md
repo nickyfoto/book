@@ -1,6 +1,6 @@
 ---
 title: 2026-07-26
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["open-weight models", "artificial intelligence", "large language models", "machine learning"]
 ---
