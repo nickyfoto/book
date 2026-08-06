@@ -1,6 +1,6 @@
 ---
 title: 2026-07-29
-weight: 4
+weight: 5
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "leonard williams", "training camp", "ronnie lott"]
 ---

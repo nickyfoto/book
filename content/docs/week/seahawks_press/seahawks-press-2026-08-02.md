@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["grey zabel", "byron murphy", "offensive line", "training camp"]
 ---

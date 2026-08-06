@@ -1,6 +1,6 @@
 ---
 title: 2026-07-28
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "ai safety", "llm architecture", "knowledge management"]
 ---

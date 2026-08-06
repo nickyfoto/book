@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "hardware", "history", "politics"]
 ---

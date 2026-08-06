@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai governance", "open weights", "python", "json"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-03
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "nuclear energy", "energy storage", "venture capital"]
 ---

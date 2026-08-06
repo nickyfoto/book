@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["geopolitics", "financial markets", "mergers and acquisitions", "artificial intelligence"]
 ---
