@@ -1,0 +1,41 @@
+---
+title: Bloomberg
+weight: 11
+categories: ["News"]
+tags: ["monetary policy", "corporate earnings", "geopolitics", "artificial intelligence"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-08-05
+
+## Lead Story
+Optimism is rising for a potential breakthrough in the Middle East as the **US**, **Iran**, and **Oman** prepare to announce a **60-day shipping agreement** to reopen the **Strait of Hormuz**. Under the proposed arrangement, inbound vessels would navigate a northern lane near Iran, while outbound traffic would utilize Omani waters. The prospect of reopening this critical energy corridor has immediately pressured global energy markets, sending **Brent crude below \$80 a barrel** and lowering long-dated **US Treasury yields**.
+
+## Markets & Economics
+* **[Brent Crude Slides on Hormuz Reopening Hopes]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6)): Brent crude oil prices dropped and stabilized below \$80 a barrel as optimism grows for the US-Iran-Oman shipping agreement to reopen the Strait of Hormuz. Easing energy prices have already lowered long-dated Treasury yields, reducing immediate pressure on the Federal Reserve to implement rate hikes.
+* **[US Job Growth Cools in July ADP Report]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/us-companies-added-44-000-jobs-in-july-adp-data-show)): US companies added only **44,000 jobs in July**, a significant slowdown from a revised 95,000 in June and far below expectations. While the service sector continues to expand with the ISM services index ticking up to **54.1**, hiring momentum is showing clear signs of cooling.
+* **[Fed Officials Signal Readiness to Raise Rates]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/kashkari-says-fed-should-raise-rates-now-to-bring-down-inflation)): Minneapolis Fed President **Neel Kashkari** argued the central bank should begin raising interest rates incrementally immediately to combat sticky inflation. This hawkish stance was echoed by Kansas City Fed President **Jeff Schmid** and Fed Governor **Lisa Cook**, who stated she is prepared to act if inflation does not cool toward the **2% goal**.
+* **[Brazil Cuts Key Rate to 14% on Moderating Growth]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/brazil-central-bank-lowers-interest-rate-to-14)): Banco Central do Brasil lowered its benchmark interest rate by **25 basis points to 14%** for its fourth consecutive meeting. The decision was driven by slowing inflation and a moderation in domestic economic growth, which has encouraged economists to forecast further easing this year.
+
+## Business & Industries
+* **[SpaceX AI Spend Sparks Investor Concern Despite Tech Milestones]** ([Bloomberg](https://www.bloomberg.com/news/newsletters/2026-08-05/musk-in-first-spacex-earnings-call-says-major-starship-problem-is-solved)): **SpaceX** shares came under pressure after its debut earnings results since going public revealed a massive surge in AI spending outlays that overshadowed otherwise solid financials. On the company's first earnings call, CEO **Elon Musk** attempted to reassure investors by announcing that a major engineering bottleneck for the **Starship rocket** had been solved, positioning it for daily launches by next year.
+* **[Eli Lilly Raises Outlook on Massive Obesity Drug Demand]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/lilly-boosts-sales-guidance-on-strong-demand-for-obesity-drugs)): **Eli Lilly & Co.** lifted its full-year sales guidance for 2026, citing explosive global demand for its blockbuster weight-loss and diabetes treatments that far outpaced analyst predictions.
+* **[Streaming and Parks Power Disney Profit Beat]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/disney-s-streaming-and-parks-drive-third-quarter-profit-growth)): **Walt Disney Co.**’s fiscal third-quarter profits surpassed Wall Street estimates, driven by a **64% surge** in its entertainment streaming division and resilient attendance at its domestic theme parks in Florida and California.
+* **[Glencore Profits Surge on Iran War Commodity Spike]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/glencore-profit-jumps-on-trading-boom-and-record-copper)): Commodities giant **Glencore Plc** reported a dramatic jump in earnings, boosted by record copper prices and a banner period for its trading desk as the conflict in Iran sent global energy prices soaring.
+* **[Starboard Value Builds Stake in Shake Shack]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/starboard-value-has-taken-a-new-position-in-shake-shack)): Activist fund **Starboard Value** has built a position of several hundred million dollars in fast-casual chain **Shake Shack Inc.**, with CEO **Jeff Smith** pushing for strategic improvements at the burger brand.
+
+## Policy & World
+* **[US Imposes Ban on Key Critical Mineral Exports]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/us-bans-export-of-tungsten-battery-waste-to-protect-supplies)): The US will ban exports of **recycled battery materials** and **tungsten scrap** later this month in a protective measure aimed at keeping critical supplies inside the country.
+* **[China Tightens Drone Curbs in Retaliatory Action Against US]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions)): Beijing has retaliated against expanding US tech restrictions by imposing tighter export curbs on **drones** and placing sanctions on several American defense and technology firms.
+* **[Progressive El-Sayed Wins Contentious Michigan Primary]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/el-sayed-wins-michigan-democratic-senate-primary-nbc-projects)): Progressive outsider **Abdul El-Sayed** narrowly won the Democratic US Senate primary in Michigan, defeating moderate Representative Haley Stevens. The razor-thin margin exposes deep division between centrist and progressive wings of the party in a critical battleground state.
+* **[Argentina Renews \$19 Billion China Currency Swap]** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/argentina-renews-19-billion-china-swap-for-another-five-years)): Argentina’s central bank successfully renewed its **\$19 billion currency swap** with the People’s Bank of China for another five years, securing a key source of foreign reserves that will last through the country’s 2027 presidential election.
+
+## Opinion & Analysis
+* **[Kevin Warsh's Communication Breakdown Sparks Market Confusion]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-08-05/fed-chairman-warsh-needs-to-explain-his-monetary-policy)): Fed Chairman **Kevin Warsh** is criticized for refusing to explain the central bank's rate decision, a communication failure that puzzled analysts, drove long-term bond yields higher, and undermined his own credibility.
+* **[Anthropic's Mission-Driven Divergence on AI Regulation]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-08-05/anthropic-shows-why-mission-driven-distinctiveness-matters)): This piece highlights **Anthropic’s** refusal to join industry peers (Google, Nvidia, OpenAI) in lobbying against government testing of open-weight AI models, arguing that its mission-driven safety focus is a critical strategic differentiator.
+* **[Corporate America's Low Wages Shift the Burden to Taxpayers]** ([Bloomberg](https://www.bloomberg.com/opinion/articles/2026-08-05/corporate-america-s-low-pay-shifts-the-burden-to-us-taxpayers)): Writer highlights how poverty-level wages and volatile scheduling force millions of full-time workers onto public assistance programs (such as **Medicaid** and **SNAP**), effectively forcing taxpayers to subsidize corporate payrolls.
+
+***
+
+📊 I can generate a comparison chart of the recent earnings beats and revised full-year outlooks for these top firms to help you visualize which sectors are leading the pack.
