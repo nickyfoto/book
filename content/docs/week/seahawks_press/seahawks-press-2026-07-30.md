@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 4
+weight: 5
 categories: ["Sports", "Youtube"]
 tags: ["training camp", "sam darnold", "mike macdonald", "hard knocks"]
 ---

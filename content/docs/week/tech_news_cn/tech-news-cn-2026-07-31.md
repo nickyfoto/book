@@ -1,6 +1,6 @@
 ---
 title: 2026-07-31
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "big tech", "electric vehicles"]
 ---

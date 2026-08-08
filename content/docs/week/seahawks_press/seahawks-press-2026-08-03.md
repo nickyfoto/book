@@ -1,6 +1,6 @@
 ---
 title: 2026-08-03
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "offensive line", "secondary competition", "injury updates"]
 ---

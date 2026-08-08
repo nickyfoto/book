@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["macos", "ios", "widgets", "cli", "monitoring"]
 ---

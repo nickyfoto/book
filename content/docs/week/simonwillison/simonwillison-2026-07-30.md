@@ -1,6 +1,6 @@
 ---
 title: 2026-07-30
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["llms", "generative-ai", "ai-security-research", "llm-pricing", "openai"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "financial markets", "corporate earnings", "monetary policy"]
 ---
