@@ -1,0 +1,58 @@
+<div class="translation-banner notranslate" translate="no" aria-label="Website translation">
+  <div class="translation-banner__inner">
+    <div id="google_translate_element" class="translation-banner__widget">
+      <div id="google-translate-fallback" class="translation-banner__fallback">
+        <select aria-label="Language Translate Widget" disabled>
+          <option>Select Language</option>
+        </select>
+        <span class="translation-banner__powered">
+          Powered by
+          <a href="https://translate.google.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37" height="14" alt="Google">
+            Translate
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function syncTranslationBannerOffset() {
+    var banner = document.querySelector('.translation-banner');
+    var frame;
+
+    function update() {
+      frame = null;
+      var bottom = banner ? Math.max(0, banner.getBoundingClientRect().bottom) : 0;
+      document.documentElement.style.setProperty('--translation-banner-offset', bottom + 'px');
+    }
+
+    function scheduleUpdate() {
+      if (!frame) frame = requestAnimationFrame(update);
+    }
+
+    update();
+    window.addEventListener('scroll', scheduleUpdate, { passive: true });
+    window.addEventListener('resize', scheduleUpdate, { passive: true });
+
+    if ('ResizeObserver' in window) new ResizeObserver(scheduleUpdate).observe(banner);
+    if ('MutationObserver' in window) {
+      new MutationObserver(scheduleUpdate).observe(document.body, {
+        attributes: true,
+        attributeFilter: ['style']
+      });
+    }
+  })();
+
+  function googleTranslateElementInit() {
+    var fallback = document.getElementById('google-translate-fallback');
+    if (fallback) fallback.remove();
+
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'ab,am,ar,be,yue,zh-CN,zh-TW,tl,fr-CA,de,gu,iw,it,ja,ko,mr,my,ps,fa,pt,pa,ru,so,es,ta,te,tr,uk,ur,vi'
+    }, 'google_translate_element');
+  }
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
