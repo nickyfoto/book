@@ -1,6 +1,6 @@
 ---
 title: 2026-08-03
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["monetary policy", "geopolitics", "mergers and acquisitions", "artificial intelligence"]
 ---
