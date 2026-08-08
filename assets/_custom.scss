@@ -115,6 +115,40 @@
   }
 }
 
+// `BookTheme = 'auto'` in hugo.toml, so the theme swaps its whole palette at
+// this breakpoint (theme-light → theme-dark, `_defaults.scss`). The banner is
+// the one element that would not come with it — a white bar sitting above a
+// #2e3440 page. These are the theme's own variables rather than a second
+// hand-picked palette, so changing `BookTheme` moves the banner too.
+@media (prefers-color-scheme: dark) {
+  .translation-banner {
+    background: var(--body-background);
+    color: var(--gray-500);
+    // Google's indigo is nearly the page background once the page is dark.
+    border-bottom-color: #7986cb;
+  }
+
+  .translation-banner__widget {
+    background: var(--gray-100);
+  }
+
+  .translation-banner select,
+  .translation-banner .goog-te-combo,
+  .translation-banner__powered a,
+  .translation-banner .goog-te-gadget a {
+    color: var(--color-link);
+  }
+
+  .translation-banner__powered,
+  .translation-banner .goog-te-gadget {
+    color: var(--gray-500);
+  }
+
+  // Deliberately not filtered with `--icon-filter`: the wordmark is coloured
+  // letters on transparent, which stay legible on --gray-100, and the theme's
+  // filter is `brightness(0) invert(1)` — it would flatten them to solid white.
+}
+
 @media print {
   .translation-banner {
     display: none;
