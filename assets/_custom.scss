@@ -132,11 +132,16 @@
     background: var(--gray-100);
   }
 
+  // Not `var(--color-link)`. The theme tunes #81a1c1 against --body-background,
+  // where it measures 4.64:1 — but these sit on the --gray-100 pill, which is
+  // lighter, and there it drops to 3.74:1 and fails AA for 14px text. #88c0d0
+  // is the next frost colour up in the same Nord palette and measures 5.04:1
+  // on the pill.
   .translation-banner select,
   .translation-banner .goog-te-combo,
   .translation-banner__powered a,
   .translation-banner .goog-te-gadget a {
-    color: var(--color-link);
+    color: #88c0d0;
   }
 
   .translation-banner__powered,
