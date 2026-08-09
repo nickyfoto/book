@@ -1,6 +1,6 @@
 ---
 title: 2026-08-03
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "cloud infrastructure", "developer tools", "software engineering"]
 ---

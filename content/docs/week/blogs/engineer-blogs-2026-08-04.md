@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["physics simulation", "artificial intelligence", "cybersecurity", "financial bubbles", "data extraction"]
 ---

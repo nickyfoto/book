@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["systems programming", "cryptography", "concurrency", "authentication"]
 ---

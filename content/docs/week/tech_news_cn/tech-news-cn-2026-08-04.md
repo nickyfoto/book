@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "consumer electronics", "global finance", "cybersecurity"]
 ---

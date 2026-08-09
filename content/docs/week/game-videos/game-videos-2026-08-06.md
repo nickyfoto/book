@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["grand theft auto vi", "minecraft", "rockstar games"]
 ---

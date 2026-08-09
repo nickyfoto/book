@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "injury updates", "roster updates"]
 ---
