@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cybersecurity", "history"]
 ---

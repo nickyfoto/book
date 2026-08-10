@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "cybersecurity", "live commerce"]
 ---

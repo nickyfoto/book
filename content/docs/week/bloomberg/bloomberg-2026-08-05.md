@@ -1,6 +1,6 @@
 ---
 title: 2026-08-05
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["monetary policy", "corporate earnings", "geopolitics", "artificial intelligence"]
 ---

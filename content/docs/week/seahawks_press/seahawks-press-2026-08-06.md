@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 2
+weight: 3
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl training camp", "jaxon smith-njigba", "defensive scheme"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["web development", "artificial intelligence", "video games", "travel"]
 ---
