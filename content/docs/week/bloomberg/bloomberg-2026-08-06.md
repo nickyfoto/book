@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["global markets", "artificial intelligence", "monetary policy", "geopolitics"]
 ---

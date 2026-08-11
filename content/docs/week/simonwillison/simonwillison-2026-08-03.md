@@ -1,6 +1,6 @@
 ---
 title: 2026-08-03
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["prompt-engineering", "coding-agents", "ai-misuse", "llms"]
 ---

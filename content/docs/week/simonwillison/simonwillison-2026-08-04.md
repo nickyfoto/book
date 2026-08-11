@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "open source", "command line tools", "coding agents"]
 ---
