@@ -1,11 +1,20 @@
 {{ define "main" }}
 {{ $pages := where site.RegularPages "Section" "docs" }}
-{{ $today := where $pages "File.Dir" "docs/today/" }}
+{{ $todayCandidates := where $pages "File.Dir" "docs/today/" }}
+{{ $todayCandidates = sort $todayCandidates "File.ContentBaseName" "desc" }}
+{{ $seenEditions := newScratch }}
+{{ $today := slice }}
+{{ range $todayCandidates }}
+  {{ if not ($seenEditions.Get .Title) }}
+    {{ $today = $today | append . }}
+    {{ $seenEditions.Set .Title true }}
+  {{ end }}
+{{ end }}
 {{ $today = sort $today "Weight" "asc" }}
 {{ if gt (len $today) 0 }}
   {{ $lead := index $today 0 }}
   {{ with where $today "Title" "The Brief" }}{{ $lead = index . 0 }}{{ end }}
-  {{ $others := where $today "RelPermalink" "ne" $lead.RelPermalink }}
+  {{ $others := where $today "Title" "ne" "The Brief" }}
   <div class="home-page shell">
     <header class="page-heading">
       <h1>Today’s Briefing <span aria-hidden="true">/</span></h1>

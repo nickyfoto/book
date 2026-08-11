@@ -4,7 +4,7 @@
   {{ $signalParagraph := index (index . 0) 1 | plainify }}
   {{ $summary = index (split $signalParagraph ". ") 0 }}
 {{ end }}
-{{ $matches := findRESubmatch `(?ms)^##\s+今日头条\s*\n+([^\n]+)` .RawContent 1 }}
+{{ $matches := findRESubmatch `(?ms)^##\s+(?:今日头条|Top Story)\s*\n+([^\n]+)` .RawContent 1 }}
 {{ if and (eq (len $signalMatches) 0) (gt (len $matches) 0) }}
   {{ $paragraph := index (index $matches 0) 1 | plainify }}
   {{ $sentences := split $paragraph ". " }}
