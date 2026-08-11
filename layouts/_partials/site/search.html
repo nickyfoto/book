@@ -1,0 +1,14 @@
+<dialog class="search-dialog" data-search-dialog aria-labelledby="search-title">
+  <div class="search-panel">
+    <div class="search-heading">
+      <h2 id="search-title">Search MacWorks</h2>
+      <button class="icon-button" type="button" aria-label="Close search" data-search-close>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg>
+      </button>
+    </div>
+    <label for="site-search">Search editions by headline, source, or topic</label>
+    <input id="site-search" type="search" autocomplete="off" placeholder="Start typing…" data-search-input>
+    <p class="search-status" data-search-status>Enter at least two characters.</p>
+    <ol class="search-results" data-search-results></ol>
+  </div>
+</dialog>

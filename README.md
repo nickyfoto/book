@@ -1,78 +1,36 @@
-# My Book
+# MacWorks
 
-A documentation site built with [Hugo](https://gohugo.io/) and the [hugo-book](https://github.com/alex-shpak/hugo-book) theme.
+MacWorks is a lightweight editorial front end for the Markdown editions in `content/docs/`. It keeps Hugo as the renderer, but replaces the documentation theme with a small set of purpose-built templates.
 
-## Local Preview
+## What changed
 
-**Prerequisites:** [Hugo extended](https://gohugo.io/installation/) v0.112.0+
+- Article URLs are based on identity, not storage tier. A daily file named `apple-2026-08-09.md` always renders at `/articles/apple-2026-08-09/`, whether the file is in `today`, `week`, or `archives`.
+- Archived weekly summaries include their category to avoid filename collisions: `/articles/apple/weekly-2026-W13/`.
+- Old `/docs/.../<filename>/` links are redirected by the custom 404 page when possible.
+- Taxonomy rendering is disabled, and collection pages render at most 30 article rows. Current weekly summaries still render, without duplicating thousands of full articles across tag, category, and deeply paginated list pages.
+- Search uses a metadata-only `search-index.json`; RSS contains the newest 30 editions.
+- GitHub Actions no longer checks out the unused theme submodule and uses a pinned Hugo version.
+
+## Local preview
+
+Requires Hugo 0.158.0 or newer.
 
 ```bash
-# Clone with submodules (includes the theme)
-git clone --recurse-submodules https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-# Start the dev server
 hugo server
 ```
 
-Open [http://localhost:1313](http://localhost:1313) in your browser. The site reloads automatically on file changes.
+Open [http://localhost:1313](http://localhost:1313).
 
-### If you already cloned without `--recurse-submodules`
-
-```bash
-git submodule update --init --recursive
-```
-
-## Adding Content
-
-Pages live in `content/docs/`. The sidebar reflects the directory structure.
-
-```
-content/docs/
-├── _index.md          # home/landing page
-├── getting-started.md # top-level page
-└── advanced/
-    ├── _index.md      # section index
-    └── configuration.md
-```
-
-Use front matter to control ordering:
-
-```markdown
----
-title: My Page
-weight: 10
----
-```
-
-## Creating a New Post
-
-Posts live in `content/posts/` and appear in the **Blog** link in the site footer nav.
-
-Create a new file:
+## Production build
 
 ```bash
-hugo new content posts/my-post-title.md
+hugo --minify
 ```
 
-Or create the file manually. Every post needs this front matter:
+Pushing to `main` triggers `.github/workflows/deploy.yml` and deploys `public/` to GitHub Pages.
 
-```markdown
----
-title: "My Post Title"
-date: 2026-03-19
-description: "A short summary shown in listings."
-tags: ["tag1", "tag2"]
-categories: ["General"]
----
+## Publishing
 
-Your content here.
-```
+The publisher may keep writing and rotating Markdown exactly as it does today. Permanent daily URLs depend only on the filename, so rotation does not need to rewrite front matter or maintain redirect records.
 
-- `date` controls sort order — newest first
-- `tags` and `categories` are optional but help with discovery
-- Omit `draft: true` (or set it to `false`) for the post to be published
-
-## Deployment
-
-Pushing to `main` triggers the GitHub Actions workflow which builds and deploys to GitHub Pages automatically.
+The homepage reads the current pages in `content/docs/today/`. Topic pages and the archive are intentionally bounded lists; the search dialog covers the complete metadata index.

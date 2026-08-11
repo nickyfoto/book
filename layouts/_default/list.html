@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ $pages := .RegularPages }}
+{{ $pages = sort $pages "File.ContentBaseName" "desc" }}
+<div class="listing-page shell">
+  <header class="page-heading listing-heading">
+    <h1>{{ .Title | default "Editions" }} <span aria-hidden="true">/</span></h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+  {{ with .Content }}<div class="article-prose section-content">{{ . }}</div>{{ end }}
+  {{ if gt (len $pages) 0 }}
+  <div class="listing-stream">
+    {{ range first 30 $pages }}{{ partial "article/stream-row.html" . }}{{ end }}
+  </div>
+  {{ if gt (len $pages) 30 }}<p class="listing-note">Showing the 30 newest editions. Search covers the complete archive.</p>{{ end }}
+  {{ end }}
+</div>
+{{ end }}

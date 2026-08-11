@@ -1,0 +1,11 @@
+{{ $label := "Latest edition" }}
+{{ with .File }}
+  {{ $matches := findRE `[0-9]{4}-[0-9]{2}-[0-9]{2}$` .ContentBaseName 1 }}
+  {{ with $matches }}
+    {{ $label = index . 0 | time.AsTime | time.Format "January 2, 2006" | upper }}
+  {{ else }}
+    {{ $week := findRESubmatch `([0-9]{4})-W([0-9]{2})$` .ContentBaseName 1 }}
+    {{ with $week }}{{ $label = printf "WEEK %s, %s" (index (index . 0) 2) (index (index . 0) 1) }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return $label }}

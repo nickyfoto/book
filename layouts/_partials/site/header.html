@@ -1,0 +1,27 @@
+{{ $path := .RelPermalink }}
+<header class="site-header">
+  <div class="edition-bar shell">
+    <span>{{ now | time.Format "Monday, January 2, 2006" | upper }}</span>
+    <span>Daily edition</span>
+  </div>
+  <div class="masthead shell">
+    <button class="icon-button menu-button" type="button" aria-label="Toggle section navigation" aria-controls="site-nav" aria-expanded="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6.5h18M3 12h18M3 17.5h18"/></svg>
+    </button>
+    <a class="wordmark" href="{{ site.Home.RelPermalink }}" aria-label="MacWorks home">MacWorks</a>
+    <button class="icon-button search-button" type="button" aria-label="Search MacWorks" data-search-open>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.75" cy="10.75" r="6.75"/><path d="m16 16 5 5"/></svg>
+    </button>
+  </div>
+  <nav class="site-nav shell" id="site-nav" aria-label="Sections">
+    <div class="nav-rail">
+      <a href="/"{{ if .IsHome }} class="is-active" aria-current="page"{{ end }}>Latest</a>
+      <a href="/technology/"{{ if eq $path "/technology/" }} class="is-active" aria-current="page"{{ end }}>Technology</a>
+      <a href="/ai/"{{ if eq $path "/ai/" }} class="is-active" aria-current="page"{{ end }}>AI</a>
+      <a href="/business/"{{ if eq $path "/business/" }} class="is-active" aria-current="page"{{ end }}>Business</a>
+      <a href="/sports/"{{ if eq $path "/sports/" }} class="is-active" aria-current="page"{{ end }}>Sports</a>
+      <a href="/video/"{{ if eq $path "/video/" }} class="is-active" aria-current="page"{{ end }}>Video</a>
+      <a href="/archive/"{{ if eq $path "/archive/" }} class="is-active" aria-current="page"{{ end }}>Archive</a>
+    </div>
+  </nav>
+</header>

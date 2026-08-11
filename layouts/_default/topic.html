@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ $topic := .Params.topic | default .Title }}
+{{ $match := .Params.match | default $topic }}
+{{ $pages := where site.RegularPages "Section" "docs" }}
+{{ $categoryPages := where $pages "Params.categories" "intersect" (slice $match) }}
+{{ $tagPages := where $pages "Params.tags" "intersect" (slice $match) }}
+{{ $pages = union $categoryPages $tagPages }}
+{{ $pages = sort $pages "File.ContentBaseName" "desc" }}
+<div class="listing-page shell">
+  <header class="page-heading listing-heading">
+    <h1>{{ .Title }} <span aria-hidden="true">/</span></h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+  <div class="listing-stream">
+    {{ range first 60 $pages }}{{ partial "article/stream-row.html" . }}{{ end }}
+  </div>
+  {{ if gt (len $pages) 60 }}<p class="listing-note">Showing the 60 newest editions. Use search to find older coverage.</p>{{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{ $headline := partial "article/headline.html" . }}
+{{ if eq .Title "The Brief" }}{{ $headline = partial "article/lead-headline.html" . }}{{ end }}
+{{ $primaryCategory := "Latest" }}
+{{ with .Params.categories }}{{ $primaryCategory = index (last 1 .) 0 }}{{ end }}
+{{ $primaryLabel := $primaryCategory }}
+{{ if eq $primaryCategory "Tech" }}{{ $primaryLabel = "Technology" }}{{ end }}
+<div class="article-page shell">
+  <a class="back-link" href="/">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 12H5m5-5-5 5 5 5"/></svg>
+    Back to latest
+  </a>
+
+  <div class="article-layout">
+    <article class="article-main">
+      <header class="article-header">
+        <p class="section-label">{{ partial "article/label.html" . }}</p>
+        <h1>{{ $headline }}</h1>
+        <p class="article-dek">{{ partial "article/summary.html" . }}</p>
+        {{ partial "article/meta.html" . }}
+      </header>
+      <div class="article-prose">
+        {{ replaceRE `(?s)<h1[^>]*>.*?</h1>` "" .Content 1 | safeHTML }}
+      </div>
+      <footer class="article-topics">
+        {{ with .Params.categories }}
+          <span>Filed under</span>
+          {{ range . }}<a href="/{{ . | urlize }}/">{{ . }}</a>{{ end }}
+        {{ end }}
+      </footer>
+    </article>
+
+    <aside class="related-rail" aria-label="More from {{ $primaryLabel }}">
+      <h2>More from {{ $primaryLabel }}</h2>
+      {{ $all := where site.RegularPages "Section" "docs" }}
+      {{ $related := where $all "RelPermalink" "ne" .RelPermalink }}
+      {{ if ne $primaryCategory "Latest" }}
+        {{ $matches := where $related "Params.categories" "intersect" (slice $primaryCategory) }}
+        {{ if gt (len $matches) 0 }}{{ $related = $matches }}{{ end }}
+      {{ end }}
+      {{ $current := where $related "File.Dir" "docs/today/" }}
+      {{ if gt (len $current) 2 }}{{ $related = sort $current "Weight" "asc" }}{{ else }}{{ $related = sort $related "File.ContentBaseName" "desc" }}{{ end }}
+      {{ range first 3 $related }}
+      <article>
+        <h3><a href="{{ .RelPermalink }}">{{ partial "article/headline.html" . }}</a></h3>
+        {{ partial "article/meta.html" . }}
+      </article>
+      {{ end }}
+    </aside>
+  </div>
+</div>
+{{ end }}

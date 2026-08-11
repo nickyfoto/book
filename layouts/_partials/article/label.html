@@ -1,0 +1,4 @@
+{{ $label := .Title }}
+{{ with .Params.categories }}{{ $label = index . 0 }}{{ end }}
+{{ if eq .Title "The Brief" }}{{ $label = "The Brief" }}{{ end }}
+{{ return ($label | upper) }}

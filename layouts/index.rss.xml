@@ -1,0 +1,17 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML -}}
+<rss version="2.0"><channel>
+  <title>{{ site.Title }}</title>
+  <link>{{ site.BaseURL }}</link>
+  <description>{{ site.Params.description }}</description>
+  <language>en</language>
+  {{- $pages := where site.RegularPages "Section" "docs" -}}
+  {{- $pages = sort $pages "File.ContentBaseName" "desc" -}}
+  {{- range first 30 $pages }}
+  <item>
+    <title>{{ partial "article/headline.html" . }}</title>
+    <link>{{ .Permalink }}</link>
+    <guid>{{ .Permalink }}</guid>
+    <description>{{ .Summary | plainify | htmlUnescape | strings.Truncate 280 | htmlEscape }}</description>
+  </item>
+  {{- end }}
+</channel></rss>

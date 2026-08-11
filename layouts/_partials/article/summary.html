@@ -1,0 +1,17 @@
+{{ $summary := .Summary | plainify | strings.Truncate 175 }}
+{{ $signalMatches := findRESubmatch `(?m)^What this adds up to is that\s+([^\n]+)` .RawContent 1 }}
+{{ with $signalMatches }}
+  {{ $signalParagraph := index (index . 0) 1 | plainify }}
+  {{ $summary = index (split $signalParagraph ". ") 0 }}
+{{ end }}
+{{ $matches := findRESubmatch `(?ms)^##\s+今日头条\s*\n+([^\n]+)` .RawContent 1 }}
+{{ if and (eq (len $signalMatches) 0) (gt (len $matches) 0) }}
+  {{ $paragraph := index (index $matches 0) 1 | plainify }}
+  {{ $sentences := split $paragraph ". " }}
+  {{ if gt (len $sentences) 1 }}
+    {{ $summary = delimit (after 1 $sentences) ". " | strings.Truncate 175 }}
+  {{ else }}
+    {{ $summary = $paragraph | strings.Truncate 175 }}
+  {{ end }}
+{{ end }}
+{{ return $summary }}

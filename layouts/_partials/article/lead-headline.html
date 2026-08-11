@@ -1,0 +1,9 @@
+{{ $headline := partial "article/headline.html" . }}
+{{ $matches := findRESubmatch `(?ms)^##\s+今日头条\s*\n+([^\n]+)` .RawContent 1 }}
+{{ with $matches }}
+  {{ $paragraph := index (index . 0) 1 | plainify }}
+  {{ $sentences := split $paragraph ". " }}
+  {{ $headline = index $sentences 0 }}
+  {{ if and (gt (len $sentences) 1) (not (hasSuffix $headline ".")) }}{{ $headline = printf "%s." $headline }}{{ end }}
+{{ end }}
+{{ return $headline }}

@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ $pages := where site.RegularPages "Section" "docs" }}
+{{ $pages = sort $pages "File.ContentBaseName" "desc" }}
+<div class="listing-page shell">
+  <header class="page-heading listing-heading">
+    <h1>Archive <span aria-hidden="true">/</span></h1>
+    <p>Every edition keeps the same address, even as it moves through the publishing archive.</p>
+  </header>
+  <div class="listing-stream">
+    {{ range first 100 $pages }}{{ partial "article/stream-row.html" . }}{{ end }}
+  </div>
+  {{ if gt (len $pages) 100 }}<p class="listing-note">Showing the 100 newest editions. Search covers the complete archive.</p>{{ end }}
+</div>
+{{ end }}

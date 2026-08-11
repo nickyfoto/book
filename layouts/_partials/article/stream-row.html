@@ -1,0 +1,7 @@
+<article class="stream-row">
+  <a class="stream-source" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <span class="stream-slash" aria-hidden="true">/</span>
+  <h3><a href="{{ .RelPermalink }}">{{ partial "article/headline.html" . }}</a></h3>
+  {{ partial "article/meta.html" . }}
+  <svg class="row-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 4 8 8-8 8"/></svg>
+</article>
