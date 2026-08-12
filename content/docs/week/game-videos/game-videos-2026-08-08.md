@@ -1,6 +1,6 @@
 ---
 title: 2026-08-08
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "game audio", "minecraft sounds", "youtube shorts"]
 ---

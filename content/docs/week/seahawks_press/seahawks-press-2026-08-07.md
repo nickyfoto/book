@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "sam darnold", "demarcus lawrence", "rashid shaheed"]
 ---

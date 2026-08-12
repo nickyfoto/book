@@ -1,6 +1,6 @@
 ---
 title: 2026-08-05
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl training camp", "mike macdonald", "seahawks offense", "seahawks defense"]
 ---

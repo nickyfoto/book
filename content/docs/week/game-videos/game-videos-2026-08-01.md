@@ -1,6 +1,6 @@
 ---
 title: 2026-08-01
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["steam", "minecraft", "pc gaming", "sales"]
 ---

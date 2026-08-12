@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative ai", "ai security", "game design", "token consumption"]
 ---

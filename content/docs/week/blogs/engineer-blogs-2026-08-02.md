@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["terminal", "ai agents", "sqlite", "documentation"]
 ---

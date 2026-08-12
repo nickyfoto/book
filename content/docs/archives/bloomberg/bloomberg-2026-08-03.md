@@ -1,0 +1,41 @@
+---
+title: 2026-08-03
+weight: 8
+categories: ["News"]
+tags: ["monetary policy", "geopolitics", "mergers and acquisitions", "artificial intelligence"]
+---
+
+{{< sources "bloomberg" >}}
+
+I have compiled today's market-moving stories into a clean, publication-ready markdown report, `bloomberg-digest-2026-08-03.md`, which is now available in your **Studio** panel. Below is the full sharp, authoritative digest for your immediate reading:
+
+# Bloomberg — 2026-08-03
+
+## Lead Story
+In an unprecedented coordinated move, the US and Japan launched their first joint currency intervention in 15 years to shore up the yen from a near four-decade low, with the Bank of Japan likely deploying $34 billion on Friday alone. US Treasury Secretary Scott Bessent backed the effort through a Federal Reserve liquidity facility designed to shield the US bond market from disruptive Treasury selloffs, while President Donald Trump framed the intervention as "a signal of friendship" to Tokyo. The historic maneuver has sent shockwaves through FX markets, prompting speculative short-sellers to brace for a massive unwinding of bearish yen bets.
+
+## Markets & Economics
+- **[Oil Slips as Trump Holds Off Iran Attack, Says Talks to Resume](https://www.bloomberg.com/news/articles/2026-08-03/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume-msdeau9b)** · Bloomberg: Crude prices plunged after US President Donald Trump called off a planned military strike on Iran, reviving hopes of diplomatic negotiations to reopen the Strait of Hormuz and easing global energy-driven inflation fears. This sudden cooling of geopolitical tensions sparked a rally in global stock and bond indexes.
+- **[US Factory Activity Expands at Strongest Pace Since 2022](https://www.bloomberg.com/news/articles/2026-08-03/us-manufacturing-activity-expands-at-strongest-pace-since-2022)** · Bloomberg: US manufacturing expanded in July at its fastest rate in over four years, driven by robust production and increased hiring that signal underlying economic strength. While the data reflects strong domestic demand, it could complicate the Federal Reserve's efforts to curb inflation as companies continue to grapple with supply-chain strains.
+- **[China Factory Slump Reinforces Signs of Economic Slowdown](https://www.bloomberg.com/news/articles/2026-08-03/china-s-factory-activity-gauge-slows-as-economy-weakens)** · Bloomberg: Private survey data showed a contraction in manufacturing activity for export-oriented Chinese firms in July, matching official gauges that suggest a widening slowdown in the world's second-largest economy. The deceleration highlights the mounting headwinds facing Beijing as global trade tensions persist.
+- **[Stock-Loving Korean President Under Fire Over Wild Market Swings](https://www.bloomberg.com/news/articles/2026-08-03/stock-loving-korean-president-under-fire-over-wild-market-swings)** · Bloomberg: President Lee Jae Myung is facing intense political backlash as the Kospi suffers a historic 40% collapse over just 27 trading days, comparable to China's 2015 crash. The meltdown was triggered as high-risk investment products, championed by authorities to attract capital and bolster the won, backfired amid a massive deleveraging of memory chipmakers.
+
+## Business & Industries
+- **[AstraZeneca Is Said to Have Explored Bristol Myers Merger](https://www.bloomberg.com/news/videos/2026-08-03/astrazeneca-said-to-have-explored-bristol-myers-merger-video)** · Bloomberg: AstraZeneca explored a potential $400 billion merger with US peer Bristol-Myers Squibb, which would create one of the world's largest pharmaceutical companies. However, AstraZeneca shares plunged as investors and analysts expressed deep skepticism over the commercial logic of the massive transaction.
+- **[Visa to Buy Fraud-Prevention Firm BioCatch for $2.4 Billion](https://www.bloomberg.com/news/videos/2026-08-03/visa-to-buy-fraud-prevention-firm-biocatch-for-2-4b-video)** · Bloomberg: Visa agreed to pay $2.4 billion in cash to acquire AI-powered cybersecurity company BioCatch from Permira and other shareholders. The deal, expected to close in early 2027, will integrate BioCatch’s behavioral biometrics and fraud-detection models across Visa's extensive global banking network.
+- **[Amazon Joins Elite List of Stocks to Top $3 Trillion in Value](https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value)** · Bloomberg: Amazon.com Inc. became only the fifth company in history to eclipse the $3 trillion market capitalization milestone, reflecting investor enthusiasm for its dominant cloud computing and e-commerce divisions.
+- **[Curium Strikes Deal to Take Radiopharma Company Lantheus Private](https://www.bloomberg.com/news/articles/2026-08-03/curium-strikes-deal-to-take-radiopharma-company-lantheus-private)** · Bloomberg: Nuclear medicine pioneer Curium agreed to acquire Lantheus Holdings and take it private in an $8 billion transaction, consolidating the high-growth radiopharmaceutical sector.
+
+## Policy & World
+- **[Blanche Strikes Confirmation Deal With Cornyn, Kills Anti-Weaponization Fund](https://www.bloomberg.com/news/articles/2026-08-03/blanche-strikes-deal-with-cornyn-kills-anti-weaponization-fund)** · Bloomberg: Acting Attorney General Todd Blanche formally rescinded an order creating a controversial $1.8 billion "anti-weaponization fund" slated for President Trump's allies, clearing a key hurdle for his Senate confirmation. However, critics and legal experts argue the written pledge is legally unenforceable.
+- **[Trump’s Latest Tariffs Hit With New Lawsuit by 25 States](https://www.bloomberg.com/news/articles/2026-08-03/trump-s-latest-tariffs-hit-with-new-lawsuit-by-group-of-states)** · Bloomberg: A coalition of 25 US states filed a legal challenge against President Donald Trump's new global tariffs, claiming the sweeping import levies implemented last month are illegal and harm small businesses.
+- **[China Is Getting More Anxious About Mythos Before Trump Meets Xi](https://www.bloomberg.com/news/articles/2026-08-03/china-is-getting-more-anxious-about-mythos-before-trump-meets-xi)** · Bloomberg: Chinese officials are growing increasingly concerned that Anthropic’s Mythos AI system could be leveraged strategically against their economy, injecting new geopolitical tensions ahead of a planned bilateral summit between Xi Jinping and Donald Trump.
+- **[Europe Gas Buffer at Risk as Levels Hit 18-Year Seasonal Low](https://www.bloomberg.com/news/articles/2026-08-03/eu-s-winter-gas-buffer-at-risk-as-storage-levels-hit-18-year-low)** · Bloomberg: European natural gas inventories have dropped to their lowest seasonal levels in almost two decades as Middle East war disruptions halt stockpiling efforts, forcing governments to confront a severe energy security crisis ahead of winter.
+
+## Opinion & Analysis
+- **[Situational Awareness’ 439% Return Should Have Been a Warning](https://www.bloomberg.com/opinion/articles/2026-08-03/situational-awareness-439-return-should-have-been-a-warning)** · Bloomberg Opinion: Columnist Aaron Brown argues that the staggering 439% return posted by Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, before requiring a massive, rushed equity liquidation to Ken Griffin's Citadel, was a stark warning about the dangerous volatility of hyper-leveraged AI momentum trades rather than a true triumph.
+- **[Why Tungsten Is Getting More Expensive](https://www.bloomberg.com/news/articles/2026-08-03/why-tungsten-is-getting-more-expensive)** · Bloomberg Opinion: Columnist David Fickling explains why the small commercial market for tungsten serves as a reliable "century-old prediction market for war," highlighting how surging prices of this high-density super-element reflect growing global geopolitical anxieties and a rush toward military manufacturing.
+
+***
+
+🎧 **This would make a highly engaging professional audio briefing if you would like me to generate a podcast episode based on this daily market summary.**

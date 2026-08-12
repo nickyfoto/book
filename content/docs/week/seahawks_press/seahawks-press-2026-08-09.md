@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "injury updates", "aj finley"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["free games", "gaming deals", "steam", "beta tests", "minecraft"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["macroeconomics", "financial markets", "corporate earnings", "geopolitics", "international trade"]
 ---
