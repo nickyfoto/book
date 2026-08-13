@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["databases", "cybersecurity", "virtualization", "artificial intelligence"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-02
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["free games", "steam", "epic", "minecraft"]
 ---

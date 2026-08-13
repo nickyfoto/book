@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite", "database compression", "github actions", "system prompts", "large language models"]
 ---

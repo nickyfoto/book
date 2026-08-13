@@ -1,6 +1,6 @@
 ---
 title: 2026-08-05
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "coding agents", "cybersecurity", "llms"]
 ---
