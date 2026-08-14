@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "semiconductors", "aerospace", "physical ai"]
 ---

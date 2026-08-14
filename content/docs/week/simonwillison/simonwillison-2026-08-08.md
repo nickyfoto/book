@@ -1,6 +1,6 @@
 ---
 title: 2026-08-08
-weight: 4
+weight: 5
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai-security", "prompt-injection", "coding-agents", "blogging"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-04
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft [1]", "gaming [1]", "building blocks [1]", "minecraft shorts [1]"]
 ---

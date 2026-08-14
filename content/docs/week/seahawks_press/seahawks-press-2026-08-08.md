@@ -1,6 +1,6 @@
 ---
 title: 2026-08-08
-weight: 4
+weight: 5
 categories: ["Sports", "Youtube"]
 tags: ["seahawks", "rashid shaheed", "mononttoy foster", "training camp"]
 ---

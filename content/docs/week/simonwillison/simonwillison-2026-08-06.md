@@ -1,6 +1,6 @@
 ---
 title: 2026-08-06
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["datasette", "security", "blogging", "artificial intelligence"]
 ---

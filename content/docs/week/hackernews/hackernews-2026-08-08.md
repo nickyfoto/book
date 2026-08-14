@@ -1,6 +1,6 @@
 ---
 title: 2026-08-08
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "systems programming", "computer hardware", "open-source software"]
 ---
