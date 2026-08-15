@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["energy markets", "geopolitics", "monetary policy", "artificial intelligence"]
 ---

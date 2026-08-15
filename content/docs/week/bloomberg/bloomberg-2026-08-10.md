@@ -1,6 +1,6 @@
 ---
 title: 2026-08-10
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "global markets", "monetary policy", "corporate governance", "public health"]
 ---

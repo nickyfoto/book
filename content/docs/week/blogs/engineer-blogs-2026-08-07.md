@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["large language models", "open source", "machine learning education"]
 ---

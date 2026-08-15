@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 4
+weight: 5
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["home cooking", "cooking techniques", "food science", "kitchen hacks"]
 ---

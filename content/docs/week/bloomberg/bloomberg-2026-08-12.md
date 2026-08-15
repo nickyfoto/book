@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["macroeconomics", "geopolitics", "corporate finance", "artificial intelligence", "energy markets"]
 ---

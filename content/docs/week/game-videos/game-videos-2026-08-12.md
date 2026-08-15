@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["sulfur cubes", "in-game marketplace", "physics mechanics", "digital expansions"]
 ---

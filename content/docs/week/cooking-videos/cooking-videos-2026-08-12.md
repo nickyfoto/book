@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["chicken changezi", "indian cuisine", "spice blending", "food science"]
 ---

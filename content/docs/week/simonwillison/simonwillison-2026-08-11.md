@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["large language models", "prompt injection", "security", "generative ai writing"]
 ---

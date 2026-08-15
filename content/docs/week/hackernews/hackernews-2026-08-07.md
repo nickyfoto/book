@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "cybersecurity", "databases"]
 ---

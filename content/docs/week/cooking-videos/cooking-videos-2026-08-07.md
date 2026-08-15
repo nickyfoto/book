@@ -1,6 +1,6 @@
 ---
 title: 2026-08-07
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["shandong cuisine", "cooking techniques", "food science", "dessert recipes"]
 ---
