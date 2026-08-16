@@ -5,15 +5,24 @@
 {{ $categoryPages := where $pages "Params.categories" "intersect" (slice $match) }}
 {{ $tagPages := where $pages "Params.tags" "intersect" (slice $match) }}
 {{ $pages = union $categoryPages $tagPages }}
-{{ $pages = sort $pages "File.ContentBaseName" "desc" }}
+{{ $pages = partial "site/by-date.html" $pages }}
+{{/* Paginated rather than capped at 60. The weekly summaries are deliberately
+     not in this pool: they live in `week/<folder>/_index.md`, and mixing an
+     undated section page into a stream sorted by filename date puts them all
+     at the bottom. They have their own entry in the masthead. */}}
+{{ $paginator := .Paginate $pages }}
 <div class="listing-page shell">
   <header class="page-heading listing-heading">
     <h1>{{ .Title }} <span aria-hidden="true">/</span></h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
   </header>
+  {{ if $paginator.Pages }}
   <div class="listing-stream">
-    {{ range first 60 $pages }}{{ partial "article/stream-row.html" . }}{{ end }}
+    {{ range $paginator.Pages }}{{ partial "article/stream-row.html" . }}{{ end }}
   </div>
-  {{ if gt (len $pages) 60 }}<p class="listing-note">Showing the 60 newest editions. Use search to find older coverage.</p>{{ end }}
+  {{ partial "site/pagination.html" $paginator }}
+  {{ else }}
+  <p class="listing-note">No editions are filed under this section yet.</p>
+  {{ end }}
 </div>
 {{ end }}

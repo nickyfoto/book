@@ -22,10 +22,20 @@
       <div class="article-prose">
         {{ replaceRE `(?s)<h1[^>]*>.*?</h1>` "" .Content 1 | safeHTML }}
       </div>
+      {{/* `urlize` on the raw category sent these links to /Tech/, /News/,
+           /Youtube/ and six other addresses the site does not build — every
+           article on the site, every link in this row. The topics partial is
+           the same list the masthead renders, so a category only becomes a
+           link when a page actually exists to receive it. */}}
       <footer class="article-topics">
         {{ with .Params.categories }}
+          {{ $topics := partial "site/topics.html" $ }}
           <span>Filed under</span>
-          {{ range . }}<a href="/{{ . | urlize }}/">{{ . }}</a>{{ end }}
+          {{ range . }}
+            {{ $hit := where $topics "match" . }}
+            {{ with $hit }}<a href="{{ (index . 0).url }}">{{ (index . 0).title }}</a>
+            {{ else }}<span class="topic-plain">{{ . }}</span>{{ end }}
+          {{ end }}
         {{ end }}
       </footer>
     </article>

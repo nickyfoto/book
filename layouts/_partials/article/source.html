@@ -1,0 +1,20 @@
+{{/* The publication name for a listing row.
+
+Only pages still sitting in today/ carry the feed name as their title. When
+rotate.py moves a page into week/ it rewrites the title to the date, and the
+monthly archives are titled "Week NN Summary" — so for both, the feed name
+survives only on the parent section. That is why a row in /archive/ used to
+read "2026-08-14 / <headline>" while the same story on the home page read
+"THE BRIEF / <headline>": the two components disagreed about where the name
+lives.
+
+Section pages — the weekly summaries — already hold the feed name themselves. */}}
+{{ $source := .Title }}
+{{ if eq .Kind "page" }}
+  {{ $rotated := true }}
+  {{ with .File }}{{ $rotated = not (hasPrefix .Dir "docs/today/") }}{{ end }}
+  {{ if $rotated }}
+    {{ with .Parent }}{{ with .Title }}{{ $source = . }}{{ end }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return $source }}

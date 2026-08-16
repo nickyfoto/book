@@ -3,7 +3,7 @@ title: Company@X
 weight: 8
 bookCollapseSection: true
 categories: ["Social Media", "Tech"]
-tags: ["artificial intelligence", "cloud computing", "genomics", "robotics", "autonomous driving", "machine learning datasets", "***", "to provide a thorough and complete analysis of why these tags best represent the themes from the digest and sources, here is how each topic maps directly to the source material:", "cybersecurity", "venture capital", "autonomous vehicles", "agentic ai", "defense tech", "physical ai", "open-source models", "consumer hardware", "autonomous agents", "tech infrastructure", "software engineering", "developer tools", "aerospace"]
+tags: ["artificial intelligence", "cloud computing", "genomics", "robotics", "autonomous driving", "machine learning datasets", "cybersecurity", "venture capital", "autonomous vehicles", "agentic ai", "defense tech", "physical ai", "open-source models", "consumer hardware", "autonomous agents", "tech infrastructure", "software engineering", "developer tools", "aerospace"]
 ---
 
 # Company@X — Week of 2026-08-08 to 2026-08-14

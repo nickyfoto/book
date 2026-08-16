@@ -1,0 +1,23 @@
+{{/* Order a page collection newest-first by the date in its filename.
+
+These pages carry no `date` in front matter, so every listing sorted on
+`File.ContentBaseName` instead — which is alphabetical, not chronological. The
+practical effect was that /archive/, a page headed "Archive" and claiming to
+show the newest editions, opened with fifty consecutive YouTube editions
+because `youtube-` sorts above `x-` sorts above `tech-`. The date is right
+there in the filename; this reads it.
+
+Pages with no date in the name (the monthly `weekly-YYYY-Wnn` archives) get an
+empty key and fall to the end, which is where they belong in a daily stream. */}}
+{{ $rows := slice }}
+{{ range . }}
+  {{ $key := "" }}
+  {{ with .File }}
+    {{ with findRE `[0-9]{4}-[0-9]{2}-[0-9]{2}$` .ContentBaseName 1 }}{{ $key = index . 0 }}{{ end }}
+  {{ end }}
+  {{ $rows = $rows | append (dict "page" . "key" $key "name" .File.ContentBaseName) }}
+{{ end }}
+{{ $rows = sort (sort $rows "name" "asc") "key" "desc" }}
+{{ $sorted := slice }}
+{{ range $rows }}{{ $sorted = $sorted | append .page }}{{ end }}
+{{ return $sorted }}

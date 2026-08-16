@@ -1,0 +1,19 @@
+{{/* Every topic page, paired with the category value it claims.
+
+The masthead nav and an article's "Filed under" row both read this one list, so
+they cannot drift apart, and a category with no topic page renders as plain
+text instead of a link to an address the site does not build. Before this
+existed `single.html` built those links with `urlize`, which — with
+`disablePathToLower` on — sent every article to /Tech/, /News/, /Youtube/ and
+six other 404s. /AI/ and /Sports/ looked fine only on a case-insensitive Mac;
+the built directories are lowercase and GitHub Pages is not.
+
+Adding a topic is one content file with `layout: topic`; nothing here changes. */}}
+{{ $topics := slice }}
+{{ range sort (where site.Pages "Layout" "topic") "Weight" }}
+  {{ $topics = $topics | append (dict
+      "title" .Title
+      "url" .RelPermalink
+      "match" (.Params.match | default .Params.topic | default .Title)) }}
+{{ end }}
+{{ return $topics }}

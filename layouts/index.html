@@ -15,6 +15,13 @@
   {{ $lead := index $today 0 }}
   {{ with where $today "Title" "The Brief" }}{{ $lead = index . 0 }}{{ end }}
   {{ $others := where $today "Title" "ne" "The Brief" }}
+  {{/* The three side stories and the stream below them used to be `first 3`
+       and `first 4` of the same sorted list, so the first three editions were
+       printed twice on one page and the front of a 24-edition day showed five
+       distinct ones. The stream now starts where the side column stops, and
+       runs to the end of the day. */}}
+  {{ $sideStories := first 3 $others }}
+  {{ $streamStories := after 3 $others }}
   <div class="home-page shell">
     <header class="page-heading">
       <h1>Today’s Briefing <span aria-hidden="true">/</span></h1>
@@ -37,7 +44,7 @@
       </article>
 
       <div class="side-stories">
-        {{ range first 3 $others }}
+        {{ range $sideStories }}
         <article class="side-story">
           <a class="section-label" href="{{ .RelPermalink }}">{{ partial "article/label.html" . }}</a>
           <h3><a href="{{ .RelPermalink }}">{{ partial "article/headline.html" . }}</a></h3>
@@ -47,17 +54,19 @@
       </div>
     </section>
 
+    {{ with $streamStories }}
     <section class="latest-section" id="latest-editions">
       <header class="section-heading">
         <h2>Latest editions <span aria-hidden="true">/</span></h2>
       </header>
       <div class="stream-list">
-        {{ range first 4 $others }}
+        {{ range . }}
           {{ partial "article/stream-row.html" . }}
         {{ end }}
       </div>
       <a class="more-link" href="/archive/">View more editions <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15m-5-5 5 5-5 5"/></svg></a>
     </section>
+    {{ end }}
   </div>
 {{ else }}
   <div class="empty-state shell">

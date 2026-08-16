@@ -5,4 +5,5 @@ topic: Video
 match: Youtube
 url: /video/
 description: Selected technology, cooking, gaming, and sports video briefings.
+weight: 5
 ---

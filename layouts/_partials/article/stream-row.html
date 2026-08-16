@@ -1,5 +1,5 @@
 <article class="stream-row">
-  <a class="stream-source" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <a class="stream-source" href="{{ .RelPermalink }}">{{ partial "article/source.html" . }}</a>
   <span class="stream-slash" aria-hidden="true">/</span>
   <h3><a href="{{ .RelPermalink }}">{{ partial "article/headline.html" . }}</a></h3>
   {{ partial "article/meta.html" . }}

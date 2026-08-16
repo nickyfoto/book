@@ -1,17 +1,46 @@
 {{ define "main" }}
-{{ $pages := .RegularPages }}
-{{ $pages = sort $pages "File.ContentBaseName" "desc" }}
+{{/* A section holds two different kinds of child.
+
+`/editions/week/` has no regular pages at all — its 24 children are themselves
+sections, because a weekly summary is written into `week/<folder>/_index.md`.
+Listing only `.RegularPages` rendered that page with zero rows and left every
+weekly summary on the site unreachable. `/editions/archives/` has both kinds.
+
+The split below is on content, not on kind: a child section that carries a body
+is an edition and belongs in the stream; one that is only a title is a folder
+and belongs in the index grid. */}}
+{{ $editions := .RegularPages }}
+{{ $folders := slice }}
+{{ range .Sections }}
+  {{ if .RawContent }}
+    {{ $editions = $editions | append . }}
+  {{ else }}
+    {{ $folders = $folders | append . }}
+  {{ end }}
+{{ end }}
+{{ if .RegularPages }}
+  {{ $editions = partial "site/by-date.html" $editions }}
+{{ else }}
+  {{ $editions = sort $editions "Weight" "asc" }}
+{{ end }}
+{{ $paginator := "" }}
+{{ if $editions }}{{ $paginator = .Paginate $editions }}{{ end }}
 <div class="listing-page shell">
   <header class="page-heading listing-heading">
     <h1>{{ .Title | default "Editions" }} <span aria-hidden="true">/</span></h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
   </header>
   {{ with .Content }}<div class="article-prose section-content">{{ . }}</div>{{ end }}
-  {{ if gt (len $pages) 0 }}
+  {{ with $paginator }}
   <div class="listing-stream">
-    {{ range first 30 $pages }}{{ partial "article/stream-row.html" . }}{{ end }}
+    {{ range .Pages }}{{ partial "article/stream-row.html" . }}{{ end }}
   </div>
-  {{ if gt (len $pages) 30 }}<p class="listing-note">Showing the 30 newest editions. Search covers the complete archive.</p>{{ end }}
+  {{ partial "site/pagination.html" . }}
+  {{ end }}
+  {{ with $folders }}
+  <nav class="folder-index" aria-label="Sections">
+    {{ range sort . "Weight" "asc" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </nav>
   {{ end }}
 </div>
 {{ end }}

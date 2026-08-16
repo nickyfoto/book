@@ -1,10 +1,9 @@
-# Welcome
+---
+title: Editions
+description: Every MacWorks edition, by the stage it has reached.
+---
 
-This documentation covers everything you need to know to get up and running quickly.
-
-## What's Inside
-
-- **Getting Started** — installation and your first steps
-- **Concepts** — core ideas and architecture
-- **Guides** — step-by-step walkthroughs for common tasks
-- **Reference** — full configuration and API reference
+Editions move through three stages. Today's briefings are published each morning;
+after a day they rotate into the current week, where a weekly synthesis is written
+across them each Sunday; older weeks are kept in the archive at their original
+addresses.
