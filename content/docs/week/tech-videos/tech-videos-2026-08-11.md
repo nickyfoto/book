@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "hardware infrastructure", "robotics"]
 ---

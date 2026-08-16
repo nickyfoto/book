@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "databases", "coding agents", "software packaging"]
 ---

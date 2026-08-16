@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "artificial intelligence", "global markets", "corporate finance", "climate change"]
 ---

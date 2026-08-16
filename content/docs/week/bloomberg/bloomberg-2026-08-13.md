@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["global markets", "artificial intelligence", "macroeconomic policy", "corporate mergers and acquisitions"]
 ---

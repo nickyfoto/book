@@ -1,6 +1,6 @@
 ---
 title: 2026-08-05
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "macos", "emulation"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["robotics", "autonomous driving", "machine learning datasets", "***", "to provide a thorough and complete analysis of why these tags best represent the themes from the digest and sources, here is how each topic maps directly to the source material:"]
 ---

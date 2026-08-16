@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "software engineering", "autonomous vehicles"]
 ---

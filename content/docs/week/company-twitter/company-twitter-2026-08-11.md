@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "agentic ai", "defense tech", "physical ai", "open-source models"]
 ---

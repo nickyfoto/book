@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "hardware hacking", "internet history", "open-source"]
 ---
