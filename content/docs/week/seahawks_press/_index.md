@@ -3,26 +3,25 @@ title: Seahawks Press
 weight: 23
 bookCollapseSection: true
 categories: ["Sports", "Youtube"]
-tags: ["seattle seahawks", "jaxon smith-njigba", "nick emmanwori", "injury updates", "offseason training", "mike macdonald", "minicamp", "injuries", "accountability", "scheme"]
+tags: ["seattle seahawks", "training camp", "sam darnold", "demarcus lawrence", "rashid shaheed", "seahawks", "mononttoy foster", "injury updates", "aj finley", "mike macdonald", "roster updates", "offensive line", "devon witherspoon", "jaxon smith-njigba", "leonard williams", "aj barner", "drake thomas", "tight ends"]
 ---
 
-# Accountability and Extreme Versatility Set the Tone — Week of 2026-06-09 to 2026-06-10
+# Inside Macdonald's Laboratory: Vulnerability, Violence in the Trenches, and the Creative Secrets of the Defending Champs — Week of 2026-08-07 to 2026-08-13
 
 ## Week in Review
-The honeymoon is officially over in Seattle as Mike Macdonald aggressively pivots the team away from any Super Bowl hangover and establishes a firm, no-nonsense culture heading into the summer. We are seeing a defensive scheme demanding positionless football, while offensive continuity and early contract extensions have set a highly focused, business-first stage for training camp.
+It was a high-octane week at Seahawks training camp as the team officially completed installing offensive coordinator Brian Fleury's playbook and shifted its focus from learning to mastering execution. **The defending Super Bowl champions are showing absolutely zero signs of complacency, driven by Head Coach Mike Macdonald's unique culture of vulnerability that has completely won over established Pete Carroll-era veterans like Leonard Williams.** From a dominant starting offensive line to the rapid emergence of young depth players aggressively pushing for starting roles, the building is humming with competitive energy.
 
 ## Top Stories
-**Macdonald's Blunt Message to "Josh"**
-Mike Macdonald dropped the usual injury coach-speak and put tackle "Josh" on notice, bluntly stating it is entirely the player's "responsibility" to get his body ready to practice and compete with Bobby. This candid moment signals a stark contrast in accountability expectations, making it clear the staff will not coddle players battling for depth chart positioning ahead of training camp. 
 
-**Defensive Scheme Demands Positionless Play**
-The evolution of Macdonald's defense requires extreme versatility, highlighted by second-year defensive back Nick Emmanwori actively taking physical reps with the edge rushers to become a more complete player. The coaching staff is taking a collective approach to instruction—insisting they refuse to "farm each other's land"—which allows defensive linemen like Jared Ivy to shift seamlessly across gaps and veteran "mayor" Julian to be schemed closer to the action. 
-
-**JSN Locked In & Offensive Continuity**
-Jaxon Smith-Njigba's new lucrative contract extension was finalized early, completely eliminating any holdout drama and keeping him locked in on mastering OC Brian's detail-oriented "this year's version of last year's offense". JSN is highly optimistic about year-two growth with Sam, and specifically singled out an explosive "Rasheed" as a breakout candidate ready to make a leap after finally securing a full offseason program. 
-
-**The Injury Wire**
-Nick Emmanwori revealed he spent the entire offseason rehabbing an ankle tweaked in Super Bowl warmups, but confirmed he is now fully healthy and taking full reps. Meanwhile, Zach Charbet is progressing well on his own schedule, Tori will miss the rest of minicamp but should be ready for training camp, and Deon Eastern's status remains a vague "we'll see".
+*   **The "Macdonald Effect" and the Power of Vulnerability:** Veteran defensive tackle **Leonard Williams** dropped the ultimate inside look at Mike Macdonald's locker room, revealing how the head coach won over Pete Carroll-era players by openly pointing out his own flaws and self-deprecatingly calling himself "awkward," "a nerd," and "uncomfortable". This ego-stripping approach has completely revitalized Williams' career—taking him from contemplating retirement in his eighth season to actively wanting a long-term extension in Seattle—and has built a tight-knit family culture where high-intensity *Hard Knocks* callouts are embraced as constructive love rather than personal attacks.
+*   **Offensive Line Continuity & the Secrets of JSN's "Route 3":** Rather than typical training camp coach-speak, Mike Macdonald was genuinely bullish on the starting offensive line, declaring that returning all five starters has built massive chemistry and invaluable "bank reps" to take the offense to the next level. Down the field, Jaxon Smith-Njigba revealed that the offense is unleashing highly creative "Route 3" passing concepts and playing "pick and roll" with Cooper Kupp, with teammates also hyping up backup quarterback Jalen Milro's pocket poise and lightning-fast "quick draw" release.
+*   **AJ Finley's Emotional Return & AJ Barner's Bombshell Injury Disclosure:** Safety **AJ Finley** provided the emotional high point of camp, snagging a "full circle" quarters-coverage interception at Lumen Field exactly one year after being carted off that same turf with a season-ending ACL injury. On the offensive side, tight end **AJ Barner** dropped a major physical bombshell, revealing he spent the last two seasons playing through a lingering Senior Bowl ankle injury that caused hamstring issues up his leg. After undergoing successful offseason surgery, Barner is finally pain-free, nearing 100%, and enthusiastically hyping teammate Elijah Arroyo and the tight end room's versatility under coordinator Brian Fleury.
+*   **Locker Room Accountability and the Terion Arnold Evaluation:** The front office continues to protect its culture above all else, with Macdonald confirming a tryout for former Alabama cornerback **Terion Arnold** but emphasizing the team is conducting thorough off-field due diligence to protect their locker room standard before making a signing. This strict standard of accountability is felt across the roster, from safeties coach Jeff Howard enforcing a rule that anyone who cannot communicate at an elite level simply won't play, to superstar cornerback **Devon Witherspoon** flatly brushing off contract talk because "if you're not practicing, you're not getting ready".
 
 ## Patterns
-The dominant thread coming out of minicamp is Macdonald's psychological challenge to his roster to breed self-reliance, ranging from intentionally flooding rookies with scheme information to blunt public call-outs of underperforming veterans. The front office and coaching staff are operating in lockstep to remove all external distractions—squashing Super Bowl complacency and finalizing priority deals early—to force every player to take personal ownership of their summer preparation.
+
+**First, a powerful wave of veteran-to-rookie mentorship is accelerating the roster's depth, as seen in Leonard Williams actively grooming rookie DT Rylie Mills and Cooper Kupp acting as a second coach to unlock young wideouts like Montoy Foster.** **Second, the coaching staff is prioritizing extreme versatility over a rigid depth chart on both sides of the ball.** This is highlighted by testing Devon Witherspoon across multiple defensive backfield roles in "big nickel" packages, deploying wideout Rashid Shaheed in physical possession roles over the middle, and implementing Brian Fleury's complex multi-tight end passing sets to keep defenses guessing.
+
+***
+
+📋 If you'd like, I can construct an unofficial 53-man roster projection based on these camp battles, separating the locked-in starters from the players currently fighting for backup spots on the O-line and in the secondary.

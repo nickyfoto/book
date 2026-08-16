@@ -3,26 +3,30 @@ title: Seahawks
 weight: 10
 bookCollapseSection: true
 categories: ["Sports"]
-tags: ["george holani", "mike macdonald", "tickets", "jerseys", "bobby wagner", "seattle seahawks", "jaxon smith-njigba", "jake bobo", "nfl off-season", "ownership", "roster updates", "salary cap", "team culture", "julian love", "sam darnold", "nick emmanwori", "offseason grades", "uniform rankings", "super bowl xlviii", "nfl offseason", "ownership rumors", "rylie mills", "leonard williams", "lumen field", "espys", "offseason", "super bowl ring", "marshawn lynch"]
+tags: ["seattle seahawks", "training camp", "roster moves", "football fest", "injuries", "fan fest", "seahawks", "sam darnold", "nfl training camp", "sports news", "hard knocks", "nfl preseason"]
 ---
 
-# Seahawks — Week of 2026-06-27 to 2026-07-03
+# Seahawks — Week of 2026-08-08 to 2026-08-14
 
 ## Top Story
-The absolute biggest development defining our offseason is the fast-approaching sale of the franchise, with prospective ownership bids officially coming due this week. Unconfirmed but fiery rumors are swirling that Clippers owner Steve Ballmer is the frontrunner, with local beat reporters expressing 80% confidence in a potential takeover. If true, this speculation points toward bringing a deep-pocketed, wildly passionate leader to secure the long-term future of our reigning Super Bowl champions.
+The Seahawks signed former Detroit Lions first-round cornerback **Terrion Arnold** to a polarizing one-year contract, a bold roster move that has head coach **Mike Macdonald** defending the team's strong locker room culture despite local media labeling it a "big-risk, low-reward" gamble. The signing has already ignited intense debate among 12s, with fans questioning whether this high-profile addition will impact the team's ongoing, delicate contract negotiations with standout corner **Devon "Spoon" Witherspoon**. This high-stakes acquisition capped off a week of heavy tryout speculation and legal tracking, adding elite first-round talent to the secondary.
 
 ## News & Buzz
-**[Super Bowl Core Rewarded]** · [r/Seahawks](https://www.reddit.com/r/Seahawks/comments/1uibroi/nemhauser_the_seahawks_return_the_2ndhighest_of/)
-The Seahawks are returning the second-highest percentage of snaps from their Super Bowl roster of any champion since 2010, giving John Schneider and the fanbase immense confidence in a sturdy foundation. Individual accolades are also rolling in, with Jaxon Smith-Njigba earning Offensive Player of the Year honors and Ken Walker III officially showing off his icy new championship ring on the timeline.
+**Sam Darnold's Rise and National Accolades** · [Twitter/X](http://twitter.macworks.dev/Seahawks/status/2088281237396054150#m)
+Our QB1 is earning some serious national respect, landing at **No. 21** on the NFL's Top 100 Players of 2026 and turning heads with a league-leading **639 RPM** spin rate showcased on *Hard Knocks*. Analysts like Brock Huard note that Darnold is playing "infinitely better" than last season, fueled by the peace of mind of finding long-term stability and local roots in Seattle.
 
-**[Offensive Weapons Primed]** · [r/Seahawks](https://www.reddit.com/r/Seahawks/comments/1uj20yo/fowler_rb_zach_charbonnet_has_a_late_july_checkup/)
-Anticipation is building for an expanded role for Rashid Shaheed, who had a massive spring and looks to be a dangerous focal point for our attack this season. Meanwhile, rookie running back Jadarian Price is already impressing the coaching staff as an "absolute specimen," with 12s on Reddit even pitching a brilliant new tradition to blast *The Price is Right* theme song at Lumen Field every time he scores.
+**Backfield Health & Injury Rebounds** · [Reddit](https://www.reddit.com/r/Seahawks/comments/1vmt62o/bell_seahawks_16th_trainingcamp_practice_an_act/)
+There is positive news for the Seahawks' backfield as first-round rookie running back **Jadarian Price** returned to walkthroughs after a five-practice absence due to leg soreness, while **Zach Charbonnet** is progressing nicely with lateral resistance work in rehab. However, the offense suffered a blow with fullback **Robbie Ouzts** placed on season-ending IR, alongside earlier practice-ending injuries to Logan Brown, Chris Paul Jr., and Mason Richman.
 
-**[Macdonald's Elite Scheme]** · [r/Seahawks](https://www.reddit.com/r/Seahawks/comments/1uku4iy/football_insights_defensive_play_caller/)
-National media and fresh analytics are finally giving Mike Macdonald his flowers, placing his defensive play-calling efficiency against play-action in the exact same elite tier as Bill Belichick. Returning defensive pillars like Leonard Williams and Julian Love—now officially hailed as the "Mayor" of the Seahawks—are already grinding this offseason alongside franchise legends like Bobby Wagner to ensure the unit remains a nightmare for the 49ers.
+**Return of Iconic Throwbacks and Alternates** · [Seattle Times](https://www.seattletimes.com/sports/seahawks/seahawks-throwback-uniforms-set-to-return-for-epic-primetime-jersey-matchup-with-broncos/)
+Seattle's beloved 1990s throwback uniforms are officially scheduled to return on **October 15** for a highly anticipated Thursday Night Football clash against Denver. Additionally, Seattle and the Rams will be the first to debut newly designed **'Rivalries' uniforms**, with the Rams reportedly breaking protocol to wear their home alternates on the road in Seattle.
 
-**[Media Snubs the Champs]** · [r/Seahawks](https://www.reddit.com/r/Seahawks/comments/1uhj0vh/seahawks_lb_uchenna_nwosu_on_seattles_super_bowl/)
-In a hilarious badge of honor proving the national media slept on Seattle all year, it was revealed that the 2025 Seahawks were the first Super Bowl champs since the '84 Niners to receive zero regular-season games covered by top-tier FOX or CBS broadcast crews. Fed up with the disrespect, Uchenna Nwosu and the official team channels are actively rallying the 12s to mobilize and vote for the squad in the 2026 ESPYS Best Team category.
+**Culture & Locker Room Dynamics** · [Reddit](https://www.reddit.com/r/Seahawks/comments/1vmxac8/warriors_in_the_garden_spoiler_ish/)
+Episode 2 of *Hard Knocks* showcased Mike Macdonald's compelling **"Warrior in the Garden"** philosophy, highlighting a lethal defensive mentality and an intense commitment to protecting the quarterback. Meanwhile, wide receiver **Jaxon Smith-Njigba's** selfless, team-first attitude has been heavily praised as the defending champions build a cohesive, repeat-caliber culture.
 
 ## 12s Pulse
-The 12s are vibrating with a potent mix of deep championship pride and an impatient offseason itch for football to finally start. Between reminiscing about peak Legion of Boom highlights, celebrating Jake Bobo's wedding, and mapping out Lumen Field pilgrimages—where our deafening home-field advantage is currently bracing for a raucous US-Belgium soccer match—the fan community is loud, proud, and fully ready to defend the title.
+The 12s experienced an electric, high-energy week driven by *Hard Knocks* inside access, Sam Darnold's national recognition, and the return of the iconic throwbacks. While there are nervous whispers regarding offensive line health and intense debate over the polarizing signing of Terrion Arnold, the dominant mood is one of fierce championship confidence as fans prepare for the preseason opener against Dallas.
+
+***
+
+🏈 If you are gearing up for Saturday's kickoff, we can look at the unofficial depth chart and draft a projected lineup for the Cowboys game!
