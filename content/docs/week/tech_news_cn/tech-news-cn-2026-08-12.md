@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["ai agents", "developer tooling", "consumer electronics", "robotics", "news commentary"]
 ---

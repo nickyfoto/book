@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "offensive line", "devon witherspoon"]
 ---

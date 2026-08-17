@@ -1,6 +1,6 @@
 ---
 title: 2026-08-10
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "local llms", "cybersecurity", "datasette"]
 ---

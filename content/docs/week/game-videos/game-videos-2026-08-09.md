@@ -1,6 +1,6 @@
 ---
 title: 2026-08-09
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["horror gaming", "game design", "minecraft", "gaming memes"]
 ---

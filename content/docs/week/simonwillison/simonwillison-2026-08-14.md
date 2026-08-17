@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite", "gemini", "embeddings", "artificial intelligence"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["egg recipes", "cooking techniques", "culinary heritage", "meal prep"]
 ---

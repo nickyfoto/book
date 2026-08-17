@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["developer tools", "continual learning", "ai infrastructure", "robotics"]
 ---
