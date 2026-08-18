@@ -1,0 +1,42 @@
+---
+title: 2026-08-09
+weight: 8
+categories: ["News"]
+tags: ["energy markets", "geopolitics", "monetary policy", "artificial intelligence"]
+---
+
+{{< sources "bloomberg" >}}
+
+# Bloomberg — 2026-08-09
+
+## Lead Story
+**Oil prices extended gains** as negotiations between Iran and Oman over a temporary transit agreement for the Strait of Hormuz hit a standstill, with Iran rejecting direct talks with the US and warning that a pact would not lead to an immediate reopening of the critical shipping chokepoint. **Geopolitical risks in the region intensified** further after Houthi militants claimed an attack on Saudi Aramco’s Jazan oil refinery near the Red Sea, setting off a blaze that was subsequently extinguished by Saudi authorities. Even if a shipping agreement is eventually brokered, maritime operators and traders caution that **it will take weeks or months for crude flows to recover** to normal levels.
+
+## Markets & Economics
+- **[Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out](https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out)** · Bloomberg: South Korea’s equity markets are stabilizing after regulatory interventions on risky products and a historic market selloff successfully cleared out over-leveraged trading positions.
+- **[China’s Inflation Cools as Oil Shock of Iran War Starts to Ease](https://www.bloomberg.com/news/articles/2026-08-09/china-s-inflation-cools-as-oil-shock-of-iran-war-starts-to-ease)** · Bloomberg: Both factory-gate and consumer inflation in China decelerated for the first time since the outbreak of hostilities in February, indicating that cost pressures stemming from the global oil shock are beginning to recede.
+- **[Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say](https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say)** · Bloomberg: The Australian dollar is poised to climb toward a 35-year high against the Japanese yen as the effects of Tokyo’s market interventions fade and the Reserve Bank of Australia’s hawkish monetary stance provides support. The central bank is expected to hold interest rates steady this week while warning that persistent price pressures keep future hikes on the table.
+- **[Behind Bessent Moves, Wall Street Sees Sign of Bond-Market Angst](https://www.bloomberg.com/news/articles/2026-08-09/behind-bessent-moves-wall-street-sees-sign-of-bond-market-angst)** · Bloomberg: Traders interpret US Treasury Secretary Scott Bessent’s recent policy maneuvers as an attempt to suppress sudden spikes in Treasury yields, signaling administrative anxiety over sovereign bond market stability.
+- **[Currency Defense Gets Makeover as Emerging Asia Guards Reserves](https://www.bloomberg.com/news/articles/2026-08-09/currency-defense-gets-makeover-as-emerging-asia-guards-reserves)** · Bloomberg: Central banks across emerging Asia are pivoting toward alternative strategies to defend their exchange rates, seeking to protect their foreign-exchange reserves from pressure caused by Middle East tensions and high US interest rates.
+
+## Business & Industries
+- **[Barrick Chairman’s Planned Overhaul Meets Investor Backlash](https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition)** · Bloomberg: Barrick Mining Corp. Chairman John Thornton is facing fierce shareholder resistance as he pushes to restructure one of the world's largest gold producers, having recently wrested operational control from his long-time CEO.
+- **[Food Safety Fears Rattle Restaurants and Diners](https://www.bloomberg.com/news/videos/2026-08-09/food-safety-fears-rattle-restaurants-and-diners-video)** · Bloomberg: A wave of foodborne illness outbreaks has weighed heavily on restaurant demand, driving Taylor Farms to recall pre-prepared items over Salmonella fears and forcing brands like Sweetgreen, Chipotle, and Qdoba to pull ingredients or adjust corporate financial guidance.
+- **[Treasury Wine Shares Soar After Moves to Tackle Excess US Supply](https://www.bloomberg.com/news/articles/2026-08-09/treasury-wine-flags-395m-writedown-to-tackle-excess-us-supply)** · Bloomberg: Shares of Australia's Treasury Wine Estates Ltd. hit an eight-month high after the company announced a major post-tax writedown of A\$558.4 million (\$395 million) to clear supply chain inventory gluts in its US market.
+- **[Tabcorp to Buy BetMakers in \$189 Million Wagering Tech Deal](https://www.bloomberg.com/news/articles/2026-08-09/tabcorp-to-buy-betmakers-in-189-million-wagering-tech-deal)** · Bloomberg: Tabcorp Holdings Ltd. agreed to acquire wagering tech developer BetMakers Technology Group Ltd. for \$189 million (A\$267 million) to accelerate a digital platform overhaul amid growing regulatory pressure around gambling protections.
+- **[McKinsey CFO Has a Warning on AI Costs](https://www.bloomberg.com/news/newsletters/2026-08-09/mckinsey-cfo-has-a-warning-on-ai-costs-cfo-briefing)** · Bloomberg: McKinsey & Co. Chief Financial Officer Yuval Atsmon cautioned that the firm must urgently control its rising artificial intelligence implementation costs, declaring that current rates of expenditure growth are unsustainable.
+
+## Policy & World
+- **[US Weapons Crunch Raises Risks Beyond Iran](https://www.bloomberg.com/news/videos/2026-08-09/us-weapons-crunch-raises-risks-beyond-iran-video)** · Bloomberg: The intense consumption of military hardware in the Iran war has depleted vital US stockpiles, utilizing at least half of the nation's Patriot missile inventory and forcing the Pentagon to pressure defense contractors to rapidly boost production.
+- **[Syria Says Russian Mediterranean Bases to Shift to Joint Control](https://www.bloomberg.com/news/articles/2026-08-09/syria-says-russian-mediterranean-bases-to-shift-to-joint-control)** · Bloomberg: Syria announced that two Russian bases within its borders will be reorganized into joint training centers, altering Moscow's exclusive military and naval footprint on the Mediterranean.
+- **[Netanyahu Rejects US-Backed Proposal for Hamas Disarmament](https://www.bloomberg.com/news/articles/2026-08-09/netanyahu-rejects-us-backed-proposal-for-hamas-disarmament)** · Bloomberg: Israeli Prime Minister Benjamin Netanyahu has rejected a proposal by US-backed mediators to disarm Hamas, reinforcing his opposition to reciprocating with phased troop withdrawals from Gaza.
+- **[Turkey Resumes Black Sea Ship Transits Via Straits After Delays](https://www.bloomberg.com/news/articles/2026-08-09/turkey-resumes-black-sea-ship-transits-via-straits-after-delays)** · Bloomberg: Maritime transit through the Turkish straits to the Black Sea has resumed following unexplained shipping delays that pointed to heightened security risks in the region.
+
+## Opinion & Analysis
+- **[Peptides Shouldn’t Be China’s Next Fentanyl Moment](https://www.bloomberg.com/opinion/articles/2026-08-09/peptides-shouldn-t-be-china-s-next-fentanyl-moment)** · Bloomberg Opinion: Columnists argue that China must bring the same rapid enforcement and regulatory focus it previously used to ban fentanyl under US pressure to halt the unchecked, expanding export of unregulated synthetic peptides.
+- **[Chinese AI Video Is Coming for More than Hollywood](https://www.bloomberg.com/opinion/articles/2026-08-09/chinese-ai-video-is-coming-for-more-than-hollywood)** · Bloomberg Opinion: While advanced language models like Moonshot’s Kimi K3 dominate public debate, China’s rapid progress in AI video generation suggests that its real technological edge has profound implications far beyond the film industry.
+- **[What Should a 21st-Century Central Bank Look Like?](https://www.bloomberg.com/opinion/articles/2026-08-09/what-should-a-21st-century-central-bank-look-like)** · Bloomberg Opinion: The classic model of central bank independence, which has stabilized economies since the Volcker era, faces growing political pressure as lawmakers increasingly demand accountability for the vast power held by monetary authorities.
+
+***
+
+🎧 Since this digest covers a wide range of overlapping global events, I can generate a podcast-style audio briefing if you would prefer to listen to this market summary on the go.

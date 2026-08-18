@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 5
+weight: 6
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["home cooking", "culinary techniques", "recipes", "food reviews"]
 ---

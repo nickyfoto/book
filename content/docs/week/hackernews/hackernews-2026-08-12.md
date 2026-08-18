@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["software engineering", "artificial intelligence", "typography", "databases"]
 ---

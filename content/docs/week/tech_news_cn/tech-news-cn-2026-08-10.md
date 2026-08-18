@@ -1,6 +1,6 @@
 ---
 title: 2026-08-10
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "robotics", "software engineering", "consumer technology"]
 ---
