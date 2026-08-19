@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative ai", "accidental cyberattacks", "coding agents", "security"]
 ---

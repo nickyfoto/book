@@ -1,6 +1,6 @@
 ---
 title: 2026-08-10
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "mike macdonald", "roster updates"]
 ---

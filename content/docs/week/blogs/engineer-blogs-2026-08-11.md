@@ -1,6 +1,6 @@
 ---
 title: 2026-08-11
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["distributed systems", "software engineering", "engineering management", "artificial intelligence"]
 ---

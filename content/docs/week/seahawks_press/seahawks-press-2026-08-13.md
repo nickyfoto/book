@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "training camp", "aj barner", "drake thomas", "tight ends"]
 ---

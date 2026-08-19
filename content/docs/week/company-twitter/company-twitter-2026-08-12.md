@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 4
+weight: 5
 categories: ["Social Media", "Tech"]
 tags: ["consumer hardware", "autonomous agents", "venture capital", "tech infrastructure"]
 ---
