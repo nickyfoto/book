@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "software development", "cloud infrastructure", "cybersecurity"]
 ---

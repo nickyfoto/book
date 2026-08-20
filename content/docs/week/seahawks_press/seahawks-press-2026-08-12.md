@@ -1,6 +1,6 @@
 ---
 title: 2026-08-12
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "mike macdonald", "training camp", "jaxon smith-njigba", "leonard williams"]
 ---

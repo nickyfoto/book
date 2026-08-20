@@ -1,6 +1,6 @@
 ---
 title: 2026-08-15
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative ai", "llms", "wildlife", "web development"]
 ---
