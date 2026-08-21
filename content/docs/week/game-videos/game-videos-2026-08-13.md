@@ -1,6 +1,6 @@
 ---
 title: 2026-08-13
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["phantom blade zero", "steam sales", "minecraft", "game trailers"]
 ---

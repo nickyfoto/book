@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "web automation", "developer tools", "database systems", "design history"]
 ---

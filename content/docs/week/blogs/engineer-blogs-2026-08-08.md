@@ -1,6 +1,6 @@
 ---
 title: 2026-08-08
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["web development", "engineering management", "career progression", "software releases"]
 ---

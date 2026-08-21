@@ -1,6 +1,6 @@
 ---
 title: 2026-08-16
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "monetary policy", "energy markets", "private equity"]
 ---
