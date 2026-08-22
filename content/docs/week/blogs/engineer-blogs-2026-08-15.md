@@ -1,6 +1,6 @@
 ---
 title: 2026-08-15
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["rust", "concurrency", "artificial intelligence", "blogging"]
 ---
