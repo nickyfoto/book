@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["software architecture", "programming languages", "artificial intelligence", "cognitive psychology"]
 ---

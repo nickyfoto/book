@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "sandboxing", "software architecture", "developer tooling"]
 ---

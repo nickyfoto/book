@@ -1,6 +1,6 @@
 ---
 title: 2026-08-16
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "local llms", "svg", "browser tools", "***"]
 ---

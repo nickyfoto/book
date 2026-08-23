@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "youtube shorts", "short-form video", "gaming humor"]
 ---

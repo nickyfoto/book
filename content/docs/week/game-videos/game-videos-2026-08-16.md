@@ -1,6 +1,6 @@
 ---
 title: 2026-08-16
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["onimusha", "steam sales", "minecraft", "retro gaming"]
 ---

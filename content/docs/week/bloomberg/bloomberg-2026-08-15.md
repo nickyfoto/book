@@ -1,6 +1,6 @@
 ---
 title: 2026-08-15
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["global economy", "geopolitics", "corporate finance", "industrial policy"]
 ---

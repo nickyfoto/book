@@ -1,6 +1,6 @@
 ---
 title: 2026-08-17
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["geopolitics", "global markets", "artificial intelligence", "sovereign debt", "corporate finance"]
 ---

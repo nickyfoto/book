@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["bond markets", "geopolitics", "global economy", "mergers and acquisitions", "artificial intelligence"]
 ---

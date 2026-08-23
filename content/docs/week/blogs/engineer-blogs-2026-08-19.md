@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["software engineering", "generative ai", "web security", "technical communication"]
 ---
