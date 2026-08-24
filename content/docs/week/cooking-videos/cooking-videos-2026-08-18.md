@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["cooking tutorials", "traditional techniques", "food trends", "baking hacks"]
 ---

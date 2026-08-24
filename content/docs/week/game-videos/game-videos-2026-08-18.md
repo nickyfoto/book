@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["steam sale", "minecraft", "gaming deals", "video games"]
 ---

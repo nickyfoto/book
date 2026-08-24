@@ -1,6 +1,6 @@
 ---
 title: 2026-08-15
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "gaming shorts", "sandbox games", "short-form video"]
 ---

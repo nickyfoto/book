@@ -1,6 +1,6 @@
 ---
 title: 2026-08-16
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "databases", "computer hardware", "security", "open source"]
 ---

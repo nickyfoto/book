@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["browser automation", "chatbot search", "javascript runtimes", "search engine optimization"]
 ---

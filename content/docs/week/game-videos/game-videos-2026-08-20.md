@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["minecraft dungeons ii", "action-adventure", "game trailers", "pre-orders"]
 ---

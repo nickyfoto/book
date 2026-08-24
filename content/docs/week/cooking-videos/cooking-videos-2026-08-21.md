@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["shandong cuisine", "fish preparation", "home cooking", "cooking techniques"]
 ---
