@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["string formatting", "clean code", "iteration patterns", "programming idioms"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "electric vehicles", "software engineering", "geopolitics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["generative ai", "user interfaces", "python", "command line tools"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-17
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["agentic ai", "cybersecurity", "robotics", "software development", "autonomous commerce"]
 ---

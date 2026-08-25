@@ -1,6 +1,6 @@
 ---
 title: 2026-08-14
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "roster moves", "training camp", "preseason", "quarterback battle"]
 ---

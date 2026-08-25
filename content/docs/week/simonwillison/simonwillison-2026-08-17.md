@@ -1,6 +1,6 @@
 ---
 title: 2026-08-17
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "training data", "amazon", "large language models"]
 ---

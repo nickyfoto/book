@@ -1,6 +1,6 @@
 ---
 title: 2026-08-16
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "preseason football", "player interviews", "roster updates"]
 ---

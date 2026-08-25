@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 4
+weight: 5
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "fintech", "robotics", "autonomous vehicles"]
 ---

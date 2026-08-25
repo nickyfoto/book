@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["macroeconomics", "artificial intelligence", "geopolitics", "corporate finance"]
 ---

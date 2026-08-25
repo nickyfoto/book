@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["public debt", "financial markets", "artificial intelligence", "geopolitics"]
 ---
