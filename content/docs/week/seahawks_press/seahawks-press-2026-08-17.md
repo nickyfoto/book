@@ -1,6 +1,6 @@
 ---
 title: 2026-08-17
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "devon witherspoon", "mike macdonald", "nfl preseason"]
 ---

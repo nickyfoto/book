@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seahawks", "trevon diggs", "brady russell", "roster updates", "training camp"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 1
+weight: 2
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["pickling", "food science", "kitchen hacks", "bread revival"]
 ---

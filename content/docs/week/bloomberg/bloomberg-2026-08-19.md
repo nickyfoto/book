@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["macroeconomics", "monetary policy", "geopolitics", "biotechnology", "corporate earnings"]
 ---

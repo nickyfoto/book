@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["mojo", "open source", "python", "compilers", "gpu programming"]
 ---

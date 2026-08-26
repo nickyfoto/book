@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "ai economics", "anthropic fable", "model routing"]
 ---

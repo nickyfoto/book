@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "orbital compute", "autonomous vehicles", "cloud infrastructure"]
 ---
