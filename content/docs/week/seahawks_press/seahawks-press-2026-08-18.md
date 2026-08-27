@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "julian love", "grey zabel", "team culture", "training camp"]
 ---

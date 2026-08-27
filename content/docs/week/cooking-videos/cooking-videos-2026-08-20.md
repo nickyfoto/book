@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 5
+weight: 6
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["fish techniques", "matcha desserts", "food safety", "culinary business"]
 ---

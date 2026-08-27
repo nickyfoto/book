@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["consumer electronics", "artificial intelligence", "semiconductors", "chinese tech ecosystem"]
 ---

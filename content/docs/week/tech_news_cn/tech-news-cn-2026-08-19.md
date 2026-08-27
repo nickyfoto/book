@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "consumer electronics", "robotics", "geopolitics"]
 ---

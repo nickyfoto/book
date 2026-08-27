@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["rust", "artificial intelligence", "software engineering", "macos", "privacy"]
 ---

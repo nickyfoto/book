@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["trade war", "global markets", "geopolitics", "macroeconomics", "corporate finance"]
 ---

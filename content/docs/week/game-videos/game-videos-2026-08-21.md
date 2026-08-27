@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["steam deals", "video games", "game recommendations", "pc gaming"]
 ---

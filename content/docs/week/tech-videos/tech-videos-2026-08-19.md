@@ -1,6 +1,6 @@
 ---
 title: 2026-08-19
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "computer hardware", "robotics", "healthcare technology"]
 ---

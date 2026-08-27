@@ -1,6 +1,6 @@
 ---
 title: 2026-08-20
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "robotics", "venture capital", "autonomous agents"]
 ---
