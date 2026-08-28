@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["developer tools", "compilers", "static analysis", "systems engineering"]
 ---

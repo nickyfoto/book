@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["international trade", "monetary policy", "geopolitics", "financial markets"]
 ---

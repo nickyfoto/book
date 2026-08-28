@@ -1,6 +1,6 @@
 ---
 title: 2026-08-18
-weight: 6
+weight: 7
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software security", "open-weight models", "data visualization"]
 ---

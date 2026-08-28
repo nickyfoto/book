@@ -1,6 +1,6 @@
 ---
 title: 2026-08-25
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "robotics", "biotechnology", "semiconductors"]
 ---

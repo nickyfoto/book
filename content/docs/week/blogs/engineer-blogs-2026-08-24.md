@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["agentic engineering", "ai governance", "multi-agent systems", "software architecture"]
 ---

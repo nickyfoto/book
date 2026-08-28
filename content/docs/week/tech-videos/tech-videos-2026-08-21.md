@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "software engineering", "tech finance"]
 ---
