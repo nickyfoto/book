@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "defense technology", "hardware infrastructure", "electric vehicles", "software development"]
 ---

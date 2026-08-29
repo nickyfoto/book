@@ -1,6 +1,6 @@
 ---
 title: 2026-08-25
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["trade policy", "global markets", "corporate strategy", "geopolitics", "macroeconomics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-22
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["go", "concurrency", "artificial intelligence", "watermarking"]
 ---

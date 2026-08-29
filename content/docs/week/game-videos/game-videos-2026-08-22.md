@@ -1,6 +1,6 @@
 ---
 title: 2026-08-22
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "community milestone", "youtube subscribers", "gaming music"]
 ---

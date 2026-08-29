@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "semiconductors", "consumer electronics", "autonomous driving", "smart agriculture"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-22
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "developer tooling", "coding agents", "software engineering"]
 ---
