@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl training camp", "team ownership", "player injuries"]
 ---

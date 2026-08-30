@@ -1,6 +1,6 @@
 ---
 title: 2026-08-25
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "game development", "software migration", "legacy code"]
 ---

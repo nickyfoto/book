@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "robotics", "ai agents", "software development", "aerospace"]
 ---

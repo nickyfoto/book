@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "enterprise sales", "product management", "hardware infrastructure"]
 ---

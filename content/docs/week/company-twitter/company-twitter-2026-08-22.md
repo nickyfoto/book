@@ -1,6 +1,6 @@
 ---
 title: 2026-08-22
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai agents", "benchmarking", "gpu optimization"]
 ---

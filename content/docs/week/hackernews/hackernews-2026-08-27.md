@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "apple silicon", "open source", "operating systems"]
 ---

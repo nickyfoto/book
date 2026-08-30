@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl preseason", "injury updates", "drew lock", "mike macdonald"]
 ---
