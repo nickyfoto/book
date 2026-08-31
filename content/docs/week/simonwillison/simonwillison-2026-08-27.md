@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["prompt-injection", "sandboxing", "security", "claude-code", "ai-safety"]
 ---

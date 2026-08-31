@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["artificial intelligence", "monetary policy", "geopolitics", "corporate finance", "trade relations"]
 ---

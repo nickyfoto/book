@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["free games", "gaming deals", "steam playtests", "epic games store"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous driving", "venture capital", "developer tools"]
 ---

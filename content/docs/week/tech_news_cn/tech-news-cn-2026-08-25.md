@@ -1,6 +1,6 @@
 ---
 title: 2026-08-25
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "chinese tech", "consumer electronics", "software engineering"]
 ---

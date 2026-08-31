@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["duckdb", "aws", "vscode", "remote development"]
 ---

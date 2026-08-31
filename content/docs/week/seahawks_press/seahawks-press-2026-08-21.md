@@ -1,6 +1,6 @@
 ---
 title: 2026-08-21
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl preseason", "injury updates", "joint practices"]
 ---

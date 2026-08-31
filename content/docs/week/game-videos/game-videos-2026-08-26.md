@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["gadgets", "unboxing", "minecraft", "gaming"]
 ---
