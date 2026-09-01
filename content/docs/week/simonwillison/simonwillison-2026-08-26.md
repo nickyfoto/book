@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 4
+weight: 5
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "local llms", "software engineering", "mixture of experts"]
 ---

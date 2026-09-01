@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "viral memes", "short-form video", "gaming milestones"]
 ---

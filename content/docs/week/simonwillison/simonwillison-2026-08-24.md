@@ -1,6 +1,6 @@
 ---
 title: 2026-08-24
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["sqlite", "linux", "python", "ai-agents"]
 ---

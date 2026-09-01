@@ -1,6 +1,6 @@
 ---
 title: 2026-08-25
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["mortal shell 2", "soulslike", "action rpg", "gameplay review"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["venezuelan oil", "federal reserve", "trade war", "global markets", "geopolitics"]
 ---

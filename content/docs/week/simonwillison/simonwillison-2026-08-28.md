@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["cybersecurity", "coding agents", "vulnerability disclosure", "open source maintainers", "cve"]
 ---
