@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["generative video", "ai developer tools", "compute infrastructure", "humanoid robotics"]
 ---

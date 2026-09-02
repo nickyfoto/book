@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["tides of oblivion", "steam sales", "game easter eggs", "video games"]
 ---

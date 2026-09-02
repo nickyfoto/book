@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["global trade", "macroeconomics", "artificial intelligence", "geopolitics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-26
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "tech industry", "autonomous vehicles"]
 ---

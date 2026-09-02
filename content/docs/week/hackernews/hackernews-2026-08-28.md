@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["open source", "web development", "security", "ai tooling", "compilers"]
 ---
