@@ -1,0 +1,43 @@
+---
+title: Hacker News
+weight: 15
+categories: ["News", "Tech"]
+tags: ["hacker news", "artificial intelligence", "software engineering", "cybersecurity", "embedded systems"]
+---
+
+Here is today's Hacker News daily digest, curated with a sharp eye for the real technical signal over the marketing noise:
+
+# Hacker News — 2026-09-02
+
+## Top Story
+**[Bugs happen: The easy way to compare solo PQ to ECC+PQ](https://blog.cr.yp.to/20260704-bugs.html)** is today’s heavyweight technical debate, where cryptographer Daniel J. Bernstein (djb) mounts a fierce attack against the IETF and big tech’s rush to endorse pure post-quantum algorithms. Bernstein argues that dropping Elliptic Curve Cryptography (ECC) in favor of solo post-quantum schemes removes a crucial safety net against highly probable implementation bugs in immature post-quantum libraries. Given that post-quantum software is inherently complex, already prone to severe CVEs (including recent bugs in wolfSSL and RustCrypto), and that keeping ECC adds negligible performance or size overhead, throwing away the hybrid "seatbelt" is an inexcusable regression in security.
+
+## Front Page Highlights
+
+**[Three sites made 215,128 "best software" pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)** · [trellner.com](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+A damning investigation reveals that a coordinated network of three spam domains (including Gitnux and WorldMetrics) generated over 215,000 artificial "best software" category pages specifically designed to hijack the retrieval layers of AI search engines like Perplexity. These domains deliberately titled their homepages "Facts & Grounding Page" in raw metadata to target machine crawlers rather than human readers, successfully turning automated SEO-hacking into the primary evidence base for a vast share of user recommendations. This exposure pairs with a broader citation audit from `hausresearch.com` showing that **[34.7% of Perplexity's citations](https://hausresearch.com/reports/perplexity-citation-audit/)** either failed to open or contained none of the numerical facts they were cited to prove, raising serious questions about the integrity of LLM-based search.
+
+**[Firefox’s AI Switch Is Off. Telemetry Isn’t](https://marius.blog/firefox-155-ai-kill-switch-retest/)** · [marius.blog](https://marius.blog/firefox-155-ai-kill-switch-retest/)
+Retesting Firefox 155 reveals that while Mozilla's newly expanded "AI Controls" switch blocks generative UI elements like Smart Window, it does absolutely nothing to curb tracking, experiment enrollment, or background telemetry. On a fresh profile, the browser still performs 14 background telemetry POST requests while idle and resolves Temu affiliate tracking domains through DNS, proving that "blocked" does not mean private in Mozilla’s dictionary. Commenters note that the settings remain buried, pointing out a fundamental difference between a truly user-controlled, opt-in privacy model and Mozilla's current opt-out implementation.
+
+**[Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)** · [aisle.com](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
+Shortly after frontier models from OpenAI and Anthropic reported zero security findings in curl, a specialized AI vulnerability discovery pipeline named AISLE discovered 29 security issues, 6 of which were quickly designated as official low-severity CVEs by curl's security team. The breakthrough underscores a "system over model" thesis: custom-architected AI systems utilizing targeted tools consistently outperform general-purpose frontier LLMs at real-world zero-day discovery in production code. The post has ignited widespread excitement, with Linux kernel maintainer Greg Kroah-Hartman commenting that he is witnessing the exact same superior discovery pattern on stable Linux kernel code.
+
+**[AI Agents and the Refactoring That Never Happens](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)** · [rosenfeld.page](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
+A veteran developer warns of a highly insidious risk facing teams that rely heavily on AI coding agents: because agents don't suffer from human cognitive constraints, they can endlessly navigate and append to convoluted "spaghetti" codebases without getting lost. Consequently, the natural human friction point—getting lost in a messy codebase, which historically triggered a reflex to stop and refactor—is gone, leaving systems to quietly accumulate massive cognitive debt. The HN community heavily agrees, reinforcing that writing clean, modular boundaries is not just an aesthetic human preference but a solid economic choice that lowers token burn and prevents agent hallucinations.
+
+**[Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)** · [tweedegolf.nl](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+In an impressive bare-metal showdown, an engineer pitched the async Embassy framework in Rust against FreeRTOS in C on an STM32F446 microcontroller running identical workloads. To the author's shock, the async Rust implementation won in every single category: it delivered significantly lower interrupt latency (3.738µs vs 4.973µs), a tighter binary size, and much lower static memory usage. The thread is a treat for low-level developers, highlighting how async Rust’s compiler-generated state machines elegantly bypass the runtime overhead and context-switching tax of traditional preemptive RTOS threads.
+
+**[Why humanoid robots won’t catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)** · [understandingai.org](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)
+This deep dive punctures the viral hype of backflipping and sprinting humanoids by highlighting the massive bottleneck in physical manipulation and environmental generalization. While LLMs scaled rapidly by running on existing data centers, physical robots are severely restricted by the lack of training data, the inability to execute long-horizon multi-step tasks (like peeling an orange), and hardware issues like motor overheating after just 5–10 minutes of crouching. HN readers appreciate the grounded analysis, agreeing that model "intelligence" inside a virtual sandbox is a fundamentally different engineering hurdle than manipulating a complex and dynamic physical world.
+
+## Show HN & Launches
+The most entertaining release today is **[Show HN: theyfell.com](https://theyfell.com/)**, a self-aware, brutally honest AI utility that inspects your GitHub repositories and writes your startup's future obituary instead of the typical sycophantic encouraging feedback. For front-end developers and AI builders, **[WebLLM](https://github.com/mlc-ai/web-llm)** launched as a high-performance, WebGPU-accelerated engine that runs hardware-accelerated LLM inference entirely inside the browser with zero server-side support. Lastly, low-level enthusiasts should check out the release of **[Wasmi 2.0](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)**, which has been rebuilt from scratch to run WebAssembly 2.2x faster across benchmarks by utilizing direct-threaded instruction dispatch and op-code fusion.
+
+## Discussion & Debate
+The comment section on **[A Note from LWN](https://lwn.net/Articles/1090585/)** stood out as a remarkably wholesome and constructive thread regarding independent tech journalism and pricing. After readers complained that the vague title "A Note from LWN" triggered massive anxiety that the publication was shutting down or editor Jonathan Corbet's cancer had returned, Corbet immediately updated the title to "Price Increase". The thread also featured an incredibly detailed and respectful discussion about the nontrivial engineering complexities of implementing alternative payment systems like Monero for small publishing teams.
+
+***
+
+📊 Curious about the actual memory footprints and execution metrics from the bare-metal Rust vs. C showdown? We can compile a comprehensive comparison report summarizing the performance metrics, or perhaps map out the post-quantum cryptography tradeoffs in a quick study guide. Which direction makes the most sense to explore next?
