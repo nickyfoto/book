@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["factorials", "stirling's approximation", "mathematics", "estimation", "combinatorics"]
 ---

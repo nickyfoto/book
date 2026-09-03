@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 2
+weight: 3
 categories: ["Blogs"]
 tags: ["reasoning models", "autonomous agents", "pytorch", "large language models"]
 ---
