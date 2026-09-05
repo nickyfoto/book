@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "developer tools", "model context protocol", "formal verification", "inference infrastructure"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "ai infrastructure", "model alignment", "robotics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["grand theft auto vi", "playstation 5", "game trailers", "gameplay breakdowns", "minecraft"]
 ---

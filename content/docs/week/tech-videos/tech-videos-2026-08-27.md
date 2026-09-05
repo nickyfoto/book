@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["cuda optimization", "distributed inference", "agentic software engineering", "verifiable databases"]
 ---

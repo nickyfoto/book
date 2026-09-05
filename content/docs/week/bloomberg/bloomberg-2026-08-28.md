@@ -1,6 +1,6 @@
 ---
 title: 2026-08-28
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["monetary policy", "global macroeconomics", "energy markets", "geopolitics"]
 ---

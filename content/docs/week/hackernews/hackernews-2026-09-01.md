@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["software engineering", "artificial intelligence", "retro computing", "academic integrity"]
 ---

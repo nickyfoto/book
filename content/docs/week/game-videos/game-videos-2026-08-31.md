@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["the witcher 3", "gta 6", "showa american story", "gameplay impressions", "gaming news"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["cybersecurity", "data privacy", "alipay", "luxury watches", "digital lifestyle"]
 ---
