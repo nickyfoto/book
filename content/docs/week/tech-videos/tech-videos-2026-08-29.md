@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["ai agents", "distributed systems", "developer tools", "ai infrastructure", "enterprise ai"]
 ---

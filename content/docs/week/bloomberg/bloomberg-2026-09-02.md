@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["global markets", "geopolitics", "energy industry", "artificial intelligence"]
 ---

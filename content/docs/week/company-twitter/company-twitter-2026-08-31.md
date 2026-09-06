@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "cloud computing", "autonomous vehicles", "machine learning", "enterprise software"]
 ---

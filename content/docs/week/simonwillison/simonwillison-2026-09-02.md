@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["large language models", "prompt engineering", "developer tooling", "model context protocol", "software development"]
 ---

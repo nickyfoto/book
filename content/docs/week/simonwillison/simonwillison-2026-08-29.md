@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["open-weight models", "reasoning models", "tencent", "large language models"]
 ---

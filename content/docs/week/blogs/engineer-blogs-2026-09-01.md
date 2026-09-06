@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software engineering", "mathematical logic", "game theory"]
 ---

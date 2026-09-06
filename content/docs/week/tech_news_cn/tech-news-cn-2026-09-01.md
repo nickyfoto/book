@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["apple", "artificial intelligence", "autonomous driving", "climate change"]
 ---

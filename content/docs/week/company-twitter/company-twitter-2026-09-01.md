@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "agentic ai", "venture capital", "tech infrastructure"]
 ---

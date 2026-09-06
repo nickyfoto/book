@@ -1,6 +1,6 @@
 ---
 title: 2026-08-23
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "preseason football", "player injuries", "mike macdonald", "postgame press conference"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "ai-assisted programming", "opentelemetry", "testing", "conservation"]
 ---
