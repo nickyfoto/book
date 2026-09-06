@@ -1,0 +1,36 @@
+---
+title: Week 35 Summary
+weight: 1
+categories: ["Tech"]
+tags: ["video games", "gaming hardware", "movie reviews", "deals and discounts", "gaming deals", "game reviews", "movie news", "gaming news", "artificial intelligence", "industry developments", "video game reviews", "game deals", "entertainment", "grand theft auto 6", "gamescom 2026", "gta 6", "hardware"]
+---
+
+# Gaming News — Week of 2026-08-22 to 2026-08-28
+
+## Story of the Week
+Following an intense week of escalating leaks and federal subpoenas against Discord and Microsoft, Rockstar Games and Netflix blew the doors off with a 27-minute gameplay deep dive for ***Grand Theft Auto 6*** ahead of its November 19, 2026 launch. Captured directly on base PlayStation 5 hardware, the showcase revealed staggering simulation detail, an 80-hour campaign, and a map three times larger than *Red Dead Redemption 2*, featuring a Vice City twice the size of Los Santos. The crime epic has already pulled in nearly \$450 million across 4.5 million pre-orders, even as technical analysts warned that console players will be locked to a demanding 30fps presentation.
+
+## Top Stories
+**[The Witcher 3 Remastered Arrives Next Month as CD Projekt Red Dates The Witcher 4](https://www.ign.com/articles/the-witcher-3-remastered-launches-september-free-upgrade-for-all-owners)** · [IGN](https://www.ign.com/articles/the-witcher-3-remastered-launches-september-free-upgrade-for-all-owners)
+CD Projekt Red confirmed that *The Witcher 3 Remastered* launches September 29, 2026, delivering path tracing, combat refinements, and community-crafted textures via modder HalkHogan as a free upgrade for current owners across PC, consoles, and the Switch 2. Alongside the remaster, the studio revealed that *The Witcher 4* is targeting a 2028 release window. To bridge the gap, Fool's Theory is co-developing a massive standalone prologue expansion for *The Witcher 3* titled *Songs of the Past*, arriving in 2027.
+
+**[Ubisoft Reveals Rainbow Six Tactics as Gamescom Delivers Major Hands-On Previews](https://www.ign.com/articles/rainbow-six-tactics-announced-pc-ps5-xbox-series-2027)** · [IGN](https://www.ign.com/articles/rainbow-six-tactics-announced-pc-ps5-xbox-series-2027)
+Gamescom Opening Night Live was headlined by the surprise announcement of *Rainbow Six Tactics*, a single-player turn-based strategy spin-off from Ubisoft Paris featuring classic Operators, dynamic breach planning, and optional permadeath for 2027. The convention floor also gave players their first taste of *Gears of War: E-Day*, which ditches open-world zones to return Marcus and Dom to gritty, linear street combat. Meanwhile, Square Enix debuted an explosive look at *Final Fantasy VII Revelation*, teasing submarine exploration and epic Weapon battles for Spring 2027.
+
+**[Major Releases Flee Late 2026 to Escape the GTA 6 'Attention Buzz Saw'](https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6)** · [IGN](https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6)
+Publishers are clearing out of late 2026 to avoid being obliterated by Rockstar's impending juggernaut. Cloud Imperium Games officially pushed its star-studded space adventure *Squadron 42* into Q2 2027, with CEO Chris Roberts candidly admitting that no title can survive the cultural media blackout *GTA 6* will create. Similarly, Playground Games pushed its witty action-RPG *Fable* out of its intended October 2026 slot and into February 23, 2027, giving the fantasy reboot room to breathe.
+
+**[Xbox and PlayStation Diverge on Exclusives, Physical Media, and Next-Gen Hardware](https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices)** · [IGN](https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices)
+Both console giants are altering their playbooks: PlayStation is dropping multiplatform PC releases for major first-party blockbusters and phasing out physical disc production by January 2028. Xbox is taking the opposite path to win over collectors, rolling out a disc-to-digital library conversion program starting August 31. Looking ahead, Xbox CEO Asha Sharma revealed that Microsoft's upcoming "Project Helix" hardware line will not be a single traditional console, but rather a versatile family of devices built to unify PC and living-room gaming.
+
+**[Amazon and Twitch Sued in Class Action Over Default AI Training on Streamers](https://www.ign.com/articles/amazon-and-twitch-face-class-action-lawsuit-after-introducing-opt-out-setting-that-uses-streamers-content-to-train-ai)** · [IGN](https://www.ign.com/articles/amazon-and-twitch-face-class-action-lawsuit-after-introducing-opt-out-setting-that-uses-streamers-content-to-train-ai)
+Amazon and Twitch are facing a California class-action lawsuit after implementing an automatic opt-out setting that uses creators' live broadcasts and intellectual property to train internal generative AI models without compensation. The backlash intensified when Twitch Chief Product Officer Mike Minton bluntly defended the default enrollment, stating that creators simply wouldn't participate under an opt-in model. The lawsuit seeks contract damages, igniting a high-stakes legal clash over creator rights and AI data harvesting.
+
+## Free Games & Deals
+PC players can score a great zero-cost haul this week by claiming horse racing sim *Rival Stars Horse Racing: Desktop Edition* and space survival adventure *Breathedge* completely free on the Epic Games Store through September 3. Double Fine also celebrated the legacy of the late Tim Curry by giving away *Brutal Legend* on PC via itch.io for a limited 666-minute window, while existing owners of *The Witcher 3* across PC, PS5, Xbox Series X|S, and Switch 2 can mark their calendars for a 100% free Remastered upgrade on September 29. On the hardware side, bargain hunters rushed to grab refurbished Nintendo Switch 2 consoles for \$399.99 on Woot to beat Nintendo's impending September 1 price hike, while physical copies of *Final Fantasy VII Rebirth* on Switch 2 dropped to \$34.99 and *Civilization VII* plummeted to \$19.99.
+
+## Also Worth Knowing
+*   **Konami Commits to Annual *Silent Hill* Releases**: Series producer Motoi Okamoto confirmed that Konami plans to ship a new *Silent Hill* title every year, expanding into unconventional international settings like 1960s Japan in *Silent Hill f*.
+*   **Call of Duty Lands on Nintendo Hardware**: Switch 2 players received a free open beta for *Modern Warfare 4* with dedicated Joy-Con mouse and gyro support, though retail buyers must deal with a "code in a box" due to the 100GB+ file size.
+*   **Indie Solidarity at Gamescom**: Following devastating overnight equipment thefts in Cologne that hit indie studios like Ryan Laley and publisher iam8bit, CD Projekt Red and community creators stepped up immediately to donate hardware and cover replacement costs.
+*   **France and Saudi Arabia Unveil \$7B Dragon Ball Z Park**: The French government partnered with Saudi Arabia's Qiddiya project to build a sprawling anime theme park near Paris featuring 30 attractions and a 70-meter Shenron statue.
