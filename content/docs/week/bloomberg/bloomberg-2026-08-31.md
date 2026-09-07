@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["global markets", "geopolitics", "monetary policy", "technology", "commodities"]
 ---

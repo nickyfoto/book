@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["software engineering", "open source", "artificial intelligence", "computer security", "programming languages"]
 ---

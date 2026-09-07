@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "spatial intelligence", "model orchestration", "developer tools"]
 ---

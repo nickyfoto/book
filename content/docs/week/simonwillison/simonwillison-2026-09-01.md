@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "generative-ai", "developer-tools", "reverse-engineering"]
 ---

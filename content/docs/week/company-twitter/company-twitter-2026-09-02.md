@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 2
+weight: 3
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "aerospace", "biotechnology", "software engineering"]
 ---

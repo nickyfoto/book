@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "developer tools", "autonomous vehicles", "compute infrastructure"]
 ---

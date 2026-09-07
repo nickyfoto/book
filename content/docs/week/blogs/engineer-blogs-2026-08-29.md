@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 5
+weight: 6
 categories: ["Blogs"]
 tags: ["artificial intelligence", "reasoning models", "book club", "machine learning education"]
 ---

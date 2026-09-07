@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["developer tools", "artificial intelligence", "semiconductors", "mathematics"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-29
-weight: 2
+weight: 3
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "trevon diggs", "mike macdonald", "preseason finale", "roster cutdowns"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["crude oil", "monetary policy", "international trade", "artificial intelligence"]
 ---
