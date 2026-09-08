@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "robotics", "software engineering"]
 ---

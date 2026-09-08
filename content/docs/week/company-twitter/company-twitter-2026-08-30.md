@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["ai infrastructure", "venture capital", "robotics", "autonomous vehicles"]
 ---

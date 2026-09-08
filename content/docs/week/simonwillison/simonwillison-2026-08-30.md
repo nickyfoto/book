@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["chatgpt work", "openai", "code execution", "prompt injection", "headless browser"]
 ---

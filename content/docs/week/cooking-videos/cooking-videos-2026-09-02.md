@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["abalone", "curry", "chinese cooking", "food science", "seafood"]
 ---

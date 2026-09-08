@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["autonomous agents", "ai safety", "spatial intelligence", "tech infrastructure"]
 ---

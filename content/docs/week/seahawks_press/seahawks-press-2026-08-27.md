@@ -1,6 +1,6 @@
 ---
 title: 2026-08-27
-weight: 4
+weight: 5
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "leonard williams", "injury updates", "roster cuts", "mike macdonald"]
 ---
