@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["cooking techniques", "chinese cuisine", "recipe tutorials", "seafood recipes"]
 ---

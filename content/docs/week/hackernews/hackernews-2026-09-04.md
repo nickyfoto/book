@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 3
+weight: 4
 categories: ["News", "Tech"]
 tags: ["systems engineering", "artificial intelligence", "cybersecurity", "frontend development"]
 ---

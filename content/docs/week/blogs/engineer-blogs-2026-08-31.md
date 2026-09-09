@@ -1,6 +1,6 @@
 ---
 title: 2026-08-31
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["concurrency", "systems programming", "generative ai", "digital commons"]
 ---

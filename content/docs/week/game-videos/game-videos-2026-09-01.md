@@ -1,6 +1,6 @@
 ---
 title: 2026-09-01
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["free games", "game updates", "free-to-play", "digital storefronts"]
 ---
