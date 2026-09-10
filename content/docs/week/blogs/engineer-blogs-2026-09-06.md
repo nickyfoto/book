@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["webassembly", "rust", "proof of work", "compilers"]
 ---

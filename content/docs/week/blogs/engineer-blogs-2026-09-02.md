@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["software architecture", "systems programming", "code review", "artificial intelligence"]
 ---
