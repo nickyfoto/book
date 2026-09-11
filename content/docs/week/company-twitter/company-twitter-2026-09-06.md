@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "spatial intelligence", "infrastructure", "cybersecurity"]
 ---

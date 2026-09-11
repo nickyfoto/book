@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 3
+weight: 4
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "mike macdonald", "leonard williams", "aj barner", "nfl"]
 ---

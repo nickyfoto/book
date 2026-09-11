@@ -1,6 +1,6 @@
 ---
 title: 2026-09-07
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "software engineering", "webassembly", "geospatial", "web crawling"]
 ---

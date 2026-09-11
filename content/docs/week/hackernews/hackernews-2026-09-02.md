@@ -1,6 +1,6 @@
 ---
 title: 2026-09-02
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["hacker news", "artificial intelligence", "software engineering", "cybersecurity", "embedded systems"]
 ---

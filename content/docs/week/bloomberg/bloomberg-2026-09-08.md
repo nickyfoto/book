@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["geopolitics", "global markets", "international trade", "crude oil", "artificial intelligence"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["sci-fi rpg", "exodus", "minecraft", "gaming memes"]
 ---
