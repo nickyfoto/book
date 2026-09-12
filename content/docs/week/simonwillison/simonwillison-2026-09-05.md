@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 5
+weight: 6
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "3d modeling", "coding agents", "gpt-6 astra"]
 ---

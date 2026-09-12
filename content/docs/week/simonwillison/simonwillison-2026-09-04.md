@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "large language models", "open-source software"]
 ---

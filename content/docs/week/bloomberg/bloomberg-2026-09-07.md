@@ -1,6 +1,6 @@
 ---
 title: 2026-09-07
-weight: 3
+weight: 4
 categories: ["News"]
 tags: ["geopolitics", "global markets", "macroeconomics", "trade policy", "corporate finance"]
 ---

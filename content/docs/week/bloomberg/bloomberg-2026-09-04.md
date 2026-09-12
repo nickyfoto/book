@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["monetary policy", "geopolitics", "global markets", "corporate restructuring", "energy crisis"]
 ---

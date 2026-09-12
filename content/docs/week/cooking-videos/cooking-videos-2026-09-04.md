@@ -1,6 +1,6 @@
 ---
 title: 2026-09-04
-weight: 6
+weight: 7
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["octopus", "chinese cuisine", "cooking techniques", "seafood"]
 ---

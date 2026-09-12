@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 4
+weight: 5
 categories: ["News"]
 tags: ["global markets", "geopolitics", "energy industry", "trade tariffs"]
 ---

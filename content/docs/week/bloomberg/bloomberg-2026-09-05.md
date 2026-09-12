@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 5
+weight: 6
 categories: ["News"]
 tags: ["global markets", "geopolitics", "energy industry", "monetary policy"]
 ---
