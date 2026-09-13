@@ -1,0 +1,31 @@
+---
+title: Week 36 Summary
+weight: 1
+categories: ["Sports"]
+tags: ["nfl preseason", "roster cutdowns", "rookie prospects", "trades and signings", "nfl roster cuts", "2026 nfl preseason", "player trades", "backup quarterbacks", "53-man roster", "nfl trades", "rookie draft class", "free agency", "aaron donald", "2026 nfl draft", "injury updates", "quarterbacks", "nfl rosters", "roster moves", "nfl draft", "sports ownership", "nfl news", "roster cuts", "hall of fame", "stadium operations"]
+---
+
+# NFL News — Week of 2026-08-28 to 2026-09-04
+
+## Read First
+**Three-time Defensive Player of the Year Aaron Donald's shocking decision to end his retirement and rejoin the Los Angeles Rams is the single most important story of the week, instantly transforming the NFC title race.** His dramatic return coincided with the league-wide roster cutdown deadline, giving the Rams a defensive centerpiece just in time for their historic season opener in Australia.
+
+## Week in Review
+**The dominant written-news narratives this week centered on the frantic, high-stakes sprint to finalize 53-man rosters and subsequent roster management strategies as front offices transition to managing fluid, unified "70-man squads".** This period saw a flurry of pre-cut and waiver-deadline trades, with general managers actively trading away surplus players to recapture draft capital rather than losing them on the open waiver wire. Additionally, intense backup quarterback competitions and major injury adjustments across multiple contenders added significant intrigue ahead of Week 1 kickoff.
+
+## Highlights by Theme
+
+### Draft & Prospects
+**High-profile rookies dominated the preseason finales and initial roster decisions, led by No. 1 overall pick Fernando Mendoza enduring a trial by fire in Las Vegas's finale, as analyzed in [Gutierrez: The lessons, not the numbers, mattered for Fernando Mendoza](https://www.raiders.com/news/gutierrez-the-lessons-not-the-numbers-mattered-for-fernando-mendoza-2026-preseason).** In New York, rookie edge rusher David Bailey showed remarkable maturity beyond his years in [Behind the Scenes Rookie Edge David Bailey Isn’t Always 'Rookie-Like'](https://www.newyorkjets.com/news/david-bailey-making-strides-behind-the-scenes-harrison-phillips-09-02-2026), while fourth-round quarterback Cade Klubnik locked down the backup job behind Geno Smith in [Jets HC Aaron Glenn: Cade Klunbik is Our Backup Quarterback](https://www.newyorkjets.com/news/cade-klubnik-jets-backup-quarterback-aaron-glenn-08-31-2026). Other young standouts like Browns receiver KC Concepcion Jr. secured camp honors in [KC Concepcion Jr. named Maurice Bassett Award recipient](https://www.clevelandbrowns.com/news/kc-concepcion-jr-named-maurice-bassett-award-recipient), and tennis-player-turned-football-star Fernando Carmona earned a starting role detailed in [How Fernando Carmona Went From Tennis Player to Football Player to the Starting Right Guard for the Tennessee Titans](https://www.tennesseetitans.com/news/how-fernando-carmona-went-from-tennis-player-to-football-player-to-the-starting-right-guard-for-the-tennessee-titans).
+
+### Roster Moves & Free Agency
+**The pre-cut trade market and free agency period exploded with franchise-altering maneuvers, highlighted by the Baltimore Ravens making a massive financial splash with a four-year, \$112 million contract for veteran pass rusher Trey Hendrickson.** Dallas was equally aggressive, executing multiple contract restructures to finance the acquisition of former first-round offensive tackle Broderick Jones from the Steelers in a high-profile trade. Meanwhile, the Carolina Panthers shored up their defense by signing veteran linebacker Bobby Okereke, and the San Francisco 49ers bolstered their offense by locking up wide receiver Mike Evans on a three-year deal. The roster churn was felt league-wide as Tennessee unexpectedly cut quarterbacks Will Levis and Hendon Hooker, while Green Bay reshuffled its depth by trading Kyle McCord to Miami and acquiring running back Kaleb Johnson from Pittsburgh.
+
+### Team Beats
+**In Buffalo, the Bills underwent two major changes: offensive coordinator Joe Brady implemented a fullback-free, tight-end-heavy scheme, while the grounds crew executed an emergency, player-supported re-sodding of Highmark Stadium's natural grass.** Under center, Raiders head coach Klint Kubiak named Kirk Cousins the Week 1 starting quarterback over Aidan O'Connell and rookie Fernando Mendoza, and Atlanta made the rare decision to carry four quarterbacks on its active roster. Further north, the Colts showed supreme confidence in Daniel Jones as he fully recovered from his Achilles injury, while rookie Spencer Shrader officially won the kicking battle after booting multiple 60-yard preseason field goals. Meanwhile, Cleveland's defense is adopting an aggressive, turnover-focused disguise mentality under Mike Rutenberg, and Philadelphia cemented its leadership group by naming seven team captains, including newcomer Saquon Barkley.
+
+### League News & Culture
+**The Pro Football Hall of Fame announced a historic overhaul by cutting its voting panel to 25 selectors and eliminating team-writer presentations to streamline the enshrinement process.** On the cultural front, legendary members of the 1976 Oakland Raiders reunited to celebrate the 50th anniversary of their Super Bowl XI triumph, while the Eagles raised a record-breaking \$685,000 for autism research through their annual Radiothon. Off the field, the league enforced administrative discipline by placing Green Bay running back Josh Jacobs on the Commissioner's Exempt list.
+
+## Storylines to Watch
+**As the regular season begins, all eyes are on how quickly high-profile, restructured teams like Dallas and Baltimore will see championship returns on their massive pre-season investments.** Concurrently, the Rams and 49ers are set to put their early-season health and roster preparation to the test on a global stage during their historic season opener in Melbourne, Australia. Finally, the critical league-wide debate over natural grass versus artificial turf remains in sharp focus following Buffalo's emergency, unscheduled turf replacement at Highmark Stadium.
