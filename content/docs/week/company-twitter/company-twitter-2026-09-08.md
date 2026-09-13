@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "genomics", "aerospace", "software engineering"]
 ---

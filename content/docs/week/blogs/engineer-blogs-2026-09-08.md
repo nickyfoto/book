@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["artificial intelligence", "software architecture", "code verification", "technical communication", "hardware design"]
 ---

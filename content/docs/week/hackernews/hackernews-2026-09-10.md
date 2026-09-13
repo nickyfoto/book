@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "software engineering", "cryptography", "mobile development", "open source"]
 ---

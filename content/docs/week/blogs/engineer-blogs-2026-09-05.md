@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["human-computer interaction", "mental models", "api design", "software abstraction", "computational thinking"]
 ---
