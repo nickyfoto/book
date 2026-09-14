@@ -1,6 +1,6 @@
 ---
 title: 2026-09-07
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "agentic systems", "open-source ai", "hardware engineering"]
 ---

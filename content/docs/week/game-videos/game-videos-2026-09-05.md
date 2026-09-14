@@ -1,6 +1,6 @@
 ---
 title: 2026-09-05
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["grand theft auto vi", "minecraft", "gaming videos", "trailers and announcements"]
 ---

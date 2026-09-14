@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["nintendo", "legend of zelda", "steam sales", "minecraft"]
 ---

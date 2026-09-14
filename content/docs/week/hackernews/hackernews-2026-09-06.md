@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["space exploration", "open source", "privacy", "artificial intelligence", "software engineering"]
 ---

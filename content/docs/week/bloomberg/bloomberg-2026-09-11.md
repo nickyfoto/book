@@ -1,6 +1,6 @@
 ---
 title: 2026-09-11
-weight: 1
+weight: 2
 categories: ["News"]
 tags: ["inflation", "monetary policy", "geopolitics", "artificial intelligence"]
 ---

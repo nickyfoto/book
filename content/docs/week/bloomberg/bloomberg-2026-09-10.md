@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["oil prices", "interest rates", "artificial intelligence", "treasury markets"]
 ---

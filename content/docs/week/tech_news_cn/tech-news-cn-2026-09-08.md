@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 4
+weight: 5
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "smartphones", "software engineering", "geopolitics"]
 ---
