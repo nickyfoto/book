@@ -1,6 +1,6 @@
 ---
 title: 2026-09-12
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "ai agents", "developer tools", "mobile hardware", "software engineering"]
 ---

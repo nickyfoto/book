@@ -1,6 +1,6 @@
 ---
 title: 2026-09-09
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seahawks", "press conference", "injury updates", "team ownership", "artificial intelligence"]
 ---

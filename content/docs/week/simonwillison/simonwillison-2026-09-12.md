@@ -1,6 +1,6 @@
 ---
 title: 2026-09-12
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["ai agents", "cybersecurity", "software engineering", "geospatial mapping", "supply chain security"]
 ---

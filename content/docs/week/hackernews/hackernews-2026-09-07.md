@@ -1,6 +1,6 @@
 ---
 title: 2026-09-07
-weight: 6
+weight: 7
 categories: ["News", "Tech"]
 tags: ["software engineering", "artificial intelligence", "computer security", "databases"]
 ---

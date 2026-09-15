@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 3
+weight: 4
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "mobile development", "webassembly", "cybersecurity"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["free games", "game deals", "minecraft", "gaming promotions"]
 ---
