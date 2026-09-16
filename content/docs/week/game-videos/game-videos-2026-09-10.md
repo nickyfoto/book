@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["marvel's wolverine", "minecraft", "video game reviews", "game trailers"]
 ---

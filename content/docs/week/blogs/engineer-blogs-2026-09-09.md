@@ -1,6 +1,6 @@
 ---
 title: 2026-09-09
-weight: 3
+weight: 4
 categories: ["Blogs"]
 tags: ["artificial intelligence", "large language models", "social media engagement", "transformers"]
 ---

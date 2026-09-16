@@ -1,6 +1,6 @@
 ---
 title: 2026-09-08
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "open source", "developer tools", "python"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-11
-weight: 3
+weight: 4
 categories: ["Youtube", "Cooking", "Lifestyle"]
 tags: ["chinese cooking", "wok technique", "seafood", "knife skills"]
 ---

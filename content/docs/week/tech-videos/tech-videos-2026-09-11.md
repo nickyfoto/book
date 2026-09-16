@@ -1,6 +1,6 @@
 ---
 title: 2026-09-11
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "cloud infrastructure", "ai agents"]
 ---
