@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 5
+weight: 6
 categories: ["News", "Tech"]
 tags: ["apple", "artificial intelligence", "electric vehicles", "software engineering", "developer tooling"]
 ---

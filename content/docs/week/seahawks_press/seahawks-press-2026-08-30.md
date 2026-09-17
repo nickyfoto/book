@@ -1,6 +1,6 @@
 ---
 title: 2026-08-30
-weight: 6
+weight: 7
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "john schneider", "53-man roster", "injury updates"]
 ---

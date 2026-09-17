@@ -1,6 +1,6 @@
 ---
 title: 2026-09-09
-weight: 6
+weight: 7
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous agents", "ai safety", "venture capital", "defense tech"]
 ---

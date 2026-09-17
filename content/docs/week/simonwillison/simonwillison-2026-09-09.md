@@ -1,6 +1,6 @@
 ---
 title: 2026-09-09
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["3d modeling", "ai agents", "generative ai", "open science", "blender"]
 ---

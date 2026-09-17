@@ -1,6 +1,6 @@
 ---
 title: 2026-09-14
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["artificial intelligence", "engineering culture", "machine learning", "release engineering"]
 ---

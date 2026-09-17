@@ -1,6 +1,6 @@
 ---
 title: 2026-09-13
-weight: 2
+weight: 3
 categories: ["Blogs", "AI", "Tech"]
 tags: ["developer tools", "cli tools", "python", "web capture", "webp"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-09
-weight: 6
+weight: 7
 categories: ["News"]
 tags: ["crude oil", "foreign exchange", "trade war", "artificial intelligence", "central banks"]
 ---
