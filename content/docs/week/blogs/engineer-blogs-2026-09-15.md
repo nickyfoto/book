@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["technical communication", "engineering management", "software architecture", "presentations"]
 ---

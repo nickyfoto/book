@@ -1,6 +1,6 @@
 ---
 title: 2026-09-11
-weight: 5
+weight: 6
 categories: ["Youtube", "Tech"]
 tags: ["steam", "pc gaming", "game deals", "video games"]
 ---

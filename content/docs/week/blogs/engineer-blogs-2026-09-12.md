@@ -1,6 +1,6 @@
 ---
 title: 2026-09-12
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["ai safety", "regulatory capture", "artificial general intelligence", "tech economics"]
 ---

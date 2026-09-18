@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 1
+weight: 2
 categories: ["Youtube", "Tech"]
 tags: ["minecraft", "ubisoft", "video games", "gaming deals", "game trailers"]
 ---

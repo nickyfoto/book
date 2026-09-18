@@ -1,6 +1,6 @@
 ---
 title: 2026-09-14
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "byron murphy ii", "jadarian price", "nfl debut", "injury updates"]
 ---

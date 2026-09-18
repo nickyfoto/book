@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 2
+weight: 3
 categories: ["Sports", "Youtube"]
 tags: ["seahawks", "mike macdonald", "drew lock", "sam howell", "injury updates"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-10
-weight: 6
+weight: 7
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "developer tools", "software engineering", "apple", "hardware"]
 ---

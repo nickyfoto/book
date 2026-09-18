@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 1
+weight: 2
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "cybersecurity", "linux", "developer tools", "open source"]
 ---

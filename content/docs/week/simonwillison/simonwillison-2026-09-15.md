@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "gemini", "web audio api", "websockets", "ai-assisted programming"]
 ---

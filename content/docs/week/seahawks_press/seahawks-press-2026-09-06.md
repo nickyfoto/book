@@ -1,6 +1,6 @@
 ---
 title: 2026-09-06
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "nfl", "sports psychology", "play-calling"]
 ---
