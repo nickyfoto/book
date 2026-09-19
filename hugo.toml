@@ -40,3 +40,7 @@ notAlternative = true
 
 [params]
 description = 'A daily digest of technology, AI, business, sports, video, and local news.'
+
+[params.cloudflareWebAnalytics]
+# Public site token, not a Cloudflare API credential.
+token = 'f34a1580a722468488dbf3955c9f9c2c'

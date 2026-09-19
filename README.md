@@ -29,6 +29,17 @@ hugo --minify
 
 Pushing to `main` triggers `.github/workflows/deploy.yml` and deploys `public/` to GitHub Pages.
 
+## Analytics
+
+Cloudflare Web Analytics tracks page views, visits, referrers, and page performance for `macworks.dev` without analytics cookies.
+
+- [View analytics](https://dash.cloudflare.com/68d2537f29c6c8669b77f5aeb507e897/web-analytics/overview?siteTag~in=dcf4e16a3015491ea7bfe60128f0a9dd&excludeBots=Yes).
+- The public site token is configured under `[params.cloudflareWebAnalytics]` in `hugo.toml`. This is not a Cloudflare API token or secret.
+- `layouts/_partials/site/analytics.html` loads the official beacon once per HTML page, only for production builds. `hugo server` (even with `--environment production`) and non-production builds omit it.
+- Keep Cloudflare's site setting on **Enable with JS Snippet installation**, not automatic injection, to avoid duplicate tracking. No DNS or hosting change is required.
+- To disable the integration, remove or empty the site token and redeploy. To replace it, update the token and redeploy.
+- After deploying, check the browser Network panel for `beacon.min.js` and a successful RUM request. The dashboard may take a few minutes to show data; blocked scripts and bots can affect counts.
+
 ## Publishing
 
 The publisher may keep writing and rotating Markdown exactly as it does today. Permanent daily URLs depend only on the filename, so rotation does not need to rewrite front matter or maintain redirect records.
