@@ -1,6 +1,6 @@
 ---
 title: 2026-09-14
-weight: 3
+weight: 4
 categories: ["Youtube", "Tech"]
 tags: ["minecraft dungeons ii", "video game trailers", "release announcements", "pre-order bonuses"]
 ---

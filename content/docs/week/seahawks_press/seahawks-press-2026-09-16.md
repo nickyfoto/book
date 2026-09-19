@@ -1,6 +1,6 @@
 ---
 title: 2026-09-16
-weight: 1
+weight: 2
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "mike macdonald", "sam darnold", "drew lock", "nfl injuries"]
 ---

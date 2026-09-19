@@ -1,6 +1,6 @@
 ---
 title: 2026-09-16
-weight: 1
+weight: 2
 categories: ["Blogs", "AI", "Tech"]
 tags: ["artificial intelligence", "datasette", "ai agents", "software security"]
 ---

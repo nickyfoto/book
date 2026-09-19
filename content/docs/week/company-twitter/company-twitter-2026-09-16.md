@@ -1,6 +1,6 @@
 ---
 title: 2026-09-16
-weight: 1
+weight: 2
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous vehicles", "developer tools", "enterprise software"]
 ---

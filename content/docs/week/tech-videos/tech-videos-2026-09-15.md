@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 2
+weight: 3
 categories: ["Youtube", "Tech"]
 tags: ["artificial intelligence", "voice agents", "developer tools", "ai infrastructure"]
 ---

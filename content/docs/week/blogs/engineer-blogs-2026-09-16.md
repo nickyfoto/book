@@ -1,6 +1,6 @@
 ---
 title: 2026-09-16
-weight: 1
+weight: 2
 categories: ["Blogs"]
 tags: ["agentic ai", "ai safety", "software engineering", "super-persistence"]
 ---

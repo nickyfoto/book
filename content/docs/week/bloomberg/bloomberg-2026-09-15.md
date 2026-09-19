@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 2
+weight: 3
 categories: ["News"]
 tags: ["global markets", "federal reserve", "oil prices", "artificial intelligence", "geopolitics"]
 ---

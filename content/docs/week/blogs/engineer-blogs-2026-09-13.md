@@ -1,6 +1,6 @@
 ---
 title: 2026-09-13
-weight: 4
+weight: 5
 categories: ["Blogs"]
 tags: ["artificial intelligence", "reasoning models", "machine learning", "large language models"]
 ---

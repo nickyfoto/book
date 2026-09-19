@@ -1,6 +1,6 @@
 ---
 title: 2026-09-12
-weight: 5
+weight: 6
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "ai safety", "ai agents", "venture capital", "electric vehicles"]
 ---

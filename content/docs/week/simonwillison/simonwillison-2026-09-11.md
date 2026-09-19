@@ -1,6 +1,6 @@
 ---
 title: 2026-09-11
-weight: 6
+weight: 7
 categories: ["Blogs", "AI", "Tech"]
 tags: ["python", "artificial intelligence", "datasette", "software security"]
 ---

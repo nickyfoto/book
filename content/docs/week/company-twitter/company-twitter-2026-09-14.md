@@ -1,6 +1,6 @@
 ---
 title: 2026-09-14
-weight: 3
+weight: 4
 categories: ["Social Media", "Tech"]
 tags: ["artificial intelligence", "autonomous vehicles", "cloud computing", "fintech regulation", "robotics"]
 ---

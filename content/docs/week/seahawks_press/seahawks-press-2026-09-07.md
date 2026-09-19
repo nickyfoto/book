@@ -1,6 +1,6 @@
 ---
 title: 2026-09-07
-weight: 5
+weight: 6
 categories: ["Sports", "Youtube"]
 tags: ["seattle seahawks", "mike macdonald", "injury updates", "depth chart", "nfl week 1"]
 ---

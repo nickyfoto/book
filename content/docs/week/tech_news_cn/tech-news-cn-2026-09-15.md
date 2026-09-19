@@ -1,6 +1,6 @@
 ---
 title: 2026-09-15
-weight: 2
+weight: 3
 categories: ["News", "Tech"]
 tags: ["artificial intelligence", "apple", "ios 27", "software engineering"]
 ---

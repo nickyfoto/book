@@ -1,6 +1,6 @@
 ---
 title: 2026-09-13
-weight: 4
+weight: 5
 categories: ["Youtube", "Tech"]
 tags: ["software engineering", "clean code", "artificial intelligence", "ai hardware", "compute infrastructure"]
 ---
